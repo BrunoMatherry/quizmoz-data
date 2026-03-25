@@ -1,5 +1,5 @@
 {
-    "latest_version": "2.2.0",
+    "latest_version": "2.1.0",
     "force_update": false,
     "download_url": "https://playblm.com/quizmoz",
     "changelog": "- Novas classes: 1ª e 2ª Classe no Modo Iniciante\n- Sistema de estrelas melhorado baseado em acertos\n- Tela cheia otimizada\n- Classes 6, 9, 10, 12 agora exigem nível\n- Melhor desempenho no telemóvel\n- Botão Voltar inteligente\n- Correção do timer durante anúncios"
