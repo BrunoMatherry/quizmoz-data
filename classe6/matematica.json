@@ -2,7 +2,7 @@
     "c2dictionary": true,
     "data": {
         "questionCount": 120,
-        "Q_ID0": "Segundo o livro, qual é a letra romana que representa o valor 1000?",
+        "Q_ID0": "Qual é a letra romana que representa o valor 1000?",
         "A0_ID0": "M",
         "A1_ID0": "C",
         "A2_ID0": "D",
