@@ -3,7 +3,7 @@
     "data": {
         "questionCount": 120,
 
-        "Q_ID0": "Segundo o manual, o que é um conjunto?",
+        "Q_ID0": "O que é um conjunto?",
         "A0_ID0": "Uma coleção de objetos com uma propriedade comum.",
         "A1_ID0": "Um grupo de números naturais.",
         "A2_ID0": "Uma linha de pontos no plano.",
