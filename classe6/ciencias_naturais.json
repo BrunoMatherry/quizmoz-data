@@ -2,7 +2,7 @@
     "c2dictionary": true,
     "data": {
         "questionCount": 120,
-        "Q_ID0": "Segundo o caderno, como se classificam as plantas com base na altura e estrutura do caule?",
+        "Q_ID0": "Como se classificam as plantas com base na altura e estrutura do caule?",
         "A0_ID0": "Erva, arbusto e árvore",
         "A1_ID0": "Floríferas e não-floríferas",
         "A2_ID0": "Anuais e perenes",
@@ -98,7 +98,7 @@
         "S_ID11": 2,
         "txtS_ID11": "A textura do solo é determinada pela proporção de areia e argila, originando solos arenosos, argilosos ou mistos.",
 
-        "Q_ID12": "Qual destes é um factor de destruição do solo mencionado no livro?",
+        "Q_ID12": "Qual destes é um factor de destruição do solo?",
         "A0_ID12": "Reflorestamento",
         "A1_ID12": "Rotação de culturas",
         "A2_ID12": "Monocultura",
@@ -202,7 +202,7 @@
         "S_ID24": 1,
         "txtS_ID24": "No cartão de saúde, se o ponto do peso estiver abaixo da linha padrão, indica baixo peso; se estiver acima, pode indicar excesso de peso.",
 
-        "Q_ID25": "Qual doença é prevenida exclusivamente por vacinação, segundo o caderno?",
+        "Q_ID25": "Qual doença é prevenida exclusivamente por vacinação?",
         "A0_ID25": "Conjuntivite",
         "A1_ID25": "Sarampo",
         "A2_ID25": "Tétano",
