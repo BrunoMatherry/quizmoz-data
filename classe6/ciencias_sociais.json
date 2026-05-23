@@ -2,7 +2,7 @@
     "c2dictionary": true,
     "data": {
         "questionCount": 120,
-        "Q_ID0": "Segundo o livro, qual é a principal característica do globo terrestre?",
+        "Q_ID0": "Qual é a principal característica do globo terrestre?",
         "A0_ID0": "Representa a Terra numa superfície plana com muitos pormenores.",
         "A1_ID0": "Representa a Terra na sua forma esférica mais próxima do real.",
         "A2_ID0": "Permite visualizar todos os países ao mesmo tempo.",
@@ -51,7 +51,7 @@
         "A3_ID6": "Montes Drakensberg",
         "S_ID6": 1,
         "txtS_ID6": "Correto! O monte Kilimanjaro, localizado no norte da Tanzânia, é o ponto mais alto de África, com 5895 metros de altitude.",
-        "Q_ID7": "Qual destes fatores NÃO influencia o clima de África, segundo o livro?",
+        "Q_ID7": "Qual destes fatores NÃO influencia o clima de África?",
         "A0_ID7": "Latitude",
         "A1_ID7": "Altura dos edifícios",
         "A2_ID7": "Correntes Marítimas",
