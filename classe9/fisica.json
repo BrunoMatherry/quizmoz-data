@@ -477,7 +477,7 @@
         "A2_ID67": "Não, pois sua densidade é maior que 19,3 g/cm³.",
         "A3_ID67": "Sim, pois sua massa está dentro da faixa do ouro.",
         "S_ID67": 1,
-        "txtS_ID67": "A densidade calculada é ρ = m/V = 5,02 g / 0,26 cm³ ≈ 19,3 g/cm³. Portanto, a peça tem densidade igual à do ouro puro, indicando que pode ser de ouro. (Nota: O livro de atividades resolveu um exemplo semelhante e concluiu que era ouro).",
+        "txtS_ID67": "A densidade calculada é ρ = m/V = 5,02 g / 0,26 cm³ ≈ 19,3 g/cm³. Portanto, a peça tem densidade igual à do ouro puro,",
         "Q_ID68": "A força de empuxo sobre um corpo depende:",
         "A0_ID68": "Apenas do volume do corpo.",
         "A1_ID68": "Apenas da densidade do corpo.",
