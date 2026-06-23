@@ -1,82 +1,283 @@
 {
   "Nome": [
+    "Pacífico",
+    "Palmira",
+    "Palmiro",
+    "Pâmela",
+    "Pancrácio",
+    "Pantaleão",
+    "Pascoal",
+    "Pascoalina",
+    "Patrícia",
+    "Patrício",
+    "Patrocínio",
+    "Paula",
+    "Paulina",
+    "Paulo",
     "Pedro",
-    "Patrícia"
+    "Pelágio",
+    "Penélope",
+    "Pércio",
+    "Percival",
+    "Pereira",
+    "Pericles",
+    "Pérola",
+    "Perpétua",
+    "Petronila",
+    "Petronília",
+    "Piedade",
+    "Pietra",
+    "Pinto",
+    "Pio",
+    "Plácido",
+    "Plínio",
+    "Policarpa",
+    "Policarpo",
+    "Pombalina",
+    "Pompílio",
+    "Porfiria",
+    "Possidónio",
+    "Prazeres",
+    "Primitivo",
+    "Priscila",
+    "Prudêncio",
+    "Pulquéria",
+    "Pureza"
   ],
   "País": [
-    "Portugal",
+    "Países Baixos",
+    "Palau",
+    "Palestina",
+    "Panamá",
+    "Papua Nova Guiné",
+    "Paquistão",
+    "Paraguai",
     "Peru",
-    "Polónia"
+    "Polónia",
+    "Portugal"
   ],
   "Cidade": [
-    "Pemba",
-    "Porto",
+    "Palmas",
     "Paris",
-    "Pequim"
+    "Pemba",
+    "Pequim",
+    "Petrópolis",
+    "Pietermaritzburg",
+    "Ponta Delgada",
+    "Ponte de Lima",
+    "Porto",
+    "Porto Alegre",
+    "Pretória"
   ],
   "Cor": [
-    "Preto",
+    "Pardo",
+    "Pérola",
+    "Pêssego",
+    "Pimenta",
+    "Pistacho",
     "Prata",
+    "Preto",
     "Púrpura"
   ],
   "Animal": [
+    "Panda",
+    "Pantera",
     "Pato",
+    "Pavão",
+    "Peixe",
+    "Periquito",
+    "Pica-pau",
     "Pinguim",
-    "Pantera"
+    "Polvo",
+    "Pombo",
+    "Porco",
+    "Preguiça",
+    "Puma"
   ],
   "Alimento": [
     "Pão",
+    "Pão com chouriço",
+    "Papo-seco",
+    "Pastel de nata",
+    "Pêra",
+    "Pêssego",
+    "Pimenta",
     "Pipoca",
-    "Pizza"
+    "Pipocas",
+    "Pizza",
+    "Presunto",
+    "Pudim"
   ],
   "Objeto": [
-    "Prato"
+    "Palito",
+    "Panela",
+    "Papel",
+    "Parafuso",
+    "Pêndulo",
+    "Peneira",
+    "Pente",
+    "Pijama",
+    "Pincel",
+    "Pneu",
+    "Porta",
+    "Pote",
+    "Prato",
+    "Prego"
   ],
   "Profissão": [
+    "Padeiro",
+    "Palhaço",
+    "Pediatra",
+    "Pedreiro",
+    "Pescador",
+    "Piloto",
+    "Pintor",
+    "Policial",
     "Professor",
+    "Programador",
     "Psicólogo"
   ],
   "Carro": [
+    "Pagani",
+    "Palio",
+    "Passat",
+    "Pathfinder",
     "Peugeot",
-    "Porsche"
+    "Plymouth",
+    "Polo",
+    "Pontiac",
+    "Porsche",
+    "Prisma",
+    "Prius",
+    "Punto"
   ],
   "Cantor": [
-    "Phil Collins"
+    "Pabllo Vittar",
+    "Panda",
+    "Paul McCartney",
+    "Pearl Jam",
+    "Phil Collins",
+    "Pink",
+    "Pixinguinha",
+    "Post Malone",
+    "Prince",
+    "Puto Português"
   ],
   "Marca": [
-    "Pepsi"
+    "Pampers",
+    "Panasonic",
+    "Patria",
+    "Pepsi",
+    "Peugeot",
+    "Philips",
+    "Pingo Doce",
+    "Pirelli",
+    "Playstation",
+    "Porsche",
+    "Prada",
+    "Puma"
   ],
   "Filme": [
+    "Parasita",
+    "Peter Pan",
+    "Pianista",
     "Pinóquio",
+    "Piratas das Caraíbas",
+    "Poesia",
+    "Procurando Nemo",
+    "Psicose",
     "Pulp Fiction"
   ],
   "Ator": [
-    "Penélope Cruz"
+    "Paolla Oliveira",
+    "Patricia Arquette",
+    "Patricia Pillar",
+    "Patrick Swayze",
+    "Paul Walker",
+    "Paulo Gustavo",
+    "Pedro Cardoso",
+    "Penélope Cruz",
+    "Peter Sellers"
   ],
   "Novela": [
-    "Pantanal"
+    "Páginas da Vida",
+    "Pai Herói",
+    "Pantanal",
+    "Paraíso",
+    "Paraíso Tropical",
+    "Passione",
+    "Pecado Capital",
+    "Pedra sobre Pedra",
+    "Porto dos Milagres"
   ],
   "Personagem": [
-    "Peter Pan"
+    "Pateta",
+    "Pernalonga",
+    "Peter Pan",
+    "Peter Parker",
+    "Pica-Pau",
+    "Pikachu",
+    "Pluto",
+    "Po",
+    "Popeye",
+    "Porky Pig"
   ],
   "Capital": [
+    "Panamá",
+    "Paramaribo",
     "Paris",
-    "Pequim"
+    "Pequim",
+    "Porto Moresby",
+    "Porto Novo",
+    "Porto Príncipe",
+    "Praga",
+    "Praia",
+    "Pretória"
   ],
   "Música": [
-    "Pensa em Mim"
+    "Pai",
+    "País Tropical",
+    "Papa Don't Preach",
+    "Pensa em Mim",
+    "Perfect",
+    "Photograph",
+    "Pintado de Azul",
+    "Pode Chover",
+    "Purple Rain"
   ],
   "Roupa": [
+    "Paletó",
+    "Paltó",
+    "Pantufas",
+    "Parka",
+    "Pele",
+    "Penteador",
     "Pijama",
-    "Paletó"
+    "Polo",
+    "Poncho"
   ],
   "Parte do Corpo": [
+    "Pálpebra",
+    "Pâncreas",
     "Pé",
+    "Peito",
+    "Pele",
     "Perna",
-    "Pescoço"
+    "Pescoço",
+    "Próstata",
+    "Pulmão",
+    "Pulso",
+    "Pupila"
   ],
   "Instrumento": [
+    "Pan flute",
+    "Pandeireta",
+    "Pandeiro",
     "Piano",
-    "Prato"
+    "Piccolo",
+    "Pícolo",
+    "Pipiza",
+    "Prato",
+    "Pratos"
   ]
 }

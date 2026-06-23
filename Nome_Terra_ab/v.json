@@ -1,78 +1,259 @@
 {
   "Nome": [
+    "Valdemar",
+    "Valdemir",
+    "Valentim",
+    "Valentina",
+    "Valeriana",
+    "Valeriano",
+    "Valério",
+    "Valmir",
+    "Valquíria",
+    "Valter",
+    "Vanda",
+    "Vandélia",
+    "Vanderlei",
+    "Vanderleia",
+    "Vanessa",
+    "Vânia",
+    "Vanilda",
+    "Vasco",
+    "Venâncio",
+    "Venceslau",
+    "Ventura",
+    "Vera",
+    "Veridiana",
+    "Veríssimo",
+    "Verónica",
+    "Vicência",
+    "Vicente",
+    "Vicentina",
     "Victor",
-    "Vanessa"
+    "Victorino",
+    "Vigílio",
+    "Vilma",
+    "Vinício",
+    "Vinícius",
+    "Violeta",
+    "Virgílio",
+    "Virgínia",
+    "Viriato",
+    "Vítor",
+    "Vitória",
+    "Vitorino",
+    "Vivaldo",
+    "Viviane"
   ],
   "País": [
+    "Vanuatu",
+    "Vaticano",
     "Venezuela",
-    "Vietnã"
+    "Vietnã",
+    "Vietname",
+    "Volta Alta"
   ],
   "Cidade": [
-    "Vilankulo",
+    "Valência",
+    "Vancouver",
     "Veneza",
-    "Viena"
+    "Viana do Castelo",
+    "Viena",
+    "Vila de Sena",
+    "Vila do Dondo",
+    "Vila Real",
+    "Vilankulo",
+    "Viseu",
+    "Vitória"
   ],
   "Cor": [
     "Verde",
+    "Verde-alface",
+    "Verde-garrafa",
+    "Verde-lima",
+    "Verde-musgo",
     "Vermelho",
+    "Vermilion",
+    "Vinho",
     "Violeta"
   ],
   "Animal": [
-    "Veado",
     "Vaca",
-    "Víbora"
+    "Vaga-lume",
+    "Veado",
+    "Veado-catingueiro",
+    "Vespa",
+    "Víbora",
+    "Vieira",
+    "Vira-lata",
+    "Vison",
+    "Vulture"
   ],
   "Alimento": [
-    "Vagem"
+    "Vaca atolada",
+    "Vagem",
+    "Vagem cozida",
+    "Vatapá",
+    "Vermute",
+    "Vinagre",
+    "Vinho",
+    "Vitamina de abacate",
+    "Vitela",
+    "Vol-au-vent"
   ],
   "Objeto": [
+    "Vagem",
+    "Válvula",
+    "Vareta",
     "Vaso",
-    "Vela"
+    "Vassoura",
+    "Vela",
+    "Ventilador",
+    "Vestido",
+    "Videocassete",
+    "Vidro",
+    "Viga",
+    "Volante"
   ],
   "Profissão": [
-    "Veterinário"
+    "Velejador",
+    "Vendedor",
+    "Ventríloco",
+    "Vereador",
+    "Veterinário",
+    "Vidreiro",
+    "Vigilante",
+    "Violonista",
+    "Virologista",
+    "Viticultor"
   ],
   "Carro": [
+    "Vantage",
+    "Vectra",
+    "Veloster",
+    "Venza",
+    "Verna",
+    "Versa",
+    "Veyron",
+    "Vibe",
+    "Viper",
+    "Vitara",
     "Volkswagen",
     "Volvo"
   ],
   "Cantor": [
-    "Valter Artístico"
+    "Vado",
+    "Valdemar Bastos",
+    "Valter Artístico",
+    "Van Morrison",
+    "Vanessa da Mata",
+    "Vangelis",
+    "Vasco Rossi",
+    "Vazimbo",
+    "Victor & Leo",
+    "Vitor Kley"
   ],
   "Marca": [
-    "Visa"
+    "Valvoline",
+    "Vanguard",
+    "Vans",
+    "Versace",
+    "Veuve Clicquot",
+    "Victoria's Secret",
+    "Vileda",
+    "Visa",
+    "Vodacom",
+    "Volkswagen",
+    "Volvo"
   ],
   "Filme": [
-    "Velozes e Furiosos"
+    "V de Vingança",
+    "Velozes e Furiosos",
+    "Vento Soprado",
+    "Vertigo",
+    "Vidas Secas",
+    "Vingadores",
+    "Volver",
+    "Vozes"
   ],
   "Ator": [
-    "Va-teste",
-    "Ve-teste",
-    "Vo-teste"
+    "Val Kilmer",
+    "Vanessa Hudgens",
+    "Vera Fischer",
+    "Victor Fasano",
+    "Viggo Mortensen",
+    "Vin Diesel",
+    "Vincent Cassel",
+    "Viola Davis"
   ],
   "Novela": [
+    "Vale Tudo",
+    "Vamp",
+    "Velho Chico",
+    "Vereda Tropical",
+    "Vidas Opostas",
+    "Vila Madalena",
+    "Vitória",
     "Viver a Vida"
   ],
   "Personagem": [
-    "Va-teste",
-    "Ve-teste",
-    "Vo-teste"
+    "Vaca Amarela",
+    "Vaca Presépio",
+    "Vampira",
+    "Vash",
+    "Vegeta",
+    "Velma",
+    "Venom",
+    "Viúva Negra",
+    "Voldemort"
   ],
   "Capital": [
+    "Vaduz",
+    "Valeta",
+    "Varsóvia",
+    "Vaticano",
     "Viena",
-    "Vilnius"
+    "Vientiane",
+    "Vila",
+    "Vilnius",
+    "Vitória"
   ],
   "Música": [
-    "Vira-Vira"
+    "Valerie",
+    "Vento no Litoral",
+    "Vida de Gado",
+    "Vira-Vira",
+    "Viva la Vida",
+    "Vois sur ton chemin",
+    "Volare",
+    "Vou de Táxi"
   ],
   "Roupa": [
-    "Vestido"
+    "Veludo",
+    "Veste",
+    "Veste militar",
+    "Vestido",
+    "Vestuário",
+    "Véu",
+    "Viscose",
+    "Visor"
   ],
   "Parte do Corpo": [
+    "Vagina",
+    "Vaso sanguíneo",
     "Veia",
-    "Vértebra"
+    "Ventrículo",
+    "Vértebra",
+    "Vértebras",
+    "Vesícula",
+    "Vesícula biliar",
+    "Voz"
   ],
   "Instrumento": [
+    "Valiha",
+    "Vibráfone",
+    "Vihuela",
+    "Vina",
+    "Viola",
     "Violão",
     "Violino",
     "Violoncelo"

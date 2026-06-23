@@ -1,85 +1,228 @@
 {
   "Nome": [
-    "Ua-teste",
-    "Ue-teste",
-    "Uo-teste"
+    "Ualter",
+    "Ubalda",
+    "Ubaldino",
+    "Ubaldo",
+    "Ubiraci",
+    "Ubirajara",
+    "Ubiratã",
+    "Ubíratan",
+    "Uche",
+    "Ucila",
+    "Ucilena",
+    "Udilson",
+    "Udo",
+    "Uendel",
+    "Ugo",
+    "Uila",
+    "Ulcinda",
+    "Uliana",
+    "Ulisses",
+    "Umar",
+    "Umaro",
+    "Umbelina",
+    "Umbelino",
+    "Umberto",
+    "Umdemir",
+    "Undina",
+    "Undino",
+    "Urânia",
+    "Urbana",
+    "Urbano",
+    "Urias",
+    "Uriel",
+    "Urquiza",
+    "Ursula",
+    "Ussene",
+    "Uvaldo",
+    "Uwe",
+    "Uxuma"
   ],
   "País": [
-    "Uganda",
     "Ucrânia",
-    "Uruguai"
+    "Uganda",
+    "União Soviética",
+    "Uruguai",
+    "Uzbequistão"
   ],
   "Cidade": [
+    "Ubatuba",
+    "Uberaba",
+    "Uberlândia",
+    "Ufa",
+    "Ulan Bator",
     "Ulongué",
+    "Umuarama",
+    "Uppsala",
+    "Uruguaiana",
+    "Ushuaia",
     "Utrecht"
   ],
   "Cor": [
-    "Ua-teste",
-    "Ue-teste",
-    "Uo-teste"
-  ],
-  "Animal": [
-    "Urso",
-    "Urubu"
-  ],
-  "Alimento": [
+    "Uísque",
+    "Ultra violeta",
+    "Ultramar",
+    "Umbar",
+    "Umbra",
+    "Unicórnio",
+    "Urucum",
+    "Ururuca",
     "Uva"
   ],
+  "Animal": [
+    "Uaca",
+    "Unau",
+    "Unicórnio",
+    "Urial",
+    "Urso",
+    "Urso-pardo",
+    "Urso-polar",
+    "Urubu",
+    "Urutu"
+  ],
+  "Alimento": [
+    "Udon",
+    "Uiki",
+    "Umbu",
+    "Uramaki",
+    "Urucum",
+    "Uva",
+    "Uva-passa",
+    "Uvalha"
+  ],
   "Objeto": [
-    "Urna"
+    "Umidificador",
+    "Unha postiça",
+    "Unhador",
+    "Uniforme",
+    "Urinol",
+    "Urna",
+    "Urso de pelúcia",
+    "Utensílio"
   ],
   "Profissão": [
-    "Ua-teste",
-    "Ue-teste",
-    "Uo-teste"
+    "Ultra-sonografista",
+    "Unhista",
+    "Universitário",
+    "Urbanista",
+    "Urgencista",
+    "Urologista",
+    "Usineiro"
   ],
   "Carro": [
-    "Ua-teste",
-    "Ue-teste",
-    "Uo-teste"
+    "Ultima",
+    "Ulysse",
+    "Unimog",
+    "Uno",
+    "Up!",
+    "Uplander",
+    "Urban Cruiser",
+    "Urus"
   ],
   "Cantor": [
-    "Usher"
+    "U2",
+    "Uakti",
+    "UB40",
+    "Ultraje a Rigor",
+    "Umerto Tozzi",
+    "Urbanus",
+    "Usher",
+    "Ute Lemper"
   ],
   "Marca": [
-    "Unilever"
+    "Uber",
+    "Ubisoft",
+    "UGG",
+    "Umbro",
+    "Under Armour",
+    "Unilever",
+    "Uniroyal",
+    "United Airlines",
+    "Universal",
+    "Uny"
   ],
   "Filme": [
-    "Up"
+    "Ultimato",
+    "Um Dia",
+    "Um Sonho de Liberdade",
+    "Uma Mente Brilhante",
+    "Underworld",
+    "Unforgiven",
+    "Up",
+    "Up in the Air"
   ],
   "Ator": [
-    "Ua-teste",
-    "Ue-teste",
-    "Uo-teste"
+    "Ulrich Mühe",
+    "Uma Thurman",
+    "Umberto Orsini",
+    "Umberto Tozzi",
+    "Ursula Andress",
+    "Uta Hagen",
+    "Uzo Aduba"
   ],
   "Novela": [
-    "Uga Uga"
+    "Uga Uga",
+    "Última Fronteira",
+    "Um Anjo Caiu do Céu",
+    "Um Lugar ao Sol",
+    "Um Só Coração",
+    "Uma Rosa com Amor"
   ],
   "Personagem": [
-    "Ua-teste",
-    "Ue-teste",
-    "Uo-teste"
+    "Uchiha Sasuke",
+    "Ugly Betty",
+    "Ulisses",
+    "Ultraman",
+    "Umar",
+    "Ursula",
+    "Urubu",
+    "Usopp"
   ],
   "Capital": [
-    "Ua-teste",
-    "Ue-teste",
-    "Uo-teste"
+    "Uagadugu",
+    "Ulaanbaatar",
+    "Ulan Bator",
+    "Ushuaia"
   ],
   "Música": [
-    "Um Amor Puro"
+    "Últimos Dias",
+    "Um Amor Puro",
+    "Uma Noite de Amor",
+    "Umbrella",
+    "Unchained Melody",
+    "Under Pressure",
+    "Under the Bridge",
+    "Unforgettable",
+    "Use Somebody"
   ],
   "Roupa": [
-    "Ua-teste",
-    "Ue-teste",
-    "Uo-teste"
+    "Ulster",
+    "Undershirt",
+    "Underwear",
+    "Unhas decoradas",
+    "Uniforme",
+    "Unitard",
+    "Unkle boot",
+    "Ushanka hat"
   ],
   "Parte do Corpo": [
+    "Úmero",
     "Unha",
-    "Útero"
+    "Unhas",
+    "Uréter",
+    "Uretra",
+    "Útero",
+    "Uureter",
+    "Úvula"
   ],
   "Instrumento": [
-    "Ua-teste",
-    "Ue-teste",
-    "Uo-teste"
+    "Uchiwa daiko",
+    "Udu",
+    "Udu drum",
+    "Uilleann pipes",
+    "Ukulele",
+    "Upright bass",
+    "Urua"
   ]
 }

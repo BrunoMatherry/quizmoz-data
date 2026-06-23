@@ -1,78 +1,256 @@
 {
   "Nome": [
+    "Iara",
+    "Ibraim",
+    "Idacelma",
+    "Idalécio",
+    "Idália",
+    "Idalina",
+    "Idelson",
     "Igor",
-    "Isabela"
+    "Ildefonso",
+    "Ilídio",
+    "Ilka",
+    "Imaculada",
+    "Imelda",
+    "Inácio",
+    "Indalécio",
+    "Inês",
+    "Inésia",
+    "Inocêncio",
+    "Iolanda",
+    "Iracema",
+    "Iraci",
+    "Iracilda",
+    "Irene",
+    "Ireneu",
+    "Irineu",
+    "Irondina",
+    "Isaac",
+    "Isabel",
+    "Isabela",
+    "Isac",
+    "Isaías",
+    "Isaltina",
+    "Isaura",
+    "Isaurino",
+    "Isidora",
+    "Isidoro",
+    "Isidro",
+    "Ismael",
+    "Isolda",
+    "Itamar",
+    "Ivan",
+    "Ivanice",
+    "Ivanilda",
+    "Ivo",
+    "Ivone",
+    "Ivonete",
+    "Izabel"
   ],
   "País": [
-    "Itália",
+    "Iémen",
+    "Ilhas Salomão",
     "Índia",
-    "Inglaterra"
+    "Indonésia",
+    "Inglaterra",
+    "Irão",
+    "Iraque",
+    "Irlanda",
+    "Islândia",
+    "Israel",
+    "Itália"
   ],
   "Cidade": [
-    "Inhambane",
     "Ibadan",
-    "Istanbul"
+    "Ibéria",
+    "Ílhavo",
+    "Indianapolis",
+    "Inhambane",
+    "Inhaminga",
+    "Innsbruck",
+    "Ipatinga",
+    "Iquitos",
+    "Istanbul",
+    "Itajaí"
   ],
   "Cor": [
-    "Indigo"
+    "Ibérico",
+    "Ice Blue",
+    "Igreja",
+    "Imortal",
+    "Indigo",
+    "Iogurte",
+    "Iridescente",
+    "Iris",
+    "Isabel",
+    "Isabelino",
+    "Ivone",
+    "Ivory"
   ],
   "Animal": [
-    "Ia-teste",
-    "Ie-teste",
-    "Io-teste"
+    "Iaque",
+    "Ibis",
+    "Iguana",
+    "Impala",
+    "Indri",
+    "Inhambu",
+    "Inseto-folha",
+    "Irara",
+    "Irupi"
   ],
   "Alimento": [
-    "Iogurte"
+    "Ingá",
+    "Inhame",
+    "Inhame cozido",
+    "Iogurte",
+    "Iogurte grego",
+    "Ipanema",
+    "Iscas",
+    "Iscas de fígado"
   ],
   "Objeto": [
-    "Íman"
+    "Íman",
+    "Impermeável",
+    "Impressora",
+    "Inalador",
+    "Incenso",
+    "Incensório",
+    "Ingresso",
+    "Iogurteira",
+    "iPad",
+    "iPod",
+    "Isqueiro"
   ],
   "Profissão": [
-    "Ilustrador"
+    "Ilusionista",
+    "Ilustrador",
+    "Impresário",
+    "Imunologista",
+    "Informatólogo",
+    "Ingenheiro",
+    "Inspetor",
+    "Instrutor",
+    "Intérprete"
   ],
   "Carro": [
-    "Isuzu"
+    "i20",
+    "i30",
+    "Ibiza",
+    "Impreza",
+    "Infiniti",
+    "Insight",
+    "Isetta",
+    "Isuzu",
+    "Iveco"
   ],
   "Cantor": [
+    "Idris Elba",
+    "Iggy Azalea",
+    "Iggy Pop",
+    "Imagine Dragons",
+    "Imogen Heap",
+    "Ira!",
+    "Irmãos Verdades",
+    "Iron Maiden",
+    "Ismael Lô",
     "Ivete Sangalo"
   ],
   "Marca": [
     "IBM",
+    "Ikea",
+    "Illy",
+    "Imation",
+    "Indesit",
+    "Infiniti",
+    "Instagram",
     "Intel",
-    "Ikea"
+    "Ipanema",
+    "Isuzu"
   ],
   "Filme": [
+    "Ilha do Medo",
     "Inception",
-    "Interstellar"
+    "Indiana Jones",
+    "Inglourious Basterds",
+    "Interstellar",
+    "Intocáveis",
+    "Iron Man",
+    "It: A Coisa"
   ],
   "Ator": [
-    "Ian McKellen"
+    "Ian McKellen",
+    "Ian Somerhalder",
+    "Idris Elba",
+    "Ingrid Bergman",
+    "Irene Ravache",
+    "Isabel Fillardis",
+    "Isabella Rossellini"
   ],
   "Novela": [
-    "Império"
+    "I Love Paraisópolis",
+    "Ilha do Amor",
+    "Império",
+    "Indomada",
+    "Insensato Coração",
+    "Irmã Dulce",
+    "Irmãos Coragem"
   ],
   "Personagem": [
-    "Ia-teste",
-    "Ie-teste",
-    "Io-teste"
+    "Iago",
+    "Igor",
+    "Incrível Hulk",
+    "Indiana Jones",
+    "InuYasha",
+    "Irene",
+    "Iron Man",
+    "Ismaela",
+    "It"
   ],
   "Capital": [
-    "Islamabad"
+    "Ierevan",
+    "Imphal",
+    "Inglaterra",
+    "Islamabad",
+    "Ivaly"
   ],
   "Música": [
-    "Imagine"
+    "I Wanna Dance with Somebody",
+    "I Want to Break Free",
+    "I Will Always Love You",
+    "Imagine",
+    "In the End",
+    "It's My Life"
   ],
   "Roupa": [
-    "Ia-teste",
-    "Ie-teste",
-    "Io-teste"
+    "Impermeável",
+    "Indumentária",
+    "Ioiô",
+    "Iorgue",
+    "Isolante térmico",
+    "Item de couro",
+    "Izaar"
   ],
   "Parte do Corpo": [
-    "Intestino"
+    "Ílio",
+    "Incógnita",
+    "Intestino",
+    "Intestino delgado",
+    "Intestino grosso",
+    "Íris",
+    "Irmão gémeo",
+    "Ísquio",
+    "Istmo"
   ],
   "Instrumento": [
-    "Ia-teste",
-    "Ie-teste",
-    "Io-teste"
+    "Ibo",
+    "Igil",
+    "Iktara",
+    "Ili-ili",
+    "Ilim",
+    "Ilimba",
+    "Instrumento de sopro",
+    "Ipu",
+    "Irish bouzouki"
   ]
 }

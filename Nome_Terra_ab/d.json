@@ -1,80 +1,274 @@
 {
   "Nome": [
+    "Daciano",
+    "Dagmar",
+    "Dalila",
+    "Dalmiro",
+    "Damasceno",
+    "Damião",
+    "Dandara",
     "Daniel",
+    "Daniela",
+    "Danilson",
+    "Danton",
+    "Dário",
+    "David",
+    "Débora",
+    "Delfina",
+    "Delmira",
+    "Denise",
+    "Deolinda",
+    "Desidério",
+    "Deusdedit",
+    "Diamantino",
+    "Diana",
+    "Dilma",
+    "Dimas",
+    "Dinis",
+    "Dino",
+    "Dinorá",
+    "Diocleciano",
     "Diogo",
-    "Duarte"
+    "Dionísio",
+    "Dirce",
+    "Djamila",
+    "Djamilo",
+    "Dolores",
+    "Domingos",
+    "Donaldo",
+    "Donzília",
+    "Dora",
+    "Dorinda",
+    "Doroteia",
+    "Dositeu",
+    "Douglas",
+    "Duarte",
+    "Ducilene",
+    "Dulce",
+    "Dulcineia",
+    "Durval"
   ],
   "País": [
     "Dinamarca",
-    "Djibouti"
+    "Djibouti",
+    "Dominica",
+    "Dominicana, República"
   ],
   "Cidade": [
-    "Dondo",
-    "Durban",
+    "Dacar",
     "Dallas",
-    "Dublin"
+    "Dar es Salaam",
+    "Detroit",
+    "Dheli",
+    "Díli",
+    "Djuba",
+    "Dodoma",
+    "Doha",
+    "Dondo",
+    "Dresden",
+    "Dublin",
+    "Dundo",
+    "Durban"
   ],
   "Cor": [
-    "Dourado"
+    "Dálmata",
+    "Damasco",
+    "Delf",
+    "Dendê",
+    "Denim",
+    "Diamante",
+    "Doce de leite",
+    "Dourado",
+    "Duna",
+    "Durazno"
   ],
   "Animal": [
+    "Degu",
+    "Delfim",
+    "Diabo-da-tasmânia",
+    "Diabo-marinho",
+    "Dingo",
     "Dinossauro",
+    "Doninha",
+    "Dourado",
     "Dromedário"
   ],
   "Alimento": [
-    "Doce"
+    "Damasco",
+    "Danone",
+    "Dáteis",
+    "Dendê",
+    "Dobrada",
+    "Doce",
+    "Doce de coco",
+    "Doce de leite",
+    "Döner kebab",
+    "Donut",
+    "Dourada"
   ],
   "Objeto": [
     "Dado",
-    "Disco"
+    "Dardo",
+    "Dedal",
+    "Dentadura",
+    "Desodorizante",
+    "Diário",
+    "Dicionário",
+    "Dinamite",
+    "Disco",
+    "Disquete",
+    "Documento",
+    "Ducha"
   ],
   "Profissão": [
-    "Dentista"
+    "Dactilógrafo",
+    "Dançarino",
+    "Dentista",
+    "Dermatologista",
+    "Designer",
+    "Detetive",
+    "Diácono",
+    "Diplomata",
+    "Diretor",
+    "Docente",
+    "Dramaturgo"
   ],
   "Carro": [
-    "Dodge"
+    "Dacia",
+    "Daihatsu",
+    "Datsun",
+    "Defender",
+    "DeLorean",
+    "Doblo",
+    "Dodge",
+    "DS Automobiles",
+    "Duster"
   ],
   "Cantor": [
+    "Dama do Bling",
+    "David Bowie",
+    "Davido",
+    "Demi Lovato",
+    "Diana Ross",
+    "Dino D'Santiago",
+    "Djavan",
+    "Dolly Parton",
     "Drake",
-    "Dua Lipa"
+    "Dua Lipa",
+    "Duas Caras"
   ],
   "Marca": [
+    "Dacia",
+    "Danone",
+    "Datsun",
+    "Decathlon",
     "Dell",
-    "Disney"
+    "DHL",
+    "Diesel",
+    "Dior",
+    "Disney",
+    "Dolce & Gabbana",
+    "Duracell",
+    "Durex"
   ],
   "Filme": [
+    "De Volta para o Futuro",
     "Deadpool",
+    "Dirty Dancing",
+    "Divertida Mente",
+    "Django Livre",
+    "Donnie Darko",
+    "Drácula",
+    "Dumbo",
     "Duna"
   ],
   "Ator": [
+    "Daniel Craig",
+    "Daniel Radcliffe",
+    "Danny DeVito",
+    "Deborah Secco",
+    "Demi Moore",
     "Denzel Washington",
-    "Daniel Radcliffe"
+    "Diane Keaton",
+    "Drew Barrymore",
+    "Dustin Hoffman"
   ],
   "Novela": [
+    "Dancin' Days",
+    "Despedida de Solteiro",
+    "Deus Salve o Rei",
+    "Dona Anja",
+    "Dona Xepa",
     "Duas Caras"
   ],
   "Personagem": [
-    "Dracula"
+    "Daffy Duck",
+    "Darth Vader",
+    "Deadpool",
+    "Dean Winchester",
+    "Dexter",
+    "Dobby",
+    "Donald",
+    "Dora a Exploradora",
+    "Dracula",
+    "Dumbo"
   ],
   "Capital": [
-    "Dublin",
-    "Dakar"
+    "Dacar",
+    "Dakar",
+    "Damasco",
+    "Dhaka",
+    "Dili",
+    "Djibuti",
+    "Djuba",
+    "Dodoma",
+    "Doha",
+    "Dublin"
   ],
   "Música": [
-    "Despacito"
+    "Dancing Queen",
+    "Deixa a Vida Me Levar",
+    "Despacito",
+    "Dialectos de Ternura",
+    "Diamonds",
+    "Do I Wanna Know",
+    "Dont Stop Believin",
+    "Dynamite"
   ],
   "Roupa": [
-    "Da-teste",
-    "De-teste",
-    "Do-teste"
+    "Dashiki",
+    "Derby",
+    "Desportivo",
+    "Diadema",
+    "Djellaba",
+    "Dólmã",
+    "Dólman",
+    "Doudoune",
+    "Drapeado",
+    "Dueto",
+    "Dupatta"
   ],
   "Parte do Corpo": [
+    "Dedo",
+    "Dedo mindinho",
     "Dente",
-    "Dedo"
+    "Dente do siso",
+    "Derme",
+    "Diafragma",
+    "Dorsal",
+    "Duodeno"
   ],
   "Instrumento": [
-    "Da-teste",
-    "De-teste",
-    "Do-teste"
+    "Daf",
+    "Daff",
+    "Darbuka",
+    "Dholak",
+    "Dholki",
+    "Didgeridoo",
+    "Dizi",
+    "Djembé",
+    "Domra",
+    "Duduk",
+    "Dulcimer"
   ]
 }

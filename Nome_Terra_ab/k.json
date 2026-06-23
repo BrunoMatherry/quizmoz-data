@@ -1,81 +1,255 @@
 {
   "Nome": [
-    "Ka-teste",
-    "Ke-teste",
-    "Ko-teste"
+    "Kaio",
+    "Kalidasa",
+    "Kalisto",
+    "Kamil",
+    "Kamila",
+    "Kandy",
+    "Karen",
+    "Karim",
+    "Karima",
+    "Karina",
+    "Kassia",
+    "Kassimo",
+    "Kassimoto",
+    "Kátia",
+    "Kauane",
+    "Kaylee",
+    "Kebba",
+    "Keila",
+    "Kelly",
+    "Kelsia",
+    "Kelson",
+    "Kelvin",
+    "Kendra",
+    "Keneth",
+    "Kenia",
+    "Ketty",
+    "Kevin",
+    "Khalid",
+    "Khalil",
+    "Kian",
+    "Kiara",
+    "Kimani",
+    "Kimberly",
+    "Kioko",
+    "Kléber",
+    "Kleiton",
+    "Klemens",
+    "Koffi",
+    "Kofi",
+    "Korima",
+    "Kudzanai",
+    "Kudzi",
+    "Kuleni",
+    "Kwame",
+    "Kyara",
+    "Kylian"
   ],
   "País": [
+    "Kiribati",
+    "Kosovo",
     "Kuwait"
   ],
   "Cidade": [
+    "Kampala",
+    "Kano",
     "Kelimane",
+    "Kempton Park",
+    "Khartoum",
     "Kiev",
-    "Kigali"
+    "Kigali",
+    "Kingston",
+    "Kinshasa",
+    "Kismaayo",
+    "Koforidua",
+    "Kribi",
+    "Kyoto"
   ],
   "Cor": [
-    "Ka-teste",
-    "Ke-teste",
-    "Ko-teste"
+    "Kaki",
+    "Kanza",
+    "Kelly Green",
+    "Keppel",
+    "Khaki",
+    "Kobe",
+    "Kobicha",
+    "Kraft",
+    "Krypton",
+    "Kumquat"
   ],
   "Animal": [
-    "Ka-teste",
-    "Ke-teste",
-    "Ko-teste"
+    "Kangaroo",
+    "Kinkaju",
+    "Kiwi",
+    "Koala",
+    "Kookaburra",
+    "Kowari",
+    "Krill",
+    "Kudu"
   ],
   "Alimento": [
-    "Kiwi"
+    "Kani-kama",
+    "Kasser",
+    "Kebab",
+    "Ketchup",
+    "Kibe",
+    "Kimchi",
+    "Kit Kat",
+    "Kiwano",
+    "Kiwi",
+    "Kombucha",
+    "Kouign-amann"
   ],
   "Objeto": [
-    "Ka-teste",
-    "Ke-teste",
-    "Ko-teste"
+    "Kart",
+    "Kayak",
+    "Kebab skewer",
+    "Ketchup bottle",
+    "Key",
+    "Kilt",
+    "Kimono",
+    "Kindle",
+    "Kit de ferramentas",
+    "Kombi"
   ],
   "Profissão": [
-    "Ka-teste",
-    "Ke-teste",
-    "Ko-teste"
+    "Karateca",
+    "Kartista",
+    "Kayakista",
+    "Keeper",
+    "Kicker",
+    "Kinesiologista",
+    "Kinesiólogo"
   ],
   "Carro": [
-    "Kia"
+    "Ka",
+    "Kadett",
+    "Kaiser",
+    "Kia",
+    "Kizashi",
+    "Koenigsegg",
+    "Koleos",
+    "Kombi",
+    "KTM",
+    "Kuga"
   ],
   "Cantor": [
-    "Katy Perry"
+    "K'naan",
+    "Kaiser Chiefs",
+    "Kanda Bongo Man",
+    "Kanye West",
+    "Katy Perry",
+    "Kelly Key",
+    "Khalid",
+    "Kid Abelha",
+    "King Kester Emeneya",
+    "Koffi Olomide",
+    "Kygo"
   ],
   "Marca": [
-    "Kelloggs"
+    "Kahlúa",
+    "Karcher",
+    "Kawasaki",
+    "Kellogg's",
+    "Kelloggs",
+    "Kenzo",
+    "Kering",
+    "KFC",
+    "Kia",
+    "Kito",
+    "Knorr",
+    "Kobo",
+    "Kodak",
+    "Kway"
   ],
   "Filme": [
-    "King Kong"
+    "K-19",
+    "Karate Kid",
+    "Kill Bill",
+    "King Kong",
+    "Kingdom of Heaven",
+    "Kramer vs. Kramer",
+    "Kung Fu Panda"
   ],
   "Ator": [
-    "Keanu Reeves"
+    "Kate Winslet",
+    "Keanu Reeves",
+    "Keira Knightley",
+    "Kevin Bacon",
+    "Kevin Costner",
+    "Kevin Hart",
+    "Kevin Spacey",
+    "Kirk Douglas",
+    "Kristen Stewart"
   ],
   "Novela": [
+    "Kally's Mashup",
+    "Kananga do Japão",
+    "Karma",
+    "Kassandra",
     "Kubanacan"
   ],
   "Personagem": [
-    "Katniss"
+    "Kakashi",
+    "Katara",
+    "Katniss",
+    "Katniss Everdeen",
+    "Ken",
+    "Kermit",
+    "King Kong",
+    "Kirito",
+    "Kratos",
+    "Krypto",
+    "Kylo Ren"
   ],
   "Capital": [
+    "Kampala",
+    "Khartoum",
     "Kiev",
-    "Kigali"
+    "Kigali",
+    "Kingston",
+    "Kinshasa",
+    "Kuala Lumpur",
+    "Kuwait"
   ],
   "Música": [
-    "Kiss"
+    "Karma Police",
+    "Kashmir",
+    "Kids",
+    "Killing Me Softly",
+    "Kiss",
+    "Knockin' on Heaven's Door",
+    "Kokomo",
+    "Kryptonite"
   ],
   "Roupa": [
-    "Ka-teste",
-    "Ke-teste",
-    "Ko-teste"
+    "Kagoule",
+    "Kanzu",
+    "Keffiyeh",
+    "Kilt",
+    "Kimono",
+    "Kway"
   ],
   "Parte do Corpo": [
-    "Ka-teste",
-    "Ke-teste",
-    "Ko-teste"
+    "Karatina",
+    "Kera",
+    "Keratina",
+    "Keratinocytes",
+    "Kilo",
+    "Knee",
+    "Kneecap",
+    "Knuckle"
   ],
   "Instrumento": [
-    "Ka-teste",
-    "Ke-teste",
-    "Ko-teste"
+    "Kalyuka",
+    "Kaval",
+    "Kazoo",
+    "Kempul",
+    "Kettledrum",
+    "Keytar",
+    "Kora",
+    "Koto"
   ]
 }

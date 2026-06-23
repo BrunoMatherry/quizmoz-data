@@ -1,95 +1,210 @@
 {
   "Nome": [
+    "Yacine",
+    "Yago",
+    "Yakim",
+    "Yakob",
+    "Yalda",
+    "Yami",
+    "Yamina",
+    "Yanka",
+    "Yannick",
+    "Yannis",
+    "Yara",
+    "Yasmin",
+    "Yasmina",
+    "Yasmine",
+    "Yasser",
+    "Yeda",
+    "Yesenia",
+    "Ygor",
+    "Yoel",
+    "Yolanda",
+    "Yolande",
+    "Yonne",
+    "Younes",
+    "Youssef",
+    "Yris",
+    "Yuran",
     "Yuri",
-    "Yasmine"
+    "Yuri da Cunha",
+    "Yussuf",
+    "Yvete",
+    "Yvonne"
   ],
   "País": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yemen"
   ],
   "Cidade": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yamoussoukro",
+    "Yantai",
+    "Yaoundé",
+    "Yekaterinburg",
+    "Yogyakarta",
+    "Yokohama",
+    "Yola",
+    "Yopal",
+    "York",
+    "Ystad",
+    "Yuma"
   ],
   "Cor": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yale",
+    "Yam",
+    "Yellow",
+    "Yellowish",
+    "Yelmo",
+    "Yew Green",
+    "Yolanda"
   ],
   "Animal": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yabby",
+    "Yak",
+    "Yarara",
+    "Yellow jacket",
+    "Yellow mongoose",
+    "Yellowfin tuna",
+    "Yeti crab",
+    "Yorkie"
   ],
   "Alimento": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yakisoba",
+    "Yakult",
+    "Yam",
+    "Yambó",
+    "Yami",
+    "Yogurt",
+    "Yorkshire pudding",
+    "Yuzu"
   ],
   "Objeto": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yacht",
+    "Yamaha",
+    "Yardstick",
+    "Yarmulke",
+    "Yarn",
+    "Yellow pages",
+    "Yeti cooler",
+    "Yo-yo",
+    "Yoga mat"
   ],
   "Profissão": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yacht captain",
+    "Yachtsman",
+    "Yoga instructor",
+    "Yogi",
+    "Youtuber"
   ],
   "Carro": [
-    "Yamaha"
+    "Y-type",
+    "Yamaha",
+    "Yankee",
+    "Yaris",
+    "Yellow Cab",
+    "Ypsilon",
+    "Yugo",
+    "Yukon"
   ],
   "Cantor": [
-    "Yuri da Cunha"
+    "Yann Tiersen",
+    "Yanni",
+    "Yaz",
+    "Yemi Alade",
+    "Yo-Yo Ma",
+    "Yola Araujo",
+    "Yola Semedo",
+    "Youssou N'Dour",
+    "Yuri da Cunha",
+    "Yusuf Islam"
   ],
   "Marca": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yahoo!",
+    "Yamaha",
+    "Yeti",
+    "Ykk",
+    "Yoki",
+    "Yokohama",
+    "Yoplait",
+    "YouTube",
+    "Yum! Brands",
+    "Yves Saint Laurent"
   ],
   "Filme": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Y tu mamá también",
+    "Yards",
+    "Year One",
+    "Yes Man",
+    "Yesterday",
+    "Yojimbo",
+    "Yolanda",
+    "Yossi & Jagger",
+    "Young Guns"
   ],
   "Ator": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yafet Kotto",
+    "Yancy Butler",
+    "Yannick Bisson",
+    "Yaphet Kotto",
+    "Yara Shahidi",
+    "Yeardley Smith",
+    "Yul Brynner",
+    "Yvonne De Carlo",
+    "Yvonne Strahovski"
   ],
   "Novela": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yara",
+    "Yasmin",
+    "Yokas",
+    "Yolanda Lujan",
+    "Yvone"
   ],
   "Personagem": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yara",
+    "Yasuo",
+    "Yoda",
+    "Yoko Littner",
+    "Yoshi",
+    "Yu-Gi-Oh",
+    "Yugi Muto",
+    "Yzma"
   ],
   "Capital": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yamoussoukro",
+    "Yaoundé",
+    "Yaren",
+    "Yerevan"
   ],
   "Música": [
-    "Yesterday"
+    "Y.M.C.A.,",
+    "Yellow",
+    "Yesterday",
+    "You Are So Beautiful",
+    "You Need to Calm Down",
+    "You Shook Me All Night Long",
+    "Young Dumb and Broke",
+    "Your Song"
   ],
   "Roupa": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yachting jacket",
+    "Yachting shoes",
+    "Yarmulke",
+    "Yashmak",
+    "Yoga pants",
+    "Yoke",
+    "Yukata"
   ],
   "Parte do Corpo": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Ypsiloid cartilage",
+    "Ypsilóide",
+    "Ypsilon bone"
   ],
   "Instrumento": [
-    "Ya-teste",
-    "Ye-teste",
-    "Yo-teste"
+    "Yamaha keyboard",
+    "Yangqin",
+    "Yatga",
+    "Yaylı tambur",
+    "Yazheng",
+    "Yo",
+    "Yueqin"
   ]
 }

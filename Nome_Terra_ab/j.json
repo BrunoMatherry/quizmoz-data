@@ -1,76 +1,270 @@
 {
   "Nome": [
+    "Jacintha",
+    "Jacinto",
+    "Jacira",
+    "Jafar",
+    "Jaime",
+    "Jamila",
+    "Januária",
+    "Januário",
+    "Jaquelina",
+    "Jari",
+    "Jeremias",
+    "Jerónimo",
+    "Jessé",
+    "Jessica",
+    "Jesualdo",
+    "Jesuína",
+    "Jesus",
+    "Jezabel",
+    "Joana",
     "João",
+    "Joaquim",
+    "Jocélia",
+    "Jocelina",
+    "Jonas",
+    "Jordão",
+    "Jordina",
+    "Jorge",
     "José",
-    "Júlia"
+    "Josefa",
+    "Josefina",
+    "Josefino",
+    "Joseline",
+    "Josias",
+    "Josué",
+    "Jovêncio",
+    "Jucelino",
+    "Judite",
+    "Júlia",
+    "Juliana",
+    "Julieta",
+    "Júlio",
+    "Jussara",
+    "Justina",
+    "Justino",
+    "Juvenal",
+    "Juvêncio",
+    "Juvinal"
   ],
   "País": [
-    "Japão",
     "Jamaica",
+    "Japão",
+    "Jibuti",
     "Jordânia"
   ],
   "Cidade": [
-    "Joanesburgo",
+    "Jaca",
     "Jacarta",
-    "Juba"
+    "Jailo",
+    "Jerezu",
+    "Jerusalém",
+    "Jilong",
+    "Joanesburgo",
+    "Joinville",
+    "Juazeiro",
+    "Juba",
+    "Juiz de Fora",
+    "Jundiaí"
   ],
   "Cor": [
-    "Jambo"
+    "Jacarandá",
+    "Jade",
+    "Jade escuro",
+    "Jalapa",
+    "Jambo",
+    "Jambo-rosa",
+    "Jasmim",
+    "Jeans",
+    "Juba",
+    "Junípero"
   ],
   "Animal": [
+    "Jabuti",
     "Jacaré",
-    "Jaguar"
+    "Jaguaquara",
+    "Jaguar",
+    "Jandaia",
+    "Jangada",
+    "Jararaca",
+    "Javali",
+    "Joaninha",
+    "Jumenta",
+    "Jumento"
   ],
   "Alimento": [
-    "Jaca"
+    "Jaca",
+    "Jaca madura",
+    "Jambalaia",
+    "Jambo",
+    "Jamon",
+    "Jardineira",
+    "Jerimum",
+    "Jiló",
+    "Jinjinha",
+    "Jujuba"
   ],
   "Objeto": [
+    "Jacto",
+    "Jaleco",
+    "Janela",
+    "Jaqueta",
+    "Jardinagem",
     "Jarra",
-    "Janela"
+    "Javali",
+    "Joga",
+    "Jogo",
+    "Jóia",
+    "Jornal",
+    "Juba de leão",
+    "Junta"
   ],
   "Profissão": [
     "Jardineiro",
-    "Jornalista"
+    "Joalheiro",
+    "Jockey",
+    "Jogador",
+    "Jornaleiro",
+    "Jornalista",
+    "Juiz",
+    "Jurisconsulto"
   ],
   "Carro": [
+    "JAC Motors",
     "Jaguar",
-    "Jeep"
+    "Jari",
+    "Javelin",
+    "Jeep",
+    "Jetta",
+    "Jimmy",
+    "Juke"
   ],
   "Cantor": [
-    "Justin Bieber"
+    "Janis Joplin",
+    "Jethro Tull",
+    "Jimi Hendrix",
+    "Jimmy Dludlu",
+    "John Lennon",
+    "Johnny Cash",
+    "Jojó",
+    "Jorge Ben Jor",
+    "Justin Bieber",
+    "Justin Timberlake"
   ],
   "Marca": [
+    "Jack Daniel's",
+    "Jaguar",
+    "JBL",
+    "Jeep",
+    "Johnnie Walker",
+    "Johnson & Johnson",
+    "Jordan",
+    "JPMorgan",
+    "Jumia",
     "JVC"
   ],
   "Filme": [
+    "Jango",
+    "Jardim das Aflições",
+    "Jaws",
+    "Jerry Maguire",
+    "Joker",
     "Jumanji",
+    "Juno",
     "Jurassic Park"
   ],
   "Ator": [
-    "Johnny Depp"
+    "Jack Nicholson",
+    "Javier Bardem",
+    "Jennifer Aniston",
+    "Jennifer Lawrence",
+    "John Wayne",
+    "Johnny Depp",
+    "Jude Law",
+    "Julia Roberts",
+    "Juliana Paes"
   ],
   "Novela": [
-    "Jesus"
+    "Janela da Alma",
+    "Jaqueline",
+    "Jardim das Cerejas",
+    "Jesus",
+    "Jezebel",
+    "Jogo da Vida",
+    "Joia Rara",
+    "Jordão",
+    "Julieta",
+    "Juventude"
   ],
   "Personagem": [
+    "Jack Sparrow",
+    "Jafar",
+    "Jasão",
+    "Jaspion",
+    "Jean Grey",
+    "Jerry",
+    "John Snow",
+    "Johnny Bravo",
     "Joker"
   ],
   "Capital": [
-    "Jacarta"
+    "Jacarta",
+    "Jackson",
+    "Jerusalém",
+    "Jibuti",
+    "Juba",
+    "Juneau"
   ],
   "Música": [
-    "Jingle Bells"
+    "Jailhouse Rock",
+    "Je t'aime",
+    "Jeremy",
+    "Jingle Bells",
+    "Jogo do Amor",
+    "Johnny B. Goode",
+    "Jolene",
+    "Juntos e Shallow Now",
+    "Just Dance",
+    "Just Give Me a Reason",
+    "Just the Way You Are"
   ],
   "Roupa": [
+    "Jaleco",
     "Jaqueta",
-    "Jardineira"
+    "Jardineira",
+    "Jeans",
+    "Jersey",
+    "Jibão",
+    "Jiboia shirt",
+    "Joelheira",
+    "Jola",
+    "Juba",
+    "Jupon"
   ],
   "Parte do Corpo": [
-    "Joelho"
+    "Jejuno",
+    "Joanete",
+    "Joelho",
+    "Joelho da perna",
+    "Juba",
+    "Jugal",
+    "Jugular",
+    "Junta",
+    "Junta articular",
+    "Juntura"
   ],
   "Instrumento": [
-    "Ja-teste",
-    "Je-teste",
-    "Jo-teste"
+    "Jaltarang",
+    "Jangará",
+    "Jarana",
+    "Jarana huasteca",
+    "Jarra",
+    "Jawbone",
+    "Jembe",
+    "Jew's harp",
+    "Jinghu",
+    "Jingle bells",
+    "Jóia"
   ]
 }

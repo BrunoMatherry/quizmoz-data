@@ -1,74 +1,248 @@
 {
   "Nome": [
+    "Octávio",
+    "Odete",
+    "Ofélia",
+    "Olavo",
+    "Olegário",
+    "Olga",
+    "Olímpia",
+    "Olímpio",
+    "Olimpo",
+    "Olívia",
+    "Omar",
+    "Omer",
+    "Ondina",
+    "Onésimo",
+    "Orestes",
+    "Orfeu",
+    "Oriana",
+    "Oristela",
+    "Orivaldo",
+    "Orlanda",
+    "Orlando",
+    "Ornelas",
+    "Óscar",
+    "Osmundo",
+    "Osório",
+    "Osvaldina",
+    "Osvaldinha",
+    "Oswaldo",
+    "Otacílio",
+    "Otávia",
     "Otávio",
-    "Olívia"
+    "Otelo",
+    "Otilde",
+    "Otília",
+    "Ourícia",
+    "Ozelina",
+    "Ozias",
+    "Ozilda"
   ],
   "País": [
     "Omã"
   ],
   "Cidade": [
-    "Ovar",
+    "Oeiras",
+    "Olinda",
+    "Oliveira de Azeméis",
+    "Oporto",
+    "Orão",
+    "Orlando",
+    "Osaka",
     "Oslo",
-    "Orlando"
+    "Ottawa",
+    "Ouagadougou",
+    "Oulu",
+    "Ouro Preto",
+    "Ovar"
   ],
   "Cor": [
-    "Ocre"
+    "Obsidiana",
+    "Ocre",
+    "Oliva",
+    "Oliva escuro",
+    "Ônix",
+    "Opala",
+    "Opalina",
+    "Orquídea",
+    "Ostra",
+    "Ouriço",
+    "Ouro"
   ],
   "Animal": [
-    "Ovelha",
-    "Orca"
+    "Ocelote",
+    "Okapi",
+    "Orangotango",
+    "Orca",
+    "Ornitorrinco",
+    "Ostra",
+    "Ouriço",
+    "Ouriço-do-mar",
+    "Ovelha"
   ],
   "Alimento": [
-    "Ovo"
+    "Oatmeal",
+    "Oliva",
+    "Omelete",
+    "Orégão",
+    "Orelha de porco",
+    "Ostra",
+    "Ovo",
+    "Ovo de Páscoa",
+    "Ovos mexidos"
   ],
   "Objeto": [
-    "Óculos"
+    "Obelisco",
+    "Óculos",
+    "Odómetro",
+    "Ofurô",
+    "Olho mágico",
+    "Omeleteira",
+    "Oratório",
+    "Orelhão",
+    "Organizador",
+    "Ouro"
   ],
   "Profissão": [
-    "Oculista"
+    "Obstetra",
+    "Oceanógrafo",
+    "Oculista",
+    "Odorista",
+    "Oftalmologista",
+    "Ontologista",
+    "Operário",
+    "Orientador",
+    "Ortopedista",
+    "Ourives"
   ],
   "Carro": [
-    "Opel"
+    "Octavia",
+    "Oldsmobile",
+    "Omega",
+    "Onda",
+    "Onix",
+    "Opel",
+    "Optima",
+    "Orlando",
+    "Outlander"
   ],
   "Cantor": [
+    "Oasis",
+    "Oliver Mtukudzi",
+    "Olivia Rodrigo",
+    "One Direction",
+    "Os Mutantes",
+    "Oswald",
+    "Otis Redding",
+    "Oumou Sangaré",
     "Ozzy Osbourne"
   ],
   "Marca": [
-    "Oa-teste",
-    "Oe-teste",
-    "Oo-teste"
+    "Oakley",
+    "Oasis",
+    "Old Spice",
+    "Omega",
+    "Omo",
+    "Opel",
+    "Oppo",
+    "Oracle",
+    "Oreo",
+    "Osklen",
+    "Ovation"
   ],
   "Filme": [
-    "Oa-teste",
-    "Oe-teste",
-    "Oo-teste"
+    "O Chef",
+    "O Clone",
+    "O Padrinho",
+    "Oito e Meio",
+    "Oldboy",
+    "Os Imperdoáveis",
+    "Os Miseráveis",
+    "Out of Africa"
   ],
   "Ator": [
-    "Orlando Bloom"
+    "Olivia Colman",
+    "Omar Sy",
+    "Oprah Winfrey",
+    "Orlando Bloom",
+    "Orlando Drummond",
+    "Oscar Isaac",
+    "Otávio Augusto",
+    "Owen Wilson"
   ],
   "Novela": [
-    "O Clone"
+    "O Beijo do Vampiro",
+    "O Clone",
+    "O Cravo e a Rosa",
+    "O Outro Lado do Paraíso",
+    "O Profeta",
+    "O Rei do Gado",
+    "O Salvador da Pátria",
+    "Olho no Olho",
+    "Os Mutantes"
   ],
   "Personagem": [
-    "Odiseu"
+    "Obelix",
+    "Oda Nobunaga",
+    "Odiseu",
+    "Olaf",
+    "Oliver Twist",
+    "Optimus Prime",
+    "Orfeu",
+    "Oscar",
+    "Ovelha Choné"
   ],
   "Capital": [
-    "Oslo"
+    "Oranjestad",
+    "Oslo",
+    "Ottawa",
+    "Ouagadougou"
   ],
   "Música": [
-    "Oração"
+    "O Descobridor dos Sete Mares",
+    "O Vento Levou",
+    "Oceans",
+    "Oh Happy Day",
+    "On the Floor",
+    "Once Upon a Time",
+    "Onde Anda Você",
+    "One",
+    "Only You",
+    "Oração",
+    "Over the Rainbow"
   ],
   "Roupa": [
-    "Oa-teste",
-    "Oe-teste",
-    "Oo-teste"
+    "Obi",
+    "Oculos",
+    "Ombreira",
+    "Opera gloves",
+    "Orelhas de abafar",
+    "Organza",
+    "Ornato",
+    "Outwear",
+    "Overalls",
+    "Oxford"
   ],
   "Parte do Corpo": [
+    "Oesophagus",
     "Olho",
-    "Ouvido"
+    "Ombro",
+    "Orelha",
+    "Órgão",
+    "Osso",
+    "Ouriço",
+    "Ouvido",
+    "Ovario"
   ],
   "Instrumento": [
+    "Oboé",
+    "Ocarina",
+    "Octofone",
+    "Ondes Martenot",
+    "Ophicleide",
     "Órgão",
-    "Ocarina"
+    "Otamatone",
+    "Oud"
   ]
 }

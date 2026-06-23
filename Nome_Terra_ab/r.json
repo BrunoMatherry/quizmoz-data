@@ -1,81 +1,268 @@
 {
   "Nome": [
+    "Rabiatu",
     "Rafael",
+    "Raimara",
+    "Raimunda",
+    "Raimundo",
+    "Ramira",
+    "Ramiro",
+    "Raquel",
+    "Raulino",
+    "Rebeca",
+    "Reginalda",
+    "Reginaldo",
+    "Régulo",
+    "Reinaldo",
+    "Remédios",
+    "Remigio",
+    "Renata",
+    "Renato",
+    "Ribamar",
+    "Ricardina",
+    "Ricardo",
+    "Rigoberto",
+    "Rita",
+    "Roberto",
+    "Robson",
+    "Rocilda",
     "Rodrigo",
-    "Rita"
+    "Rogério",
+    "Romão",
+    "Romeu",
+    "Ronaldo",
+    "Ronilde",
+    "Rosa",
+    "Rosalina",
+    "Rosalinda",
+    "Rosário",
+    "Roselina",
+    "Rosicléia",
+    "Rosicler",
+    "Rosinda",
+    "Roxana",
+    "Rubem",
+    "Ruben",
+    "Rudolfo",
+    "Rufino",
+    "Rui",
+    "Russuel",
+    "Rute"
   ],
   "País": [
-    "Rússia",
-    "Roménia"
+    "Reino Unido",
+    "República Centro-Africana",
+    "República Checa",
+    "República Democrática do Congo",
+    "República do Congo",
+    "Roménia",
+    "Ruanda",
+    "Rússia"
   ],
   "Cidade": [
-    "Roma",
+    "Rabat",
+    "Recife",
+    "Reguengos",
+    "Reykjavík",
+    "Riad",
+    "Ribeira Grande",
+    "Ribeirão Preto",
     "Rio de Janeiro",
+    "Roma",
+    "Rosário",
     "Roterdão"
   ],
   "Cor": [
+    "Ribeira",
+    "Romã",
     "Rosa",
-    "Roxo"
+    "Rosa-choque",
+    "Rosa-velho",
+    "Roxo",
+    "Rubi",
+    "Rútilo"
   ],
   "Animal": [
+    "Rã",
+    "Ralo",
     "Raposa",
+    "Ratazana",
     "Rato",
-    "Rinoceronte"
+    "Régulo",
+    "Rêmora",
+    "Rena",
+    "Rinoceronte",
+    "Robalo",
+    "Rouxinol"
   ],
   "Alimento": [
-    "Romã"
+    "Rabanada",
+    "Rabanete",
+    "Ramen",
+    "Ravioli",
+    "Requeijão",
+    "Risoto",
+    "Rissol",
+    "Rolo de carne",
+    "Romã",
+    "Rosca",
+    "Rúcula"
   ],
   "Objeto": [
+    "Rádio",
+    "Raspador",
+    "Rastilho",
+    "Rede",
+    "Régua",
     "Relógio",
-    "Rádio"
+    "Revista",
+    "Rímel",
+    "Roda",
+    "Roda de carro",
+    "Rodo",
+    "Rolo"
   ],
   "Profissão": [
-    "Recepcionista"
+    "Radialista",
+    "Radiologista",
+    "Recepcionista",
+    "Redator",
+    "Regente",
+    "Rei",
+    "Reitor",
+    "Relojoeiro",
+    "Repórter",
+    "Roteirista"
   ],
   "Carro": [
+    "R8",
+    "Ram",
+    "Range Rover",
+    "Ranger",
+    "Rapid",
+    "Regal",
     "Renault",
-    "Rolls Royce"
+    "Rivian",
+    "Rogue",
+    "Rolls Royce",
+    "Rolls-Royce",
+    "Rover"
   ],
   "Cantor": [
+    "Radiohead",
+    "Raul Seixas",
+    "Ray Charles",
+    "Red Hot Chili Peppers",
+    "Richard Bona",
     "Rihanna",
-    "Roberto Carlos"
+    "Rita Lee",
+    "Roberto Carlos",
+    "Rod Stewart",
+    "Rui Veloso"
   ],
   "Marca": [
-    "Rolex"
+    "Ralph Lauren",
+    "Ray-Ban",
+    "Razer",
+    "Red Bull",
+    "Reebok",
+    "Renault",
+    "Repsol",
+    "Revlon",
+    "Rolex",
+    "Rolls-Royce"
   ],
   "Filme": [
     "Rambo",
-    "Ratatouille"
+    "Ratatouille",
+    "Rei Leão",
+    "Requiem for a Dream",
+    "Reservoir Dogs",
+    "Resgate do Soldado Ryan",
+    "Rocky",
+    "Roma"
   ],
   "Ator": [
+    "Reese Witherspoon",
+    "Regina Duarte",
+    "Renée Zellweger",
+    "Richard Gere",
+    "Robert De Niro",
     "Robert Downey Jr",
+    "Robin Williams",
+    "Russell Crowe",
     "Ryan Gosling"
   ],
   "Novela": [
+    "Rainha da Sucata",
     "Rebelde",
+    "Rei do Gado",
+    "Renascer",
+    "Revelação",
+    "Ribeirão do Tempo",
+    "Roda de Fogo",
     "Roque Santeiro"
   ],
   "Personagem": [
-    "Robin Hood"
+    "Rambo",
+    "Rapunzel",
+    "Remy",
+    "Riddick",
+    "Robin",
+    "Robin Hood",
+    "Ronald McDonald",
+    "Ronaldo",
+    "Rubeus Hagrid",
+    "Ryu"
   ],
   "Capital": [
+    "Rabat",
+    "Rangum",
+    "Reykjavík",
+    "Riad",
+    "Riga",
     "Roma",
-    "Riad"
+    "Roseau"
   ],
   "Música": [
-    "Roda Viva"
+    "Radio Ga Ga",
+    "Redemption Song",
+    "Reza",
+    "Rhythm of the Night",
+    "Roda Viva",
+    "Rolling in the Deep",
+    "Romaria",
+    "Roxanne"
   ],
   "Roupa": [
-    "Ra-teste",
-    "Re-teste",
-    "Ro-teste"
+    "Raglan",
+    "Rajado",
+    "Redinha",
+    "Regata",
+    "Renda",
+    "Robe",
+    "Roupa",
+    "Roupa interior",
+    "Roupão"
   ],
   "Parte do Corpo": [
-    "Rim"
+    "Rádio",
+    "Raiz do dente",
+    "Rede vascular",
+    "Retina",
+    "Reto",
+    "Rim",
+    "Rosto",
+    "Rótula"
   ],
   "Instrumento": [
-    "Ra-teste",
-    "Re-teste",
-    "Ro-teste"
+    "Rabeca",
+    "Rebab",
+    "Rebec",
+    "Reco-reco",
+    "Recorder",
+    "Rondador",
+    "Rote",
+    "Ruan"
   ]
 }

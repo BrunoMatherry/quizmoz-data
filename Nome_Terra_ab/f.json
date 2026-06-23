@@ -1,80 +1,259 @@
 {
   "Nome": [
+    "Fabiana",
+    "Fabrício",
+    "Faizal",
+    "Farida",
+    "Fátima",
+    "Faustino",
+    "Fausto",
+    "Felícia",
+    "Felicidade",
     "Felipe",
-    "Fernando"
+    "Felisberto",
+    "Felismina",
+    "Félix",
+    "Felizarda",
+    "Fernanda",
+    "Fernandina",
+    "Fernando",
+    "Fidalgo",
+    "Fidel",
+    "Filinto",
+    "Filipa",
+    "Filipe",
+    "Firmina",
+    "Firmino",
+    "Flávia",
+    "Flaviana",
+    "Florêncio",
+    "Florentina",
+    "Floriano",
+    "Florinda",
+    "Floripes",
+    "Florisbela",
+    "Fortunato",
+    "Francelina",
+    "Francelino",
+    "Francina",
+    "Francisca",
+    "Francisco",
+    "Freddy",
+    "Frederico",
+    "Froilana",
+    "Frutuoso",
+    "Fulgêncio"
   ],
   "País": [
-    "França",
+    "Fiji",
+    "Filipinas",
     "Finlândia",
-    "Filipinas"
+    "Formosa",
+    "França",
+    "Fronteira"
   ],
   "Cidade": [
     "Faro",
+    "Fátima",
+    "Fez",
+    "Fianarantsoa",
     "Florença",
-    "Frankfurt"
+    "Florianópolis",
+    "Fortaleza",
+    "Foz do Iguaçu",
+    "Francistown",
+    "Frankfurt",
+    "Freetown"
   ],
   "Cor": [
+    "Fandango",
+    "Feno",
     "Ferrugem",
-    "Fúcsia"
+    "Ferrugem-escura",
+    "Flamingo",
+    "Flerte",
+    "Fogo",
+    "Framboesa",
+    "Fúcsia",
+    "Fumo"
   ],
   "Animal": [
-    "Formiga",
+    "Faisão",
+    "Falcão",
+    "Fennec",
+    "Ferret",
+    "Flamingo",
+    "Flounder",
     "Foca",
-    "Flamingo"
+    "Formiga",
+    "Formiga-leão",
+    "Fuinha",
+    "Fura-vidas"
   ],
   "Alimento": [
+    "Farinha",
+    "Farinheira",
+    "Farofa",
     "Feijão",
+    "Feijoada",
     "Figo",
+    "Flan",
+    "Focaccia",
+    "Folar",
+    "Fondue",
+    "Framboesa",
     "Frango"
   ],
   "Objeto": [
     "Faca",
-    "Fita"
+    "Ferradura",
+    "Ferro de engomar",
+    "Filtro",
+    "Fio",
+    "Fita",
+    "Fivela",
+    "Flauta",
+    "Fogão",
+    "Folha",
+    "Fósforo",
+    "Frasco",
+    "Funil"
   ],
   "Profissão": [
     "Farmacêutico",
-    "Físico"
+    "Ferrador",
+    "Filósofo",
+    "Fiscal",
+    "Físico",
+    "Fisioterapeuta",
+    "Florista",
+    "Fotógrafo",
+    "Funileiro",
+    "Fuzileiro"
   ],
   "Carro": [
+    "F-150",
+    "Falcon",
     "Ferrari",
     "Fiat",
-    "Ford"
+    "Fiesta",
+    "Fiorino",
+    "Focus",
+    "Ford",
+    "Fuego",
+    "Fusion"
   ],
   "Cantor": [
+    "Fafá de Belém",
+    "Fany Mpfumo",
+    "Fatboy Slim",
+    "Fela Kuti",
+    "Fergie",
+    "Filipe Mukenga",
+    "Fiona Apple",
+    "Frank Ocean",
+    "Frank Sinatra",
     "Freddie Mercury"
   ],
   "Marca": [
-    "Ford"
+    "Facebook",
+    "Fanta",
+    "FedEx",
+    "Fender",
+    "Fendi",
+    "Ferrari",
+    "Fiat",
+    "Fila",
+    "Ford",
+    "Fossil",
+    "Fujifilm"
   ],
   "Filme": [
-    "Frozen"
+    "Fargo",
+    "Fast and Furious",
+    "Fight Club",
+    "Finding Nemo",
+    "Fogo contra Fogo",
+    "Forrest Gump",
+    "Frankenstein",
+    "Frozen",
+    "Furioso"
   ],
   "Ator": [
-    "Fábio Assunção"
+    "Fábio Assunção",
+    "Faye Dunaway",
+    "Fernanda Montenegro",
+    "Forest Whitaker",
+    "Francis McDormand",
+    "Frank Grillo",
+    "Fred Astaire"
   ],
   "Novela": [
-    "Fina Estampa"
+    "Favorita",
+    "Felicidade",
+    "Fera Ferida",
+    "Fera Radical",
+    "Fina Estampa",
+    "Força de um Desejo"
   ],
   "Personagem": [
+    "Fausto",
+    "Fênix",
+    "Fiona",
+    "Flash",
+    "Flounder",
+    "Frajola",
+    "Frankenstein",
+    "Fred Flintstone",
     "Frodo"
   ],
   "Capital": [
-    "Freetown"
+    "Falkland",
+    "Floriana",
+    "Fort-de-France",
+    "Freetown",
+    "Funafuti",
+    "Funchal"
   ],
   "Música": [
-    "Faroeste Caboclo"
+    "Faith",
+    "Faroeste Caboclo",
+    "Faz Gostoso",
+    "Fio de Cabelo",
+    "Firework",
+    "Fly Me to the Moon",
+    "Footloose",
+    "Free Fallin"
   ],
   "Roupa": [
-    "Fa-teste",
-    "Fe-teste",
-    "Fo-teste"
+    "Farda",
+    "Fato",
+    "Fato de banho",
+    "Fato de treino",
+    "Feltro",
+    "Fivela",
+    "Fralda",
+    "Franja"
   ],
   "Parte do Corpo": [
+    "Falange",
+    "Faringe",
+    "Fémur",
+    "Fibula",
     "Fígado",
+    "Foliculo",
+    "Fossa nasal",
     "Fronte"
   ],
   "Instrumento": [
+    "Fagote",
+    "Fiddle",
+    "Fife",
+    "Fisarmónica",
+    "Flageolet",
     "Flauta",
-    "Fagote"
+    "Flautim",
+    "Fliscorne",
+    "Fujara"
   ]
 }

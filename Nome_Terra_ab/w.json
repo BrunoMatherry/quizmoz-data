@@ -1,83 +1,236 @@
 {
   "Nome": [
-    "William"
+    "Wagner",
+    "Walda",
+    "Waldemar",
+    "Waldete",
+    "Waldir",
+    "Waldomiro",
+    "Waldyr",
+    "Walfrido",
+    "Wallace",
+    "Walquíria",
+    "Walter",
+    "Waltina",
+    "Waltrudes",
+    "Wanda",
+    "Wanderlei",
+    "Wanderley",
+    "Wanderson",
+    "Wania",
+    "Washington",
+    "Weligton",
+    "Welinton",
+    "Welton",
+    "Wenderson",
+    "Wendy",
+    "Werneck",
+    "Weronica",
+    "Wesley",
+    "Wilfredo",
+    "Wilian",
+    "Wiliete",
+    "William",
+    "Willy",
+    "Wilma",
+    "Wilmara",
+    "Wilmundo",
+    "Wilsa",
+    "Wilson",
+    "Wilton",
+    "Winfred",
+    "Winston",
+    "Wlademir",
+    "Wolfgang",
+    "Wynton"
   ],
   "País": [
-    "Wa-teste",
-    "We-teste",
-    "Wo-teste"
+    "Wallis e Futuna"
   ],
   "Cidade": [
     "Washington",
-    "Wellington"
+    "Wellington",
+    "Windhoek",
+    "Windsor",
+    "Winnipeg",
+    "Wollongong",
+    "Wolverhampton",
+    "Wuhan",
+    "Wuppertal"
   ],
   "Cor": [
-    "Wa-teste",
-    "We-teste",
-    "Wo-teste"
+    "Warm Grey",
+    "Wasabi",
+    "Watermelon",
+    "Wenge",
+    "Wheat",
+    "White Smoke",
+    "Willow",
+    "Wine",
+    "Wisteria"
   ],
   "Animal": [
+    "Wallaby",
+    "Walrus",
+    "Warthog",
+    "Water buck",
+    "Weasel",
+    "Weta",
+    "Whippet",
+    "Wildebeest",
     "Wombat"
   ],
   "Alimento": [
-    "Wafer"
+    "Wafer",
+    "Waffle",
+    "Waldorf salad",
+    "Wasabi",
+    "Watermelon",
+    "Whisky",
+    "Wok",
+    "Wonton",
+    "Wrap",
+    "Wurst"
   ],
   "Objeto": [
-    "Wa-teste",
-    "We-teste",
-    "Wo-teste"
+    "Walkie-talkie",
+    "Walkman",
+    "Water bottle",
+    "Web-cam",
+    "Wheelbarrow",
+    "Widget",
+    "Wig",
+    "Windsurf",
+    "Wok",
+    "Wrench"
   ],
   "Profissão": [
-    "Wa-teste",
-    "We-teste",
-    "Wo-teste"
+    "Waitress",
+    "Webdesigner",
+    "Webmaster",
+    "Welder",
+    "Windsurfista",
+    "Wrestler",
+    "Writer"
   ],
   "Carro": [
-    "Wa-teste",
-    "We-teste",
-    "Wo-teste"
+    "Wagon R",
+    "Wey",
+    "Willys",
+    "Wilsa",
+    "Wind",
+    "Windstar",
+    "Wolseley",
+    "Wrangler",
+    "Wuling"
   ],
   "Cantor": [
+    "Wande Coal",
+    "Wazimbo",
+    "Wendy Nazaré",
+    "Wet Bed Gang",
+    "Whitney Houston",
+    "Will.i.am",
+    "Wiz Khalifa",
+    "Wizkid",
+    "Woody Guthrie",
     "Wyclef Jean"
   ],
   "Marca": [
-    "Walmart"
+    "Walmart",
+    "Wanderer",
+    "Warner Bros",
+    "Wella",
+    "Wendy's",
+    "Western Union",
+    "WhatsApp",
+    "Whirlpool",
+    "Wikipedia",
+    "Wook",
+    "Woolworths",
+    "Wrangler"
   ],
   "Filme": [
-    "WALL-E"
+    "WALL-E",
+    "Warcraft",
+    "West Side Story",
+    "Whiplash",
+    "Wild",
+    "Wolf of Wall Street",
+    "Wolverine",
+    "Wonder Woman"
   ],
   "Ator": [
-    "Will Smith"
+    "Wesley Snipes",
+    "Whoopi Goldberg",
+    "Will Smith",
+    "Willem Dafoe",
+    "William Shatner",
+    "Winona Ryder",
+    "Woody Allen",
+    "Woody Harrelson"
   ],
   "Novela": [
-    "Wa-teste",
-    "We-teste",
-    "Wo-teste"
+    "Wando",
+    "Wild at Heart",
+    "Windeck"
   ],
   "Personagem": [
-    "Wolverine"
+    "Walter White",
+    "Wanda Maximoff",
+    "Wario",
+    "Watson",
+    "Winnie the Pooh",
+    "Wolverine",
+    "Wonder Woman",
+    "Woody"
   ],
   "Capital": [
-    "Washington"
+    "Warsaw",
+    "Washington",
+    "Wellington",
+    "Windhoek"
   ],
   "Música": [
-    "Wa-teste",
-    "We-teste",
-    "Wo-teste"
+    "Waiting on the World to Change",
+    "Waka Waka",
+    "Wake Me Up",
+    "We Are the Champions",
+    "We Will Rock You",
+    "What a Wonderful World",
+    "Wind of Change",
+    "With or Without You",
+    "Without Me",
+    "Wonderwall"
   ],
   "Roupa": [
-    "Wa-teste",
-    "We-teste",
-    "Wo-teste"
+    "Waders",
+    "Waistcoat",
+    "Wellington boots",
+    "Wetsuit",
+    "Wig",
+    "Windbreaker",
+    "Windcheater",
+    "Wrap",
+    "Wrap dress"
   ],
   "Parte do Corpo": [
-    "Wa-teste",
-    "We-teste",
-    "Wo-teste"
+    "Wernicke",
+    "Wharton duct",
+    "White blood cells",
+    "Windpipe",
+    "Womb",
+    "Wrist"
   ],
   "Instrumento": [
-    "Wa-teste",
-    "We-teste",
-    "Wo-teste"
+    "Wagner tuba",
+    "Wah-wah pedal",
+    "Washboard",
+    "Waterphone",
+    "Weymouth pipe",
+    "Whistle",
+    "Willow flute",
+    "Wind chime",
+    "Wood block"
   ]
 }

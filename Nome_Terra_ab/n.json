@@ -1,79 +1,268 @@
 {
   "Nome": [
+    "Nacir",
+    "Nádia",
+    "Nadir",
+    "Nadira",
+    "Nafissa",
+    "Naima",
+    "Nair",
+    "Napoleão",
+    "Narcisa",
+    "Narciso",
+    "Natália",
+    "Natalina",
+    "Natalino",
+    "Nataniel",
+    "Natividade",
+    "Nazaré",
+    "Nazário",
+    "Naziré",
+    "Neemias",
+    "Neide",
+    "Nelia",
+    "Nelio",
+    "Nelson",
+    "Nemésio",
+    "Nenuco",
+    "Nercina",
+    "Néria",
+    "Nestor",
+    "Neusa",
+    "Neve",
+    "Newton",
+    "Neyma",
+    "Nia",
+    "Nicodemos",
+    "Nicolau",
+    "Nicolina",
+    "Nilton",
+    "Nilza",
+    "Nivaldo",
+    "Nívea",
+    "Noé",
+    "Noémia",
+    "Noémie",
+    "Norberta",
+    "Norberto",
+    "Norma",
+    "Normélia",
+    "Nunes",
     "Nuno",
-    "Natália"
+    "Nunu",
+    "Nurdin",
+    "Nurya",
+    "Nzinga"
   ],
   "País": [
     "Namíbia",
+    "Nauru",
+    "Nepal",
+    "Nicarágua",
+    "Níger",
     "Nigéria",
     "Noruega",
     "Nova Zelândia"
   ],
   "Cidade": [
-    "Nampula",
+    "N'Djamena",
+    "Nacala",
     "Nairobi",
-    "Nova Iorque"
+    "Namaacha",
+    "Nampula",
+    "Nantes",
+    "Nápoles",
+    "Ndjola",
+    "Niamey",
+    "Nice",
+    "Nova Iorque",
+    "Nuremberga"
   ],
   "Cor": [
-    "Negro"
+    "Nácar",
+    "Naval",
+    "Negro",
+    "Néon",
+    "Neve",
+    "Nogueira",
+    "Noite",
+    "Noz-moscada",
+    "Nude",
+    "Nuvem"
   ],
   "Animal": [
     "Naja",
-    "Namorado"
+    "Namorado",
+    "Nandu",
+    "Narval",
+    "Nécora",
+    "Neon",
+    "Niala",
+    "Noitibó",
+    "Nutria"
   ],
   "Alimento": [
+    "Nabo",
+    "Nata",
+    "Nectarina",
+    "Nêspera",
+    "Nhoque",
+    "Ninho",
+    "Noodles",
+    "Nori",
+    "Noz",
     "Nozes",
-    "Nectarina"
+    "Nuggets"
   ],
   "Objeto": [
+    "Narguilé",
+    "Navalha",
     "Navio",
-    "Notebook"
+    "Necessaire",
+    "Netbook",
+    "Ninho",
+    "Nível",
+    "Notebook",
+    "Novelo",
+    "Nuvem"
   ],
   "Profissão": [
+    "Nanoterapeuta",
+    "Navegador",
+    "Necropsiador",
+    "Nefrologista",
+    "Neonatologista",
+    "Neurologista",
+    "Notário",
+    "Numismata",
     "Nutricionista"
   ],
   "Carro": [
-    "Nissan"
+    "Navajo",
+    "Navara",
+    "Neon",
+    "Nio",
+    "Nissan",
+    "Niva",
+    "Noble",
+    "Note",
+    "NX"
   ],
   "Cantor": [
-    "Nelson Ned"
+    "Nancy Sinatra",
+    "Nat King Cole",
+    "Naza",
+    "Neil Young",
+    "Nelly Furtado",
+    "Nelson Ned",
+    "Ney Matogrosso",
+    "Neyma",
+    "Nicki Minaj",
+    "Nina Simone",
+    "Nirvana"
   ],
   "Marca": [
+    "Nescafe",
+    "Nespresso",
+    "Nestle",
+    "Netflix",
     "Nike",
-    "Nestle"
+    "Nikon",
+    "Nintendo",
+    "Nissan",
+    "Nivea",
+    "Nokia"
   ],
   "Filme": [
-    "Nemo"
+    "Náufrago",
+    "Nemo",
+    "Ninfomaníaca",
+    "Noite de Crime",
+    "Nosferatu",
+    "Notebook",
+    "Notting Hill",
+    "Nove Rainhas"
   ],
   "Ator": [
+    "Naomi Campbell",
+    "Naomi Watts",
+    "Natalie Portman",
+    "Nathalia Dill",
+    "Ney Latorraca",
     "Nicolas Cage",
-    "Natalie Portman"
+    "Nicole Kidman",
+    "Norman Reedus"
   ],
   "Novela": [
+    "Nativa",
+    "Negócio da China",
+    "Ninguém como Tu",
+    "Ninho da Serpente",
+    "Ninho de Cobras",
+    "Nó Cego",
+    "Nosso Filhos",
     "Novo Mundo"
   ],
   "Personagem": [
-    "Naruto"
+    "Nala",
+    "Naruto",
+    "Ned Stark",
+    "Nemo",
+    "Neo",
+    "Neytiri",
+    "Nick Fury",
+    "Nightcrawler",
+    "Noddy"
   ],
   "Capital": [
+    "N'Djamena",
     "Nairobi",
-    "Nova Deli"
+    "Nassau",
+    "Niamey",
+    "Nicósia",
+    "Nouakchott",
+    "Nova Deli",
+    "Nuku'alofa",
+    "Nuuk"
   ],
   "Música": [
+    "Não Deixe o Samba Morrer",
+    "Natural",
+    "Ne me quitte pas",
+    "New York New York",
+    "Night Fever",
+    "Nightswimming",
+    "No Woman No Cry",
+    "Nothing Else Matters",
     "Numb"
   ],
   "Roupa": [
-    "Na-teste",
-    "Ne-teste",
-    "No-teste"
+    "Napa",
+    "Négligé",
+    "Nicho",
+    "Nó",
+    "Nuvem",
+    "Nylon",
+    "Nylon jacket"
   ],
   "Parte do Corpo": [
+    "Nádega",
+    "Narina",
     "Nariz",
+    "Neocórtex",
+    "Nervo",
+    "Nervo óptico",
+    "Nódulo",
     "Nuca"
   ],
   "Instrumento": [
-    "Na-teste",
-    "Ne-teste",
-    "No-teste"
+    "Nadaswaram",
+    "Nagara",
+    "Nai",
+    "Nakers",
+    "Naqqara",
+    "Ney",
+    "Nose flute",
+    "Nyckelharpa"
   ]
 }

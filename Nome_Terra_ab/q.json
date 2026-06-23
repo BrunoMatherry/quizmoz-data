@@ -1,88 +1,222 @@
 {
   "Nome": [
-    "Qa-teste",
-    "Qe-teste",
-    "Qo-teste"
+    "Qasba",
+    "Qualter",
+    "Quarato",
+    "Quaresma",
+    "Queila",
+    "Queiroga",
+    "Queirós",
+    "Queiroz",
+    "Quemuel",
+    "Quentina",
+    "Querubim",
+    "Querubina",
+    "Quésia",
+    "Quétia",
+    "Quiloa",
+    "Quilombo",
+    "Quim",
+    "Quincy",
+    "Quindra",
+    "Quinita",
+    "Quintalina",
+    "Quintiliano",
+    "Quintina",
+    "Quintino",
+    "Quinzinho",
+    "Quirina",
+    "Quirino",
+    "Quitéria",
+    "Quitumba",
+    "Quixote"
   ],
   "País": [
+    "Qatar",
     "Quénia",
-    "Quénia"
+    "Quirguistão",
+    "Quiribati"
   ],
   "Cidade": [
+    "Qom",
+    "Quanzhou",
+    "Quarteira",
+    "Quebec",
     "Quelimane",
+    "Queluz",
+    "Queretaro",
+    "Quetta",
+    "Quissico",
     "Quito",
-    "Quebec"
+    "Quixeramobim"
   ],
   "Cor": [
-    "Qa-teste",
-    "Qe-teste",
-    "Qo-teste"
+    "Quaresma",
+    "Quartzo",
+    "Quente",
+    "Quermes",
+    "Químico",
+    "Quinacridona",
+    "Quinze",
+    "Quitosana"
   ],
   "Animal": [
-    "Quati"
+    "Quagga",
+    "Quati",
+    "Queixada",
+    "Quelónio",
+    "Querubim",
+    "Quetzal",
+    "Quiriquiri",
+    "Quiróptero"
   ],
   "Alimento": [
+    "Queijada",
+    "Queijadinha",
     "Queijo",
-    "Quindim"
+    "Queijo de cabra",
+    "Quentão",
+    "Quiabo",
+    "Quibe",
+    "Quiche",
+    "Quindim",
+    "Quinoa",
+    "Quitute"
   ],
   "Objeto": [
-    "Quadro"
+    "Quadriciclo",
+    "Quadro",
+    "Quadros",
+    "Quartzo",
+    "Querosene",
+    "Quilate",
+    "Química",
+    "Quimono",
+    "Quinquilharia"
   ],
   "Profissão": [
-    "Químico"
+    "Quartel-mestre",
+    "Quatro-olhos",
+    "Queijeiro",
+    "Quilombola",
+    "Químico",
+    "Quintanista",
+    "Quiroprático",
+    "Quitandeiro"
   ],
   "Carro": [
-    "Qa-teste",
-    "Qe-teste",
-    "Qo-teste"
+    "Q3",
+    "Q5",
+    "Q7",
+    "Q8",
+    "Qashqai",
+    "Quattro",
+    "Quattroporte",
+    "Quoris"
   ],
   "Cantor": [
-    "Qa-teste",
-    "Qe-teste",
-    "Qo-teste"
+    "Quara",
+    "Queen",
+    "Queen Latifah",
+    "Queens of the Stone Age",
+    "Quiet Riot",
+    "Quim Barreiros",
+    "Quincy",
+    "Quincy Jones"
   ],
   "Marca": [
-    "Qa-teste",
-    "Qe-teste",
-    "Qo-teste"
+    "Qantas",
+    "Qatar Airways",
+    "Quaker",
+    "Qualcomm",
+    "Quechua",
+    "Queluz",
+    "Quick",
+    "Quiksilver",
+    "Qute"
   ],
   "Filme": [
-    "Qa-teste",
-    "Qe-teste",
-    "Qo-teste"
+    "Quarto de Jack",
+    "Quase Famosos",
+    "Quatro Casamentos e um Funeral",
+    "Queen of Katwe",
+    "Quem Quer Ser um Milionário",
+    "Querida",
+    "Quiet Place",
+    "Quo Vadis"
   ],
   "Ator": [
-    "Qa-teste",
-    "Qe-teste",
-    "Qo-teste"
+    "Quara",
+    "Queen Latifah",
+    "Quentin Tarantino",
+    "Quim Barreiros",
+    "Quincy Jones",
+    "Quinn Cummings",
+    "Quinn Shephard"
   ],
   "Novela": [
-    "Qa-teste",
-    "Qe-teste",
-    "Qo-teste"
+    "Quando Me Lembro",
+    "Quatro por Quatro",
+    "Quem é Você?",
+    "Querida Mãe",
+    "Queridas Feras",
+    "Quinze Anos"
   ],
   "Personagem": [
-    "Qa-teste",
-    "Qe-teste",
-    "Qo-teste"
+    "Quasimodo",
+    "Queen Elsa",
+    "Quentin",
+    "Querubim",
+    "Quicksilver",
+    "Quico",
+    "Quincy",
+    "Quindim"
   ],
   "Capital": [
+    "Quarto",
+    "Quebec",
+    "Quelimane",
+    "Quillota",
+    "Quirguiz",
     "Quito"
   ],
   "Música": [
-    "Querida"
+    "Quando a Chuva Passar",
+    "Quase sem Querer",
+    "Queen",
+    "Querelas do Brasil",
+    "Querida",
+    "Quero é Viver",
+    "Questions",
+    "Quiet"
   ],
   "Roupa": [
-    "Qa-teste",
-    "Qe-teste",
-    "Qo-teste"
+    "Quarter zip",
+    "Quebra-vento",
+    "Quente casaco",
+    "Quentinha",
+    "Quico",
+    "Quilted jacket",
+    "Quimono"
   ],
   "Parte do Corpo": [
-    "Quadril"
+    "Quadril",
+    "Queixada",
+    "Queixo",
+    "Quelato",
+    "Queratina",
+    "Quiasma óptico",
+    "Quimo",
+    "Quinto dedo"
   ],
   "Instrumento": [
-    "Qa-teste",
-    "Qe-teste",
-    "Qo-teste"
+    "Qanun",
+    "Qin",
+    "Quena",
+    "Quena andina",
+    "Quijada",
+    "Quinterna",
+    "Quintofone",
+    "Quinton"
   ]
 }

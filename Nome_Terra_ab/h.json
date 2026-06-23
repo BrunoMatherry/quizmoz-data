@@ -1,79 +1,245 @@
 {
   "Nome": [
+    "Hadija",
+    "Halima",
+    "Hamilcar",
+    "Hamilton",
+    "Harun",
+    "Hassan",
+    "Heitor",
+    "Helena",
+    "Hélia",
+    "Hélio",
+    "Heliodoro",
+    "Henrique",
+    "Henriqueta",
+    "Hercília",
+    "Herculano",
+    "Herculina",
+    "Hermano",
+    "Hermenegildo",
+    "Hermínia",
+    "Hermínio",
+    "Higino",
+    "Hilária",
+    "Hilário",
+    "Hilda",
+    "Hildegard",
+    "Hipólito",
+    "Honorato",
+    "Honório",
+    "Horácio",
+    "Hortense",
+    "Hortênsia",
+    "Hortenso",
+    "Hosana",
     "Hugo",
-    "Helena"
+    "Humbertina",
+    "Humberto"
   ],
   "País": [
+    "Haiti",
+    "Herzegovina",
     "Holanda",
     "Honduras",
-    "Hungria",
-    "Honduras"
+    "Hungria"
   ],
   "Cidade": [
-    "Ha-teste",
-    "He-teste",
-    "Ho-teste"
+    "Hamburgo",
+    "Hanoi",
+    "Harare",
+    "Havana",
+    "Helsínquia",
+    "Hiroshima",
+    "Horta",
+    "Houston",
+    "Humpata",
+    "Hwange",
+    "Hyderabad"
   ],
   "Cor": [
-    "Ha-teste",
-    "He-teste",
-    "Ho-teste"
+    "Havana",
+    "Heliotrópio",
+    "Henna",
+    "Hera",
+    "Herbal",
+    "Hibisco",
+    "Hollyhock",
+    "Hortênsia",
+    "Hot Pink"
   ],
   "Animal": [
+    "Haddock",
+    "Hamster",
+    "Harpia",
+    "Hermit",
+    "Híbrido",
+    "Hiena",
     "Hipopótamo",
-    "Hiena"
+    "Hírax"
   ],
   "Alimento": [
-    "Hambúrguer"
+    "Hadoque",
+    "Halva",
+    "Hambúrguer",
+    "Haxixe",
+    "Hortaliça",
+    "Hortelã",
+    "Hóstia",
+    "Hot-dog"
   ],
   "Objeto": [
-    "Harpa"
+    "Haltere",
+    "Harpa",
+    "Haste",
+    "Haste de metal",
+    "Hectógrafo",
+    "Hélice",
+    "Heliógrafo",
+    "Hidrante",
+    "Hinário"
   ],
   "Profissão": [
-    "Historiador"
+    "Harpista",
+    "Hematologista",
+    "Higienista",
+    "Historiador",
+    "Homeopata",
+    "Horticultor",
+    "Hostess",
+    "Hoteleiro"
   ],
   "Carro": [
+    "Haval",
+    "Hennessey",
+    "Hillman",
+    "Hilux",
+    "Hispano-Suiza",
     "Honda",
-    "Hyundai",
-    "Hummer"
+    "HR-V",
+    "Hudson",
+    "Hummer",
+    "Hyundai"
   ],
   "Cantor": [
-    "Harry Styles"
+    "Halsey",
+    "Hank Williams",
+    "Harry Styles",
+    "Herbert Vianna",
+    "Hermeto Pascoal",
+    "Hillsong",
+    "Howlin' Wolf",
+    "Hozier",
+    "Hugh Masekela",
+    "Humberto Luís"
   ],
   "Marca": [
+    "H&M",
+    "Havaianas",
+    "Heineken",
+    "Heinz",
+    "Hermès",
+    "Hilton",
+    "Honda",
+    "Hot Wheels",
     "HP",
-    "Honda"
+    "Huawei",
+    "Hublot",
+    "Hugo Boss",
+    "Hyundai"
   ],
   "Filme": [
-    "Harry Potter"
+    "Hairspray",
+    "Halloween",
+    "Hannibal",
+    "Harry Potter",
+    "Her",
+    "Hércules",
+    "High School Musical",
+    "Homem de Ferro",
+    "Hulk"
   ],
   "Ator": [
+    "Halle Berry",
     "Harrison Ford",
-    "Hugh Jackman"
+    "Heath Ledger",
+    "Helen Mirren",
+    "Henry Cavill",
+    "Hilary Swank",
+    "Hugh Grant",
+    "Hugh Jackman",
+    "Humphrey Bogart"
   ],
   "Novela": [
-    "Haja Coração"
+    "Haja Coração",
+    "Helena",
+    "Herança de Amor",
+    "Hilda Furacão",
+    "Hipertensão",
+    "Hoje é Dia de Maria"
   ],
   "Personagem": [
+    "Han Solo",
+    "Harley Quinn",
     "Harry Potter",
-    "Homem de Ferro"
+    "He-Man",
+    "Hércules",
+    "Hermione Granger",
+    "Homem de Ferro",
+    "Homem-Aranha",
+    "Homer Simpson",
+    "Hulk"
   ],
   "Capital": [
+    "Hamilton",
+    "Hanoi",
     "Harare",
-    "Helsínquia"
+    "Havana",
+    "Helsínquia",
+    "Honiara",
+    "Horta"
   ],
   "Música": [
-    "Halo"
+    "Hallelujah",
+    "Halo",
+    "Happy",
+    "Hey Jude",
+    "Highway to Hell",
+    "Hino Nacional",
+    "Hotel California",
+    "How Deep Is Your Love"
   ],
   "Roupa": [
-    "Ha-teste",
-    "He-teste",
-    "Ho-teste"
+    "Hábito",
+    "Halterneck",
+    "Hameca",
+    "Haori",
+    "Harem",
+    "Harem pants",
+    "Hijab",
+    "Hoodie",
+    "Hunting jacket"
   ],
   "Parte do Corpo": [
-    "Haste"
+    "Hálux",
+    "Haste",
+    "Hemorroidas",
+    "Hímen",
+    "Hipófise",
+    "Hipotálamo",
+    "Húmero",
+    "Humor vítreo"
   ],
   "Instrumento": [
-    "Harpa"
+    "Handpan",
+    "Hang drum",
+    "Hapi drum",
+    "Harmónica",
+    "Harmónio",
+    "Harpa",
+    "Harpsichord",
+    "Hichiriki",
+    "Horn",
+    "Hurdy-gurdy"
   ]
 }

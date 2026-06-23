@@ -1,79 +1,278 @@
 {
   "Nome": [
     "Gabriel",
+    "Gabriela",
+    "Galdino",
+    "Gaspar",
+    "Gaudêncio",
+    "Gemma",
+    "Genésio",
+    "Genivaldo",
+    "Genoveva",
+    "Gentil",
+    "Georgina",
+    "Geraldina",
+    "Geraldino",
+    "Geraldo",
+    "Germano",
+    "Gerson",
+    "Gertrudes",
+    "Gervásio",
+    "Gilbertina",
+    "Gilberto",
+    "Gilda",
+    "Gildásio",
+    "Gildo",
+    "Gina",
+    "Gisela",
+    "Gladis",
+    "Glória",
+    "Godofredo",
+    "Gomes",
+    "Gonçalo",
+    "Gorete",
+    "Goreti",
+    "Graça",
+    "Gracelinda",
+    "Graciano",
+    "Gracinda",
+    "Gregório",
+    "Guadalupe",
+    "Gualdim",
+    "Gualdino",
+    "Guedes",
+    "Guida",
     "Guilherme",
+    "Guilhermina",
+    "Guiomar",
+    "Gumersindo",
+    "Gungunhana",
     "Gustavo"
   ],
   "País": [
     "Gabão",
+    "Gâmbia",
     "Gana",
+    "Geórgia",
+    "Granada",
     "Grécia",
-    "Guiné"
+    "Guatemala",
+    "Guiana",
+    "Guiné",
+    "Guiné Equatorial",
+    "Guiné-Bissau"
   ],
   "Cidade": [
-    "Gurúè",
+    "Gaborone",
+    "Gaza",
     "Genebra",
-    "Glasgow"
+    "Génova",
+    "Ginebra",
+    "Glasgow",
+    "Goba",
+    "Goiânia",
+    "Gondola",
+    "Gorongosa",
+    "Guarda",
+    "Guarulhos",
+    "Guimarães",
+    "Gurúè"
   ],
   "Cor": [
+    "Garrafa",
     "Gelo",
-    "Grená"
+    "Gema",
+    "Gengibre",
+    "Girassol",
+    "Goiaba",
+    "Grafeno",
+    "Grafite",
+    "Grená",
+    "Gris",
+    "Guardsman"
   ],
   "Animal": [
+    "Gafanhoto",
+    "Galinha",
+    "Galo",
+    "Gamo",
+    "Ganso",
     "Gato",
+    "Gavião",
     "Girafa",
-    "Gorila"
+    "Gnu",
+    "Golfinho",
+    "Gorila",
+    "Grilo",
+    "Guepardo"
   ],
   "Alimento": [
+    "Galinha à zambeziana",
+    "Garapa",
+    "Gelado",
+    "Gelatina",
+    "Gengibre",
+    "Gergelim",
+    "Gnocchi",
     "Goiaba",
-    "Gelatina"
+    "Grão-de-bico",
+    "Groselha",
+    "Guaraná"
   ],
   "Objeto": [
+    "Gaiola",
+    "Gancho",
+    "Garfo",
+    "Gargantilha",
     "Garrafa",
-    "Guarda-chuva"
+    "Gaveta",
+    "Gilete",
+    "Giz",
+    "Goma",
+    "Grelha",
+    "Guarda-chuva",
+    "Guarda-sol"
   ],
   "Profissão": [
+    "Garçom",
+    "Gari",
+    "Gastroenterologista",
+    "Geógrafo",
+    "Geólogo",
     "Gerente",
-    "Geógrafo"
+    "Ginecologista",
+    "Ginete",
+    "Guarda",
+    "Guia turístico"
   ],
   "Carro": [
-    "GMC"
+    "Galaxie",
+    "Genesis",
+    "Gladiator",
+    "GMC",
+    "Gol",
+    "Golf",
+    "Grand Cherokee",
+    "GTI",
+    "Gurgel"
   ],
   "Cantor": [
-    "Gilberto Gil"
+    "G2",
+    "Gaby Amarantos",
+    "Gal Costa",
+    "George Michael",
+    "Gilberto Gil",
+    "Gino D'Auri",
+    "Gloria Estefan",
+    "Gorillaz",
+    "Guns N' Roses",
+    "Gwen Stefani"
   ],
   "Marca": [
+    "G-Star",
+    "Gap",
+    "Garnier",
+    "Gatorade",
+    "General Motors",
+    "Gillette",
+    "Givenchy",
     "Google",
+    "Gorenje",
     "Gucci"
   ],
   "Filme": [
-    "Gladiador"
+    "Gato de Botas",
+    "Gênio Indomável",
+    "Ghost",
+    "Gladiador",
+    "Godzilla",
+    "Gran Torino",
+    "Grease",
+    "Guerra nas Estrelas"
   ],
   "Ator": [
-    "George Clooney"
+    "Gael García Bernal",
+    "Gary Oldman",
+    "Gene Kelly",
+    "George Clooney",
+    "Gerard Butler",
+    "Gisele Bündchen",
+    "Grace Kelly",
+    "Gwyneth Paltrow"
   ],
   "Novela": [
-    "Gabriela"
+    "Gabriela",
+    "Gata Comeu",
+    "Gato de Botas",
+    "Gênesis",
+    "Gente Fina",
+    "Gente Grande",
+    "Geração Brasil",
+    "Gringa",
+    "Guerra dos Sexos"
   ],
   "Personagem": [
-    "Goku"
+    "Gaguinho",
+    "Gandalf",
+    "Garfield",
+    "Gargamel",
+    "Gato de Botas",
+    "Gato Félix",
+    "Goku",
+    "Gollum",
+    "Green Lantern",
+    "Groot"
   ],
   "Capital": [
-    "Gaborone"
+    "Gaborone",
+    "Gaza",
+    "George Town",
+    "Georgetown",
+    "Ginebra",
+    "Gitega",
+    "Grand Turk",
+    "Grozny",
+    "Guatemala"
   ],
   "Música": [
-    "Garota de Ipanema"
+    "Garota de Ipanema",
+    "Gente da Minha Terra",
+    "Gimme More",
+    "Girls Like You",
+    "Good Vibrations",
+    "Gostava de Ter 20 Anos"
   ],
   "Roupa": [
+    "Galochas",
+    "Gola",
+    "Gola alta",
+    "Gorgorão",
+    "Gorro",
+    "Gorros",
+    "Grava",
     "Gravata",
-    "Gorro"
+    "Guarda-pó"
   ],
   "Parte do Corpo": [
+    "Gânglio",
+    "Gargalo",
     "Garganta",
-    "Gengiva"
+    "Gengiva",
+    "Glândula",
+    "Glúteo",
+    "Goteira"
   ],
   "Instrumento": [
+    "Gaita",
+    "Gaita de foles",
+    "Gansa",
+    "Ganza",
+    "Glass harmonica",
+    "Gong",
+    "Güiro",
     "Guitarra",
-    "Gaita"
+    "Guqin",
+    "Guzheng",
+    "Guzla"
   ]
 }
