@@ -1,9 +1,12 @@
 {
   "Nome": [
     "Ualter",
+    "Uaná",
     "Ubalda",
+    "Ubaldina",
     "Ubaldino",
     "Ubaldo",
+    "Ubiracema",
     "Ubiraci",
     "Ubirajara",
     "Ubiratã",
@@ -13,20 +16,24 @@
     "Ucilena",
     "Udilson",
     "Udo",
+    "Uelinton",
     "Uendel",
     "Ugo",
     "Uila",
+    "Uilian",
     "Ulcinda",
     "Uliana",
     "Ulisses",
     "Umar",
     "Umaro",
+    "Umbalatanga",
     "Umbelina",
     "Umbelino",
     "Umberto",
     "Umdemir",
     "Undina",
     "Undino",
+    "Unélia",
     "Urânia",
     "Urbana",
     "Urbano",
@@ -34,6 +41,7 @@
     "Uriel",
     "Urquiza",
     "Ursula",
+    "Ursulina",
     "Ussene",
     "Uvaldo",
     "Uwe",
@@ -47,13 +55,17 @@
     "Uzbequistão"
   ],
   "Cidade": [
+    "Ubá",
     "Ubatuba",
     "Uberaba",
     "Uberlândia",
     "Ufa",
+    "Uitenhage",
     "Ulan Bator",
     "Ulongué",
+    "Umtata",
     "Umuarama",
+    "Upington",
     "Uppsala",
     "Uruguaiana",
     "Ushuaia",
@@ -72,6 +84,8 @@
   ],
   "Animal": [
     "Uaca",
+    "Uacari",
+    "Uirapuru",
     "Unau",
     "Unicórnio",
     "Urial",
@@ -79,13 +93,18 @@
     "Urso-pardo",
     "Urso-polar",
     "Urubu",
+    "Urubu-rei",
+    "Uruçu",
     "Urutu"
   ],
   "Alimento": [
+    "Uchi",
     "Udon",
     "Uiki",
+    "Uísque",
     "Umbu",
     "Uramaki",
+    "Urdume",
     "Urucum",
     "Uva",
     "Uva-passa",
@@ -99,7 +118,9 @@
     "Urinol",
     "Urna",
     "Urso de pelúcia",
-    "Utensílio"
+    "USB",
+    "Utensílio",
+    "Utilitário"
   ],
   "Profissão": [
     "Ultra-sonografista",
@@ -108,7 +129,8 @@
     "Urbanista",
     "Urgencista",
     "Urologista",
-    "Usineiro"
+    "Usineiro",
+    "Usurário"
   ],
   "Carro": [
     "Ultima",
@@ -146,11 +168,14 @@
     "Ultimato",
     "Um Dia",
     "Um Sonho de Liberdade",
+    "Uma Linda Mulher",
     "Uma Mente Brilhante",
+    "Uncharted",
     "Underworld",
     "Unforgiven",
     "Up",
-    "Up in the Air"
+    "Up in the Air",
+    "Us"
   ],
   "Ator": [
     "Ulrich Mühe",
@@ -167,7 +192,8 @@
     "Um Anjo Caiu do Céu",
     "Um Lugar ao Sol",
     "Um Só Coração",
-    "Uma Rosa com Amor"
+    "Uma Rosa com Amor",
+    "Ut"
   ],
   "Personagem": [
     "Uchiha Sasuke",
@@ -201,9 +227,11 @@
     "Undershirt",
     "Underwear",
     "Unhas decoradas",
+    "Uniform",
     "Uniforme",
     "Unitard",
     "Unkle boot",
+    "Ushanka",
     "Ushanka hat"
   ],
   "Parte do Corpo": [

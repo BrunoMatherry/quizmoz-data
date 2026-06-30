@@ -8,7 +8,10 @@
     "Idalina",
     "Idelson",
     "Igor",
+    "Ilário",
+    "Ilda",
     "Ildefonso",
+    "Ilídia",
     "Ilídio",
     "Ilka",
     "Imaculada",
@@ -30,6 +33,7 @@
     "Isabel",
     "Isabela",
     "Isac",
+    "Isadora",
     "Isaías",
     "Isaltina",
     "Isaura",
@@ -38,6 +42,7 @@
     "Isidoro",
     "Isidro",
     "Ismael",
+    "Isménia",
     "Isolda",
     "Itamar",
     "Ivan",
@@ -50,6 +55,8 @@
   ],
   "País": [
     "Iémen",
+    "Ilhas Comores",
+    "Ilhas Marshall",
     "Ilhas Salomão",
     "Índia",
     "Indonésia",
@@ -64,21 +71,30 @@
   "Cidade": [
     "Ibadan",
     "Ibéria",
+    "Igarassu",
     "Ílhavo",
+    "Ilhéus",
+    "Imperatriz",
     "Indianapolis",
     "Inhambane",
     "Inhaminga",
     "Innsbruck",
     "Ipatinga",
     "Iquitos",
+    "Islamabad",
     "Istanbul",
-    "Itajaí"
+    "Itabuna",
+    "Itajaí",
+    "Itaperuna",
+    "Ituiutaba"
   ],
   "Cor": [
     "Ibérico",
     "Ice Blue",
     "Igreja",
     "Imortal",
+    "Inca Gold",
+    "Indian Red",
     "Indigo",
     "Iogurte",
     "Iridescente",
@@ -90,8 +106,11 @@
   ],
   "Animal": [
     "Iaque",
+    "Íbex",
     "Ibis",
+    "Ichneumon",
     "Iguana",
+    "Iguanodonte",
     "Impala",
     "Indri",
     "Inhambu",
@@ -100,6 +119,7 @@
     "Irupi"
   ],
   "Alimento": [
+    "Iced tea",
     "Ingá",
     "Inhame",
     "Inhame cozido",
@@ -107,7 +127,9 @@
     "Iogurte grego",
     "Ipanema",
     "Iscas",
-    "Iscas de fígado"
+    "Iscas de bacalhau",
+    "Iscas de fígado",
+    "Italian sausage"
   ],
   "Objeto": [
     "Íman",
@@ -117,12 +139,17 @@
     "Incenso",
     "Incensório",
     "Ingresso",
+    "Instrumento",
+    "Interfone",
+    "Interruptor",
+    "Inventário",
     "Iogurteira",
     "iPad",
     "iPod",
     "Isqueiro"
   ],
   "Profissão": [
+    "Iconógrafo",
     "Ilusionista",
     "Ilustrador",
     "Impresário",
@@ -131,25 +158,37 @@
     "Ingenheiro",
     "Inspetor",
     "Instrutor",
-    "Intérprete"
+    "Internista",
+    "Intérprete",
+    "Investigador"
   ],
   "Carro": [
+    "i10",
     "i20",
     "i30",
+    "i8",
     "Ibiza",
+    "ID.4",
+    "Ignis",
+    "Impala",
     "Impreza",
     "Infiniti",
     "Insight",
     "Isetta",
     "Isuzu",
-    "Iveco"
+    "Iveco",
+    "IX35"
   ],
   "Cantor": [
+    "Ice Cube",
     "Idris Elba",
     "Iggy Azalea",
     "Iggy Pop",
+    "Il Divo",
     "Imagine Dragons",
+    "Imelda May",
     "Imogen Heap",
+    "INXS",
     "Ira!",
     "Irmãos Verdades",
     "Iron Maiden",
@@ -166,15 +205,22 @@
     "Instagram",
     "Intel",
     "Ipanema",
-    "Isuzu"
+    "iRobot",
+    "Irwin",
+    "Isuzu",
+    "Iveco"
   ],
   "Filme": [
+    "I Am Legend",
+    "Ice Age",
     "Ilha do Medo",
     "Inception",
     "Indiana Jones",
     "Inglourious Basterds",
+    "Inside Out",
     "Interstellar",
     "Intocáveis",
+    "Invictus",
     "Iron Man",
     "It: A Coisa"
   ],
@@ -182,10 +228,13 @@
     "Ian McKellen",
     "Ian Somerhalder",
     "Idris Elba",
+    "Imelda Staunton",
     "Ingrid Bergman",
     "Irene Ravache",
     "Isabel Fillardis",
-    "Isabella Rossellini"
+    "Isabella Rossellini",
+    "Isabelle Huppert",
+    "Issa Rae"
   ],
   "Novela": [
     "I Love Paraisópolis",
@@ -198,6 +247,7 @@
   ],
   "Personagem": [
     "Iago",
+    "Ícaro",
     "Igor",
     "Incrível Hulk",
     "Indiana Jones",
@@ -205,7 +255,9 @@
     "Irene",
     "Iron Man",
     "Ismaela",
-    "It"
+    "It",
+    "Itachi",
+    "Ivy"
   ],
   "Capital": [
     "Ierevan",
@@ -215,11 +267,16 @@
     "Ivaly"
   ],
   "Música": [
+    "I Don't Want to Miss a Thing",
+    "I Gotta Feeling",
+    "I Need a Dollar",
     "I Wanna Dance with Somebody",
     "I Want to Break Free",
     "I Will Always Love You",
+    "If I Ain't Got You",
     "Imagine",
     "In the End",
+    "Iris",
     "It's My Life"
   ],
   "Roupa": [
@@ -227,13 +284,16 @@
     "Indumentária",
     "Ioiô",
     "Iorgue",
+    "Iro",
     "Isolante térmico",
     "Item de couro",
     "Izaar"
   ],
   "Parte do Corpo": [
     "Ílio",
+    "Incisivo",
     "Incógnita",
+    "Intercostal",
     "Intestino",
     "Intestino delgado",
     "Intestino grosso",
@@ -251,6 +311,7 @@
     "Ilimba",
     "Instrumento de sopro",
     "Ipu",
-    "Irish bouzouki"
+    "Irish bouzouki",
+    "Istarski šurle"
   ]
 }

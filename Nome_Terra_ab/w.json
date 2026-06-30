@@ -1,6 +1,7 @@
 {
   "Nome": [
     "Wagner",
+    "Walace",
     "Walda",
     "Waldemar",
     "Waldete",
@@ -15,12 +16,14 @@
     "Waltrudes",
     "Wanda",
     "Wanderlei",
+    "Wanderléia",
     "Wanderley",
     "Wanderson",
     "Wania",
     "Washington",
     "Weligton",
     "Welinton",
+    "Wélita",
     "Welton",
     "Wenderson",
     "Wendy",
@@ -40,6 +43,8 @@
     "Wilton",
     "Winfred",
     "Winston",
+    "Wírian",
+    "Wirley",
     "Wlademir",
     "Wolfgang",
     "Wynton"
@@ -48,15 +53,20 @@
     "Wallis e Futuna"
   ],
   "Cidade": [
+    "Warsaw",
     "Washington",
+    "Waterloo",
     "Wellington",
+    "Wiesbaden",
     "Windhoek",
     "Windsor",
     "Winnipeg",
     "Wollongong",
     "Wolverhampton",
+    "Wroclaw",
     "Wuhan",
-    "Wuppertal"
+    "Wuppertal",
+    "Würzburg"
   ],
   "Cor": [
     "Warm Grey",
@@ -98,6 +108,8 @@
     "Water bottle",
     "Web-cam",
     "Wheelbarrow",
+    "Whiteboard",
+    "Wi-fi router",
     "Widget",
     "Wig",
     "Windsurf",
@@ -156,9 +168,11 @@
     "West Side Story",
     "Whiplash",
     "Wild",
+    "Willy Wonka",
     "Wolf of Wall Street",
     "Wolverine",
-    "Wonder Woman"
+    "Wonder Woman",
+    "World War Z"
   ],
   "Ator": [
     "Wesley Snipes",
@@ -176,7 +190,9 @@
     "Windeck"
   ],
   "Personagem": [
+    "Wall-E",
     "Walter White",
+    "Waluigi",
     "Wanda Maximoff",
     "Wario",
     "Watson",
@@ -192,9 +208,11 @@
     "Windhoek"
   ],
   "Música": [
+    "Waiting for a Girl Like You",
     "Waiting on the World to Change",
     "Waka Waka",
     "Wake Me Up",
+    "Walking on Sunshine",
     "We Are the Champions",
     "We Will Rock You",
     "What a Wonderful World",
@@ -219,6 +237,7 @@
     "Wharton duct",
     "White blood cells",
     "Windpipe",
+    "Wing",
     "Womb",
     "Wrist"
   ],
