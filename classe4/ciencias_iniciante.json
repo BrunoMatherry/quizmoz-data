@@ -222,10 +222,10 @@
         "Q_ID27": "Quando ferves água a 100°C, ela passa do estado líquido ao gasoso. Esta mudança de estado chama-se:",
         "A0_ID27": "Fusão",
         "A1_ID27": "Solidificação",
-        "A2_ID27": "Evaporação",
+        "A2_ID27": "Ebulição",
         "A3_ID27": "Condensação",
         "S_ID27": 2,
-        "txtS_ID27": "A evaporação (ou ebulição, quando é rápida) transforma líquido em gás. O processo contrário chama-se condensação. Fusão é sólido→líquido e solidificação é líquido→sólido.",
+        "txtS_ID27": "A ebulição é a passagem rápida de líquido a gás, que ocorre a uma temperatura fixa (100°C para a água, ao nível do mar), com formação de bolhas. O processo contrário chama-se condensação. Fusão é sólido→líquido e solidificação é líquido→sólido.",
 
         "Q_ID28": "As abelhas estão a desaparecer em muitas partes do mundo. Por que isso é perigoso para os humanos?",
         "A0_ID28": "Porque produzem mel",
