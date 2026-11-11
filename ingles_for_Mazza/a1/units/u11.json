@@ -34,35 +34,35 @@
       "newWords": [
         {
           "en": "work",
-          "pt": "trabalho",
+          "pt": "trabalhar",
           "ipa": "",
           "audioKey": "a1_a1-u11-l01_w_work",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Many people work hard on the farm.",
+          "examplePt": "Muitas pessoas trabalham arduamente na machamba."
         },
         {
           "en": "job",
           "pt": "emprego",
           "ipa": "",
           "audioKey": "a1_a1-u11-l01_w_job",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "He found a rewarding job in Pemba.",
+          "examplePt": "Ele encontrou um bom emprego em Pemba."
         },
         {
           "en": "teacher",
-          "pt": "professor",
+          "pt": "professor/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l01_w_teacher",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The teacher explained the lesson clearly.",
+          "examplePt": "O professor explicou a lição com clareza."
         },
         {
           "en": "nurse",
           "pt": "enfermeiro/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l01_w_nurse",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The nurse took good care of the patient.",
+          "examplePt": "A enfermeira cuidou muito bem do doente."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "enfermeiro/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l02_w_nurse",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The nurse took good care of the patient.",
+          "examplePt": "A enfermeira cuidou muito bem do doente."
         },
         {
           "en": "driver",
           "pt": "motorista",
           "ipa": "",
           "audioKey": "a1_a1-u11-l02_w_driver",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The chapa driver drove safely along the highway.",
+          "examplePt": "O motorista do chapa conduziu com segurança pela estrada."
         },
         {
           "en": "farmer",
           "pt": "camponês/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l02_w_farmer",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The farmer harvested cassava and maize.",
+          "examplePt": "O camponês colheu mandioca e milho."
         },
         {
           "en": "seller",
           "pt": "vendedor/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l02_w_seller",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The fruit seller offered us sweet oranges.",
+          "examplePt": "A vendedora de fruta ofereceu-nos laranjas doces."
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "vendedor/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l03_w_seller",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The fruit seller offered us sweet oranges.",
+          "examplePt": "A vendedora de fruta ofereceu-nos laranjas doces."
         },
         {
           "en": "fisherman",
           "pt": "pescador",
           "ipa": "",
           "audioKey": "a1_a1-u11-l03_w_fisherman",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The fisherman cast his net into the ocean.",
+          "examplePt": "O pescador lançou a rede ao mar."
         },
         {
           "en": "doctor",
           "pt": "médico",
           "ipa": "",
           "audioKey": "a1_a1-u11-l03_w_doctor",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The doctor advised him to get plenty of rest.",
+          "examplePt": "O médico aconselhou-o a descansar bastante."
         },
         {
           "en": "student",
           "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u11-l03_w_student",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         }
       ],
       "guidedReading": {
@@ -519,32 +519,32 @@
           "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u11-l04_w_student",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         },
         {
           "en": "office",
           "pt": "escritório",
           "ipa": "",
           "audioKey": "a1_a1-u11-l04_w_office",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Her office is on the third floor of the building.",
+          "examplePt": "O escritório dela fica no terceiro andar do edifício."
         },
         {
           "en": "hospital",
           "pt": "hospital",
           "ipa": "",
           "audioKey": "a1_a1-u11-l04_w_hospital",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "The hospital has emergency care twenty-four hours.",
+          "examplePt": "O hospital tem atendimento de urgência vinte e quatro horas."
         },
         {
           "en": "farm",
           "pt": "machamba",
           "ipa": "",
           "audioKey": "a1_a1-u11-l04_w_farm",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "We grow fresh corn on our family farm.",
+          "examplePt": "Cultivamos milho fresco na nossa machamba familiar."
         }
       ],
       "guidedReading": {
@@ -681,8 +681,8 @@
           "pt": "machamba",
           "ipa": "",
           "audioKey": "a1_a1-u11-l05_w_farm",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "We grow fresh corn on our family farm.",
+          "examplePt": "Cultivamos milho fresco na nossa machamba familiar."
         }
       ],
       "guidedReading": {
@@ -877,35 +877,35 @@
       "newWords": [
         {
           "en": "teacher",
-          "pt": "professor",
+          "pt": "professor/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l06_w_teacher",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "The teacher explained the lesson clearly.",
+          "examplePt": "O professor explicou a lição com clareza."
         },
         {
           "en": "nurse",
           "pt": "enfermeiro/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l06_w_nurse",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "The nurse took good care of the patient.",
+          "examplePt": "A enfermeira cuidou muito bem do doente."
         },
         {
           "en": "driver",
           "pt": "motorista",
           "ipa": "",
           "audioKey": "a1_a1-u11-l06_w_driver",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "The chapa driver drove safely along the highway.",
+          "examplePt": "O motorista do chapa conduziu com segurança pela estrada."
         },
         {
           "en": "farmer",
           "pt": "camponês/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l06_w_farmer",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "The farmer harvested cassava and maize.",
+          "examplePt": "O camponês colheu mandioca e milho."
         }
       ],
       "guidedReading": {
@@ -1059,32 +1059,32 @@
           "pt": "camponês/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l07_w_farmer",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The farmer harvested cassava and maize.",
+          "examplePt": "O camponês colheu mandioca e milho."
         },
         {
           "en": "seller",
           "pt": "vendedor/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l07_w_seller",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The fruit seller offered us sweet oranges.",
+          "examplePt": "A vendedora de fruta ofereceu-nos laranjas doces."
         },
         {
           "en": "fisherman",
           "pt": "pescador",
           "ipa": "",
           "audioKey": "a1_a1-u11-l07_w_fisherman",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The fisherman cast his net into the ocean.",
+          "examplePt": "O pescador lançou a rede ao mar."
         },
         {
           "en": "doctor",
           "pt": "médico",
           "ipa": "",
           "audioKey": "a1_a1-u11-l07_w_doctor",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The doctor advised him to get plenty of rest.",
+          "examplePt": "O médico aconselhou-o a descansar bastante."
         }
       ],
       "guidedReading": {
@@ -1239,32 +1239,32 @@
           "pt": "médico",
           "ipa": "",
           "audioKey": "a1_a1-u11-l08_w_doctor",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "The doctor advised him to get plenty of rest.",
+          "examplePt": "O médico aconselhou-o a descansar bastante."
         },
         {
           "en": "student",
           "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u11-l08_w_student",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         },
         {
           "en": "office",
           "pt": "escritório",
           "ipa": "",
           "audioKey": "a1_a1-u11-l08_w_office",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Her office is on the third floor of the building.",
+          "examplePt": "O escritório dela fica no terceiro andar do edifício."
         },
         {
           "en": "hospital",
           "pt": "hospital",
           "ipa": "",
           "audioKey": "a1_a1-u11-l08_w_hospital",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "The hospital has emergency care twenty-four hours.",
+          "examplePt": "O hospital tem atendimento de urgência vinte e quatro horas."
         }
       ],
       "guidedReading": {
@@ -1382,16 +1382,16 @@
           "pt": "hospital",
           "ipa": "",
           "audioKey": "a1_a1-u11-l09_w_hospital",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "The hospital has emergency care twenty-four hours.",
+          "examplePt": "O hospital tem atendimento de urgência vinte e quatro horas."
         },
         {
           "en": "farm",
           "pt": "machamba",
           "ipa": "",
           "audioKey": "a1_a1-u11-l09_w_farm",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "We grow fresh corn on our family farm.",
+          "examplePt": "Cultivamos milho fresco na nossa machamba familiar."
         }
       ],
       "guidedReading": {
@@ -1524,32 +1524,32 @@
           "pt": "emprego",
           "ipa": "",
           "audioKey": "a1_a1-u11-l10_w_job",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "He found a rewarding job in Pemba.",
+          "examplePt": "Ele encontrou um bom emprego em Pemba."
         },
         {
           "en": "teacher",
-          "pt": "professor",
+          "pt": "professor/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l10_w_teacher",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "The teacher explained the lesson clearly.",
+          "examplePt": "O professor explicou a lição com clareza."
         },
         {
           "en": "nurse",
           "pt": "enfermeiro/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l10_w_nurse",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "The nurse took good care of the patient.",
+          "examplePt": "A enfermeira cuidou muito bem do doente."
         },
         {
           "en": "driver",
           "pt": "motorista",
           "ipa": "",
           "audioKey": "a1_a1-u11-l10_w_driver",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "The chapa driver drove safely along the highway.",
+          "examplePt": "O motorista do chapa conduziu com segurança pela estrada."
         }
       ],
       "guidedReading": {
@@ -1679,32 +1679,32 @@
           "pt": "motorista",
           "ipa": "",
           "audioKey": "a1_a1-u11-l11_w_driver",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The chapa driver drove safely along the highway.",
+          "examplePt": "O motorista do chapa conduziu com segurança pela estrada."
         },
         {
           "en": "farmer",
           "pt": "camponês/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l11_w_farmer",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The farmer harvested cassava and maize.",
+          "examplePt": "O camponês colheu mandioca e milho."
         },
         {
           "en": "seller",
           "pt": "vendedor/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l11_w_seller",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The fruit seller offered us sweet oranges.",
+          "examplePt": "A vendedora de fruta ofereceu-nos laranjas doces."
         },
         {
           "en": "fisherman",
           "pt": "pescador",
           "ipa": "",
           "audioKey": "a1_a1-u11-l11_w_fisherman",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The fisherman cast his net into the ocean.",
+          "examplePt": "O pescador lançou a rede ao mar."
         }
       ],
       "guidedReading": {
@@ -1830,32 +1830,32 @@
           "pt": "pescador",
           "ipa": "",
           "audioKey": "a1_a1-u11-l12_w_fisherman",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The fisherman cast his net into the ocean.",
+          "examplePt": "O pescador lançou a rede ao mar."
         },
         {
           "en": "doctor",
           "pt": "médico",
           "ipa": "",
           "audioKey": "a1_a1-u11-l12_w_doctor",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The doctor advised him to get plenty of rest.",
+          "examplePt": "O médico aconselhou-o a descansar bastante."
         },
         {
           "en": "student",
           "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u11-l12_w_student",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         },
         {
           "en": "office",
           "pt": "escritório",
           "ipa": "",
           "audioKey": "a1_a1-u11-l12_w_office",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Her office is on the third floor of the building.",
+          "examplePt": "O escritório dela fica no terceiro andar do edifício."
         }
       ],
       "guidedReading": {
@@ -2009,24 +2009,24 @@
           "pt": "escritório",
           "ipa": "",
           "audioKey": "a1_a1-u11-l13_w_office",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Her office is on the third floor of the building.",
+          "examplePt": "O escritório dela fica no terceiro andar do edifício."
         },
         {
           "en": "hospital",
           "pt": "hospital",
           "ipa": "",
           "audioKey": "a1_a1-u11-l13_w_hospital",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The hospital has emergency care twenty-four hours.",
+          "examplePt": "O hospital tem atendimento de urgência vinte e quatro horas."
         },
         {
           "en": "farm",
           "pt": "machamba",
           "ipa": "",
           "audioKey": "a1_a1-u11-l13_w_farm",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "We grow fresh corn on our family farm.",
+          "examplePt": "Cultivamos milho fresco na nossa machamba familiar."
         }
       ],
       "guidedReading": {
@@ -2178,35 +2178,35 @@
       "newWords": [
         {
           "en": "work",
-          "pt": "trabalho",
+          "pt": "trabalhar",
           "ipa": "",
           "audioKey": "a1_a1-u11-l14_w_work",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Many people work hard on the farm.",
+          "examplePt": "Muitas pessoas trabalham arduamente na machamba."
         },
         {
           "en": "job",
           "pt": "emprego",
           "ipa": "",
           "audioKey": "a1_a1-u11-l14_w_job",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "He found a rewarding job in Pemba.",
+          "examplePt": "Ele encontrou um bom emprego em Pemba."
         },
         {
           "en": "teacher",
-          "pt": "professor",
+          "pt": "professor/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l14_w_teacher",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "The teacher explained the lesson clearly.",
+          "examplePt": "O professor explicou a lição com clareza."
         },
         {
           "en": "nurse",
           "pt": "enfermeiro/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l14_w_nurse",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "The nurse took good care of the patient.",
+          "examplePt": "A enfermeira cuidou muito bem do doente."
         }
       ],
       "guidedReading": {
@@ -2324,32 +2324,32 @@
           "pt": "enfermeiro/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l15_w_nurse",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "The nurse took good care of the patient.",
+          "examplePt": "A enfermeira cuidou muito bem do doente."
         },
         {
           "en": "driver",
           "pt": "motorista",
           "ipa": "",
           "audioKey": "a1_a1-u11-l15_w_driver",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "The chapa driver drove safely along the highway.",
+          "examplePt": "O motorista do chapa conduziu com segurança pela estrada."
         },
         {
           "en": "farmer",
           "pt": "camponês/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l15_w_farmer",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "The farmer harvested cassava and maize.",
+          "examplePt": "O camponês colheu mandioca e milho."
         },
         {
           "en": "seller",
           "pt": "vendedor/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l15_w_seller",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "The fruit seller offered us sweet oranges.",
+          "examplePt": "A vendedora de fruta ofereceu-nos laranjas doces."
         }
       ],
       "guidedReading": {
@@ -2547,32 +2547,32 @@
           "pt": "vendedor/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l16_w_seller",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The fruit seller offered us sweet oranges.",
+          "examplePt": "A vendedora de fruta ofereceu-nos laranjas doces."
         },
         {
           "en": "fisherman",
           "pt": "pescador",
           "ipa": "",
           "audioKey": "a1_a1-u11-l16_w_fisherman",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The fisherman cast his net into the ocean.",
+          "examplePt": "O pescador lançou a rede ao mar."
         },
         {
           "en": "doctor",
           "pt": "médico",
           "ipa": "",
           "audioKey": "a1_a1-u11-l16_w_doctor",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The doctor advised him to get plenty of rest.",
+          "examplePt": "O médico aconselhou-o a descansar bastante."
         },
         {
           "en": "student",
           "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u11-l16_w_student",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         }
       ],
       "guidedReading": {
@@ -2709,32 +2709,32 @@
           "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u11-l17_w_student",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         },
         {
           "en": "office",
           "pt": "escritório",
           "ipa": "",
           "audioKey": "a1_a1-u11-l17_w_office",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Her office is on the third floor of the building.",
+          "examplePt": "O escritório dela fica no terceiro andar do edifício."
         },
         {
           "en": "hospital",
           "pt": "hospital",
           "ipa": "",
           "audioKey": "a1_a1-u11-l17_w_hospital",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The hospital has emergency care twenty-four hours.",
+          "examplePt": "O hospital tem atendimento de urgência vinte e quatro horas."
         },
         {
           "en": "farm",
           "pt": "machamba",
           "ipa": "",
           "audioKey": "a1_a1-u11-l17_w_farm",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "We grow fresh corn on our family farm.",
+          "examplePt": "Cultivamos milho fresco na nossa machamba familiar."
         }
       ],
       "guidedReading": {
@@ -2860,8 +2860,8 @@
           "pt": "machamba",
           "ipa": "",
           "audioKey": "a1_a1-u11-l18_w_farm",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "We grow fresh corn on our family farm.",
+          "examplePt": "Cultivamos milho fresco na nossa machamba familiar."
         }
       ],
       "guidedReading": {
@@ -3012,35 +3012,35 @@
       "newWords": [
         {
           "en": "teacher",
-          "pt": "professor",
+          "pt": "professor/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l19_w_teacher",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The teacher explained the lesson clearly.",
+          "examplePt": "O professor explicou a lição com clareza."
         },
         {
           "en": "nurse",
           "pt": "enfermeiro/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l19_w_nurse",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The nurse took good care of the patient.",
+          "examplePt": "A enfermeira cuidou muito bem do doente."
         },
         {
           "en": "driver",
           "pt": "motorista",
           "ipa": "",
           "audioKey": "a1_a1-u11-l19_w_driver",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The chapa driver drove safely along the highway.",
+          "examplePt": "O motorista do chapa conduziu com segurança pela estrada."
         },
         {
           "en": "farmer",
           "pt": "camponês/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l19_w_farmer",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The farmer harvested cassava and maize.",
+          "examplePt": "O camponês colheu mandioca e milho."
         }
       ],
       "guidedReading": {
@@ -3196,32 +3196,32 @@
           "pt": "camponês/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l20_w_farmer",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "The farmer harvested cassava and maize.",
+          "examplePt": "O camponês colheu mandioca e milho."
         },
         {
           "en": "seller",
           "pt": "vendedor/a",
           "ipa": "",
           "audioKey": "a1_a1-u11-l20_w_seller",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "The fruit seller offered us sweet oranges.",
+          "examplePt": "A vendedora de fruta ofereceu-nos laranjas doces."
         },
         {
           "en": "fisherman",
           "pt": "pescador",
           "ipa": "",
           "audioKey": "a1_a1-u11-l20_w_fisherman",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "The fisherman cast his net into the ocean.",
+          "examplePt": "O pescador lançou a rede ao mar."
         },
         {
           "en": "doctor",
           "pt": "médico",
           "ipa": "",
           "audioKey": "a1_a1-u11-l20_w_doctor",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "The doctor advised him to get plenty of rest.",
+          "examplePt": "O médico aconselhou-o a descansar bastante."
         }
       ],
       "guidedReading": {

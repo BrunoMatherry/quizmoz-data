@@ -37,32 +37,32 @@
           "pt": "loja",
           "ipa": "",
           "audioKey": "a1_a1-u21-l01_w_shop",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The local shop is open until seven.",
+          "examplePt": "A mercearia local está aberta até às sete."
         },
         {
           "en": "clothes",
           "pt": "roupa",
           "ipa": "",
           "audioKey": "a1_a1-u21-l01_w_clothes",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Fold your clean clothes neatly in the wardrobe.",
+          "examplePt": "Dobra as tuas roupas lavadas com cuidado no guarda-fato."
         },
         {
           "en": "size",
           "pt": "tamanho",
           "ipa": "",
           "audioKey": "a1_a1-u21-l01_w_size",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "What size shirt are you looking for?",
+          "examplePt": "Que tamanho de camisa estás à procura?"
         },
         {
           "en": "small",
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u21-l01_w_small",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u21-l02_w_small",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         },
         {
           "en": "medium",
           "pt": "médio",
           "ipa": "",
           "audioKey": "a1_a1-u21-l02_w_medium",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "This medium jacket fits you perfectly.",
+          "examplePt": "Este casaco de tamanho médio fica-te perfeito."
         },
         {
           "en": "large",
           "pt": "grande",
           "ipa": "",
           "audioKey": "a1_a1-u21-l02_w_large",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "We need a large box to pack the books.",
+          "examplePt": "Precisamos de uma caixa grande para embalar os livros."
         },
         {
           "en": "try on",
           "pt": "provar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l02_w_try-on",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Can I try on these shoes before purchasing?",
+          "examplePt": "Posso provar estes sapatos antes de comprar?"
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "provar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l03_w_try-on",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Can I try on these shoes before purchasing?",
+          "examplePt": "Posso provar estes sapatos antes de comprar?"
         },
         {
           "en": "pay",
           "pt": "pagar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l03_w_pay",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "You can pay using M-Pesa or cash.",
+          "examplePt": "Podes pagar usando M-Pesa ou dinheiro em espécie."
         },
         {
           "en": "cash",
           "pt": "dinheiro",
           "ipa": "",
           "audioKey": "a1_a1-u21-l03_w_cash",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Do you prefer to pay with cash or card?",
+          "examplePt": "Preferes pagar com dinheiro ou cartão?"
         },
         {
           "en": "card",
           "pt": "cartão",
           "ipa": "",
           "audioKey": "a1_a1-u21-l03_w_card",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Insert your debit card into the terminal.",
+          "examplePt": "Insere o teu cartão de débito no terminal."
         }
       ],
       "guidedReading": {
@@ -519,8 +519,8 @@
           "pt": "cartão",
           "ipa": "",
           "audioKey": "a1_a1-u21-l04_w_card",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Insert your debit card into the terminal.",
+          "examplePt": "Insere o teu cartão de débito no terminal."
         }
       ],
       "guidedReading": {
@@ -657,32 +657,32 @@
           "pt": "tamanho",
           "ipa": "",
           "audioKey": "a1_a1-u21-l05_w_size",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "What size shirt are you looking for?",
+          "examplePt": "Que tamanho de camisa estás à procura?"
         },
         {
           "en": "small",
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u21-l05_w_small",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         },
         {
           "en": "medium",
           "pt": "médio",
           "ipa": "",
           "audioKey": "a1_a1-u21-l05_w_medium",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "This medium jacket fits you perfectly.",
+          "examplePt": "Este casaco de tamanho médio fica-te perfeito."
         },
         {
           "en": "large",
           "pt": "grande",
           "ipa": "",
           "audioKey": "a1_a1-u21-l05_w_large",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "We need a large box to pack the books.",
+          "examplePt": "Precisamos de uma caixa grande para embalar os livros."
         }
       ],
       "guidedReading": {
@@ -880,32 +880,32 @@
           "pt": "grande",
           "ipa": "",
           "audioKey": "a1_a1-u21-l06_w_large",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "We need a large box to pack the books.",
+          "examplePt": "Precisamos de uma caixa grande para embalar os livros."
         },
         {
           "en": "try on",
           "pt": "provar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l06_w_try-on",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Can I try on these shoes before purchasing?",
+          "examplePt": "Posso provar estes sapatos antes de comprar?"
         },
         {
           "en": "pay",
           "pt": "pagar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l06_w_pay",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "You can pay using M-Pesa or cash.",
+          "examplePt": "Podes pagar usando M-Pesa ou dinheiro em espécie."
         },
         {
           "en": "cash",
           "pt": "dinheiro",
           "ipa": "",
           "audioKey": "a1_a1-u21-l06_w_cash",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Do you prefer to pay with cash or card?",
+          "examplePt": "Preferes pagar com dinheiro ou cartão?"
         }
       ],
       "guidedReading": {
@@ -1059,16 +1059,16 @@
           "pt": "dinheiro",
           "ipa": "",
           "audioKey": "a1_a1-u21-l07_w_cash",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Do you prefer to pay with cash or card?",
+          "examplePt": "Preferes pagar com dinheiro ou cartão?"
         },
         {
           "en": "card",
           "pt": "cartão",
           "ipa": "",
           "audioKey": "a1_a1-u21-l07_w_card",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Insert your debit card into the terminal.",
+          "examplePt": "Insere o teu cartão de débito no terminal."
         }
       ],
       "guidedReading": {
@@ -1223,32 +1223,32 @@
           "pt": "roupa",
           "ipa": "",
           "audioKey": "a1_a1-u21-l08_w_clothes",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Fold your clean clothes neatly in the wardrobe.",
+          "examplePt": "Dobra as tuas roupas lavadas com cuidado no guarda-fato."
         },
         {
           "en": "size",
           "pt": "tamanho",
           "ipa": "",
           "audioKey": "a1_a1-u21-l08_w_size",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "What size shirt are you looking for?",
+          "examplePt": "Que tamanho de camisa estás à procura?"
         },
         {
           "en": "small",
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u21-l08_w_small",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         },
         {
           "en": "medium",
           "pt": "médio",
           "ipa": "",
           "audioKey": "a1_a1-u21-l08_w_medium",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "This medium jacket fits you perfectly.",
+          "examplePt": "Este casaco de tamanho médio fica-te perfeito."
         }
       ],
       "guidedReading": {
@@ -1366,32 +1366,32 @@
           "pt": "médio",
           "ipa": "",
           "audioKey": "a1_a1-u21-l09_w_medium",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "This medium jacket fits you perfectly.",
+          "examplePt": "Este casaco de tamanho médio fica-te perfeito."
         },
         {
           "en": "large",
           "pt": "grande",
           "ipa": "",
           "audioKey": "a1_a1-u21-l09_w_large",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "We need a large box to pack the books.",
+          "examplePt": "Precisamos de uma caixa grande para embalar os livros."
         },
         {
           "en": "try on",
           "pt": "provar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l09_w_try-on",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Can I try on these shoes before purchasing?",
+          "examplePt": "Posso provar estes sapatos antes de comprar?"
         },
         {
           "en": "pay",
           "pt": "pagar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l09_w_pay",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "You can pay using M-Pesa or cash.",
+          "examplePt": "Podes pagar usando M-Pesa ou dinheiro em espécie."
         }
       ],
       "guidedReading": {
@@ -1524,24 +1524,24 @@
           "pt": "pagar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l10_w_pay",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "You can pay using M-Pesa or cash.",
+          "examplePt": "Podes pagar usando M-Pesa ou dinheiro em espécie."
         },
         {
           "en": "cash",
           "pt": "dinheiro",
           "ipa": "",
           "audioKey": "a1_a1-u21-l10_w_cash",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Do you prefer to pay with cash or card?",
+          "examplePt": "Preferes pagar com dinheiro ou cartão?"
         },
         {
           "en": "card",
           "pt": "cartão",
           "ipa": "",
           "audioKey": "a1_a1-u21-l10_w_card",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Insert your debit card into the terminal.",
+          "examplePt": "Insere o teu cartão de débito no terminal."
         }
       ],
       "guidedReading": {
@@ -1671,32 +1671,32 @@
           "pt": "loja",
           "ipa": "",
           "audioKey": "a1_a1-u21-l11_w_shop",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The local shop is open until seven.",
+          "examplePt": "A mercearia local está aberta até às sete."
         },
         {
           "en": "clothes",
           "pt": "roupa",
           "ipa": "",
           "audioKey": "a1_a1-u21-l11_w_clothes",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Fold your clean clothes neatly in the wardrobe.",
+          "examplePt": "Dobra as tuas roupas lavadas com cuidado no guarda-fato."
         },
         {
           "en": "size",
           "pt": "tamanho",
           "ipa": "",
           "audioKey": "a1_a1-u21-l11_w_size",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "What size shirt are you looking for?",
+          "examplePt": "Que tamanho de camisa estás à procura?"
         },
         {
           "en": "small",
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u21-l11_w_small",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         }
       ],
       "guidedReading": {
@@ -1822,32 +1822,32 @@
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u21-l12_w_small",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         },
         {
           "en": "medium",
           "pt": "médio",
           "ipa": "",
           "audioKey": "a1_a1-u21-l12_w_medium",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "This medium jacket fits you perfectly.",
+          "examplePt": "Este casaco de tamanho médio fica-te perfeito."
         },
         {
           "en": "large",
           "pt": "grande",
           "ipa": "",
           "audioKey": "a1_a1-u21-l12_w_large",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "We need a large box to pack the books.",
+          "examplePt": "Precisamos de uma caixa grande para embalar os livros."
         },
         {
           "en": "try on",
           "pt": "provar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l12_w_try-on",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Can I try on these shoes before purchasing?",
+          "examplePt": "Posso provar estes sapatos antes de comprar?"
         }
       ],
       "guidedReading": {
@@ -2001,32 +2001,32 @@
           "pt": "provar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l13_w_try-on",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Can I try on these shoes before purchasing?",
+          "examplePt": "Posso provar estes sapatos antes de comprar?"
         },
         {
           "en": "pay",
           "pt": "pagar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l13_w_pay",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "You can pay using M-Pesa or cash.",
+          "examplePt": "Podes pagar usando M-Pesa ou dinheiro em espécie."
         },
         {
           "en": "cash",
           "pt": "dinheiro",
           "ipa": "",
           "audioKey": "a1_a1-u21-l13_w_cash",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Do you prefer to pay with cash or card?",
+          "examplePt": "Preferes pagar com dinheiro ou cartão?"
         },
         {
           "en": "card",
           "pt": "cartão",
           "ipa": "",
           "audioKey": "a1_a1-u21-l13_w_card",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Insert your debit card into the terminal.",
+          "examplePt": "Insere o teu cartão de débito no terminal."
         }
       ],
       "guidedReading": {
@@ -2181,8 +2181,8 @@
           "pt": "cartão",
           "ipa": "",
           "audioKey": "a1_a1-u21-l14_w_card",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Insert your debit card into the terminal.",
+          "examplePt": "Insere o teu cartão de débito no terminal."
         }
       ],
       "guidedReading": {
@@ -2300,32 +2300,32 @@
           "pt": "tamanho",
           "ipa": "",
           "audioKey": "a1_a1-u21-l15_w_size",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "What size shirt are you looking for?",
+          "examplePt": "Que tamanho de camisa estás à procura?"
         },
         {
           "en": "small",
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u21-l15_w_small",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         },
         {
           "en": "medium",
           "pt": "médio",
           "ipa": "",
           "audioKey": "a1_a1-u21-l15_w_medium",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "This medium jacket fits you perfectly.",
+          "examplePt": "Este casaco de tamanho médio fica-te perfeito."
         },
         {
           "en": "large",
           "pt": "grande",
           "ipa": "",
           "audioKey": "a1_a1-u21-l15_w_large",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "We need a large box to pack the books.",
+          "examplePt": "Precisamos de uma caixa grande para embalar os livros."
         }
       ],
       "guidedReading": {
@@ -2523,32 +2523,32 @@
           "pt": "grande",
           "ipa": "",
           "audioKey": "a1_a1-u21-l16_w_large",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "We need a large box to pack the books.",
+          "examplePt": "Precisamos de uma caixa grande para embalar os livros."
         },
         {
           "en": "try on",
           "pt": "provar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l16_w_try-on",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Can I try on these shoes before purchasing?",
+          "examplePt": "Posso provar estes sapatos antes de comprar?"
         },
         {
           "en": "pay",
           "pt": "pagar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l16_w_pay",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "You can pay using M-Pesa or cash.",
+          "examplePt": "Podes pagar usando M-Pesa ou dinheiro em espécie."
         },
         {
           "en": "cash",
           "pt": "dinheiro",
           "ipa": "",
           "audioKey": "a1_a1-u21-l16_w_cash",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Do you prefer to pay with cash or card?",
+          "examplePt": "Preferes pagar com dinheiro ou cartão?"
         }
       ],
       "guidedReading": {
@@ -2685,16 +2685,16 @@
           "pt": "dinheiro",
           "ipa": "",
           "audioKey": "a1_a1-u21-l17_w_cash",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Do you prefer to pay with cash or card?",
+          "examplePt": "Preferes pagar com dinheiro ou cartão?"
         },
         {
           "en": "card",
           "pt": "cartão",
           "ipa": "",
           "audioKey": "a1_a1-u21-l17_w_card",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Insert your debit card into the terminal.",
+          "examplePt": "Insere o teu cartão de débito no terminal."
         }
       ],
       "guidedReading": {
@@ -2820,32 +2820,32 @@
           "pt": "roupa",
           "ipa": "",
           "audioKey": "a1_a1-u21-l18_w_clothes",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Fold your clean clothes neatly in the wardrobe.",
+          "examplePt": "Dobra as tuas roupas lavadas com cuidado no guarda-fato."
         },
         {
           "en": "size",
           "pt": "tamanho",
           "ipa": "",
           "audioKey": "a1_a1-u21-l18_w_size",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "What size shirt are you looking for?",
+          "examplePt": "Que tamanho de camisa estás à procura?"
         },
         {
           "en": "small",
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u21-l18_w_small",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         },
         {
           "en": "medium",
           "pt": "médio",
           "ipa": "",
           "audioKey": "a1_a1-u21-l18_w_medium",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "This medium jacket fits you perfectly.",
+          "examplePt": "Este casaco de tamanho médio fica-te perfeito."
         }
       ],
       "guidedReading": {
@@ -2999,32 +2999,32 @@
           "pt": "médio",
           "ipa": "",
           "audioKey": "a1_a1-u21-l19_w_medium",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "This medium jacket fits you perfectly.",
+          "examplePt": "Este casaco de tamanho médio fica-te perfeito."
         },
         {
           "en": "large",
           "pt": "grande",
           "ipa": "",
           "audioKey": "a1_a1-u21-l19_w_large",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "We need a large box to pack the books.",
+          "examplePt": "Precisamos de uma caixa grande para embalar os livros."
         },
         {
           "en": "try on",
           "pt": "provar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l19_w_try-on",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Can I try on these shoes before purchasing?",
+          "examplePt": "Posso provar estes sapatos antes de comprar?"
         },
         {
           "en": "pay",
           "pt": "pagar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l19_w_pay",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "You can pay using M-Pesa or cash.",
+          "examplePt": "Podes pagar usando M-Pesa ou dinheiro em espécie."
         }
       ],
       "guidedReading": {
@@ -3180,24 +3180,24 @@
           "pt": "pagar",
           "ipa": "",
           "audioKey": "a1_a1-u21-l20_w_pay",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "You can pay using M-Pesa or cash.",
+          "examplePt": "Podes pagar usando M-Pesa ou dinheiro em espécie."
         },
         {
           "en": "cash",
           "pt": "dinheiro",
           "ipa": "",
           "audioKey": "a1_a1-u21-l20_w_cash",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Do you prefer to pay with cash or card?",
+          "examplePt": "Preferes pagar com dinheiro ou cartão?"
         },
         {
           "en": "card",
           "pt": "cartão",
           "ipa": "",
           "audioKey": "a1_a1-u21-l20_w_card",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Insert your debit card into the terminal.",
+          "examplePt": "Insere o teu cartão de débito no terminal."
         }
       ],
       "guidedReading": {

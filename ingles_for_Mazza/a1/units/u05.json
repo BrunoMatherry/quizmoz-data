@@ -37,32 +37,32 @@
           "pt": "mãe",
           "ipa": "",
           "audioKey": "a1_a1-u05-l01_w_mother",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "My mother makes the best matapa.",
+          "examplePt": "A minha mãe faz a melhor matapa."
         },
         {
           "en": "father",
           "pt": "pai",
           "ipa": "",
           "audioKey": "a1_a1-u05-l01_w_father",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "My father works at the port of Beira.",
+          "examplePt": "O meu pai trabalha no porto da Beira."
         },
         {
           "en": "parents",
           "pt": "pais",
           "ipa": "",
           "audioKey": "a1_a1-u05-l01_w_parents",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "My parents live together in Tete.",
+          "examplePt": "Os meus pais vivem juntos em Tete."
         },
         {
           "en": "sister",
           "pt": "irmã",
           "ipa": "",
           "audioKey": "a1_a1-u05-l01_w_sister",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "My sister is studying biology at university.",
+          "examplePt": "A minha irmã está a estudar biologia na universidade."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "irmã",
           "ipa": "",
           "audioKey": "a1_a1-u05-l02_w_sister",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "My sister is studying biology at university.",
+          "examplePt": "A minha irmã está a estudar biologia na universidade."
         },
         {
           "en": "brother",
           "pt": "irmão",
           "ipa": "",
           "audioKey": "a1_a1-u05-l02_w_brother",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "My older brother plays football well.",
+          "examplePt": "O meu irmão mais velho joga bem futebol."
         },
         {
           "en": "son",
           "pt": "filho",
           "ipa": "",
           "audioKey": "a1_a1-u05-l02_w_son",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Their son is learning to ride a bike.",
+          "examplePt": "O filho deles está a aprender a andar de bicicleta."
         },
         {
           "en": "daughter",
           "pt": "filha",
           "ipa": "",
           "audioKey": "a1_a1-u05-l02_w_daughter",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Her daughter received a school award.",
+          "examplePt": "A filha dela recebeu um prémio na escola."
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "filha",
           "ipa": "",
           "audioKey": "a1_a1-u05-l03_w_daughter",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Her daughter received a school award.",
+          "examplePt": "A filha dela recebeu um prémio na escola."
         },
         {
           "en": "baby",
           "pt": "bebê",
           "ipa": "",
           "audioKey": "a1_a1-u05-l03_w_baby",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The baby fell asleep peacefully.",
+          "examplePt": "O bebé adormeceu tranquilamente."
         },
         {
           "en": "grandmother",
           "pt": "avó",
           "ipa": "",
           "audioKey": "a1_a1-u05-l03_w_grandmother",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Grandmother tells stories under the mango tree.",
+          "examplePt": "A avó conta histórias debaixo da mangueira."
         },
         {
           "en": "grandfather",
           "pt": "avô",
           "ipa": "",
           "audioKey": "a1_a1-u05-l03_w_grandfather",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Grandfather showed me how to fish.",
+          "examplePt": "O avô ensinou-me a pescar."
         }
       ],
       "guidedReading": {
@@ -519,32 +519,32 @@
           "pt": "avô",
           "ipa": "",
           "audioKey": "a1_a1-u05-l04_w_grandfather",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Grandfather showed me how to fish.",
+          "examplePt": "O avô ensinou-me a pescar."
         },
         {
           "en": "family",
           "pt": "família",
           "ipa": "",
           "audioKey": "a1_a1-u05-l04_w_family",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Family always supports each other.",
+          "examplePt": "A família apoia-se sempre uns aos outros."
         },
         {
           "en": "my",
           "pt": "meu/minha",
           "ipa": "",
           "audioKey": "a1_a1-u05-l04_w_my",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "This is my favourite English textbook.",
+          "examplePt": "Este é o meu manual de inglês favorito."
         },
         {
           "en": "your",
           "pt": "teu/tua",
           "ipa": "",
           "audioKey": "a1_a1-u05-l04_w_your",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Where did you put your school bag?",
+          "examplePt": "Onde puseste a tua mochila da escola?"
         }
       ],
       "guidedReading": {
@@ -681,32 +681,32 @@
           "pt": "teu/tua",
           "ipa": "",
           "audioKey": "a1_a1-u05-l05_w_your",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Where did you put your school bag?",
+          "examplePt": "Onde puseste a tua mochila da escola?"
         },
         {
           "en": "his",
           "pt": "dele",
           "ipa": "",
           "audioKey": "a1_a1-u05-l05_w_his",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "His car is parked near the church.",
+          "examplePt": "O carro dele está estacionado perto da igreja."
         },
         {
           "en": "her",
           "pt": "dela",
           "ipa": "",
           "audioKey": "a1_a1-u05-l05_w_her",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Her dress is made of colourful capulana.",
+          "examplePt": "O vestido dela é feito de capulana colorida."
         },
         {
           "en": "our",
           "pt": "nosso",
           "ipa": "",
           "audioKey": "a1_a1-u05-l05_w_our",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Our city has changed a lot recently.",
+          "examplePt": "A nossa cidade mudou muito recentemente."
         }
       ],
       "guidedReading": {
@@ -904,32 +904,32 @@
           "pt": "nosso",
           "ipa": "",
           "audioKey": "a1_a1-u05-l06_w_our",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Our city has changed a lot recently.",
+          "examplePt": "A nossa cidade mudou muito recentemente."
         },
         {
           "en": "friend",
           "pt": "amigo/a",
           "ipa": "",
           "audioKey": "a1_a1-u05-l06_w_friend",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "A good friend is always by your side.",
+          "examplePt": "Um bom amigo está sempre ao teu lado."
         },
         {
           "en": "wife",
           "pt": "esposa",
           "ipa": "",
           "audioKey": "a1_a1-u05-l06_w_wife",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "He and his wife built a lovely house.",
+          "examplePt": "Ele e a esposa construíram uma linda casa."
         },
         {
           "en": "husband",
           "pt": "marido",
           "ipa": "",
           "audioKey": "a1_a1-u05-l06_w_husband",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Her husband works as an engineer.",
+          "examplePt": "O marido dela trabalha como engenheiro."
         }
       ],
       "guidedReading": {
@@ -1083,8 +1083,8 @@
           "pt": "marido",
           "ipa": "",
           "audioKey": "a1_a1-u05-l07_w_husband",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Her husband works as an engineer.",
+          "examplePt": "O marido dela trabalha como engenheiro."
         }
       ],
       "guidedReading": {
@@ -1239,32 +1239,32 @@
           "pt": "pais",
           "ipa": "",
           "audioKey": "a1_a1-u05-l08_w_parents",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "My parents live together in Tete.",
+          "examplePt": "Os meus pais vivem juntos em Tete."
         },
         {
           "en": "sister",
           "pt": "irmã",
           "ipa": "",
           "audioKey": "a1_a1-u05-l08_w_sister",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "My sister is studying biology at university.",
+          "examplePt": "A minha irmã está a estudar biologia na universidade."
         },
         {
           "en": "brother",
           "pt": "irmão",
           "ipa": "",
           "audioKey": "a1_a1-u05-l08_w_brother",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "My older brother plays football well.",
+          "examplePt": "O meu irmão mais velho joga bem futebol."
         },
         {
           "en": "son",
           "pt": "filho",
           "ipa": "",
           "audioKey": "a1_a1-u05-l08_w_son",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Their son is learning to ride a bike.",
+          "examplePt": "O filho deles está a aprender a andar de bicicleta."
         }
       ],
       "guidedReading": {
@@ -1382,32 +1382,32 @@
           "pt": "filho",
           "ipa": "",
           "audioKey": "a1_a1-u05-l09_w_son",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Their son is learning to ride a bike.",
+          "examplePt": "O filho deles está a aprender a andar de bicicleta."
         },
         {
           "en": "daughter",
           "pt": "filha",
           "ipa": "",
           "audioKey": "a1_a1-u05-l09_w_daughter",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Her daughter received a school award.",
+          "examplePt": "A filha dela recebeu um prémio na escola."
         },
         {
           "en": "baby",
           "pt": "bebê",
           "ipa": "",
           "audioKey": "a1_a1-u05-l09_w_baby",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "The baby fell asleep peacefully.",
+          "examplePt": "O bebé adormeceu tranquilamente."
         },
         {
           "en": "grandmother",
           "pt": "avó",
           "ipa": "",
           "audioKey": "a1_a1-u05-l09_w_grandmother",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Grandmother tells stories under the mango tree.",
+          "examplePt": "A avó conta histórias debaixo da mangueira."
         }
       ],
       "guidedReading": {
@@ -1540,32 +1540,32 @@
           "pt": "avó",
           "ipa": "",
           "audioKey": "a1_a1-u05-l10_w_grandmother",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Grandmother tells stories under the mango tree.",
+          "examplePt": "A avó conta histórias debaixo da mangueira."
         },
         {
           "en": "grandfather",
           "pt": "avô",
           "ipa": "",
           "audioKey": "a1_a1-u05-l10_w_grandfather",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Grandfather showed me how to fish.",
+          "examplePt": "O avô ensinou-me a pescar."
         },
         {
           "en": "family",
           "pt": "família",
           "ipa": "",
           "audioKey": "a1_a1-u05-l10_w_family",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Family always supports each other.",
+          "examplePt": "A família apoia-se sempre uns aos outros."
         },
         {
           "en": "my",
           "pt": "meu/minha",
           "ipa": "",
           "audioKey": "a1_a1-u05-l10_w_my",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "This is my favourite English textbook.",
+          "examplePt": "Este é o meu manual de inglês favorito."
         }
       ],
       "guidedReading": {
@@ -1695,32 +1695,32 @@
           "pt": "meu/minha",
           "ipa": "",
           "audioKey": "a1_a1-u05-l11_w_my",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "This is my favourite English textbook.",
+          "examplePt": "Este é o meu manual de inglês favorito."
         },
         {
           "en": "your",
           "pt": "teu/tua",
           "ipa": "",
           "audioKey": "a1_a1-u05-l11_w_your",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Where did you put your school bag?",
+          "examplePt": "Onde puseste a tua mochila da escola?"
         },
         {
           "en": "his",
           "pt": "dele",
           "ipa": "",
           "audioKey": "a1_a1-u05-l11_w_his",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "His car is parked near the church.",
+          "examplePt": "O carro dele está estacionado perto da igreja."
         },
         {
           "en": "her",
           "pt": "dela",
           "ipa": "",
           "audioKey": "a1_a1-u05-l11_w_her",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Her dress is made of colourful capulana.",
+          "examplePt": "O vestido dela é feito de capulana colorida."
         }
       ],
       "guidedReading": {
@@ -1846,32 +1846,32 @@
           "pt": "dela",
           "ipa": "",
           "audioKey": "a1_a1-u05-l12_w_her",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Her dress is made of colourful capulana.",
+          "examplePt": "O vestido dela é feito de capulana colorida."
         },
         {
           "en": "our",
           "pt": "nosso",
           "ipa": "",
           "audioKey": "a1_a1-u05-l12_w_our",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Our city has changed a lot recently.",
+          "examplePt": "A nossa cidade mudou muito recentemente."
         },
         {
           "en": "friend",
           "pt": "amigo/a",
           "ipa": "",
           "audioKey": "a1_a1-u05-l12_w_friend",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "A good friend is always by your side.",
+          "examplePt": "Um bom amigo está sempre ao teu lado."
         },
         {
           "en": "wife",
           "pt": "esposa",
           "ipa": "",
           "audioKey": "a1_a1-u05-l12_w_wife",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "He and his wife built a lovely house.",
+          "examplePt": "Ele e a esposa construíram uma linda casa."
         }
       ],
       "guidedReading": {
@@ -2025,16 +2025,16 @@
           "pt": "esposa",
           "ipa": "",
           "audioKey": "a1_a1-u05-l13_w_wife",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "He and his wife built a lovely house.",
+          "examplePt": "Ele e a esposa construíram uma linda casa."
         },
         {
           "en": "husband",
           "pt": "marido",
           "ipa": "",
           "audioKey": "a1_a1-u05-l13_w_husband",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Her husband works as an engineer.",
+          "examplePt": "O marido dela trabalha como engenheiro."
         }
       ],
       "guidedReading": {
@@ -2189,32 +2189,32 @@
           "pt": "pai",
           "ipa": "",
           "audioKey": "a1_a1-u05-l14_w_father",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "My father works at the port of Beira.",
+          "examplePt": "O meu pai trabalha no porto da Beira."
         },
         {
           "en": "parents",
           "pt": "pais",
           "ipa": "",
           "audioKey": "a1_a1-u05-l14_w_parents",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "My parents live together in Tete.",
+          "examplePt": "Os meus pais vivem juntos em Tete."
         },
         {
           "en": "sister",
           "pt": "irmã",
           "ipa": "",
           "audioKey": "a1_a1-u05-l14_w_sister",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "My sister is studying biology at university.",
+          "examplePt": "A minha irmã está a estudar biologia na universidade."
         },
         {
           "en": "brother",
           "pt": "irmão",
           "ipa": "",
           "audioKey": "a1_a1-u05-l14_w_brother",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "My older brother plays football well.",
+          "examplePt": "O meu irmão mais velho joga bem futebol."
         }
       ],
       "guidedReading": {
@@ -2332,32 +2332,32 @@
           "pt": "irmão",
           "ipa": "",
           "audioKey": "a1_a1-u05-l15_w_brother",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "My older brother plays football well.",
+          "examplePt": "O meu irmão mais velho joga bem futebol."
         },
         {
           "en": "son",
           "pt": "filho",
           "ipa": "",
           "audioKey": "a1_a1-u05-l15_w_son",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Their son is learning to ride a bike.",
+          "examplePt": "O filho deles está a aprender a andar de bicicleta."
         },
         {
           "en": "daughter",
           "pt": "filha",
           "ipa": "",
           "audioKey": "a1_a1-u05-l15_w_daughter",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Her daughter received a school award.",
+          "examplePt": "A filha dela recebeu um prémio na escola."
         },
         {
           "en": "baby",
           "pt": "bebê",
           "ipa": "",
           "audioKey": "a1_a1-u05-l15_w_baby",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "The baby fell asleep peacefully.",
+          "examplePt": "O bebé adormeceu tranquilamente."
         }
       ],
       "guidedReading": {
@@ -2555,32 +2555,32 @@
           "pt": "bebê",
           "ipa": "",
           "audioKey": "a1_a1-u05-l16_w_baby",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The baby fell asleep peacefully.",
+          "examplePt": "O bebé adormeceu tranquilamente."
         },
         {
           "en": "grandmother",
           "pt": "avó",
           "ipa": "",
           "audioKey": "a1_a1-u05-l16_w_grandmother",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Grandmother tells stories under the mango tree.",
+          "examplePt": "A avó conta histórias debaixo da mangueira."
         },
         {
           "en": "grandfather",
           "pt": "avô",
           "ipa": "",
           "audioKey": "a1_a1-u05-l16_w_grandfather",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Grandfather showed me how to fish.",
+          "examplePt": "O avô ensinou-me a pescar."
         },
         {
           "en": "family",
           "pt": "família",
           "ipa": "",
           "audioKey": "a1_a1-u05-l16_w_family",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Family always supports each other.",
+          "examplePt": "A família apoia-se sempre uns aos outros."
         }
       ],
       "guidedReading": {
@@ -2717,32 +2717,32 @@
           "pt": "família",
           "ipa": "",
           "audioKey": "a1_a1-u05-l17_w_family",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Family always supports each other.",
+          "examplePt": "A família apoia-se sempre uns aos outros."
         },
         {
           "en": "my",
           "pt": "meu/minha",
           "ipa": "",
           "audioKey": "a1_a1-u05-l17_w_my",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "This is my favourite English textbook.",
+          "examplePt": "Este é o meu manual de inglês favorito."
         },
         {
           "en": "your",
           "pt": "teu/tua",
           "ipa": "",
           "audioKey": "a1_a1-u05-l17_w_your",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Where did you put your school bag?",
+          "examplePt": "Onde puseste a tua mochila da escola?"
         },
         {
           "en": "his",
           "pt": "dele",
           "ipa": "",
           "audioKey": "a1_a1-u05-l17_w_his",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "His car is parked near the church.",
+          "examplePt": "O carro dele está estacionado perto da igreja."
         }
       ],
       "guidedReading": {
@@ -2868,32 +2868,32 @@
           "pt": "dele",
           "ipa": "",
           "audioKey": "a1_a1-u05-l18_w_his",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "His car is parked near the church.",
+          "examplePt": "O carro dele está estacionado perto da igreja."
         },
         {
           "en": "her",
           "pt": "dela",
           "ipa": "",
           "audioKey": "a1_a1-u05-l18_w_her",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Her dress is made of colourful capulana.",
+          "examplePt": "O vestido dela é feito de capulana colorida."
         },
         {
           "en": "our",
           "pt": "nosso",
           "ipa": "",
           "audioKey": "a1_a1-u05-l18_w_our",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Our city has changed a lot recently.",
+          "examplePt": "A nossa cidade mudou muito recentemente."
         },
         {
           "en": "friend",
           "pt": "amigo/a",
           "ipa": "",
           "audioKey": "a1_a1-u05-l18_w_friend",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "A good friend is always by your side.",
+          "examplePt": "Um bom amigo está sempre ao teu lado."
         }
       ],
       "guidedReading": {
@@ -3047,24 +3047,24 @@
           "pt": "amigo/a",
           "ipa": "",
           "audioKey": "a1_a1-u05-l19_w_friend",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "A good friend is always by your side.",
+          "examplePt": "Um bom amigo está sempre ao teu lado."
         },
         {
           "en": "wife",
           "pt": "esposa",
           "ipa": "",
           "audioKey": "a1_a1-u05-l19_w_wife",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "He and his wife built a lovely house.",
+          "examplePt": "Ele e a esposa construíram uma linda casa."
         },
         {
           "en": "husband",
           "pt": "marido",
           "ipa": "",
           "audioKey": "a1_a1-u05-l19_w_husband",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Her husband works as an engineer.",
+          "examplePt": "O marido dela trabalha como engenheiro."
         }
       ],
       "guidedReading": {
@@ -3220,32 +3220,32 @@
           "pt": "mãe",
           "ipa": "",
           "audioKey": "a1_a1-u05-l20_w_mother",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "My mother makes the best matapa.",
+          "examplePt": "A minha mãe faz a melhor matapa."
         },
         {
           "en": "father",
           "pt": "pai",
           "ipa": "",
           "audioKey": "a1_a1-u05-l20_w_father",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "My father works at the port of Beira.",
+          "examplePt": "O meu pai trabalha no porto da Beira."
         },
         {
           "en": "parents",
           "pt": "pais",
           "ipa": "",
           "audioKey": "a1_a1-u05-l20_w_parents",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "My parents live together in Tete.",
+          "examplePt": "Os meus pais vivem juntos em Tete."
         },
         {
           "en": "sister",
           "pt": "irmã",
           "ipa": "",
           "audioKey": "a1_a1-u05-l20_w_sister",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "My sister is studying biology at university.",
+          "examplePt": "A minha irmã está a estudar biologia na universidade."
         }
       ],
       "guidedReading": {

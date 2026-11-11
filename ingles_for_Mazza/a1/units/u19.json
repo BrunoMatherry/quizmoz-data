@@ -37,32 +37,32 @@
           "pt": "animal",
           "ipa": "",
           "audioKey": "a1_a1-u19-l01_w_animal",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Gorongosa National Park protects many animal species.",
+          "examplePt": "O Parque Nacional da Gorongosa protege muitas espécies de animais."
         },
         {
           "en": "lion",
           "pt": "leão",
           "ipa": "",
           "audioKey": "a1_a1-u19-l01_w_lion",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The majestic lion rested quietly under the acacia tree.",
+          "examplePt": "O leão majestoso descansava calmamente debaixo da acácia."
         },
         {
           "en": "elephant",
           "pt": "elefante",
           "ipa": "",
           "audioKey": "a1_a1-u19-l01_w_elephant",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "A herd of elephants crossed the wide savannah.",
+          "examplePt": "Uma manada de elefantes atravessou a vasta savana."
         },
         {
           "en": "bird",
           "pt": "pássaro",
           "ipa": "",
           "audioKey": "a1_a1-u19-l01_w_bird",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "A colourful sea bird glided over the bay.",
+          "examplePt": "Um pássaro marinho colorido planou sobre a baía."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "pássaro",
           "ipa": "",
           "audioKey": "a1_a1-u19-l02_w_bird",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "A colourful sea bird glided over the bay.",
+          "examplePt": "Um pássaro marinho colorido planou sobre a baía."
         },
         {
           "en": "fish",
           "pt": "peixe",
           "ipa": "",
           "audioKey": "a1_a1-u19-l02_w_fish",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Fresh fish is caught daily in Vilankulo.",
+          "examplePt": "Peixe fresco é pescado diariamente em Vilankulo."
         },
         {
           "en": "tree",
           "pt": "árvore",
           "ipa": "",
           "audioKey": "a1_a1-u19-l02_w_tree",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The coconut tree sways gently in the breeze.",
+          "examplePt": "O coqueiro balança suavemente com a brisa."
         },
         {
           "en": "river",
           "pt": "rio",
           "ipa": "",
           "audioKey": "a1_a1-u19-l02_w_river",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The Zambezi River flows steadily toward the ocean.",
+          "examplePt": "O rio Zambeze corre serenamente em direção ao oceano."
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "rio",
           "ipa": "",
           "audioKey": "a1_a1-u19-l03_w_river",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The Zambezi River flows steadily toward the ocean.",
+          "examplePt": "O rio Zambeze corre serenamente em direção ao oceano."
         },
         {
           "en": "sea",
           "pt": "mar",
           "ipa": "",
           "audioKey": "a1_a1-u19-l03_w_sea",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The sea was calm and crystal clear.",
+          "examplePt": "O mar estava calmo e cristalino."
         },
         {
           "en": "park",
           "pt": "parque",
           "ipa": "",
           "audioKey": "a1_a1-u19-l03_w_park",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Children enjoy running in the municipal park.",
+          "examplePt": "As crianças gostam de correr no parque municipal."
         },
         {
           "en": "mountain",
           "pt": "montanha",
           "ipa": "",
           "audioKey": "a1_a1-u19-l03_w_mountain",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Mount Binga is the highest mountain in Mozambique.",
+          "examplePt": "O Monte Binga é a montanha mais alta de Moçambique."
         }
       ],
       "guidedReading": {
@@ -519,32 +519,32 @@
           "pt": "montanha",
           "ipa": "",
           "audioKey": "a1_a1-u19-l04_w_mountain",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Mount Binga is the highest mountain in Mozambique.",
+          "examplePt": "O Monte Binga é a montanha mais alta de Moçambique."
         },
         {
           "en": "beautiful",
           "pt": "bonito",
           "ipa": "",
           "audioKey": "a1_a1-u19-l04_w_beautiful",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "The sunrise across the bay is truly beautiful.",
+          "examplePt": "O nascer do sol pela baía é verdadeiramente bonito."
         },
         {
           "en": "big",
           "pt": "grande",
           "ipa": "",
           "audioKey": "a1_a1-u19-l04_w_big",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "The central port handles big cargo ships.",
+          "examplePt": "O porto central recebe navios de carga grandes."
         },
         {
           "en": "small",
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u19-l04_w_small",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         }
       ],
       "guidedReading": {
@@ -681,8 +681,8 @@
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u19-l05_w_small",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         }
       ],
       "guidedReading": {
@@ -880,32 +880,32 @@
           "pt": "elefante",
           "ipa": "",
           "audioKey": "a1_a1-u19-l06_w_elephant",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "A herd of elephants crossed the wide savannah.",
+          "examplePt": "Uma manada de elefantes atravessou a vasta savana."
         },
         {
           "en": "bird",
           "pt": "pássaro",
           "ipa": "",
           "audioKey": "a1_a1-u19-l06_w_bird",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "A colourful sea bird glided over the bay.",
+          "examplePt": "Um pássaro marinho colorido planou sobre a baía."
         },
         {
           "en": "fish",
           "pt": "peixe",
           "ipa": "",
           "audioKey": "a1_a1-u19-l06_w_fish",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Fresh fish is caught daily in Vilankulo.",
+          "examplePt": "Peixe fresco é pescado diariamente em Vilankulo."
         },
         {
           "en": "tree",
           "pt": "árvore",
           "ipa": "",
           "audioKey": "a1_a1-u19-l06_w_tree",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "The coconut tree sways gently in the breeze.",
+          "examplePt": "O coqueiro balança suavemente com a brisa."
         }
       ],
       "guidedReading": {
@@ -1059,32 +1059,32 @@
           "pt": "árvore",
           "ipa": "",
           "audioKey": "a1_a1-u19-l07_w_tree",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The coconut tree sways gently in the breeze.",
+          "examplePt": "O coqueiro balança suavemente com a brisa."
         },
         {
           "en": "river",
           "pt": "rio",
           "ipa": "",
           "audioKey": "a1_a1-u19-l07_w_river",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The Zambezi River flows steadily toward the ocean.",
+          "examplePt": "O rio Zambeze corre serenamente em direção ao oceano."
         },
         {
           "en": "sea",
           "pt": "mar",
           "ipa": "",
           "audioKey": "a1_a1-u19-l07_w_sea",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The sea was calm and crystal clear.",
+          "examplePt": "O mar estava calmo e cristalino."
         },
         {
           "en": "park",
           "pt": "parque",
           "ipa": "",
           "audioKey": "a1_a1-u19-l07_w_park",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Children enjoy running in the municipal park.",
+          "examplePt": "As crianças gostam de correr no parque municipal."
         }
       ],
       "guidedReading": {
@@ -1239,32 +1239,32 @@
           "pt": "parque",
           "ipa": "",
           "audioKey": "a1_a1-u19-l08_w_park",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Children enjoy running in the municipal park.",
+          "examplePt": "As crianças gostam de correr no parque municipal."
         },
         {
           "en": "mountain",
           "pt": "montanha",
           "ipa": "",
           "audioKey": "a1_a1-u19-l08_w_mountain",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Mount Binga is the highest mountain in Mozambique.",
+          "examplePt": "O Monte Binga é a montanha mais alta de Moçambique."
         },
         {
           "en": "beautiful",
           "pt": "bonito",
           "ipa": "",
           "audioKey": "a1_a1-u19-l08_w_beautiful",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "The sunrise across the bay is truly beautiful.",
+          "examplePt": "O nascer do sol pela baía é verdadeiramente bonito."
         },
         {
           "en": "big",
           "pt": "grande",
           "ipa": "",
           "audioKey": "a1_a1-u19-l08_w_big",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "The central port handles big cargo ships.",
+          "examplePt": "O porto central recebe navios de carga grandes."
         }
       ],
       "guidedReading": {
@@ -1382,16 +1382,16 @@
           "pt": "grande",
           "ipa": "",
           "audioKey": "a1_a1-u19-l09_w_big",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "The central port handles big cargo ships.",
+          "examplePt": "O porto central recebe navios de carga grandes."
         },
         {
           "en": "small",
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u19-l09_w_small",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         }
       ],
       "guidedReading": {
@@ -1524,32 +1524,32 @@
           "pt": "leão",
           "ipa": "",
           "audioKey": "a1_a1-u19-l10_w_lion",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "The majestic lion rested quietly under the acacia tree.",
+          "examplePt": "O leão majestoso descansava calmamente debaixo da acácia."
         },
         {
           "en": "elephant",
           "pt": "elefante",
           "ipa": "",
           "audioKey": "a1_a1-u19-l10_w_elephant",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "A herd of elephants crossed the wide savannah.",
+          "examplePt": "Uma manada de elefantes atravessou a vasta savana."
         },
         {
           "en": "bird",
           "pt": "pássaro",
           "ipa": "",
           "audioKey": "a1_a1-u19-l10_w_bird",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "A colourful sea bird glided over the bay.",
+          "examplePt": "Um pássaro marinho colorido planou sobre a baía."
         },
         {
           "en": "fish",
           "pt": "peixe",
           "ipa": "",
           "audioKey": "a1_a1-u19-l10_w_fish",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Fresh fish is caught daily in Vilankulo.",
+          "examplePt": "Peixe fresco é pescado diariamente em Vilankulo."
         }
       ],
       "guidedReading": {
@@ -1679,32 +1679,32 @@
           "pt": "peixe",
           "ipa": "",
           "audioKey": "a1_a1-u19-l11_w_fish",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Fresh fish is caught daily in Vilankulo.",
+          "examplePt": "Peixe fresco é pescado diariamente em Vilankulo."
         },
         {
           "en": "tree",
           "pt": "árvore",
           "ipa": "",
           "audioKey": "a1_a1-u19-l11_w_tree",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The coconut tree sways gently in the breeze.",
+          "examplePt": "O coqueiro balança suavemente com a brisa."
         },
         {
           "en": "river",
           "pt": "rio",
           "ipa": "",
           "audioKey": "a1_a1-u19-l11_w_river",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The Zambezi River flows steadily toward the ocean.",
+          "examplePt": "O rio Zambeze corre serenamente em direção ao oceano."
         },
         {
           "en": "sea",
           "pt": "mar",
           "ipa": "",
           "audioKey": "a1_a1-u19-l11_w_sea",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The sea was calm and crystal clear.",
+          "examplePt": "O mar estava calmo e cristalino."
         }
       ],
       "guidedReading": {
@@ -1830,32 +1830,32 @@
           "pt": "mar",
           "ipa": "",
           "audioKey": "a1_a1-u19-l12_w_sea",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The sea was calm and crystal clear.",
+          "examplePt": "O mar estava calmo e cristalino."
         },
         {
           "en": "park",
           "pt": "parque",
           "ipa": "",
           "audioKey": "a1_a1-u19-l12_w_park",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Children enjoy running in the municipal park.",
+          "examplePt": "As crianças gostam de correr no parque municipal."
         },
         {
           "en": "mountain",
           "pt": "montanha",
           "ipa": "",
           "audioKey": "a1_a1-u19-l12_w_mountain",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Mount Binga is the highest mountain in Mozambique.",
+          "examplePt": "O Monte Binga é a montanha mais alta de Moçambique."
         },
         {
           "en": "beautiful",
           "pt": "bonito",
           "ipa": "",
           "audioKey": "a1_a1-u19-l12_w_beautiful",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The sunrise across the bay is truly beautiful.",
+          "examplePt": "O nascer do sol pela baía é verdadeiramente bonito."
         }
       ],
       "guidedReading": {
@@ -2009,24 +2009,24 @@
           "pt": "bonito",
           "ipa": "",
           "audioKey": "a1_a1-u19-l13_w_beautiful",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The sunrise across the bay is truly beautiful.",
+          "examplePt": "O nascer do sol pela baía é verdadeiramente bonito."
         },
         {
           "en": "big",
           "pt": "grande",
           "ipa": "",
           "audioKey": "a1_a1-u19-l13_w_big",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The central port handles big cargo ships.",
+          "examplePt": "O porto central recebe navios de carga grandes."
         },
         {
           "en": "small",
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u19-l13_w_small",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         }
       ],
       "guidedReading": {
@@ -2181,32 +2181,32 @@
           "pt": "animal",
           "ipa": "",
           "audioKey": "a1_a1-u19-l14_w_animal",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Gorongosa National Park protects many animal species.",
+          "examplePt": "O Parque Nacional da Gorongosa protege muitas espécies de animais."
         },
         {
           "en": "lion",
           "pt": "leão",
           "ipa": "",
           "audioKey": "a1_a1-u19-l14_w_lion",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "The majestic lion rested quietly under the acacia tree.",
+          "examplePt": "O leão majestoso descansava calmamente debaixo da acácia."
         },
         {
           "en": "elephant",
           "pt": "elefante",
           "ipa": "",
           "audioKey": "a1_a1-u19-l14_w_elephant",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "A herd of elephants crossed the wide savannah.",
+          "examplePt": "Uma manada de elefantes atravessou a vasta savana."
         },
         {
           "en": "bird",
           "pt": "pássaro",
           "ipa": "",
           "audioKey": "a1_a1-u19-l14_w_bird",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "A colourful sea bird glided over the bay.",
+          "examplePt": "Um pássaro marinho colorido planou sobre a baía."
         }
       ],
       "guidedReading": {
@@ -2324,32 +2324,32 @@
           "pt": "pássaro",
           "ipa": "",
           "audioKey": "a1_a1-u19-l15_w_bird",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "A colourful sea bird glided over the bay.",
+          "examplePt": "Um pássaro marinho colorido planou sobre a baía."
         },
         {
           "en": "fish",
           "pt": "peixe",
           "ipa": "",
           "audioKey": "a1_a1-u19-l15_w_fish",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Fresh fish is caught daily in Vilankulo.",
+          "examplePt": "Peixe fresco é pescado diariamente em Vilankulo."
         },
         {
           "en": "tree",
           "pt": "árvore",
           "ipa": "",
           "audioKey": "a1_a1-u19-l15_w_tree",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "The coconut tree sways gently in the breeze.",
+          "examplePt": "O coqueiro balança suavemente com a brisa."
         },
         {
           "en": "river",
           "pt": "rio",
           "ipa": "",
           "audioKey": "a1_a1-u19-l15_w_river",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "The Zambezi River flows steadily toward the ocean.",
+          "examplePt": "O rio Zambeze corre serenamente em direção ao oceano."
         }
       ],
       "guidedReading": {
@@ -2547,32 +2547,32 @@
           "pt": "rio",
           "ipa": "",
           "audioKey": "a1_a1-u19-l16_w_river",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The Zambezi River flows steadily toward the ocean.",
+          "examplePt": "O rio Zambeze corre serenamente em direção ao oceano."
         },
         {
           "en": "sea",
           "pt": "mar",
           "ipa": "",
           "audioKey": "a1_a1-u19-l16_w_sea",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The sea was calm and crystal clear.",
+          "examplePt": "O mar estava calmo e cristalino."
         },
         {
           "en": "park",
           "pt": "parque",
           "ipa": "",
           "audioKey": "a1_a1-u19-l16_w_park",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Children enjoy running in the municipal park.",
+          "examplePt": "As crianças gostam de correr no parque municipal."
         },
         {
           "en": "mountain",
           "pt": "montanha",
           "ipa": "",
           "audioKey": "a1_a1-u19-l16_w_mountain",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Mount Binga is the highest mountain in Mozambique.",
+          "examplePt": "O Monte Binga é a montanha mais alta de Moçambique."
         }
       ],
       "guidedReading": {
@@ -2709,32 +2709,32 @@
           "pt": "montanha",
           "ipa": "",
           "audioKey": "a1_a1-u19-l17_w_mountain",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Mount Binga is the highest mountain in Mozambique.",
+          "examplePt": "O Monte Binga é a montanha mais alta de Moçambique."
         },
         {
           "en": "beautiful",
           "pt": "bonito",
           "ipa": "",
           "audioKey": "a1_a1-u19-l17_w_beautiful",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The sunrise across the bay is truly beautiful.",
+          "examplePt": "O nascer do sol pela baía é verdadeiramente bonito."
         },
         {
           "en": "big",
           "pt": "grande",
           "ipa": "",
           "audioKey": "a1_a1-u19-l17_w_big",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The central port handles big cargo ships.",
+          "examplePt": "O porto central recebe navios de carga grandes."
         },
         {
           "en": "small",
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u19-l17_w_small",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         }
       ],
       "guidedReading": {
@@ -2860,8 +2860,8 @@
           "pt": "pequeno",
           "ipa": "",
           "audioKey": "a1_a1-u19-l18_w_small",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "He lives in a cozy small cottage near the coast.",
+          "examplePt": "Ele vive numa casa pequena e acolhedora perto da costa."
         }
       ],
       "guidedReading": {
@@ -3015,32 +3015,32 @@
           "pt": "elefante",
           "ipa": "",
           "audioKey": "a1_a1-u19-l19_w_elephant",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "A herd of elephants crossed the wide savannah.",
+          "examplePt": "Uma manada de elefantes atravessou a vasta savana."
         },
         {
           "en": "bird",
           "pt": "pássaro",
           "ipa": "",
           "audioKey": "a1_a1-u19-l19_w_bird",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "A colourful sea bird glided over the bay.",
+          "examplePt": "Um pássaro marinho colorido planou sobre a baía."
         },
         {
           "en": "fish",
           "pt": "peixe",
           "ipa": "",
           "audioKey": "a1_a1-u19-l19_w_fish",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Fresh fish is caught daily in Vilankulo.",
+          "examplePt": "Peixe fresco é pescado diariamente em Vilankulo."
         },
         {
           "en": "tree",
           "pt": "árvore",
           "ipa": "",
           "audioKey": "a1_a1-u19-l19_w_tree",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The coconut tree sways gently in the breeze.",
+          "examplePt": "O coqueiro balança suavemente com a brisa."
         }
       ],
       "guidedReading": {
@@ -3196,32 +3196,32 @@
           "pt": "árvore",
           "ipa": "",
           "audioKey": "a1_a1-u19-l20_w_tree",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "The coconut tree sways gently in the breeze.",
+          "examplePt": "O coqueiro balança suavemente com a brisa."
         },
         {
           "en": "river",
           "pt": "rio",
           "ipa": "",
           "audioKey": "a1_a1-u19-l20_w_river",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "The Zambezi River flows steadily toward the ocean.",
+          "examplePt": "O rio Zambeze corre serenamente em direção ao oceano."
         },
         {
           "en": "sea",
           "pt": "mar",
           "ipa": "",
           "audioKey": "a1_a1-u19-l20_w_sea",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "The sea was calm and crystal clear.",
+          "examplePt": "O mar estava calmo e cristalino."
         },
         {
           "en": "park",
           "pt": "parque",
           "ipa": "",
           "audioKey": "a1_a1-u19-l20_w_park",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Children enjoy running in the municipal park.",
+          "examplePt": "As crianças gostam de correr no parque municipal."
         }
       ],
       "guidedReading": {

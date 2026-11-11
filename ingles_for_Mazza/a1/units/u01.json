@@ -37,32 +37,32 @@
           "pt": "olá",
           "ipa": "",
           "audioKey": "a1_a1-u01-l01_w_hello",
-          "exampleEn": "Hello. My name is Amina.",
-          "examplePt": "Olá. O meu nome é Amina."
+          "exampleEn": "Hello, how can I help you today?",
+          "examplePt": "Olá, como posso ajudar hoje?"
         },
         {
           "en": "hi",
           "pt": "oi",
           "ipa": "",
           "audioKey": "a1_a1-u01-l01_w_hi",
-          "exampleEn": "Hello. My name is Amina.",
-          "examplePt": "Olá. O meu nome é Amina."
+          "exampleEn": "Hi Maria, good to see you!",
+          "examplePt": "Oi Maria, bom ver-te!"
         },
         {
           "en": "good morning",
           "pt": "bom dia",
           "ipa": "",
           "audioKey": "a1_a1-u01-l01_w_good-morning",
-          "exampleEn": "Hello. My name is Amina.",
-          "examplePt": "Olá. O meu nome é Amina."
+          "exampleEn": "Good morning! Have a productive day.",
+          "examplePt": "Bom dia! Tem um dia produtivo."
         },
         {
           "en": "good afternoon",
           "pt": "boa tarde",
           "ipa": "",
           "audioKey": "a1_a1-u01-l01_w_good-afternoon",
-          "exampleEn": "Hello. My name is Amina.",
-          "examplePt": "Olá. O meu nome é Amina."
+          "exampleEn": "Good afternoon, welcome to our office.",
+          "examplePt": "Boa tarde, bem-vindo ao nosso escritório."
         }
       ],
       "guidedReading": {
@@ -210,32 +210,32 @@
           "pt": "boa tarde",
           "ipa": "",
           "audioKey": "a1_a1-u01-l02_w_good-afternoon",
-          "exampleEn": "Good morning, teacher.",
-          "examplePt": "Bom dia, professor."
+          "exampleEn": "Good afternoon, welcome to our office.",
+          "examplePt": "Boa tarde, bem-vindo ao nosso escritório."
         },
         {
           "en": "good evening",
           "pt": "boa noite",
           "ipa": "",
           "audioKey": "a1_a1-u01-l02_w_good-evening",
-          "exampleEn": "Good morning, teacher.",
-          "examplePt": "Bom dia, professor."
+          "exampleEn": "Good evening, are you ready for dinner?",
+          "examplePt": "Boa noite, estás pronto para o jantar?"
         },
         {
           "en": "goodbye",
           "pt": "adeus",
           "ipa": "",
           "audioKey": "a1_a1-u01-l02_w_goodbye",
-          "exampleEn": "Good morning, teacher.",
-          "examplePt": "Bom dia, professor."
+          "exampleEn": "Goodbye and see you tomorrow!",
+          "examplePt": "Adeus e até amanhã!"
         },
         {
           "en": "bye",
           "pt": "tchau",
           "ipa": "",
           "audioKey": "a1_a1-u01-l02_w_bye",
-          "exampleEn": "Good morning, teacher.",
-          "examplePt": "Bom dia, professor."
+          "exampleEn": "Bye, take good care of yourself!",
+          "examplePt": "Tchau, cuida-te bem!"
         }
       ],
       "guidedReading": {
@@ -346,32 +346,32 @@
           "pt": "tchau",
           "ipa": "",
           "audioKey": "a1_a1-u01-l03_w_bye",
-          "exampleEn": "My name is Carlos.",
-          "examplePt": "O meu nome é Carlos."
+          "exampleEn": "Bye, take good care of yourself!",
+          "examplePt": "Tchau, cuida-te bem!"
         },
         {
           "en": "please",
           "pt": "por favor",
           "ipa": "",
           "audioKey": "a1_a1-u01-l03_w_please",
-          "exampleEn": "My name is Carlos.",
-          "examplePt": "O meu nome é Carlos."
+          "exampleEn": "Could you please pass the water?",
+          "examplePt": "Podes por favor passar a água?"
         },
         {
           "en": "thank you",
           "pt": "obrigado/a",
           "ipa": "",
           "audioKey": "a1_a1-u01-l03_w_thank-you",
-          "exampleEn": "My name is Carlos.",
-          "examplePt": "O meu nome é Carlos."
+          "exampleEn": "Thank you very much for your support.",
+          "examplePt": "Muito obrigado pelo teu apoio."
         },
         {
           "en": "sorry",
           "pt": "desculpa",
           "ipa": "",
           "audioKey": "a1_a1-u01-l03_w_sorry",
-          "exampleEn": "My name is Carlos.",
-          "examplePt": "O meu nome é Carlos."
+          "exampleEn": "I am sorry for being late.",
+          "examplePt": "Desculpa pelo atraso."
         }
       ],
       "guidedReading": {
@@ -498,32 +498,32 @@
           "pt": "desculpa",
           "ipa": "",
           "audioKey": "a1_a1-u01-l04_w_sorry",
-          "exampleEn": "What is your name?",
-          "examplePt": "Qual é o teu nome?"
+          "exampleEn": "I am sorry for being late.",
+          "examplePt": "Desculpa pelo atraso."
         },
         {
           "en": "yes",
           "pt": "sim",
           "ipa": "",
           "audioKey": "a1_a1-u01-l04_w_yes",
-          "exampleEn": "What is your name?",
-          "examplePt": "Qual é o teu nome?"
+          "exampleEn": "Yes, this answer is completely right.",
+          "examplePt": "Sim, esta resposta está completamente certa."
         },
         {
           "en": "no",
           "pt": "não",
           "ipa": "",
           "audioKey": "a1_a1-u01-l04_w_no",
-          "exampleEn": "What is your name?",
-          "examplePt": "Qual é o teu nome?"
+          "exampleEn": "No, there are no chapas left today.",
+          "examplePt": "Não, já não há chapas hoje."
         },
         {
           "en": "name",
           "pt": "nome",
           "ipa": "",
           "audioKey": "a1_a1-u01-l04_w_name",
-          "exampleEn": "What is your name?",
-          "examplePt": "Qual é o teu nome?"
+          "exampleEn": "What is the name of this avenue?",
+          "examplePt": "Qual é o nome desta avenida?"
         }
       ],
       "guidedReading": {
@@ -656,32 +656,32 @@
           "pt": "nome",
           "ipa": "",
           "audioKey": "a1_a1-u01-l05_w_name",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "What is the name of this avenue?",
+          "examplePt": "Qual é o nome desta avenida?"
         },
         {
           "en": "my name is",
           "pt": "o meu nome é",
           "ipa": "",
           "audioKey": "a1_a1-u01-l05_w_my-name-is",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "My name is Amina and I live in Maputo.",
+          "examplePt": "O meu nome é Amina e vivo em Maputo."
         },
         {
           "en": "nice to meet you",
           "pt": "prazer",
           "ipa": "",
           "audioKey": "a1_a1-u01-l05_w_nice-to-meet-you",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "It is very nice to meet you, Carlos.",
+          "examplePt": "É um grande prazer conhecer-te, Carlos."
         },
         {
           "en": "how are you",
           "pt": "como estás",
           "ipa": "",
           "audioKey": "a1_a1-u01-l05_w_how-are-you",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "How are you doing this morning?",
+          "examplePt": "Como estás nesta manhã?"
         }
       ],
       "guidedReading": {
@@ -879,32 +879,32 @@
           "pt": "como estás",
           "ipa": "",
           "audioKey": "a1_a1-u01-l06_w_how-are-you",
-          "exampleEn": "Hi, Amina. How are you?",
-          "examplePt": "Oi, Amina. Como estás?"
+          "exampleEn": "How are you doing this morning?",
+          "examplePt": "Como estás nesta manhã?"
         },
         {
           "en": "I am fine",
           "pt": "estou bem",
           "ipa": "",
           "audioKey": "a1_a1-u01-l06_w_i-am-fine",
-          "exampleEn": "Hi, Amina. How are you?",
-          "examplePt": "Oi, Amina. Como estás?"
+          "exampleEn": "I am fine, thanks for asking!",
+          "examplePt": "Estou bem, obrigado por perguntar!"
         },
         {
           "en": "and you",
           "pt": "e tu",
           "ipa": "",
           "audioKey": "a1_a1-u01-l06_w_and-you",
-          "exampleEn": "Hi, Amina. How are you?",
-          "examplePt": "Oi, Amina. Como estás?"
+          "exampleEn": "I am studying English, and you?",
+          "examplePt": "Estou a estudar inglês, e tu?"
         },
         {
           "en": "welcome",
           "pt": "bem-vindo",
           "ipa": "",
           "audioKey": "a1_a1-u01-l06_w_welcome",
-          "exampleEn": "Hi, Amina. How are you?",
-          "examplePt": "Oi, Amina. Como estás?"
+          "exampleEn": "Welcome to Mozambique!",
+          "examplePt": "Bem-vindo a Moçambique!"
         }
       ],
       "guidedReading": {
@@ -1051,8 +1051,8 @@
           "pt": "bem-vindo",
           "ipa": "",
           "audioKey": "a1_a1-u01-l07_w_welcome",
-          "exampleEn": "I am fine.",
-          "examplePt": "Estou bem."
+          "exampleEn": "Welcome to Mozambique!",
+          "examplePt": "Bem-vindo a Moçambique!"
         }
       ],
       "guidedReading": {
@@ -1200,32 +1200,32 @@
           "pt": "bom dia",
           "ipa": "",
           "audioKey": "a1_a1-u01-l08_w_good-morning",
-          "exampleEn": "A water, please.",
-          "examplePt": "Uma água, por favor."
+          "exampleEn": "Good morning! Have a productive day.",
+          "examplePt": "Bom dia! Tem um dia produtivo."
         },
         {
           "en": "good afternoon",
           "pt": "boa tarde",
           "ipa": "",
           "audioKey": "a1_a1-u01-l08_w_good-afternoon",
-          "exampleEn": "A water, please.",
-          "examplePt": "Uma água, por favor."
+          "exampleEn": "Good afternoon, welcome to our office.",
+          "examplePt": "Boa tarde, bem-vindo ao nosso escritório."
         },
         {
           "en": "good evening",
           "pt": "boa noite",
           "ipa": "",
           "audioKey": "a1_a1-u01-l08_w_good-evening",
-          "exampleEn": "A water, please.",
-          "examplePt": "Uma água, por favor."
+          "exampleEn": "Good evening, are you ready for dinner?",
+          "examplePt": "Boa noite, estás pronto para o jantar?"
         },
         {
           "en": "goodbye",
           "pt": "adeus",
           "ipa": "",
           "audioKey": "a1_a1-u01-l08_w_goodbye",
-          "exampleEn": "A water, please.",
-          "examplePt": "Uma água, por favor."
+          "exampleEn": "Goodbye and see you tomorrow!",
+          "examplePt": "Adeus e até amanhã!"
         }
       ],
       "guidedReading": {
@@ -1336,32 +1336,32 @@
           "pt": "adeus",
           "ipa": "",
           "audioKey": "a1_a1-u01-l09_w_goodbye",
-          "exampleEn": "Sorry I am late.",
-          "examplePt": "Desculpa, estou atrasado."
+          "exampleEn": "Goodbye and see you tomorrow!",
+          "examplePt": "Adeus e até amanhã!"
         },
         {
           "en": "bye",
           "pt": "tchau",
           "ipa": "",
           "audioKey": "a1_a1-u01-l09_w_bye",
-          "exampleEn": "Sorry I am late.",
-          "examplePt": "Desculpa, estou atrasado."
+          "exampleEn": "Bye, take good care of yourself!",
+          "examplePt": "Tchau, cuida-te bem!"
         },
         {
           "en": "please",
           "pt": "por favor",
           "ipa": "",
           "audioKey": "a1_a1-u01-l09_w_please",
-          "exampleEn": "Sorry I am late.",
-          "examplePt": "Desculpa, estou atrasado."
+          "exampleEn": "Could you please pass the water?",
+          "examplePt": "Podes por favor passar a água?"
         },
         {
           "en": "thank you",
           "pt": "obrigado/a",
           "ipa": "",
           "audioKey": "a1_a1-u01-l09_w_thank-you",
-          "exampleEn": "Sorry I am late.",
-          "examplePt": "Desculpa, estou atrasado."
+          "exampleEn": "Thank you very much for your support.",
+          "examplePt": "Muito obrigado pelo teu apoio."
         }
       ],
       "guidedReading": {
@@ -1487,32 +1487,32 @@
           "pt": "obrigado/a",
           "ipa": "",
           "audioKey": "a1_a1-u01-l10_w_thank-you",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Thank you very much for your support.",
+          "examplePt": "Muito obrigado pelo teu apoio."
         },
         {
           "en": "sorry",
           "pt": "desculpa",
           "ipa": "",
           "audioKey": "a1_a1-u01-l10_w_sorry",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "I am sorry for being late.",
+          "examplePt": "Desculpa pelo atraso."
         },
         {
           "en": "yes",
           "pt": "sim",
           "ipa": "",
           "audioKey": "a1_a1-u01-l10_w_yes",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Yes, this answer is completely right.",
+          "examplePt": "Sim, esta resposta está completamente certa."
         },
         {
           "en": "no",
           "pt": "não",
           "ipa": "",
           "audioKey": "a1_a1-u01-l10_w_no",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "No, there are no chapas left today.",
+          "examplePt": "Não, já não há chapas hoje."
         }
       ],
       "guidedReading": {
@@ -1645,32 +1645,32 @@
           "pt": "não",
           "ipa": "",
           "audioKey": "a1_a1-u01-l11_w_no",
-          "exampleEn": "Goodbye, see you tomorrow.",
-          "examplePt": "Adeus, até amanhã."
+          "exampleEn": "No, there are no chapas left today.",
+          "examplePt": "Não, já não há chapas hoje."
         },
         {
           "en": "name",
           "pt": "nome",
           "ipa": "",
           "audioKey": "a1_a1-u01-l11_w_name",
-          "exampleEn": "Goodbye, see you tomorrow.",
-          "examplePt": "Adeus, até amanhã."
+          "exampleEn": "What is the name of this avenue?",
+          "examplePt": "Qual é o nome desta avenida?"
         },
         {
           "en": "my name is",
           "pt": "o meu nome é",
           "ipa": "",
           "audioKey": "a1_a1-u01-l11_w_my-name-is",
-          "exampleEn": "Goodbye, see you tomorrow.",
-          "examplePt": "Adeus, até amanhã."
+          "exampleEn": "My name is Amina and I live in Maputo.",
+          "examplePt": "O meu nome é Amina e vivo em Maputo."
         },
         {
           "en": "nice to meet you",
           "pt": "prazer",
           "ipa": "",
           "audioKey": "a1_a1-u01-l11_w_nice-to-meet-you",
-          "exampleEn": "Goodbye, see you tomorrow.",
-          "examplePt": "Adeus, até amanhã."
+          "exampleEn": "It is very nice to meet you, Carlos.",
+          "examplePt": "É um grande prazer conhecer-te, Carlos."
         }
       ],
       "guidedReading": {
@@ -1789,32 +1789,32 @@
           "pt": "prazer",
           "ipa": "",
           "audioKey": "a1_a1-u01-l12_w_nice-to-meet-you",
-          "exampleEn": "Hello. I am Nélio.",
-          "examplePt": "Olá. Eu sou o Nélio."
+          "exampleEn": "It is very nice to meet you, Carlos.",
+          "examplePt": "É um grande prazer conhecer-te, Carlos."
         },
         {
           "en": "how are you",
           "pt": "como estás",
           "ipa": "",
           "audioKey": "a1_a1-u01-l12_w_how-are-you",
-          "exampleEn": "Hello. I am Nélio.",
-          "examplePt": "Olá. Eu sou o Nélio."
+          "exampleEn": "How are you doing this morning?",
+          "examplePt": "Como estás nesta manhã?"
         },
         {
           "en": "I am fine",
           "pt": "estou bem",
           "ipa": "",
           "audioKey": "a1_a1-u01-l12_w_i-am-fine",
-          "exampleEn": "Hello. I am Nélio.",
-          "examplePt": "Olá. Eu sou o Nélio."
+          "exampleEn": "I am fine, thanks for asking!",
+          "examplePt": "Estou bem, obrigado por perguntar!"
         },
         {
           "en": "and you",
           "pt": "e tu",
           "ipa": "",
           "audioKey": "a1_a1-u01-l12_w_and-you",
-          "exampleEn": "Hello. I am Nélio.",
-          "examplePt": "Olá. Eu sou o Nélio."
+          "exampleEn": "I am studying English, and you?",
+          "examplePt": "Estou a estudar inglês, e tu?"
         }
       ],
       "guidedReading": {
@@ -1961,16 +1961,16 @@
           "pt": "e tu",
           "ipa": "",
           "audioKey": "a1_a1-u01-l13_w_and-you",
-          "exampleEn": "Good morning, class.",
-          "examplePt": "Bom dia, turma."
+          "exampleEn": "I am studying English, and you?",
+          "examplePt": "Estou a estudar inglês, e tu?"
         },
         {
           "en": "welcome",
           "pt": "bem-vindo",
           "ipa": "",
           "audioKey": "a1_a1-u01-l13_w_welcome",
-          "exampleEn": "Good morning, class.",
-          "examplePt": "Bom dia, turma."
+          "exampleEn": "Welcome to Mozambique!",
+          "examplePt": "Bem-vindo a Moçambique!"
         }
       ],
       "guidedReading": {
@@ -2118,32 +2118,32 @@
           "pt": "oi",
           "ipa": "",
           "audioKey": "a1_a1-u01-l14_w_hi",
-          "exampleEn": "Hi. How much is this mango?",
-          "examplePt": "Oi. Quanto custa esta manga?"
+          "exampleEn": "Hi Maria, good to see you!",
+          "examplePt": "Oi Maria, bom ver-te!"
         },
         {
           "en": "good morning",
           "pt": "bom dia",
           "ipa": "",
           "audioKey": "a1_a1-u01-l14_w_good-morning",
-          "exampleEn": "Hi. How much is this mango?",
-          "examplePt": "Oi. Quanto custa esta manga?"
+          "exampleEn": "Good morning! Have a productive day.",
+          "examplePt": "Bom dia! Tem um dia produtivo."
         },
         {
           "en": "good afternoon",
           "pt": "boa tarde",
           "ipa": "",
           "audioKey": "a1_a1-u01-l14_w_good-afternoon",
-          "exampleEn": "Hi. How much is this mango?",
-          "examplePt": "Oi. Quanto custa esta manga?"
+          "exampleEn": "Good afternoon, welcome to our office.",
+          "examplePt": "Boa tarde, bem-vindo ao nosso escritório."
         },
         {
           "en": "good evening",
           "pt": "boa noite",
           "ipa": "",
           "audioKey": "a1_a1-u01-l14_w_good-evening",
-          "exampleEn": "Hi. How much is this mango?",
-          "examplePt": "Oi. Quanto custa esta manga?"
+          "exampleEn": "Good evening, are you ready for dinner?",
+          "examplePt": "Boa noite, estás pronto para o jantar?"
         }
       ],
       "guidedReading": {
@@ -2254,32 +2254,32 @@
           "pt": "boa noite",
           "ipa": "",
           "audioKey": "a1_a1-u01-l15_w_good-evening",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Good evening, are you ready for dinner?",
+          "examplePt": "Boa noite, estás pronto para o jantar?"
         },
         {
           "en": "goodbye",
           "pt": "adeus",
           "ipa": "",
           "audioKey": "a1_a1-u01-l15_w_goodbye",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Goodbye and see you tomorrow!",
+          "examplePt": "Adeus e até amanhã!"
         },
         {
           "en": "bye",
           "pt": "tchau",
           "ipa": "",
           "audioKey": "a1_a1-u01-l15_w_bye",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Bye, take good care of yourself!",
+          "examplePt": "Tchau, cuida-te bem!"
         },
         {
           "en": "please",
           "pt": "por favor",
           "ipa": "",
           "audioKey": "a1_a1-u01-l15_w_please",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Could you please pass the water?",
+          "examplePt": "Podes por favor passar a água?"
         }
       ],
       "guidedReading": {
@@ -2477,32 +2477,32 @@
           "pt": "por favor",
           "ipa": "",
           "audioKey": "a1_a1-u01-l16_w_please",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "Could you please pass the water?",
+          "examplePt": "Podes por favor passar a água?"
         },
         {
           "en": "thank you",
           "pt": "obrigado/a",
           "ipa": "",
           "audioKey": "a1_a1-u01-l16_w_thank-you",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "Thank you very much for your support.",
+          "examplePt": "Muito obrigado pelo teu apoio."
         },
         {
           "en": "sorry",
           "pt": "desculpa",
           "ipa": "",
           "audioKey": "a1_a1-u01-l16_w_sorry",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "I am sorry for being late.",
+          "examplePt": "Desculpa pelo atraso."
         },
         {
           "en": "yes",
           "pt": "sim",
           "ipa": "",
           "audioKey": "a1_a1-u01-l16_w_yes",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "Yes, this answer is completely right.",
+          "examplePt": "Sim, esta resposta está completamente certa."
         }
       ],
       "guidedReading": {
@@ -2642,32 +2642,32 @@
           "pt": "sim",
           "ipa": "",
           "audioKey": "a1_a1-u01-l17_w_yes",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "Yes, this answer is completely right.",
+          "examplePt": "Sim, esta resposta está completamente certa."
         },
         {
           "en": "no",
           "pt": "não",
           "ipa": "",
           "audioKey": "a1_a1-u01-l17_w_no",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "No, there are no chapas left today.",
+          "examplePt": "Não, já não há chapas hoje."
         },
         {
           "en": "name",
           "pt": "nome",
           "ipa": "",
           "audioKey": "a1_a1-u01-l17_w_name",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "What is the name of this avenue?",
+          "examplePt": "Qual é o nome desta avenida?"
         },
         {
           "en": "my name is",
           "pt": "o meu nome é",
           "ipa": "",
           "audioKey": "a1_a1-u01-l17_w_my-name-is",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "My name is Amina and I live in Maputo.",
+          "examplePt": "O meu nome é Amina e vivo em Maputo."
         }
       ],
       "guidedReading": {
@@ -2793,32 +2793,32 @@
           "pt": "o meu nome é",
           "ipa": "",
           "audioKey": "a1_a1-u01-l18_w_my-name-is",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "My name is Amina and I live in Maputo.",
+          "examplePt": "O meu nome é Amina e vivo em Maputo."
         },
         {
           "en": "nice to meet you",
           "pt": "prazer",
           "ipa": "",
           "audioKey": "a1_a1-u01-l18_w_nice-to-meet-you",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "It is very nice to meet you, Carlos.",
+          "examplePt": "É um grande prazer conhecer-te, Carlos."
         },
         {
           "en": "how are you",
           "pt": "como estás",
           "ipa": "",
           "audioKey": "a1_a1-u01-l18_w_how-are-you",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "How are you doing this morning?",
+          "examplePt": "Como estás nesta manhã?"
         },
         {
           "en": "I am fine",
           "pt": "estou bem",
           "ipa": "",
           "audioKey": "a1_a1-u01-l18_w_i-am-fine",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "I am fine, thanks for asking!",
+          "examplePt": "Estou bem, obrigado por perguntar!"
         }
       ],
       "guidedReading": {
@@ -2972,24 +2972,24 @@
           "pt": "estou bem",
           "ipa": "",
           "audioKey": "a1_a1-u01-l19_w_i-am-fine",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "I am fine, thanks for asking!",
+          "examplePt": "Estou bem, obrigado por perguntar!"
         },
         {
           "en": "and you",
           "pt": "e tu",
           "ipa": "",
           "audioKey": "a1_a1-u01-l19_w_and-you",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "I am studying English, and you?",
+          "examplePt": "Estou a estudar inglês, e tu?"
         },
         {
           "en": "welcome",
           "pt": "bem-vindo",
           "ipa": "",
           "audioKey": "a1_a1-u01-l19_w_welcome",
-          "exampleEn": "Hello. My name is Esperança.",
-          "examplePt": "Olá. O meu nome é Esperança."
+          "exampleEn": "Welcome to Mozambique!",
+          "examplePt": "Bem-vindo a Moçambique!"
         }
       ],
       "guidedReading": {
@@ -3145,32 +3145,32 @@
           "pt": "olá",
           "ipa": "",
           "audioKey": "a1_a1-u01-l20_w_hello",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Hello, how can I help you today?",
+          "examplePt": "Olá, como posso ajudar hoje?"
         },
         {
           "en": "hi",
           "pt": "oi",
           "ipa": "",
           "audioKey": "a1_a1-u01-l20_w_hi",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Hi Maria, good to see you!",
+          "examplePt": "Oi Maria, bom ver-te!"
         },
         {
           "en": "good morning",
           "pt": "bom dia",
           "ipa": "",
           "audioKey": "a1_a1-u01-l20_w_good-morning",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Good morning! Have a productive day.",
+          "examplePt": "Bom dia! Tem um dia produtivo."
         },
         {
           "en": "good afternoon",
           "pt": "boa tarde",
           "ipa": "",
           "audioKey": "a1_a1-u01-l20_w_good-afternoon",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Good afternoon, welcome to our office.",
+          "examplePt": "Boa tarde, bem-vindo ao nosso escritório."
         }
       ],
       "guidedReading": {

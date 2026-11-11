@@ -37,32 +37,32 @@
           "pt": "mercado",
           "ipa": "",
           "audioKey": "a1_a1-u09-l01_w_market",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The Central Market sells fresh fruit and fish.",
+          "examplePt": "O Mercado Central vende frutas e peixe frescos."
         },
         {
           "en": "shop",
           "pt": "loja",
           "ipa": "",
           "audioKey": "a1_a1-u09-l01_w_shop",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The local shop is open until seven.",
+          "examplePt": "A mercearia local está aberta até às sete."
         },
         {
           "en": "buy",
           "pt": "comprar",
           "ipa": "",
           "audioKey": "a1_a1-u09-l01_w_buy",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "I will buy some fresh mangoes today.",
+          "examplePt": "Vou comprar algumas mangas frescas hoje."
         },
         {
           "en": "sell",
           "pt": "vender",
           "ipa": "",
           "audioKey": "a1_a1-u09-l01_w_sell",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Farmers sell their harvest in the village.",
+          "examplePt": "Os camponeses vendem a sua colheita na aldeia."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "vender",
           "ipa": "",
           "audioKey": "a1_a1-u09-l02_w_sell",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Farmers sell their harvest in the village.",
+          "examplePt": "Os camponeses vendem a sua colheita na aldeia."
         },
         {
           "en": "price",
           "pt": "preço",
           "ipa": "",
           "audioKey": "a1_a1-u09-l02_w_price",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Can you tell me the price of this bag?",
+          "examplePt": "Pode dizer-me o preço deste saco?"
         },
         {
           "en": "how much",
           "pt": "quanto custa",
           "ipa": "",
           "audioKey": "a1_a1-u09-l02_w_how-much",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "How much does a bottle of water cost?",
+          "examplePt": "Quanto custa uma garrafa de água?"
         },
         {
           "en": "cheap",
           "pt": "barato",
           "ipa": "",
           "audioKey": "a1_a1-u09-l02_w_cheap",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Bananas are very cheap at the roadside market.",
+          "examplePt": "As bananas são muito baratas no mercado à beira da estrada."
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "barato",
           "ipa": "",
           "audioKey": "a1_a1-u09-l03_w_cheap",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Bananas are very cheap at the roadside market.",
+          "examplePt": "As bananas são muito baratas no mercado à beira da estrada."
         },
         {
           "en": "expensive",
           "pt": "caro",
           "ipa": "",
           "audioKey": "a1_a1-u09-l03_w_expensive",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Imported smartphones can be quite expensive.",
+          "examplePt": "Smartphones importados podem ser bastante caros."
         },
         {
           "en": "metical",
           "pt": "metical",
           "ipa": "",
           "audioKey": "a1_a1-u09-l03_w_metical",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The metical is the currency of Mozambique.",
+          "examplePt": "O metical é a moeda de Moçambique."
         },
         {
           "en": "change",
           "pt": "troco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l03_w_change",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Here is your change from the fifty meticais.",
+          "examplePt": "Aqui está o seu troco dos cinquenta meticais."
         }
       ],
       "guidedReading": {
@@ -519,24 +519,24 @@
           "pt": "troco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l04_w_change",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Here is your change from the fifty meticais.",
+          "examplePt": "Aqui está o seu troco dos cinquenta meticais."
         },
         {
           "en": "bag",
           "pt": "saco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l04_w_bag",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "She carries a woven capulana bag.",
+          "examplePt": "Ela carrega um saco feito de capulana."
         },
         {
           "en": "kilo",
           "pt": "quilo",
           "ipa": "",
           "audioKey": "a1_a1-u09-l04_w_kilo",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Give me one kilo of sweet potatoes, please.",
+          "examplePt": "Dê-me um quilo de batata doce, por favor."
         }
       ],
       "guidedReading": {
@@ -673,32 +673,32 @@
           "pt": "mercado",
           "ipa": "",
           "audioKey": "a1_a1-u09-l05_w_market",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "The Central Market sells fresh fruit and fish.",
+          "examplePt": "O Mercado Central vende frutas e peixe frescos."
         },
         {
           "en": "shop",
           "pt": "loja",
           "ipa": "",
           "audioKey": "a1_a1-u09-l05_w_shop",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "The local shop is open until seven.",
+          "examplePt": "A mercearia local está aberta até às sete."
         },
         {
           "en": "buy",
           "pt": "comprar",
           "ipa": "",
           "audioKey": "a1_a1-u09-l05_w_buy",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "I will buy some fresh mangoes today.",
+          "examplePt": "Vou comprar algumas mangas frescas hoje."
         },
         {
           "en": "sell",
           "pt": "vender",
           "ipa": "",
           "audioKey": "a1_a1-u09-l05_w_sell",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Farmers sell their harvest in the village.",
+          "examplePt": "Os camponeses vendem a sua colheita na aldeia."
         }
       ],
       "guidedReading": {
@@ -896,32 +896,32 @@
           "pt": "vender",
           "ipa": "",
           "audioKey": "a1_a1-u09-l06_w_sell",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Farmers sell their harvest in the village.",
+          "examplePt": "Os camponeses vendem a sua colheita na aldeia."
         },
         {
           "en": "price",
           "pt": "preço",
           "ipa": "",
           "audioKey": "a1_a1-u09-l06_w_price",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Can you tell me the price of this bag?",
+          "examplePt": "Pode dizer-me o preço deste saco?"
         },
         {
           "en": "how much",
           "pt": "quanto custa",
           "ipa": "",
           "audioKey": "a1_a1-u09-l06_w_how-much",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "How much does a bottle of water cost?",
+          "examplePt": "Quanto custa uma garrafa de água?"
         },
         {
           "en": "cheap",
           "pt": "barato",
           "ipa": "",
           "audioKey": "a1_a1-u09-l06_w_cheap",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Bananas are very cheap at the roadside market.",
+          "examplePt": "As bananas são muito baratas no mercado à beira da estrada."
         }
       ],
       "guidedReading": {
@@ -1075,32 +1075,32 @@
           "pt": "barato",
           "ipa": "",
           "audioKey": "a1_a1-u09-l07_w_cheap",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Bananas are very cheap at the roadside market.",
+          "examplePt": "As bananas são muito baratas no mercado à beira da estrada."
         },
         {
           "en": "expensive",
           "pt": "caro",
           "ipa": "",
           "audioKey": "a1_a1-u09-l07_w_expensive",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Imported smartphones can be quite expensive.",
+          "examplePt": "Smartphones importados podem ser bastante caros."
         },
         {
           "en": "metical",
           "pt": "metical",
           "ipa": "",
           "audioKey": "a1_a1-u09-l07_w_metical",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The metical is the currency of Mozambique.",
+          "examplePt": "O metical é a moeda de Moçambique."
         },
         {
           "en": "change",
           "pt": "troco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l07_w_change",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Here is your change from the fifty meticais.",
+          "examplePt": "Aqui está o seu troco dos cinquenta meticais."
         }
       ],
       "guidedReading": {
@@ -1255,24 +1255,24 @@
           "pt": "troco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l08_w_change",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Here is your change from the fifty meticais.",
+          "examplePt": "Aqui está o seu troco dos cinquenta meticais."
         },
         {
           "en": "bag",
           "pt": "saco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l08_w_bag",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "She carries a woven capulana bag.",
+          "examplePt": "Ela carrega um saco feito de capulana."
         },
         {
           "en": "kilo",
           "pt": "quilo",
           "ipa": "",
           "audioKey": "a1_a1-u09-l08_w_kilo",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Give me one kilo of sweet potatoes, please.",
+          "examplePt": "Dê-me um quilo de batata doce, por favor."
         }
       ],
       "guidedReading": {
@@ -1390,32 +1390,32 @@
           "pt": "mercado",
           "ipa": "",
           "audioKey": "a1_a1-u09-l09_w_market",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "The Central Market sells fresh fruit and fish.",
+          "examplePt": "O Mercado Central vende frutas e peixe frescos."
         },
         {
           "en": "shop",
           "pt": "loja",
           "ipa": "",
           "audioKey": "a1_a1-u09-l09_w_shop",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "The local shop is open until seven.",
+          "examplePt": "A mercearia local está aberta até às sete."
         },
         {
           "en": "buy",
           "pt": "comprar",
           "ipa": "",
           "audioKey": "a1_a1-u09-l09_w_buy",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "I will buy some fresh mangoes today.",
+          "examplePt": "Vou comprar algumas mangas frescas hoje."
         },
         {
           "en": "sell",
           "pt": "vender",
           "ipa": "",
           "audioKey": "a1_a1-u09-l09_w_sell",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Farmers sell their harvest in the village.",
+          "examplePt": "Os camponeses vendem a sua colheita na aldeia."
         }
       ],
       "guidedReading": {
@@ -1548,32 +1548,32 @@
           "pt": "vender",
           "ipa": "",
           "audioKey": "a1_a1-u09-l10_w_sell",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Farmers sell their harvest in the village.",
+          "examplePt": "Os camponeses vendem a sua colheita na aldeia."
         },
         {
           "en": "price",
           "pt": "preço",
           "ipa": "",
           "audioKey": "a1_a1-u09-l10_w_price",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Can you tell me the price of this bag?",
+          "examplePt": "Pode dizer-me o preço deste saco?"
         },
         {
           "en": "how much",
           "pt": "quanto custa",
           "ipa": "",
           "audioKey": "a1_a1-u09-l10_w_how-much",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "How much does a bottle of water cost?",
+          "examplePt": "Quanto custa uma garrafa de água?"
         },
         {
           "en": "cheap",
           "pt": "barato",
           "ipa": "",
           "audioKey": "a1_a1-u09-l10_w_cheap",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Bananas are very cheap at the roadside market.",
+          "examplePt": "As bananas são muito baratas no mercado à beira da estrada."
         }
       ],
       "guidedReading": {
@@ -1703,32 +1703,32 @@
           "pt": "barato",
           "ipa": "",
           "audioKey": "a1_a1-u09-l11_w_cheap",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Bananas are very cheap at the roadside market.",
+          "examplePt": "As bananas são muito baratas no mercado à beira da estrada."
         },
         {
           "en": "expensive",
           "pt": "caro",
           "ipa": "",
           "audioKey": "a1_a1-u09-l11_w_expensive",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Imported smartphones can be quite expensive.",
+          "examplePt": "Smartphones importados podem ser bastante caros."
         },
         {
           "en": "metical",
           "pt": "metical",
           "ipa": "",
           "audioKey": "a1_a1-u09-l11_w_metical",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The metical is the currency of Mozambique.",
+          "examplePt": "O metical é a moeda de Moçambique."
         },
         {
           "en": "change",
           "pt": "troco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l11_w_change",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Here is your change from the fifty meticais.",
+          "examplePt": "Aqui está o seu troco dos cinquenta meticais."
         }
       ],
       "guidedReading": {
@@ -1854,24 +1854,24 @@
           "pt": "troco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l12_w_change",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Here is your change from the fifty meticais.",
+          "examplePt": "Aqui está o seu troco dos cinquenta meticais."
         },
         {
           "en": "bag",
           "pt": "saco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l12_w_bag",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "She carries a woven capulana bag.",
+          "examplePt": "Ela carrega um saco feito de capulana."
         },
         {
           "en": "kilo",
           "pt": "quilo",
           "ipa": "",
           "audioKey": "a1_a1-u09-l12_w_kilo",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Give me one kilo of sweet potatoes, please.",
+          "examplePt": "Dê-me um quilo de batata doce, por favor."
         }
       ],
       "guidedReading": {
@@ -2025,32 +2025,32 @@
           "pt": "mercado",
           "ipa": "",
           "audioKey": "a1_a1-u09-l13_w_market",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The Central Market sells fresh fruit and fish.",
+          "examplePt": "O Mercado Central vende frutas e peixe frescos."
         },
         {
           "en": "shop",
           "pt": "loja",
           "ipa": "",
           "audioKey": "a1_a1-u09-l13_w_shop",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The local shop is open until seven.",
+          "examplePt": "A mercearia local está aberta até às sete."
         },
         {
           "en": "buy",
           "pt": "comprar",
           "ipa": "",
           "audioKey": "a1_a1-u09-l13_w_buy",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "I will buy some fresh mangoes today.",
+          "examplePt": "Vou comprar algumas mangas frescas hoje."
         },
         {
           "en": "sell",
           "pt": "vender",
           "ipa": "",
           "audioKey": "a1_a1-u09-l13_w_sell",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Farmers sell their harvest in the village.",
+          "examplePt": "Os camponeses vendem a sua colheita na aldeia."
         }
       ],
       "guidedReading": {
@@ -2205,32 +2205,32 @@
           "pt": "vender",
           "ipa": "",
           "audioKey": "a1_a1-u09-l14_w_sell",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Farmers sell their harvest in the village.",
+          "examplePt": "Os camponeses vendem a sua colheita na aldeia."
         },
         {
           "en": "price",
           "pt": "preço",
           "ipa": "",
           "audioKey": "a1_a1-u09-l14_w_price",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Can you tell me the price of this bag?",
+          "examplePt": "Pode dizer-me o preço deste saco?"
         },
         {
           "en": "how much",
           "pt": "quanto custa",
           "ipa": "",
           "audioKey": "a1_a1-u09-l14_w_how-much",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "How much does a bottle of water cost?",
+          "examplePt": "Quanto custa uma garrafa de água?"
         },
         {
           "en": "cheap",
           "pt": "barato",
           "ipa": "",
           "audioKey": "a1_a1-u09-l14_w_cheap",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Bananas are very cheap at the roadside market.",
+          "examplePt": "As bananas são muito baratas no mercado à beira da estrada."
         }
       ],
       "guidedReading": {
@@ -2348,32 +2348,32 @@
           "pt": "barato",
           "ipa": "",
           "audioKey": "a1_a1-u09-l15_w_cheap",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Bananas are very cheap at the roadside market.",
+          "examplePt": "As bananas são muito baratas no mercado à beira da estrada."
         },
         {
           "en": "expensive",
           "pt": "caro",
           "ipa": "",
           "audioKey": "a1_a1-u09-l15_w_expensive",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Imported smartphones can be quite expensive.",
+          "examplePt": "Smartphones importados podem ser bastante caros."
         },
         {
           "en": "metical",
           "pt": "metical",
           "ipa": "",
           "audioKey": "a1_a1-u09-l15_w_metical",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "The metical is the currency of Mozambique.",
+          "examplePt": "O metical é a moeda de Moçambique."
         },
         {
           "en": "change",
           "pt": "troco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l15_w_change",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Here is your change from the fifty meticais.",
+          "examplePt": "Aqui está o seu troco dos cinquenta meticais."
         }
       ],
       "guidedReading": {
@@ -2571,24 +2571,24 @@
           "pt": "troco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l16_w_change",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Here is your change from the fifty meticais.",
+          "examplePt": "Aqui está o seu troco dos cinquenta meticais."
         },
         {
           "en": "bag",
           "pt": "saco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l16_w_bag",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "She carries a woven capulana bag.",
+          "examplePt": "Ela carrega um saco feito de capulana."
         },
         {
           "en": "kilo",
           "pt": "quilo",
           "ipa": "",
           "audioKey": "a1_a1-u09-l16_w_kilo",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Give me one kilo of sweet potatoes, please.",
+          "examplePt": "Dê-me um quilo de batata doce, por favor."
         }
       ],
       "guidedReading": {
@@ -2725,32 +2725,32 @@
           "pt": "mercado",
           "ipa": "",
           "audioKey": "a1_a1-u09-l17_w_market",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The Central Market sells fresh fruit and fish.",
+          "examplePt": "O Mercado Central vende frutas e peixe frescos."
         },
         {
           "en": "shop",
           "pt": "loja",
           "ipa": "",
           "audioKey": "a1_a1-u09-l17_w_shop",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The local shop is open until seven.",
+          "examplePt": "A mercearia local está aberta até às sete."
         },
         {
           "en": "buy",
           "pt": "comprar",
           "ipa": "",
           "audioKey": "a1_a1-u09-l17_w_buy",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "I will buy some fresh mangoes today.",
+          "examplePt": "Vou comprar algumas mangas frescas hoje."
         },
         {
           "en": "sell",
           "pt": "vender",
           "ipa": "",
           "audioKey": "a1_a1-u09-l17_w_sell",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Farmers sell their harvest in the village.",
+          "examplePt": "Os camponeses vendem a sua colheita na aldeia."
         }
       ],
       "guidedReading": {
@@ -2876,32 +2876,32 @@
           "pt": "vender",
           "ipa": "",
           "audioKey": "a1_a1-u09-l18_w_sell",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Farmers sell their harvest in the village.",
+          "examplePt": "Os camponeses vendem a sua colheita na aldeia."
         },
         {
           "en": "price",
           "pt": "preço",
           "ipa": "",
           "audioKey": "a1_a1-u09-l18_w_price",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Can you tell me the price of this bag?",
+          "examplePt": "Pode dizer-me o preço deste saco?"
         },
         {
           "en": "how much",
           "pt": "quanto custa",
           "ipa": "",
           "audioKey": "a1_a1-u09-l18_w_how-much",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "How much does a bottle of water cost?",
+          "examplePt": "Quanto custa uma garrafa de água?"
         },
         {
           "en": "cheap",
           "pt": "barato",
           "ipa": "",
           "audioKey": "a1_a1-u09-l18_w_cheap",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Bananas are very cheap at the roadside market.",
+          "examplePt": "As bananas são muito baratas no mercado à beira da estrada."
         }
       ],
       "guidedReading": {
@@ -3055,32 +3055,32 @@
           "pt": "barato",
           "ipa": "",
           "audioKey": "a1_a1-u09-l19_w_cheap",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Bananas are very cheap at the roadside market.",
+          "examplePt": "As bananas são muito baratas no mercado à beira da estrada."
         },
         {
           "en": "expensive",
           "pt": "caro",
           "ipa": "",
           "audioKey": "a1_a1-u09-l19_w_expensive",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Imported smartphones can be quite expensive.",
+          "examplePt": "Smartphones importados podem ser bastante caros."
         },
         {
           "en": "metical",
           "pt": "metical",
           "ipa": "",
           "audioKey": "a1_a1-u09-l19_w_metical",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The metical is the currency of Mozambique.",
+          "examplePt": "O metical é a moeda de Moçambique."
         },
         {
           "en": "change",
           "pt": "troco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l19_w_change",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Here is your change from the fifty meticais.",
+          "examplePt": "Aqui está o seu troco dos cinquenta meticais."
         }
       ],
       "guidedReading": {
@@ -3236,24 +3236,24 @@
           "pt": "troco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l20_w_change",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Here is your change from the fifty meticais.",
+          "examplePt": "Aqui está o seu troco dos cinquenta meticais."
         },
         {
           "en": "bag",
           "pt": "saco",
           "ipa": "",
           "audioKey": "a1_a1-u09-l20_w_bag",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "She carries a woven capulana bag.",
+          "examplePt": "Ela carrega um saco feito de capulana."
         },
         {
           "en": "kilo",
           "pt": "quilo",
           "ipa": "",
           "audioKey": "a1_a1-u09-l20_w_kilo",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Give me one kilo of sweet potatoes, please.",
+          "examplePt": "Dê-me um quilo de batata doce, por favor."
         }
       ],
       "guidedReading": {

@@ -37,32 +37,32 @@
           "pt": "escola",
           "ipa": "",
           "audioKey": "a1_a1-u10-l01_w_school",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The primary school is near the community center.",
+          "examplePt": "A escola primária fica perto do centro comunitário."
         },
         {
           "en": "teacher",
           "pt": "professor/a",
           "ipa": "",
           "audioKey": "a1_a1-u10-l01_w_teacher",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The teacher explained the lesson clearly.",
+          "examplePt": "O professor explicou a lição com clareza."
         },
         {
           "en": "student",
-          "pt": "aluno/a",
+          "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u10-l01_w_student",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         },
         {
           "en": "book",
           "pt": "livro",
           "ipa": "",
           "audioKey": "a1_a1-u10-l01_w_book",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "I read an interesting history book yesterday.",
+          "examplePt": "Li um livro de história interessante ontem."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "livro",
           "ipa": "",
           "audioKey": "a1_a1-u10-l02_w_book",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "I read an interesting history book yesterday.",
+          "examplePt": "Li um livro de história interessante ontem."
         },
         {
           "en": "pen",
           "pt": "esferográfica",
           "ipa": "",
           "audioKey": "a1_a1-u10-l02_w_pen",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Please sign the attendance sheet with a blue pen.",
+          "examplePt": "Por favor, assina a lista de presenças com uma esferográfica azul."
         },
         {
           "en": "pencil",
           "pt": "lápis",
           "ipa": "",
           "audioKey": "a1_a1-u10-l02_w_pencil",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Draw the outline using a pencil first.",
+          "examplePt": "Desenha primeiro o contorno usando um lápis."
         },
         {
           "en": "notebook",
           "pt": "caderno",
           "ipa": "",
           "audioKey": "a1_a1-u10-l02_w_notebook",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Write the new vocabulary words in your notebook.",
+          "examplePt": "Escreve o novo vocabulário no teu caderno."
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "caderno",
           "ipa": "",
           "audioKey": "a1_a1-u10-l03_w_notebook",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Write the new vocabulary words in your notebook.",
+          "examplePt": "Escreve o novo vocabulário no teu caderno."
         },
         {
           "en": "bag",
-          "pt": "mochila",
+          "pt": "saco",
           "ipa": "",
           "audioKey": "a1_a1-u10-l03_w_bag",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "She carries a woven capulana bag.",
+          "examplePt": "Ela carrega um saco feito de capulana."
         },
         {
           "en": "desk",
           "pt": "carteira",
           "ipa": "",
           "audioKey": "a1_a1-u10-l03_w_desk",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Two students share each wooden desk.",
+          "examplePt": "Dois alunos partilham cada carteira de madeira."
         },
         {
           "en": "board",
           "pt": "quadro",
           "ipa": "",
           "audioKey": "a1_a1-u10-l03_w_board",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Look at the board and copy the notes.",
+          "examplePt": "Olhem para o quadro e copiem as notas."
         }
       ],
       "guidedReading": {
@@ -519,32 +519,32 @@
           "pt": "quadro",
           "ipa": "",
           "audioKey": "a1_a1-u10-l04_w_board",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Look at the board and copy the notes.",
+          "examplePt": "Olhem para o quadro e copiem as notas."
         },
         {
           "en": "open",
           "pt": "abrir",
           "ipa": "",
           "audioKey": "a1_a1-u10-l04_w_open",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Please open your textbook to page ten.",
+          "examplePt": "Por favor, abram o livro na página dez."
         },
         {
           "en": "close",
           "pt": "fechar",
           "ipa": "",
           "audioKey": "a1_a1-u10-l04_w_close",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Close the windows before it starts raining.",
+          "examplePt": "Fecha as janelas antes que comece a chover."
         },
         {
           "en": "read",
           "pt": "ler",
           "ipa": "",
           "audioKey": "a1_a1-u10-l04_w_read",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "I like to read bilingual stories in the evening.",
+          "examplePt": "Gosto de ler histórias bilingues à noite."
         }
       ],
       "guidedReading": {
@@ -681,32 +681,32 @@
           "pt": "ler",
           "ipa": "",
           "audioKey": "a1_a1-u10-l05_w_read",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "I like to read bilingual stories in the evening.",
+          "examplePt": "Gosto de ler histórias bilingues à noite."
         },
         {
           "en": "write",
           "pt": "escrever",
           "ipa": "",
           "audioKey": "a1_a1-u10-l05_w_write",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Write a short message to your classmate.",
+          "examplePt": "Escreve uma pequena mensagem para o teu colega."
         },
         {
           "en": "listen",
           "pt": "ouvir",
           "ipa": "",
           "audioKey": "a1_a1-u10-l05_w_listen",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Listen carefully to the native speaker’s accent.",
+          "examplePt": "Ouve com atenção o sotaque do falante nativo."
         },
         {
           "en": "repeat",
           "pt": "repetir",
           "ipa": "",
           "audioKey": "a1_a1-u10-l05_w_repeat",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Repeat each phrase after the audio player.",
+          "examplePt": "Repete cada frase após o leitor de áudio."
         }
       ],
       "guidedReading": {
@@ -904,8 +904,8 @@
           "pt": "repetir",
           "ipa": "",
           "audioKey": "a1_a1-u10-l06_w_repeat",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Repeat each phrase after the audio player.",
+          "examplePt": "Repete cada frase após o leitor de áudio."
         }
       ],
       "guidedReading": {
@@ -1056,35 +1056,35 @@
       "newWords": [
         {
           "en": "student",
-          "pt": "aluno/a",
+          "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u10-l07_w_student",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         },
         {
           "en": "book",
           "pt": "livro",
           "ipa": "",
           "audioKey": "a1_a1-u10-l07_w_book",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "I read an interesting history book yesterday.",
+          "examplePt": "Li um livro de história interessante ontem."
         },
         {
           "en": "pen",
           "pt": "esferográfica",
           "ipa": "",
           "audioKey": "a1_a1-u10-l07_w_pen",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Please sign the attendance sheet with a blue pen.",
+          "examplePt": "Por favor, assina a lista de presenças com uma esferográfica azul."
         },
         {
           "en": "pencil",
           "pt": "lápis",
           "ipa": "",
           "audioKey": "a1_a1-u10-l07_w_pencil",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Draw the outline using a pencil first.",
+          "examplePt": "Desenha primeiro o contorno usando um lápis."
         }
       ],
       "guidedReading": {
@@ -1239,32 +1239,32 @@
           "pt": "lápis",
           "ipa": "",
           "audioKey": "a1_a1-u10-l08_w_pencil",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Draw the outline using a pencil first.",
+          "examplePt": "Desenha primeiro o contorno usando um lápis."
         },
         {
           "en": "notebook",
           "pt": "caderno",
           "ipa": "",
           "audioKey": "a1_a1-u10-l08_w_notebook",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Write the new vocabulary words in your notebook.",
+          "examplePt": "Escreve o novo vocabulário no teu caderno."
         },
         {
           "en": "bag",
-          "pt": "mochila",
+          "pt": "saco",
           "ipa": "",
           "audioKey": "a1_a1-u10-l08_w_bag",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "She carries a woven capulana bag.",
+          "examplePt": "Ela carrega um saco feito de capulana."
         },
         {
           "en": "desk",
           "pt": "carteira",
           "ipa": "",
           "audioKey": "a1_a1-u10-l08_w_desk",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Two students share each wooden desk.",
+          "examplePt": "Dois alunos partilham cada carteira de madeira."
         }
       ],
       "guidedReading": {
@@ -1382,32 +1382,32 @@
           "pt": "carteira",
           "ipa": "",
           "audioKey": "a1_a1-u10-l09_w_desk",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Two students share each wooden desk.",
+          "examplePt": "Dois alunos partilham cada carteira de madeira."
         },
         {
           "en": "board",
           "pt": "quadro",
           "ipa": "",
           "audioKey": "a1_a1-u10-l09_w_board",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Look at the board and copy the notes.",
+          "examplePt": "Olhem para o quadro e copiem as notas."
         },
         {
           "en": "open",
           "pt": "abrir",
           "ipa": "",
           "audioKey": "a1_a1-u10-l09_w_open",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Please open your textbook to page ten.",
+          "examplePt": "Por favor, abram o livro na página dez."
         },
         {
           "en": "close",
           "pt": "fechar",
           "ipa": "",
           "audioKey": "a1_a1-u10-l09_w_close",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Close the windows before it starts raining.",
+          "examplePt": "Fecha as janelas antes que comece a chover."
         }
       ],
       "guidedReading": {
@@ -1540,32 +1540,32 @@
           "pt": "fechar",
           "ipa": "",
           "audioKey": "a1_a1-u10-l10_w_close",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Close the windows before it starts raining.",
+          "examplePt": "Fecha as janelas antes que comece a chover."
         },
         {
           "en": "read",
           "pt": "ler",
           "ipa": "",
           "audioKey": "a1_a1-u10-l10_w_read",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "I like to read bilingual stories in the evening.",
+          "examplePt": "Gosto de ler histórias bilingues à noite."
         },
         {
           "en": "write",
           "pt": "escrever",
           "ipa": "",
           "audioKey": "a1_a1-u10-l10_w_write",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Write a short message to your classmate.",
+          "examplePt": "Escreve uma pequena mensagem para o teu colega."
         },
         {
           "en": "listen",
           "pt": "ouvir",
           "ipa": "",
           "audioKey": "a1_a1-u10-l10_w_listen",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Listen carefully to the native speaker’s accent.",
+          "examplePt": "Ouve com atenção o sotaque do falante nativo."
         }
       ],
       "guidedReading": {
@@ -1695,16 +1695,16 @@
           "pt": "ouvir",
           "ipa": "",
           "audioKey": "a1_a1-u10-l11_w_listen",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Listen carefully to the native speaker’s accent.",
+          "examplePt": "Ouve com atenção o sotaque do falante nativo."
         },
         {
           "en": "repeat",
           "pt": "repetir",
           "ipa": "",
           "audioKey": "a1_a1-u10-l11_w_repeat",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Repeat each phrase after the audio player.",
+          "examplePt": "Repete cada frase após o leitor de áudio."
         }
       ],
       "guidedReading": {
@@ -1830,32 +1830,32 @@
           "pt": "professor/a",
           "ipa": "",
           "audioKey": "a1_a1-u10-l12_w_teacher",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The teacher explained the lesson clearly.",
+          "examplePt": "O professor explicou a lição com clareza."
         },
         {
           "en": "student",
-          "pt": "aluno/a",
+          "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u10-l12_w_student",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         },
         {
           "en": "book",
           "pt": "livro",
           "ipa": "",
           "audioKey": "a1_a1-u10-l12_w_book",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "I read an interesting history book yesterday.",
+          "examplePt": "Li um livro de história interessante ontem."
         },
         {
           "en": "pen",
           "pt": "esferográfica",
           "ipa": "",
           "audioKey": "a1_a1-u10-l12_w_pen",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Please sign the attendance sheet with a blue pen.",
+          "examplePt": "Por favor, assina a lista de presenças com uma esferográfica azul."
         }
       ],
       "guidedReading": {
@@ -2009,32 +2009,32 @@
           "pt": "esferográfica",
           "ipa": "",
           "audioKey": "a1_a1-u10-l13_w_pen",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Please sign the attendance sheet with a blue pen.",
+          "examplePt": "Por favor, assina a lista de presenças com uma esferográfica azul."
         },
         {
           "en": "pencil",
           "pt": "lápis",
           "ipa": "",
           "audioKey": "a1_a1-u10-l13_w_pencil",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Draw the outline using a pencil first.",
+          "examplePt": "Desenha primeiro o contorno usando um lápis."
         },
         {
           "en": "notebook",
           "pt": "caderno",
           "ipa": "",
           "audioKey": "a1_a1-u10-l13_w_notebook",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Write the new vocabulary words in your notebook.",
+          "examplePt": "Escreve o novo vocabulário no teu caderno."
         },
         {
           "en": "bag",
-          "pt": "mochila",
+          "pt": "saco",
           "ipa": "",
           "audioKey": "a1_a1-u10-l13_w_bag",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "She carries a woven capulana bag.",
+          "examplePt": "Ela carrega um saco feito de capulana."
         }
       ],
       "guidedReading": {
@@ -2186,35 +2186,35 @@
       "newWords": [
         {
           "en": "bag",
-          "pt": "mochila",
+          "pt": "saco",
           "ipa": "",
           "audioKey": "a1_a1-u10-l14_w_bag",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "She carries a woven capulana bag.",
+          "examplePt": "Ela carrega um saco feito de capulana."
         },
         {
           "en": "desk",
           "pt": "carteira",
           "ipa": "",
           "audioKey": "a1_a1-u10-l14_w_desk",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Two students share each wooden desk.",
+          "examplePt": "Dois alunos partilham cada carteira de madeira."
         },
         {
           "en": "board",
           "pt": "quadro",
           "ipa": "",
           "audioKey": "a1_a1-u10-l14_w_board",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Look at the board and copy the notes.",
+          "examplePt": "Olhem para o quadro e copiem as notas."
         },
         {
           "en": "open",
           "pt": "abrir",
           "ipa": "",
           "audioKey": "a1_a1-u10-l14_w_open",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Please open your textbook to page ten.",
+          "examplePt": "Por favor, abram o livro na página dez."
         }
       ],
       "guidedReading": {
@@ -2332,32 +2332,32 @@
           "pt": "abrir",
           "ipa": "",
           "audioKey": "a1_a1-u10-l15_w_open",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Please open your textbook to page ten.",
+          "examplePt": "Por favor, abram o livro na página dez."
         },
         {
           "en": "close",
           "pt": "fechar",
           "ipa": "",
           "audioKey": "a1_a1-u10-l15_w_close",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Close the windows before it starts raining.",
+          "examplePt": "Fecha as janelas antes que comece a chover."
         },
         {
           "en": "read",
           "pt": "ler",
           "ipa": "",
           "audioKey": "a1_a1-u10-l15_w_read",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "I like to read bilingual stories in the evening.",
+          "examplePt": "Gosto de ler histórias bilingues à noite."
         },
         {
           "en": "write",
           "pt": "escrever",
           "ipa": "",
           "audioKey": "a1_a1-u10-l15_w_write",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Write a short message to your classmate.",
+          "examplePt": "Escreve uma pequena mensagem para o teu colega."
         }
       ],
       "guidedReading": {
@@ -2555,24 +2555,24 @@
           "pt": "escrever",
           "ipa": "",
           "audioKey": "a1_a1-u10-l16_w_write",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Write a short message to your classmate.",
+          "examplePt": "Escreve uma pequena mensagem para o teu colega."
         },
         {
           "en": "listen",
           "pt": "ouvir",
           "ipa": "",
           "audioKey": "a1_a1-u10-l16_w_listen",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Listen carefully to the native speaker’s accent.",
+          "examplePt": "Ouve com atenção o sotaque do falante nativo."
         },
         {
           "en": "repeat",
           "pt": "repetir",
           "ipa": "",
           "audioKey": "a1_a1-u10-l16_w_repeat",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Repeat each phrase after the audio player.",
+          "examplePt": "Repete cada frase após o leitor de áudio."
         }
       ],
       "guidedReading": {
@@ -2709,32 +2709,32 @@
           "pt": "escola",
           "ipa": "",
           "audioKey": "a1_a1-u10-l17_w_school",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The primary school is near the community center.",
+          "examplePt": "A escola primária fica perto do centro comunitário."
         },
         {
           "en": "teacher",
           "pt": "professor/a",
           "ipa": "",
           "audioKey": "a1_a1-u10-l17_w_teacher",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The teacher explained the lesson clearly.",
+          "examplePt": "O professor explicou a lição com clareza."
         },
         {
           "en": "student",
-          "pt": "aluno/a",
+          "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u10-l17_w_student",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         },
         {
           "en": "book",
           "pt": "livro",
           "ipa": "",
           "audioKey": "a1_a1-u10-l17_w_book",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "I read an interesting history book yesterday.",
+          "examplePt": "Li um livro de história interessante ontem."
         }
       ],
       "guidedReading": {
@@ -2860,32 +2860,32 @@
           "pt": "livro",
           "ipa": "",
           "audioKey": "a1_a1-u10-l18_w_book",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "I read an interesting history book yesterday.",
+          "examplePt": "Li um livro de história interessante ontem."
         },
         {
           "en": "pen",
           "pt": "esferográfica",
           "ipa": "",
           "audioKey": "a1_a1-u10-l18_w_pen",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Please sign the attendance sheet with a blue pen.",
+          "examplePt": "Por favor, assina a lista de presenças com uma esferográfica azul."
         },
         {
           "en": "pencil",
           "pt": "lápis",
           "ipa": "",
           "audioKey": "a1_a1-u10-l18_w_pencil",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Draw the outline using a pencil first.",
+          "examplePt": "Desenha primeiro o contorno usando um lápis."
         },
         {
           "en": "notebook",
           "pt": "caderno",
           "ipa": "",
           "audioKey": "a1_a1-u10-l18_w_notebook",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Write the new vocabulary words in your notebook.",
+          "examplePt": "Escreve o novo vocabulário no teu caderno."
         }
       ],
       "guidedReading": {
@@ -3039,32 +3039,32 @@
           "pt": "caderno",
           "ipa": "",
           "audioKey": "a1_a1-u10-l19_w_notebook",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Write the new vocabulary words in your notebook.",
+          "examplePt": "Escreve o novo vocabulário no teu caderno."
         },
         {
           "en": "bag",
-          "pt": "mochila",
+          "pt": "saco",
           "ipa": "",
           "audioKey": "a1_a1-u10-l19_w_bag",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "She carries a woven capulana bag.",
+          "examplePt": "Ela carrega um saco feito de capulana."
         },
         {
           "en": "desk",
           "pt": "carteira",
           "ipa": "",
           "audioKey": "a1_a1-u10-l19_w_desk",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Two students share each wooden desk.",
+          "examplePt": "Dois alunos partilham cada carteira de madeira."
         },
         {
           "en": "board",
           "pt": "quadro",
           "ipa": "",
           "audioKey": "a1_a1-u10-l19_w_board",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Look at the board and copy the notes.",
+          "examplePt": "Olhem para o quadro e copiem as notas."
         }
       ],
       "guidedReading": {
@@ -3220,32 +3220,32 @@
           "pt": "quadro",
           "ipa": "",
           "audioKey": "a1_a1-u10-l20_w_board",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Look at the board and copy the notes.",
+          "examplePt": "Olhem para o quadro e copiem as notas."
         },
         {
           "en": "open",
           "pt": "abrir",
           "ipa": "",
           "audioKey": "a1_a1-u10-l20_w_open",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Please open your textbook to page ten.",
+          "examplePt": "Por favor, abram o livro na página dez."
         },
         {
           "en": "close",
           "pt": "fechar",
           "ipa": "",
           "audioKey": "a1_a1-u10-l20_w_close",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Close the windows before it starts raining.",
+          "examplePt": "Fecha as janelas antes que comece a chover."
         },
         {
           "en": "read",
           "pt": "ler",
           "ipa": "",
           "audioKey": "a1_a1-u10-l20_w_read",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "I like to read bilingual stories in the evening.",
+          "examplePt": "Gosto de ler histórias bilingues à noite."
         }
       ],
       "guidedReading": {

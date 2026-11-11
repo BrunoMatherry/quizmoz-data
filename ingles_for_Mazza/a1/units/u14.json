@@ -37,32 +37,32 @@
           "pt": "hoje",
           "ipa": "",
           "audioKey": "a1_a1-u14-l01_w_today",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Today is a wonderful day to learn languages.",
+          "examplePt": "Hoje é um ótimo dia para aprender línguas."
         },
         {
           "en": "tomorrow",
           "pt": "amanhã",
           "ipa": "",
           "audioKey": "a1_a1-u14-l01_w_tomorrow",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Tomorrow we will review the past tense.",
+          "examplePt": "Amanhã vamos rever o passado."
         },
         {
           "en": "yesterday",
           "pt": "ontem",
           "ipa": "",
           "audioKey": "a1_a1-u14-l01_w_yesterday",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Yesterday I finished reading unit three.",
+          "examplePt": "Ontem terminei de ler a unidade três."
         },
         {
           "en": "week",
           "pt": "semana",
           "ipa": "",
           "audioKey": "a1_a1-u14-l01_w_week",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "We have tests scheduled for next week.",
+          "examplePt": "Temos testes agendados para a próxima semana."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "semana",
           "ipa": "",
           "audioKey": "a1_a1-u14-l02_w_week",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "We have tests scheduled for next week.",
+          "examplePt": "Temos testes agendados para a próxima semana."
         },
         {
           "en": "month",
           "pt": "mês",
           "ipa": "",
           "audioKey": "a1_a1-u14-l02_w_month",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "July is the coolest month of the year.",
+          "examplePt": "Julho é o mês mais fresco do ano."
         },
         {
           "en": "year",
           "pt": "ano",
           "ipa": "",
           "audioKey": "a1_a1-u14-l02_w_year",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "This year our goal is to become fluent.",
+          "examplePt": "Este ano a nossa meta é falar fluentemente."
         },
         {
           "en": "Monday",
           "pt": "segunda",
           "ipa": "",
           "audioKey": "a1_a1-u14-l02_w_monday",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Monday is the start of the work week.",
+          "examplePt": "Segunda-feira é o início da semana de trabalho."
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "segunda",
           "ipa": "",
           "audioKey": "a1_a1-u14-l03_w_monday",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Monday is the start of the work week.",
+          "examplePt": "Segunda-feira é o início da semana de trabalho."
         },
         {
           "en": "Sunday",
           "pt": "domingo",
           "ipa": "",
           "audioKey": "a1_a1-u14-l03_w_sunday",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Sunday is reserved for family and rest.",
+          "examplePt": "Domingo é reservado para a família e descanso."
         },
         {
           "en": "hot",
           "pt": "quente",
           "ipa": "",
           "audioKey": "a1_a1-u14-l03_w_hot",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The sun is very hot in Inhambane.",
+          "examplePt": "O sol está muito quente em Inhambane."
         },
         {
           "en": "cold",
           "pt": "frio",
           "ipa": "",
           "audioKey": "a1_a1-u14-l03_w_cold",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Bring a jacket because the evening is cold.",
+          "examplePt": "Traz um casaco porque a noite está fria."
         }
       ],
       "guidedReading": {
@@ -519,32 +519,32 @@
           "pt": "frio",
           "ipa": "",
           "audioKey": "a1_a1-u14-l04_w_cold",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Bring a jacket because the evening is cold.",
+          "examplePt": "Traz um casaco porque a noite está fria."
         },
         {
           "en": "rain",
           "pt": "chuva",
           "ipa": "",
           "audioKey": "a1_a1-u14-l04_w_rain",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Gentle rain is falling over the fields.",
+          "examplePt": "Chuva suave está a cair sobre os campos."
         },
         {
           "en": "sun",
           "pt": "sol",
           "ipa": "",
           "audioKey": "a1_a1-u14-l04_w_sun",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "The warm sun shines brightly all year.",
+          "examplePt": "O sol quente brilha intensamente o ano todo."
         },
         {
           "en": "wind",
           "pt": "vento",
           "ipa": "",
           "audioKey": "a1_a1-u14-l04_w_wind",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "A strong coastal wind blew our hats away.",
+          "examplePt": "Um forte vento costeiro levou os nossos chapéus."
         }
       ],
       "guidedReading": {
@@ -681,16 +681,16 @@
           "pt": "vento",
           "ipa": "",
           "audioKey": "a1_a1-u14-l05_w_wind",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "A strong coastal wind blew our hats away.",
+          "examplePt": "Um forte vento costeiro levou os nossos chapéus."
         },
         {
           "en": "rainy season",
           "pt": "estação das chuvas",
           "ipa": "",
           "audioKey": "a1_a1-u14-l05_w_rainy-season",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "The rainy season brings abundant harvest.",
+          "examplePt": "A época das chuvas traz colheita abundante."
         }
       ],
       "guidedReading": {
@@ -888,32 +888,32 @@
           "pt": "amanhã",
           "ipa": "",
           "audioKey": "a1_a1-u14-l06_w_tomorrow",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Tomorrow we will review the past tense.",
+          "examplePt": "Amanhã vamos rever o passado."
         },
         {
           "en": "yesterday",
           "pt": "ontem",
           "ipa": "",
           "audioKey": "a1_a1-u14-l06_w_yesterday",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Yesterday I finished reading unit three.",
+          "examplePt": "Ontem terminei de ler a unidade três."
         },
         {
           "en": "week",
           "pt": "semana",
           "ipa": "",
           "audioKey": "a1_a1-u14-l06_w_week",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "We have tests scheduled for next week.",
+          "examplePt": "Temos testes agendados para a próxima semana."
         },
         {
           "en": "month",
           "pt": "mês",
           "ipa": "",
           "audioKey": "a1_a1-u14-l06_w_month",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "July is the coolest month of the year.",
+          "examplePt": "Julho é o mês mais fresco do ano."
         }
       ],
       "guidedReading": {
@@ -1067,32 +1067,32 @@
           "pt": "mês",
           "ipa": "",
           "audioKey": "a1_a1-u14-l07_w_month",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "July is the coolest month of the year.",
+          "examplePt": "Julho é o mês mais fresco do ano."
         },
         {
           "en": "year",
           "pt": "ano",
           "ipa": "",
           "audioKey": "a1_a1-u14-l07_w_year",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "This year our goal is to become fluent.",
+          "examplePt": "Este ano a nossa meta é falar fluentemente."
         },
         {
           "en": "Monday",
           "pt": "segunda",
           "ipa": "",
           "audioKey": "a1_a1-u14-l07_w_monday",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Monday is the start of the work week.",
+          "examplePt": "Segunda-feira é o início da semana de trabalho."
         },
         {
           "en": "Sunday",
           "pt": "domingo",
           "ipa": "",
           "audioKey": "a1_a1-u14-l07_w_sunday",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Sunday is reserved for family and rest.",
+          "examplePt": "Domingo é reservado para a família e descanso."
         }
       ],
       "guidedReading": {
@@ -1247,32 +1247,32 @@
           "pt": "domingo",
           "ipa": "",
           "audioKey": "a1_a1-u14-l08_w_sunday",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Sunday is reserved for family and rest.",
+          "examplePt": "Domingo é reservado para a família e descanso."
         },
         {
           "en": "hot",
           "pt": "quente",
           "ipa": "",
           "audioKey": "a1_a1-u14-l08_w_hot",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "The sun is very hot in Inhambane.",
+          "examplePt": "O sol está muito quente em Inhambane."
         },
         {
           "en": "cold",
           "pt": "frio",
           "ipa": "",
           "audioKey": "a1_a1-u14-l08_w_cold",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Bring a jacket because the evening is cold.",
+          "examplePt": "Traz um casaco porque a noite está fria."
         },
         {
           "en": "rain",
           "pt": "chuva",
           "ipa": "",
           "audioKey": "a1_a1-u14-l08_w_rain",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Gentle rain is falling over the fields.",
+          "examplePt": "Chuva suave está a cair sobre os campos."
         }
       ],
       "guidedReading": {
@@ -1390,32 +1390,32 @@
           "pt": "chuva",
           "ipa": "",
           "audioKey": "a1_a1-u14-l09_w_rain",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Gentle rain is falling over the fields.",
+          "examplePt": "Chuva suave está a cair sobre os campos."
         },
         {
           "en": "sun",
           "pt": "sol",
           "ipa": "",
           "audioKey": "a1_a1-u14-l09_w_sun",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "The warm sun shines brightly all year.",
+          "examplePt": "O sol quente brilha intensamente o ano todo."
         },
         {
           "en": "wind",
           "pt": "vento",
           "ipa": "",
           "audioKey": "a1_a1-u14-l09_w_wind",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "A strong coastal wind blew our hats away.",
+          "examplePt": "Um forte vento costeiro levou os nossos chapéus."
         },
         {
           "en": "rainy season",
           "pt": "estação das chuvas",
           "ipa": "",
           "audioKey": "a1_a1-u14-l09_w_rainy-season",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "The rainy season brings abundant harvest.",
+          "examplePt": "A época das chuvas traz colheita abundante."
         }
       ],
       "guidedReading": {
@@ -1548,8 +1548,8 @@
           "pt": "estação das chuvas",
           "ipa": "",
           "audioKey": "a1_a1-u14-l10_w_rainy-season",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "The rainy season brings abundant harvest.",
+          "examplePt": "A época das chuvas traz colheita abundante."
         }
       ],
       "guidedReading": {
@@ -1679,32 +1679,32 @@
           "pt": "ontem",
           "ipa": "",
           "audioKey": "a1_a1-u14-l11_w_yesterday",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Yesterday I finished reading unit three.",
+          "examplePt": "Ontem terminei de ler a unidade três."
         },
         {
           "en": "week",
           "pt": "semana",
           "ipa": "",
           "audioKey": "a1_a1-u14-l11_w_week",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "We have tests scheduled for next week.",
+          "examplePt": "Temos testes agendados para a próxima semana."
         },
         {
           "en": "month",
           "pt": "mês",
           "ipa": "",
           "audioKey": "a1_a1-u14-l11_w_month",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "July is the coolest month of the year.",
+          "examplePt": "Julho é o mês mais fresco do ano."
         },
         {
           "en": "year",
           "pt": "ano",
           "ipa": "",
           "audioKey": "a1_a1-u14-l11_w_year",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "This year our goal is to become fluent.",
+          "examplePt": "Este ano a nossa meta é falar fluentemente."
         }
       ],
       "guidedReading": {
@@ -1830,32 +1830,32 @@
           "pt": "ano",
           "ipa": "",
           "audioKey": "a1_a1-u14-l12_w_year",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "This year our goal is to become fluent.",
+          "examplePt": "Este ano a nossa meta é falar fluentemente."
         },
         {
           "en": "Monday",
           "pt": "segunda",
           "ipa": "",
           "audioKey": "a1_a1-u14-l12_w_monday",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Monday is the start of the work week.",
+          "examplePt": "Segunda-feira é o início da semana de trabalho."
         },
         {
           "en": "Sunday",
           "pt": "domingo",
           "ipa": "",
           "audioKey": "a1_a1-u14-l12_w_sunday",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Sunday is reserved for family and rest.",
+          "examplePt": "Domingo é reservado para a família e descanso."
         },
         {
           "en": "hot",
           "pt": "quente",
           "ipa": "",
           "audioKey": "a1_a1-u14-l12_w_hot",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The sun is very hot in Inhambane.",
+          "examplePt": "O sol está muito quente em Inhambane."
         }
       ],
       "guidedReading": {
@@ -2009,32 +2009,32 @@
           "pt": "quente",
           "ipa": "",
           "audioKey": "a1_a1-u14-l13_w_hot",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The sun is very hot in Inhambane.",
+          "examplePt": "O sol está muito quente em Inhambane."
         },
         {
           "en": "cold",
           "pt": "frio",
           "ipa": "",
           "audioKey": "a1_a1-u14-l13_w_cold",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Bring a jacket because the evening is cold.",
+          "examplePt": "Traz um casaco porque a noite está fria."
         },
         {
           "en": "rain",
           "pt": "chuva",
           "ipa": "",
           "audioKey": "a1_a1-u14-l13_w_rain",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Gentle rain is falling over the fields.",
+          "examplePt": "Chuva suave está a cair sobre os campos."
         },
         {
           "en": "sun",
           "pt": "sol",
           "ipa": "",
           "audioKey": "a1_a1-u14-l13_w_sun",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The warm sun shines brightly all year.",
+          "examplePt": "O sol quente brilha intensamente o ano todo."
         }
       ],
       "guidedReading": {
@@ -2189,24 +2189,24 @@
           "pt": "sol",
           "ipa": "",
           "audioKey": "a1_a1-u14-l14_w_sun",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "The warm sun shines brightly all year.",
+          "examplePt": "O sol quente brilha intensamente o ano todo."
         },
         {
           "en": "wind",
           "pt": "vento",
           "ipa": "",
           "audioKey": "a1_a1-u14-l14_w_wind",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "A strong coastal wind blew our hats away.",
+          "examplePt": "Um forte vento costeiro levou os nossos chapéus."
         },
         {
           "en": "rainy season",
           "pt": "estação das chuvas",
           "ipa": "",
           "audioKey": "a1_a1-u14-l14_w_rainy-season",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "The rainy season brings abundant harvest.",
+          "examplePt": "A época das chuvas traz colheita abundante."
         }
       ],
       "guidedReading": {
@@ -2324,32 +2324,32 @@
           "pt": "hoje",
           "ipa": "",
           "audioKey": "a1_a1-u14-l15_w_today",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Today is a wonderful day to learn languages.",
+          "examplePt": "Hoje é um ótimo dia para aprender línguas."
         },
         {
           "en": "tomorrow",
           "pt": "amanhã",
           "ipa": "",
           "audioKey": "a1_a1-u14-l15_w_tomorrow",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Tomorrow we will review the past tense.",
+          "examplePt": "Amanhã vamos rever o passado."
         },
         {
           "en": "yesterday",
           "pt": "ontem",
           "ipa": "",
           "audioKey": "a1_a1-u14-l15_w_yesterday",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Yesterday I finished reading unit three.",
+          "examplePt": "Ontem terminei de ler a unidade três."
         },
         {
           "en": "week",
           "pt": "semana",
           "ipa": "",
           "audioKey": "a1_a1-u14-l15_w_week",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "We have tests scheduled for next week.",
+          "examplePt": "Temos testes agendados para a próxima semana."
         }
       ],
       "guidedReading": {
@@ -2547,32 +2547,32 @@
           "pt": "semana",
           "ipa": "",
           "audioKey": "a1_a1-u14-l16_w_week",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "We have tests scheduled for next week.",
+          "examplePt": "Temos testes agendados para a próxima semana."
         },
         {
           "en": "month",
           "pt": "mês",
           "ipa": "",
           "audioKey": "a1_a1-u14-l16_w_month",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "July is the coolest month of the year.",
+          "examplePt": "Julho é o mês mais fresco do ano."
         },
         {
           "en": "year",
           "pt": "ano",
           "ipa": "",
           "audioKey": "a1_a1-u14-l16_w_year",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "This year our goal is to become fluent.",
+          "examplePt": "Este ano a nossa meta é falar fluentemente."
         },
         {
           "en": "Monday",
           "pt": "segunda",
           "ipa": "",
           "audioKey": "a1_a1-u14-l16_w_monday",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Monday is the start of the work week.",
+          "examplePt": "Segunda-feira é o início da semana de trabalho."
         }
       ],
       "guidedReading": {
@@ -2709,32 +2709,32 @@
           "pt": "segunda",
           "ipa": "",
           "audioKey": "a1_a1-u14-l17_w_monday",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Monday is the start of the work week.",
+          "examplePt": "Segunda-feira é o início da semana de trabalho."
         },
         {
           "en": "Sunday",
           "pt": "domingo",
           "ipa": "",
           "audioKey": "a1_a1-u14-l17_w_sunday",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Sunday is reserved for family and rest.",
+          "examplePt": "Domingo é reservado para a família e descanso."
         },
         {
           "en": "hot",
           "pt": "quente",
           "ipa": "",
           "audioKey": "a1_a1-u14-l17_w_hot",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The sun is very hot in Inhambane.",
+          "examplePt": "O sol está muito quente em Inhambane."
         },
         {
           "en": "cold",
           "pt": "frio",
           "ipa": "",
           "audioKey": "a1_a1-u14-l17_w_cold",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Bring a jacket because the evening is cold.",
+          "examplePt": "Traz um casaco porque a noite está fria."
         }
       ],
       "guidedReading": {
@@ -2860,32 +2860,32 @@
           "pt": "frio",
           "ipa": "",
           "audioKey": "a1_a1-u14-l18_w_cold",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Bring a jacket because the evening is cold.",
+          "examplePt": "Traz um casaco porque a noite está fria."
         },
         {
           "en": "rain",
           "pt": "chuva",
           "ipa": "",
           "audioKey": "a1_a1-u14-l18_w_rain",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Gentle rain is falling over the fields.",
+          "examplePt": "Chuva suave está a cair sobre os campos."
         },
         {
           "en": "sun",
           "pt": "sol",
           "ipa": "",
           "audioKey": "a1_a1-u14-l18_w_sun",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The warm sun shines brightly all year.",
+          "examplePt": "O sol quente brilha intensamente o ano todo."
         },
         {
           "en": "wind",
           "pt": "vento",
           "ipa": "",
           "audioKey": "a1_a1-u14-l18_w_wind",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "A strong coastal wind blew our hats away.",
+          "examplePt": "Um forte vento costeiro levou os nossos chapéus."
         }
       ],
       "guidedReading": {
@@ -3039,16 +3039,16 @@
           "pt": "vento",
           "ipa": "",
           "audioKey": "a1_a1-u14-l19_w_wind",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "A strong coastal wind blew our hats away.",
+          "examplePt": "Um forte vento costeiro levou os nossos chapéus."
         },
         {
           "en": "rainy season",
           "pt": "estação das chuvas",
           "ipa": "",
           "audioKey": "a1_a1-u14-l19_w_rainy-season",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The rainy season brings abundant harvest.",
+          "examplePt": "A época das chuvas traz colheita abundante."
         }
       ],
       "guidedReading": {
@@ -3204,32 +3204,32 @@
           "pt": "amanhã",
           "ipa": "",
           "audioKey": "a1_a1-u14-l20_w_tomorrow",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Tomorrow we will review the past tense.",
+          "examplePt": "Amanhã vamos rever o passado."
         },
         {
           "en": "yesterday",
           "pt": "ontem",
           "ipa": "",
           "audioKey": "a1_a1-u14-l20_w_yesterday",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Yesterday I finished reading unit three.",
+          "examplePt": "Ontem terminei de ler a unidade três."
         },
         {
           "en": "week",
           "pt": "semana",
           "ipa": "",
           "audioKey": "a1_a1-u14-l20_w_week",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "We have tests scheduled for next week.",
+          "examplePt": "Temos testes agendados para a próxima semana."
         },
         {
           "en": "month",
           "pt": "mês",
           "ipa": "",
           "audioKey": "a1_a1-u14-l20_w_month",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "July is the coolest month of the year.",
+          "examplePt": "Julho é o mês mais fresco do ano."
         }
       ],
       "guidedReading": {

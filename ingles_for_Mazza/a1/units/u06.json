@@ -37,32 +37,32 @@
           "pt": "casa",
           "ipa": "",
           "audioKey": "a1_a1-u06-l01_w_house",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "They built a clean and safe house.",
+          "examplePt": "Eles construíram uma casa limpa e segura."
         },
         {
           "en": "room",
           "pt": "quarto/divisão",
           "ipa": "",
           "audioKey": "a1_a1-u06-l01_w_room",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The study room has plenty of natural light.",
+          "examplePt": "A sala de estudos tem muita luz natural."
         },
         {
           "en": "kitchen",
           "pt": "cozinha",
           "ipa": "",
           "audioKey": "a1_a1-u06-l01_w_kitchen",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The delicious smell comes from the kitchen.",
+          "examplePt": "O cheiro delicioso vem da cozinha."
         },
         {
           "en": "bathroom",
           "pt": "casa de banho",
           "ipa": "",
           "audioKey": "a1_a1-u06-l01_w_bathroom",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The bathroom is down the hall on the left.",
+          "examplePt": "A casa de banho fica no fundo do corredor à esquerda."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "casa de banho",
           "ipa": "",
           "audioKey": "a1_a1-u06-l02_w_bathroom",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The bathroom is down the hall on the left.",
+          "examplePt": "A casa de banho fica no fundo do corredor à esquerda."
         },
         {
           "en": "bedroom",
           "pt": "quarto",
           "ipa": "",
           "audioKey": "a1_a1-u06-l02_w_bedroom",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The bedroom has two comfortable beds.",
+          "examplePt": "O quarto tem duas camas confortáveis."
         },
         {
           "en": "door",
           "pt": "porta",
           "ipa": "",
           "audioKey": "a1_a1-u06-l02_w_door",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Please shut the front door quietly.",
+          "examplePt": "Por favor, fecha a porta principal suavemente."
         },
         {
           "en": "window",
           "pt": "janela",
           "ipa": "",
           "audioKey": "a1_a1-u06-l02_w_window",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Open the window to let fresh air in.",
+          "examplePt": "Abre a janela para deixar entrar ar fresco."
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "janela",
           "ipa": "",
           "audioKey": "a1_a1-u06-l03_w_window",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Open the window to let fresh air in.",
+          "examplePt": "Abre a janela para deixar entrar ar fresco."
         },
         {
           "en": "table",
           "pt": "mesa",
           "ipa": "",
           "audioKey": "a1_a1-u06-l03_w_table",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Put the notebooks on the wooden table.",
+          "examplePt": "Põe os cadernos em cima da mesa de madeira."
         },
         {
           "en": "chair",
           "pt": "cadeira",
           "ipa": "",
           "audioKey": "a1_a1-u06-l03_w_chair",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Take a seat on that comfortable chair.",
+          "examplePt": "Senta-te naquela cadeira confortável."
         },
         {
           "en": "bed",
           "pt": "cama",
           "ipa": "",
           "audioKey": "a1_a1-u06-l03_w_bed",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The bed has a clean mosquito net.",
+          "examplePt": "A cama tem um mosquiteiro limpo."
         }
       ],
       "guidedReading": {
@@ -519,32 +519,32 @@
           "pt": "cama",
           "ipa": "",
           "audioKey": "a1_a1-u06-l04_w_bed",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "The bed has a clean mosquito net.",
+          "examplePt": "A cama tem um mosquiteiro limpo."
         },
         {
           "en": "yard",
           "pt": "quintal",
           "ipa": "",
           "audioKey": "a1_a1-u06-l04_w_yard",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Children are playing football in the yard.",
+          "examplePt": "As crianças estão a jogar futebol no quintal."
         },
         {
           "en": "neighbour",
           "pt": "vizinho",
           "ipa": "",
           "audioKey": "a1_a1-u06-l04_w_neighbour",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Our neighbour greeted us with a smile.",
+          "examplePt": "O nosso vizinho cumprimentou-nos com um sorriso."
         },
         {
           "en": "there is",
           "pt": "há (sing.)",
           "ipa": "",
           "audioKey": "a1_a1-u06-l04_w_there-is",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "There is a market just around the corner.",
+          "examplePt": "Há um mercado mesmo ao virar da esquina."
         }
       ],
       "guidedReading": {
@@ -681,32 +681,32 @@
           "pt": "há (sing.)",
           "ipa": "",
           "audioKey": "a1_a1-u06-l05_w_there-is",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "There is a market just around the corner.",
+          "examplePt": "Há um mercado mesmo ao virar da esquina."
         },
         {
           "en": "there are",
           "pt": "há (pl.)",
           "ipa": "",
           "audioKey": "a1_a1-u06-l05_w_there-are",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "There are many fruit trees in our province.",
+          "examplePt": "Há muitas árvores de fruto na nossa província."
         },
         {
           "en": "in",
           "pt": "em/dentro",
           "ipa": "",
           "audioKey": "a1_a1-u06-l05_w_in",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "The keys are in my pocket.",
+          "examplePt": "As chaves estão no meu bolso."
         },
         {
           "en": "on",
           "pt": "em cima",
           "ipa": "",
           "audioKey": "a1_a1-u06-l05_w_on",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "The plate of papas is on the table.",
+          "examplePt": "O prato de papas está em cima da mesa."
         }
       ],
       "guidedReading": {
@@ -904,24 +904,24 @@
           "pt": "em cima",
           "ipa": "",
           "audioKey": "a1_a1-u06-l06_w_on",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "The plate of papas is on the table.",
+          "examplePt": "O prato de papas está em cima da mesa."
         },
         {
           "en": "under",
           "pt": "debaixo",
           "ipa": "",
           "audioKey": "a1_a1-u06-l06_w_under",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "The cat is sleeping under the shade.",
+          "examplePt": "O gato está a dormir debaixo da sombra."
         },
         {
           "en": "next to",
           "pt": "ao lado",
           "ipa": "",
           "audioKey": "a1_a1-u06-l06_w_next-to",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "The pharmacy is located next to the bank.",
+          "examplePt": "A farmácia fica localizada ao lado do banco."
         }
       ],
       "guidedReading": {
@@ -1075,32 +1075,32 @@
           "pt": "casa",
           "ipa": "",
           "audioKey": "a1_a1-u06-l07_w_house",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "They built a clean and safe house.",
+          "examplePt": "Eles construíram uma casa limpa e segura."
         },
         {
           "en": "room",
           "pt": "quarto/divisão",
           "ipa": "",
           "audioKey": "a1_a1-u06-l07_w_room",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The study room has plenty of natural light.",
+          "examplePt": "A sala de estudos tem muita luz natural."
         },
         {
           "en": "kitchen",
           "pt": "cozinha",
           "ipa": "",
           "audioKey": "a1_a1-u06-l07_w_kitchen",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The delicious smell comes from the kitchen.",
+          "examplePt": "O cheiro delicioso vem da cozinha."
         },
         {
           "en": "bathroom",
           "pt": "casa de banho",
           "ipa": "",
           "audioKey": "a1_a1-u06-l07_w_bathroom",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The bathroom is down the hall on the left.",
+          "examplePt": "A casa de banho fica no fundo do corredor à esquerda."
         }
       ],
       "guidedReading": {
@@ -1255,32 +1255,32 @@
           "pt": "casa de banho",
           "ipa": "",
           "audioKey": "a1_a1-u06-l08_w_bathroom",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "The bathroom is down the hall on the left.",
+          "examplePt": "A casa de banho fica no fundo do corredor à esquerda."
         },
         {
           "en": "bedroom",
           "pt": "quarto",
           "ipa": "",
           "audioKey": "a1_a1-u06-l08_w_bedroom",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "The bedroom has two comfortable beds.",
+          "examplePt": "O quarto tem duas camas confortáveis."
         },
         {
           "en": "door",
           "pt": "porta",
           "ipa": "",
           "audioKey": "a1_a1-u06-l08_w_door",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Please shut the front door quietly.",
+          "examplePt": "Por favor, fecha a porta principal suavemente."
         },
         {
           "en": "window",
           "pt": "janela",
           "ipa": "",
           "audioKey": "a1_a1-u06-l08_w_window",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Open the window to let fresh air in.",
+          "examplePt": "Abre a janela para deixar entrar ar fresco."
         }
       ],
       "guidedReading": {
@@ -1398,32 +1398,32 @@
           "pt": "janela",
           "ipa": "",
           "audioKey": "a1_a1-u06-l09_w_window",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Open the window to let fresh air in.",
+          "examplePt": "Abre a janela para deixar entrar ar fresco."
         },
         {
           "en": "table",
           "pt": "mesa",
           "ipa": "",
           "audioKey": "a1_a1-u06-l09_w_table",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Put the notebooks on the wooden table.",
+          "examplePt": "Põe os cadernos em cima da mesa de madeira."
         },
         {
           "en": "chair",
           "pt": "cadeira",
           "ipa": "",
           "audioKey": "a1_a1-u06-l09_w_chair",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Take a seat on that comfortable chair.",
+          "examplePt": "Senta-te naquela cadeira confortável."
         },
         {
           "en": "bed",
           "pt": "cama",
           "ipa": "",
           "audioKey": "a1_a1-u06-l09_w_bed",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "The bed has a clean mosquito net.",
+          "examplePt": "A cama tem um mosquiteiro limpo."
         }
       ],
       "guidedReading": {
@@ -1556,32 +1556,32 @@
           "pt": "cama",
           "ipa": "",
           "audioKey": "a1_a1-u06-l10_w_bed",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "The bed has a clean mosquito net.",
+          "examplePt": "A cama tem um mosquiteiro limpo."
         },
         {
           "en": "yard",
           "pt": "quintal",
           "ipa": "",
           "audioKey": "a1_a1-u06-l10_w_yard",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Children are playing football in the yard.",
+          "examplePt": "As crianças estão a jogar futebol no quintal."
         },
         {
           "en": "neighbour",
           "pt": "vizinho",
           "ipa": "",
           "audioKey": "a1_a1-u06-l10_w_neighbour",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Our neighbour greeted us with a smile.",
+          "examplePt": "O nosso vizinho cumprimentou-nos com um sorriso."
         },
         {
           "en": "there is",
           "pt": "há (sing.)",
           "ipa": "",
           "audioKey": "a1_a1-u06-l10_w_there-is",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "There is a market just around the corner.",
+          "examplePt": "Há um mercado mesmo ao virar da esquina."
         }
       ],
       "guidedReading": {
@@ -1711,32 +1711,32 @@
           "pt": "há (sing.)",
           "ipa": "",
           "audioKey": "a1_a1-u06-l11_w_there-is",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "There is a market just around the corner.",
+          "examplePt": "Há um mercado mesmo ao virar da esquina."
         },
         {
           "en": "there are",
           "pt": "há (pl.)",
           "ipa": "",
           "audioKey": "a1_a1-u06-l11_w_there-are",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "There are many fruit trees in our province.",
+          "examplePt": "Há muitas árvores de fruto na nossa província."
         },
         {
           "en": "in",
           "pt": "em/dentro",
           "ipa": "",
           "audioKey": "a1_a1-u06-l11_w_in",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The keys are in my pocket.",
+          "examplePt": "As chaves estão no meu bolso."
         },
         {
           "en": "on",
           "pt": "em cima",
           "ipa": "",
           "audioKey": "a1_a1-u06-l11_w_on",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The plate of papas is on the table.",
+          "examplePt": "O prato de papas está em cima da mesa."
         }
       ],
       "guidedReading": {
@@ -1862,24 +1862,24 @@
           "pt": "em cima",
           "ipa": "",
           "audioKey": "a1_a1-u06-l12_w_on",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The plate of papas is on the table.",
+          "examplePt": "O prato de papas está em cima da mesa."
         },
         {
           "en": "under",
           "pt": "debaixo",
           "ipa": "",
           "audioKey": "a1_a1-u06-l12_w_under",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The cat is sleeping under the shade.",
+          "examplePt": "O gato está a dormir debaixo da sombra."
         },
         {
           "en": "next to",
           "pt": "ao lado",
           "ipa": "",
           "audioKey": "a1_a1-u06-l12_w_next-to",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The pharmacy is located next to the bank.",
+          "examplePt": "A farmácia fica localizada ao lado do banco."
         }
       ],
       "guidedReading": {
@@ -2033,32 +2033,32 @@
           "pt": "casa",
           "ipa": "",
           "audioKey": "a1_a1-u06-l13_w_house",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "They built a clean and safe house.",
+          "examplePt": "Eles construíram uma casa limpa e segura."
         },
         {
           "en": "room",
           "pt": "quarto/divisão",
           "ipa": "",
           "audioKey": "a1_a1-u06-l13_w_room",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The study room has plenty of natural light.",
+          "examplePt": "A sala de estudos tem muita luz natural."
         },
         {
           "en": "kitchen",
           "pt": "cozinha",
           "ipa": "",
           "audioKey": "a1_a1-u06-l13_w_kitchen",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The delicious smell comes from the kitchen.",
+          "examplePt": "O cheiro delicioso vem da cozinha."
         },
         {
           "en": "bathroom",
           "pt": "casa de banho",
           "ipa": "",
           "audioKey": "a1_a1-u06-l13_w_bathroom",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The bathroom is down the hall on the left.",
+          "examplePt": "A casa de banho fica no fundo do corredor à esquerda."
         }
       ],
       "guidedReading": {
@@ -2213,32 +2213,32 @@
           "pt": "casa de banho",
           "ipa": "",
           "audioKey": "a1_a1-u06-l14_w_bathroom",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "The bathroom is down the hall on the left.",
+          "examplePt": "A casa de banho fica no fundo do corredor à esquerda."
         },
         {
           "en": "bedroom",
           "pt": "quarto",
           "ipa": "",
           "audioKey": "a1_a1-u06-l14_w_bedroom",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "The bedroom has two comfortable beds.",
+          "examplePt": "O quarto tem duas camas confortáveis."
         },
         {
           "en": "door",
           "pt": "porta",
           "ipa": "",
           "audioKey": "a1_a1-u06-l14_w_door",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Please shut the front door quietly.",
+          "examplePt": "Por favor, fecha a porta principal suavemente."
         },
         {
           "en": "window",
           "pt": "janela",
           "ipa": "",
           "audioKey": "a1_a1-u06-l14_w_window",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Open the window to let fresh air in.",
+          "examplePt": "Abre a janela para deixar entrar ar fresco."
         }
       ],
       "guidedReading": {
@@ -2356,32 +2356,32 @@
           "pt": "janela",
           "ipa": "",
           "audioKey": "a1_a1-u06-l15_w_window",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Open the window to let fresh air in.",
+          "examplePt": "Abre a janela para deixar entrar ar fresco."
         },
         {
           "en": "table",
           "pt": "mesa",
           "ipa": "",
           "audioKey": "a1_a1-u06-l15_w_table",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Put the notebooks on the wooden table.",
+          "examplePt": "Põe os cadernos em cima da mesa de madeira."
         },
         {
           "en": "chair",
           "pt": "cadeira",
           "ipa": "",
           "audioKey": "a1_a1-u06-l15_w_chair",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Take a seat on that comfortable chair.",
+          "examplePt": "Senta-te naquela cadeira confortável."
         },
         {
           "en": "bed",
           "pt": "cama",
           "ipa": "",
           "audioKey": "a1_a1-u06-l15_w_bed",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "The bed has a clean mosquito net.",
+          "examplePt": "A cama tem um mosquiteiro limpo."
         }
       ],
       "guidedReading": {
@@ -2579,32 +2579,32 @@
           "pt": "cama",
           "ipa": "",
           "audioKey": "a1_a1-u06-l16_w_bed",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The bed has a clean mosquito net.",
+          "examplePt": "A cama tem um mosquiteiro limpo."
         },
         {
           "en": "yard",
           "pt": "quintal",
           "ipa": "",
           "audioKey": "a1_a1-u06-l16_w_yard",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Children are playing football in the yard.",
+          "examplePt": "As crianças estão a jogar futebol no quintal."
         },
         {
           "en": "neighbour",
           "pt": "vizinho",
           "ipa": "",
           "audioKey": "a1_a1-u06-l16_w_neighbour",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Our neighbour greeted us with a smile.",
+          "examplePt": "O nosso vizinho cumprimentou-nos com um sorriso."
         },
         {
           "en": "there is",
           "pt": "há (sing.)",
           "ipa": "",
           "audioKey": "a1_a1-u06-l16_w_there-is",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "There is a market just around the corner.",
+          "examplePt": "Há um mercado mesmo ao virar da esquina."
         }
       ],
       "guidedReading": {
@@ -2741,32 +2741,32 @@
           "pt": "há (sing.)",
           "ipa": "",
           "audioKey": "a1_a1-u06-l17_w_there-is",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "There is a market just around the corner.",
+          "examplePt": "Há um mercado mesmo ao virar da esquina."
         },
         {
           "en": "there are",
           "pt": "há (pl.)",
           "ipa": "",
           "audioKey": "a1_a1-u06-l17_w_there-are",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "There are many fruit trees in our province.",
+          "examplePt": "Há muitas árvores de fruto na nossa província."
         },
         {
           "en": "in",
           "pt": "em/dentro",
           "ipa": "",
           "audioKey": "a1_a1-u06-l17_w_in",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The keys are in my pocket.",
+          "examplePt": "As chaves estão no meu bolso."
         },
         {
           "en": "on",
           "pt": "em cima",
           "ipa": "",
           "audioKey": "a1_a1-u06-l17_w_on",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The plate of papas is on the table.",
+          "examplePt": "O prato de papas está em cima da mesa."
         }
       ],
       "guidedReading": {
@@ -2892,24 +2892,24 @@
           "pt": "em cima",
           "ipa": "",
           "audioKey": "a1_a1-u06-l18_w_on",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The plate of papas is on the table.",
+          "examplePt": "O prato de papas está em cima da mesa."
         },
         {
           "en": "under",
           "pt": "debaixo",
           "ipa": "",
           "audioKey": "a1_a1-u06-l18_w_under",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The cat is sleeping under the shade.",
+          "examplePt": "O gato está a dormir debaixo da sombra."
         },
         {
           "en": "next to",
           "pt": "ao lado",
           "ipa": "",
           "audioKey": "a1_a1-u06-l18_w_next-to",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The pharmacy is located next to the bank.",
+          "examplePt": "A farmácia fica localizada ao lado do banco."
         }
       ],
       "guidedReading": {
@@ -3063,32 +3063,32 @@
           "pt": "casa",
           "ipa": "",
           "audioKey": "a1_a1-u06-l19_w_house",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "They built a clean and safe house.",
+          "examplePt": "Eles construíram uma casa limpa e segura."
         },
         {
           "en": "room",
           "pt": "quarto/divisão",
           "ipa": "",
           "audioKey": "a1_a1-u06-l19_w_room",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The study room has plenty of natural light.",
+          "examplePt": "A sala de estudos tem muita luz natural."
         },
         {
           "en": "kitchen",
           "pt": "cozinha",
           "ipa": "",
           "audioKey": "a1_a1-u06-l19_w_kitchen",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The delicious smell comes from the kitchen.",
+          "examplePt": "O cheiro delicioso vem da cozinha."
         },
         {
           "en": "bathroom",
           "pt": "casa de banho",
           "ipa": "",
           "audioKey": "a1_a1-u06-l19_w_bathroom",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The bathroom is down the hall on the left.",
+          "examplePt": "A casa de banho fica no fundo do corredor à esquerda."
         }
       ],
       "guidedReading": {
@@ -3244,32 +3244,32 @@
           "pt": "casa de banho",
           "ipa": "",
           "audioKey": "a1_a1-u06-l20_w_bathroom",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "The bathroom is down the hall on the left.",
+          "examplePt": "A casa de banho fica no fundo do corredor à esquerda."
         },
         {
           "en": "bedroom",
           "pt": "quarto",
           "ipa": "",
           "audioKey": "a1_a1-u06-l20_w_bedroom",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "The bedroom has two comfortable beds.",
+          "examplePt": "O quarto tem duas camas confortáveis."
         },
         {
           "en": "door",
           "pt": "porta",
           "ipa": "",
           "audioKey": "a1_a1-u06-l20_w_door",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Please shut the front door quietly.",
+          "examplePt": "Por favor, fecha a porta principal suavemente."
         },
         {
           "en": "window",
           "pt": "janela",
           "ipa": "",
           "audioKey": "a1_a1-u06-l20_w_window",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Open the window to let fresh air in.",
+          "examplePt": "Abre a janela para deixar entrar ar fresco."
         }
       ],
       "guidedReading": {

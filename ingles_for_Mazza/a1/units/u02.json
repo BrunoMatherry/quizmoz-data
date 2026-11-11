@@ -37,32 +37,32 @@
           "pt": "um",
           "ipa": "",
           "audioKey": "a1_a1-u02-l01_w_one",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "I only need one ticket, please.",
+          "examplePt": "Só preciso de um bilhete, por favor."
         },
         {
           "en": "two",
           "pt": "dois",
           "ipa": "",
           "audioKey": "a1_a1-u02-l01_w_two",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "There are two students at the desk.",
+          "examplePt": "Há dois estudantes na carteira."
         },
         {
           "en": "three",
           "pt": "três",
           "ipa": "",
           "audioKey": "a1_a1-u02-l01_w_three",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "We have three classes every morning.",
+          "examplePt": "Temos três aulas todas as manhãs."
         },
         {
           "en": "four",
           "pt": "quatro",
           "ipa": "",
           "audioKey": "a1_a1-u02-l01_w_four",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Four fishermen are returning from the sea.",
+          "examplePt": "Quatro pescadores estão a regressar do mar."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "quatro",
           "ipa": "",
           "audioKey": "a1_a1-u02-l02_w_four",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Four fishermen are returning from the sea.",
+          "examplePt": "Quatro pescadores estão a regressar do mar."
         },
         {
           "en": "five",
           "pt": "cinco",
           "ipa": "",
           "audioKey": "a1_a1-u02-l02_w_five",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The chapa leaves in five minutes.",
+          "examplePt": "O chapa parte em cinco minutos."
         },
         {
           "en": "six",
           "pt": "seis",
           "ipa": "",
           "audioKey": "a1_a1-u02-l02_w_six",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "I wake up at six o'clock every day.",
+          "examplePt": "Acordo às seis horas todos os dias."
         },
         {
           "en": "seven",
           "pt": "sete",
           "ipa": "",
           "audioKey": "a1_a1-u02-l02_w_seven",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "There are seven days in a week.",
+          "examplePt": "Há sete dias numa semana."
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "sete",
           "ipa": "",
           "audioKey": "a1_a1-u02-l03_w_seven",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "There are seven days in a week.",
+          "examplePt": "Há sete dias numa semana."
         },
         {
           "en": "eight",
           "pt": "oito",
           "ipa": "",
           "audioKey": "a1_a1-u02-l03_w_eight",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "School starts at eight in the morning.",
+          "examplePt": "A escola começa às oito da manhã."
         },
         {
           "en": "nine",
           "pt": "nove",
           "ipa": "",
           "audioKey": "a1_a1-u02-l03_w_nine",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The market closes at nine at night.",
+          "examplePt": "O mercado fecha às nove da noite."
         },
         {
           "en": "ten",
           "pt": "dez",
           "ipa": "",
           "audioKey": "a1_a1-u02-l03_w_ten",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Ten meticais is the price of this bread.",
+          "examplePt": "Dez meticais é o preço deste pão."
         }
       ],
       "guidedReading": {
@@ -519,32 +519,32 @@
           "pt": "dez",
           "ipa": "",
           "audioKey": "a1_a1-u02-l04_w_ten",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Ten meticais is the price of this bread.",
+          "examplePt": "Dez meticais é o preço deste pão."
         },
         {
           "en": "twenty",
           "pt": "vinte",
           "ipa": "",
           "audioKey": "a1_a1-u02-l04_w_twenty",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "The trip takes twenty minutes.",
+          "examplePt": "A viagem dura vinte minutos."
         },
         {
           "en": "thirty",
           "pt": "trinta",
           "ipa": "",
           "audioKey": "a1_a1-u02-l04_w_thirty",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "He has lived in Beira for thirty years.",
+          "examplePt": "Ele viveu na Beira durante trinta anos."
         },
         {
           "en": "hundred",
           "pt": "cem",
           "ipa": "",
           "audioKey": "a1_a1-u02-l04_w_hundred",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "One hundred meticais is enough.",
+          "examplePt": "Cem meticais é suficiente."
         }
       ],
       "guidedReading": {
@@ -681,32 +681,32 @@
           "pt": "cem",
           "ipa": "",
           "audioKey": "a1_a1-u02-l05_w_hundred",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "One hundred meticais is enough.",
+          "examplePt": "Cem meticais é suficiente."
         },
         {
           "en": "age",
           "pt": "idade",
           "ipa": "",
           "audioKey": "a1_a1-u02-l05_w_age",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Age is just a number.",
+          "examplePt": "A idade é apenas um número."
         },
         {
           "en": "years old",
           "pt": "anos",
           "ipa": "",
           "audioKey": "a1_a1-u02-l05_w_years-old",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "My brother is fifteen years old.",
+          "examplePt": "O meu irmão tem quinze anos."
         },
         {
           "en": "phone number",
           "pt": "número de telefone",
           "ipa": "",
           "audioKey": "a1_a1-u02-l05_w_phone-number",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Please write down your phone number.",
+          "examplePt": "Por favor, escreve o teu número de telefone."
         }
       ],
       "guidedReading": {
@@ -904,32 +904,32 @@
           "pt": "número de telefone",
           "ipa": "",
           "audioKey": "a1_a1-u02-l06_w_phone-number",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Please write down your phone number.",
+          "examplePt": "Por favor, escreve o teu número de telefone."
         },
         {
           "en": "how old",
           "pt": "quantos anos",
           "ipa": "",
           "audioKey": "a1_a1-u02-l06_w_how-old",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "How old is your younger sister?",
+          "examplePt": "Quantos anos tem a tua irmã mais nova?"
         },
         {
           "en": "zero",
           "pt": "zero",
           "ipa": "",
           "audioKey": "a1_a1-u02-l06_w_zero",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "The temperature dropped to zero degrees.",
+          "examplePt": "A temperatura desceu até zero graus."
         },
         {
           "en": "first",
           "pt": "primeiro",
           "ipa": "",
           "audioKey": "a1_a1-u02-l06_w_first",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "This is my first time visiting Nampula.",
+          "examplePt": "Esta é a minha primeira vez a visitar Nampula."
         }
       ],
       "guidedReading": {
@@ -1083,16 +1083,16 @@
           "pt": "primeiro",
           "ipa": "",
           "audioKey": "a1_a1-u02-l07_w_first",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "This is my first time visiting Nampula.",
+          "examplePt": "Esta é a minha primeira vez a visitar Nampula."
         },
         {
           "en": "second",
           "pt": "segundo",
           "ipa": "",
           "audioKey": "a1_a1-u02-l07_w_second",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Turn right at the second street.",
+          "examplePt": "Vira à direita na segunda rua."
         }
       ],
       "guidedReading": {
@@ -1247,32 +1247,32 @@
           "pt": "dois",
           "ipa": "",
           "audioKey": "a1_a1-u02-l08_w_two",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "There are two students at the desk.",
+          "examplePt": "Há dois estudantes na carteira."
         },
         {
           "en": "three",
           "pt": "três",
           "ipa": "",
           "audioKey": "a1_a1-u02-l08_w_three",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "We have three classes every morning.",
+          "examplePt": "Temos três aulas todas as manhãs."
         },
         {
           "en": "four",
           "pt": "quatro",
           "ipa": "",
           "audioKey": "a1_a1-u02-l08_w_four",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Four fishermen are returning from the sea.",
+          "examplePt": "Quatro pescadores estão a regressar do mar."
         },
         {
           "en": "five",
           "pt": "cinco",
           "ipa": "",
           "audioKey": "a1_a1-u02-l08_w_five",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "The chapa leaves in five minutes.",
+          "examplePt": "O chapa parte em cinco minutos."
         }
       ],
       "guidedReading": {
@@ -1390,32 +1390,32 @@
           "pt": "cinco",
           "ipa": "",
           "audioKey": "a1_a1-u02-l09_w_five",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "The chapa leaves in five minutes.",
+          "examplePt": "O chapa parte em cinco minutos."
         },
         {
           "en": "six",
           "pt": "seis",
           "ipa": "",
           "audioKey": "a1_a1-u02-l09_w_six",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "I wake up at six o'clock every day.",
+          "examplePt": "Acordo às seis horas todos os dias."
         },
         {
           "en": "seven",
           "pt": "sete",
           "ipa": "",
           "audioKey": "a1_a1-u02-l09_w_seven",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "There are seven days in a week.",
+          "examplePt": "Há sete dias numa semana."
         },
         {
           "en": "eight",
           "pt": "oito",
           "ipa": "",
           "audioKey": "a1_a1-u02-l09_w_eight",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "School starts at eight in the morning.",
+          "examplePt": "A escola começa às oito da manhã."
         }
       ],
       "guidedReading": {
@@ -1548,32 +1548,32 @@
           "pt": "oito",
           "ipa": "",
           "audioKey": "a1_a1-u02-l10_w_eight",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "School starts at eight in the morning.",
+          "examplePt": "A escola começa às oito da manhã."
         },
         {
           "en": "nine",
           "pt": "nove",
           "ipa": "",
           "audioKey": "a1_a1-u02-l10_w_nine",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "The market closes at nine at night.",
+          "examplePt": "O mercado fecha às nove da noite."
         },
         {
           "en": "ten",
           "pt": "dez",
           "ipa": "",
           "audioKey": "a1_a1-u02-l10_w_ten",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Ten meticais is the price of this bread.",
+          "examplePt": "Dez meticais é o preço deste pão."
         },
         {
           "en": "twenty",
           "pt": "vinte",
           "ipa": "",
           "audioKey": "a1_a1-u02-l10_w_twenty",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "The trip takes twenty minutes.",
+          "examplePt": "A viagem dura vinte minutos."
         }
       ],
       "guidedReading": {
@@ -1703,32 +1703,32 @@
           "pt": "vinte",
           "ipa": "",
           "audioKey": "a1_a1-u02-l11_w_twenty",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The trip takes twenty minutes.",
+          "examplePt": "A viagem dura vinte minutos."
         },
         {
           "en": "thirty",
           "pt": "trinta",
           "ipa": "",
           "audioKey": "a1_a1-u02-l11_w_thirty",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "He has lived in Beira for thirty years.",
+          "examplePt": "Ele viveu na Beira durante trinta anos."
         },
         {
           "en": "hundred",
           "pt": "cem",
           "ipa": "",
           "audioKey": "a1_a1-u02-l11_w_hundred",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "One hundred meticais is enough.",
+          "examplePt": "Cem meticais é suficiente."
         },
         {
           "en": "age",
           "pt": "idade",
           "ipa": "",
           "audioKey": "a1_a1-u02-l11_w_age",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Age is just a number.",
+          "examplePt": "A idade é apenas um número."
         }
       ],
       "guidedReading": {
@@ -1854,32 +1854,32 @@
           "pt": "idade",
           "ipa": "",
           "audioKey": "a1_a1-u02-l12_w_age",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Age is just a number.",
+          "examplePt": "A idade é apenas um número."
         },
         {
           "en": "years old",
           "pt": "anos",
           "ipa": "",
           "audioKey": "a1_a1-u02-l12_w_years-old",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "My brother is fifteen years old.",
+          "examplePt": "O meu irmão tem quinze anos."
         },
         {
           "en": "phone number",
           "pt": "número de telefone",
           "ipa": "",
           "audioKey": "a1_a1-u02-l12_w_phone-number",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Please write down your phone number.",
+          "examplePt": "Por favor, escreve o teu número de telefone."
         },
         {
           "en": "how old",
           "pt": "quantos anos",
           "ipa": "",
           "audioKey": "a1_a1-u02-l12_w_how-old",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "How old is your younger sister?",
+          "examplePt": "Quantos anos tem a tua irmã mais nova?"
         }
       ],
       "guidedReading": {
@@ -2033,32 +2033,32 @@
           "pt": "quantos anos",
           "ipa": "",
           "audioKey": "a1_a1-u02-l13_w_how-old",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "How old is your younger sister?",
+          "examplePt": "Quantos anos tem a tua irmã mais nova?"
         },
         {
           "en": "zero",
           "pt": "zero",
           "ipa": "",
           "audioKey": "a1_a1-u02-l13_w_zero",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The temperature dropped to zero degrees.",
+          "examplePt": "A temperatura desceu até zero graus."
         },
         {
           "en": "first",
           "pt": "primeiro",
           "ipa": "",
           "audioKey": "a1_a1-u02-l13_w_first",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "This is my first time visiting Nampula.",
+          "examplePt": "Esta é a minha primeira vez a visitar Nampula."
         },
         {
           "en": "second",
           "pt": "segundo",
           "ipa": "",
           "audioKey": "a1_a1-u02-l13_w_second",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Turn right at the second street.",
+          "examplePt": "Vira à direita na segunda rua."
         }
       ],
       "guidedReading": {
@@ -2213,8 +2213,8 @@
           "pt": "segundo",
           "ipa": "",
           "audioKey": "a1_a1-u02-l14_w_second",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Turn right at the second street.",
+          "examplePt": "Vira à direita na segunda rua."
         }
       ],
       "guidedReading": {
@@ -2332,32 +2332,32 @@
           "pt": "três",
           "ipa": "",
           "audioKey": "a1_a1-u02-l15_w_three",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "We have three classes every morning.",
+          "examplePt": "Temos três aulas todas as manhãs."
         },
         {
           "en": "four",
           "pt": "quatro",
           "ipa": "",
           "audioKey": "a1_a1-u02-l15_w_four",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Four fishermen are returning from the sea.",
+          "examplePt": "Quatro pescadores estão a regressar do mar."
         },
         {
           "en": "five",
           "pt": "cinco",
           "ipa": "",
           "audioKey": "a1_a1-u02-l15_w_five",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "The chapa leaves in five minutes.",
+          "examplePt": "O chapa parte em cinco minutos."
         },
         {
           "en": "six",
           "pt": "seis",
           "ipa": "",
           "audioKey": "a1_a1-u02-l15_w_six",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "I wake up at six o'clock every day.",
+          "examplePt": "Acordo às seis horas todos os dias."
         }
       ],
       "guidedReading": {
@@ -2555,32 +2555,32 @@
           "pt": "seis",
           "ipa": "",
           "audioKey": "a1_a1-u02-l16_w_six",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "I wake up at six o'clock every day.",
+          "examplePt": "Acordo às seis horas todos os dias."
         },
         {
           "en": "seven",
           "pt": "sete",
           "ipa": "",
           "audioKey": "a1_a1-u02-l16_w_seven",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "There are seven days in a week.",
+          "examplePt": "Há sete dias numa semana."
         },
         {
           "en": "eight",
           "pt": "oito",
           "ipa": "",
           "audioKey": "a1_a1-u02-l16_w_eight",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "School starts at eight in the morning.",
+          "examplePt": "A escola começa às oito da manhã."
         },
         {
           "en": "nine",
           "pt": "nove",
           "ipa": "",
           "audioKey": "a1_a1-u02-l16_w_nine",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The market closes at nine at night.",
+          "examplePt": "O mercado fecha às nove da noite."
         }
       ],
       "guidedReading": {
@@ -2717,32 +2717,32 @@
           "pt": "nove",
           "ipa": "",
           "audioKey": "a1_a1-u02-l17_w_nine",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The market closes at nine at night.",
+          "examplePt": "O mercado fecha às nove da noite."
         },
         {
           "en": "ten",
           "pt": "dez",
           "ipa": "",
           "audioKey": "a1_a1-u02-l17_w_ten",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Ten meticais is the price of this bread.",
+          "examplePt": "Dez meticais é o preço deste pão."
         },
         {
           "en": "twenty",
           "pt": "vinte",
           "ipa": "",
           "audioKey": "a1_a1-u02-l17_w_twenty",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The trip takes twenty minutes.",
+          "examplePt": "A viagem dura vinte minutos."
         },
         {
           "en": "thirty",
           "pt": "trinta",
           "ipa": "",
           "audioKey": "a1_a1-u02-l17_w_thirty",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "He has lived in Beira for thirty years.",
+          "examplePt": "Ele viveu na Beira durante trinta anos."
         }
       ],
       "guidedReading": {
@@ -2868,32 +2868,32 @@
           "pt": "trinta",
           "ipa": "",
           "audioKey": "a1_a1-u02-l18_w_thirty",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "He has lived in Beira for thirty years.",
+          "examplePt": "Ele viveu na Beira durante trinta anos."
         },
         {
           "en": "hundred",
           "pt": "cem",
           "ipa": "",
           "audioKey": "a1_a1-u02-l18_w_hundred",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "One hundred meticais is enough.",
+          "examplePt": "Cem meticais é suficiente."
         },
         {
           "en": "age",
           "pt": "idade",
           "ipa": "",
           "audioKey": "a1_a1-u02-l18_w_age",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Age is just a number.",
+          "examplePt": "A idade é apenas um número."
         },
         {
           "en": "years old",
           "pt": "anos",
           "ipa": "",
           "audioKey": "a1_a1-u02-l18_w_years-old",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "My brother is fifteen years old.",
+          "examplePt": "O meu irmão tem quinze anos."
         }
       ],
       "guidedReading": {
@@ -3047,32 +3047,32 @@
           "pt": "anos",
           "ipa": "",
           "audioKey": "a1_a1-u02-l19_w_years-old",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "My brother is fifteen years old.",
+          "examplePt": "O meu irmão tem quinze anos."
         },
         {
           "en": "phone number",
           "pt": "número de telefone",
           "ipa": "",
           "audioKey": "a1_a1-u02-l19_w_phone-number",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Please write down your phone number.",
+          "examplePt": "Por favor, escreve o teu número de telefone."
         },
         {
           "en": "how old",
           "pt": "quantos anos",
           "ipa": "",
           "audioKey": "a1_a1-u02-l19_w_how-old",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "How old is your younger sister?",
+          "examplePt": "Quantos anos tem a tua irmã mais nova?"
         },
         {
           "en": "zero",
           "pt": "zero",
           "ipa": "",
           "audioKey": "a1_a1-u02-l19_w_zero",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The temperature dropped to zero degrees.",
+          "examplePt": "A temperatura desceu até zero graus."
         }
       ],
       "guidedReading": {
@@ -3228,24 +3228,24 @@
           "pt": "zero",
           "ipa": "",
           "audioKey": "a1_a1-u02-l20_w_zero",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "The temperature dropped to zero degrees.",
+          "examplePt": "A temperatura desceu até zero graus."
         },
         {
           "en": "first",
           "pt": "primeiro",
           "ipa": "",
           "audioKey": "a1_a1-u02-l20_w_first",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "This is my first time visiting Nampula.",
+          "examplePt": "Esta é a minha primeira vez a visitar Nampula."
         },
         {
           "en": "second",
           "pt": "segundo",
           "ipa": "",
           "audioKey": "a1_a1-u02-l20_w_second",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Turn right at the second street.",
+          "examplePt": "Vira à direita na segunda rua."
         }
       ],
       "guidedReading": {

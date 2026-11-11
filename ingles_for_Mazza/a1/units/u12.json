@@ -37,32 +37,32 @@
           "pt": "autocarro/chapa",
           "ipa": "",
           "audioKey": "a1_a1-u12-l01_w_bus",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The long-distance bus departs at six in the morning.",
+          "examplePt": "O autocarro de longo curso parte às seis da manhã."
         },
         {
           "en": "minibus",
           "pt": "chapa",
           "ipa": "",
           "audioKey": "a1_a1-u12-l01_w_minibus",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The minibus stopped to pick up more passengers.",
+          "examplePt": "O chapa parou para apanhar mais passageiros."
         },
         {
           "en": "car",
           "pt": "carro",
           "ipa": "",
           "audioKey": "a1_a1-u12-l01_w_car",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "He washed his car on Saturday afternoon.",
+          "examplePt": "Ele lavou o carro no sábado à tarde."
         },
         {
           "en": "taxi",
           "pt": "táxi / txopela",
           "ipa": "",
           "audioKey": "a1_a1-u12-l01_w_taxi",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "We took a txopela to navigate through city traffic.",
+          "examplePt": "Apanhámos uma txopela para passar pelo trânsito da cidade."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "táxi / txopela",
           "ipa": "",
           "audioKey": "a1_a1-u12-l02_w_taxi",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "We took a txopela to navigate through city traffic.",
+          "examplePt": "Apanhámos uma txopela para passar pelo trânsito da cidade."
         },
         {
           "en": "train",
           "pt": "comboio",
           "ipa": "",
           "audioKey": "a1_a1-u12-l02_w_train",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The train connects Maputo to the neighboring provinces.",
+          "examplePt": "O comboio liga Maputo às províncias vizinhas."
         },
         {
           "en": "boat",
           "pt": "barco",
           "ipa": "",
           "audioKey": "a1_a1-u12-l02_w_boat",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "A small wooden boat sailed across the bay.",
+          "examplePt": "Um pequeno barco de madeira navegou pela baía."
         },
         {
           "en": "bike",
           "pt": "bicicleta",
           "ipa": "",
           "audioKey": "a1_a1-u12-l02_w_bike",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Riding a bike keeps you healthy and fits you.",
+          "examplePt": "Andar de bicicleta mantém-te saudável e em forma."
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "bicicleta",
           "ipa": "",
           "audioKey": "a1_a1-u12-l03_w_bike",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Riding a bike keeps you healthy and fits you.",
+          "examplePt": "Andar de bicicleta mantém-te saudável e em forma."
         },
         {
           "en": "walk",
           "pt": "andar a pé",
           "ipa": "",
           "audioKey": "a1_a1-u12-l03_w_walk",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "We often walk to school together.",
+          "examplePt": "Costumamos andar a pé para a escola juntos."
         },
         {
           "en": "go by",
           "pt": "ir de",
           "ipa": "",
           "audioKey": "a1_a1-u12-l03_w_go-by",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "It is faster to go by chapa during rush hour.",
+          "examplePt": "É mais rápido ir de chapa na hora de ponta."
         },
         {
           "en": "station",
           "pt": "estação",
           "ipa": "",
           "audioKey": "a1_a1-u12-l03_w_station",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The historic railway station is famous in Maputo.",
+          "examplePt": "A estação histórica de comboios é famosa em Maputo."
         }
       ],
       "guidedReading": {
@@ -519,32 +519,32 @@
           "pt": "estação",
           "ipa": "",
           "audioKey": "a1_a1-u12-l04_w_station",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "The historic railway station is famous in Maputo.",
+          "examplePt": "A estação histórica de comboios é famosa em Maputo."
         },
         {
           "en": "stop",
           "pt": "paragem",
           "ipa": "",
           "audioKey": "a1_a1-u12-l04_w_stop",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Wait for the bus at the official stop.",
+          "examplePt": "Espera pelo autocarro na paragem oficial."
         },
         {
           "en": "ticket",
           "pt": "bilhete",
           "ipa": "",
           "audioKey": "a1_a1-u12-l04_w_ticket",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Keep your train ticket until the journey ends.",
+          "examplePt": "Guarda o teu bilhete de comboio até a viagem terminar."
         },
         {
           "en": "far",
           "pt": "longe",
           "ipa": "",
           "audioKey": "a1_a1-u12-l04_w_far",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "The village is far from the capital city.",
+          "examplePt": "A aldeia fica longe da cidade capital."
         }
       ],
       "guidedReading": {
@@ -681,16 +681,16 @@
           "pt": "longe",
           "ipa": "",
           "audioKey": "a1_a1-u12-l05_w_far",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "The village is far from the capital city.",
+          "examplePt": "A aldeia fica longe da cidade capital."
         },
         {
           "en": "near",
           "pt": "perto",
           "ipa": "",
           "audioKey": "a1_a1-u12-l05_w_near",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Our house is near a quiet sandy beach.",
+          "examplePt": "A nossa casa fica perto de uma praia calma."
         }
       ],
       "guidedReading": {
@@ -888,32 +888,32 @@
           "pt": "chapa",
           "ipa": "",
           "audioKey": "a1_a1-u12-l06_w_minibus",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "The minibus stopped to pick up more passengers.",
+          "examplePt": "O chapa parou para apanhar mais passageiros."
         },
         {
           "en": "car",
           "pt": "carro",
           "ipa": "",
           "audioKey": "a1_a1-u12-l06_w_car",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "He washed his car on Saturday afternoon.",
+          "examplePt": "Ele lavou o carro no sábado à tarde."
         },
         {
           "en": "taxi",
           "pt": "táxi / txopela",
           "ipa": "",
           "audioKey": "a1_a1-u12-l06_w_taxi",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "We took a txopela to navigate through city traffic.",
+          "examplePt": "Apanhámos uma txopela para passar pelo trânsito da cidade."
         },
         {
           "en": "train",
           "pt": "comboio",
           "ipa": "",
           "audioKey": "a1_a1-u12-l06_w_train",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "The train connects Maputo to the neighboring provinces.",
+          "examplePt": "O comboio liga Maputo às províncias vizinhas."
         }
       ],
       "guidedReading": {
@@ -1067,32 +1067,32 @@
           "pt": "comboio",
           "ipa": "",
           "audioKey": "a1_a1-u12-l07_w_train",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The train connects Maputo to the neighboring provinces.",
+          "examplePt": "O comboio liga Maputo às províncias vizinhas."
         },
         {
           "en": "boat",
           "pt": "barco",
           "ipa": "",
           "audioKey": "a1_a1-u12-l07_w_boat",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "A small wooden boat sailed across the bay.",
+          "examplePt": "Um pequeno barco de madeira navegou pela baía."
         },
         {
           "en": "bike",
           "pt": "bicicleta",
           "ipa": "",
           "audioKey": "a1_a1-u12-l07_w_bike",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Riding a bike keeps you healthy and fits you.",
+          "examplePt": "Andar de bicicleta mantém-te saudável e em forma."
         },
         {
           "en": "walk",
           "pt": "andar a pé",
           "ipa": "",
           "audioKey": "a1_a1-u12-l07_w_walk",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "We often walk to school together.",
+          "examplePt": "Costumamos andar a pé para a escola juntos."
         }
       ],
       "guidedReading": {
@@ -1247,32 +1247,32 @@
           "pt": "andar a pé",
           "ipa": "",
           "audioKey": "a1_a1-u12-l08_w_walk",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "We often walk to school together.",
+          "examplePt": "Costumamos andar a pé para a escola juntos."
         },
         {
           "en": "go by",
           "pt": "ir de",
           "ipa": "",
           "audioKey": "a1_a1-u12-l08_w_go-by",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "It is faster to go by chapa during rush hour.",
+          "examplePt": "É mais rápido ir de chapa na hora de ponta."
         },
         {
           "en": "station",
           "pt": "estação",
           "ipa": "",
           "audioKey": "a1_a1-u12-l08_w_station",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "The historic railway station is famous in Maputo.",
+          "examplePt": "A estação histórica de comboios é famosa em Maputo."
         },
         {
           "en": "stop",
           "pt": "paragem",
           "ipa": "",
           "audioKey": "a1_a1-u12-l08_w_stop",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Wait for the bus at the official stop.",
+          "examplePt": "Espera pelo autocarro na paragem oficial."
         }
       ],
       "guidedReading": {
@@ -1390,32 +1390,32 @@
           "pt": "paragem",
           "ipa": "",
           "audioKey": "a1_a1-u12-l09_w_stop",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Wait for the bus at the official stop.",
+          "examplePt": "Espera pelo autocarro na paragem oficial."
         },
         {
           "en": "ticket",
           "pt": "bilhete",
           "ipa": "",
           "audioKey": "a1_a1-u12-l09_w_ticket",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Keep your train ticket until the journey ends.",
+          "examplePt": "Guarda o teu bilhete de comboio até a viagem terminar."
         },
         {
           "en": "far",
           "pt": "longe",
           "ipa": "",
           "audioKey": "a1_a1-u12-l09_w_far",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "The village is far from the capital city.",
+          "examplePt": "A aldeia fica longe da cidade capital."
         },
         {
           "en": "near",
           "pt": "perto",
           "ipa": "",
           "audioKey": "a1_a1-u12-l09_w_near",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Our house is near a quiet sandy beach.",
+          "examplePt": "A nossa casa fica perto de uma praia calma."
         }
       ],
       "guidedReading": {
@@ -1548,8 +1548,8 @@
           "pt": "perto",
           "ipa": "",
           "audioKey": "a1_a1-u12-l10_w_near",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Our house is near a quiet sandy beach.",
+          "examplePt": "A nossa casa fica perto de uma praia calma."
         }
       ],
       "guidedReading": {
@@ -1679,32 +1679,32 @@
           "pt": "carro",
           "ipa": "",
           "audioKey": "a1_a1-u12-l11_w_car",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "He washed his car on Saturday afternoon.",
+          "examplePt": "Ele lavou o carro no sábado à tarde."
         },
         {
           "en": "taxi",
           "pt": "táxi / txopela",
           "ipa": "",
           "audioKey": "a1_a1-u12-l11_w_taxi",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "We took a txopela to navigate through city traffic.",
+          "examplePt": "Apanhámos uma txopela para passar pelo trânsito da cidade."
         },
         {
           "en": "train",
           "pt": "comboio",
           "ipa": "",
           "audioKey": "a1_a1-u12-l11_w_train",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The train connects Maputo to the neighboring provinces.",
+          "examplePt": "O comboio liga Maputo às províncias vizinhas."
         },
         {
           "en": "boat",
           "pt": "barco",
           "ipa": "",
           "audioKey": "a1_a1-u12-l11_w_boat",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "A small wooden boat sailed across the bay.",
+          "examplePt": "Um pequeno barco de madeira navegou pela baía."
         }
       ],
       "guidedReading": {
@@ -1830,32 +1830,32 @@
           "pt": "barco",
           "ipa": "",
           "audioKey": "a1_a1-u12-l12_w_boat",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "A small wooden boat sailed across the bay.",
+          "examplePt": "Um pequeno barco de madeira navegou pela baía."
         },
         {
           "en": "bike",
           "pt": "bicicleta",
           "ipa": "",
           "audioKey": "a1_a1-u12-l12_w_bike",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Riding a bike keeps you healthy and fits you.",
+          "examplePt": "Andar de bicicleta mantém-te saudável e em forma."
         },
         {
           "en": "walk",
           "pt": "andar a pé",
           "ipa": "",
           "audioKey": "a1_a1-u12-l12_w_walk",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "We often walk to school together.",
+          "examplePt": "Costumamos andar a pé para a escola juntos."
         },
         {
           "en": "go by",
           "pt": "ir de",
           "ipa": "",
           "audioKey": "a1_a1-u12-l12_w_go-by",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "It is faster to go by chapa during rush hour.",
+          "examplePt": "É mais rápido ir de chapa na hora de ponta."
         }
       ],
       "guidedReading": {
@@ -2009,32 +2009,32 @@
           "pt": "ir de",
           "ipa": "",
           "audioKey": "a1_a1-u12-l13_w_go-by",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "It is faster to go by chapa during rush hour.",
+          "examplePt": "É mais rápido ir de chapa na hora de ponta."
         },
         {
           "en": "station",
           "pt": "estação",
           "ipa": "",
           "audioKey": "a1_a1-u12-l13_w_station",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The historic railway station is famous in Maputo.",
+          "examplePt": "A estação histórica de comboios é famosa em Maputo."
         },
         {
           "en": "stop",
           "pt": "paragem",
           "ipa": "",
           "audioKey": "a1_a1-u12-l13_w_stop",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Wait for the bus at the official stop.",
+          "examplePt": "Espera pelo autocarro na paragem oficial."
         },
         {
           "en": "ticket",
           "pt": "bilhete",
           "ipa": "",
           "audioKey": "a1_a1-u12-l13_w_ticket",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Keep your train ticket until the journey ends.",
+          "examplePt": "Guarda o teu bilhete de comboio até a viagem terminar."
         }
       ],
       "guidedReading": {
@@ -2189,24 +2189,24 @@
           "pt": "bilhete",
           "ipa": "",
           "audioKey": "a1_a1-u12-l14_w_ticket",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Keep your train ticket until the journey ends.",
+          "examplePt": "Guarda o teu bilhete de comboio até a viagem terminar."
         },
         {
           "en": "far",
           "pt": "longe",
           "ipa": "",
           "audioKey": "a1_a1-u12-l14_w_far",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "The village is far from the capital city.",
+          "examplePt": "A aldeia fica longe da cidade capital."
         },
         {
           "en": "near",
           "pt": "perto",
           "ipa": "",
           "audioKey": "a1_a1-u12-l14_w_near",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Our house is near a quiet sandy beach.",
+          "examplePt": "A nossa casa fica perto de uma praia calma."
         }
       ],
       "guidedReading": {
@@ -2324,32 +2324,32 @@
           "pt": "autocarro/chapa",
           "ipa": "",
           "audioKey": "a1_a1-u12-l15_w_bus",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "The long-distance bus departs at six in the morning.",
+          "examplePt": "O autocarro de longo curso parte às seis da manhã."
         },
         {
           "en": "minibus",
           "pt": "chapa",
           "ipa": "",
           "audioKey": "a1_a1-u12-l15_w_minibus",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "The minibus stopped to pick up more passengers.",
+          "examplePt": "O chapa parou para apanhar mais passageiros."
         },
         {
           "en": "car",
           "pt": "carro",
           "ipa": "",
           "audioKey": "a1_a1-u12-l15_w_car",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "He washed his car on Saturday afternoon.",
+          "examplePt": "Ele lavou o carro no sábado à tarde."
         },
         {
           "en": "taxi",
           "pt": "táxi / txopela",
           "ipa": "",
           "audioKey": "a1_a1-u12-l15_w_taxi",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "We took a txopela to navigate through city traffic.",
+          "examplePt": "Apanhámos uma txopela para passar pelo trânsito da cidade."
         }
       ],
       "guidedReading": {
@@ -2547,32 +2547,32 @@
           "pt": "táxi / txopela",
           "ipa": "",
           "audioKey": "a1_a1-u12-l16_w_taxi",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "We took a txopela to navigate through city traffic.",
+          "examplePt": "Apanhámos uma txopela para passar pelo trânsito da cidade."
         },
         {
           "en": "train",
           "pt": "comboio",
           "ipa": "",
           "audioKey": "a1_a1-u12-l16_w_train",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The train connects Maputo to the neighboring provinces.",
+          "examplePt": "O comboio liga Maputo às províncias vizinhas."
         },
         {
           "en": "boat",
           "pt": "barco",
           "ipa": "",
           "audioKey": "a1_a1-u12-l16_w_boat",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "A small wooden boat sailed across the bay.",
+          "examplePt": "Um pequeno barco de madeira navegou pela baía."
         },
         {
           "en": "bike",
           "pt": "bicicleta",
           "ipa": "",
           "audioKey": "a1_a1-u12-l16_w_bike",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Riding a bike keeps you healthy and fits you.",
+          "examplePt": "Andar de bicicleta mantém-te saudável e em forma."
         }
       ],
       "guidedReading": {
@@ -2709,32 +2709,32 @@
           "pt": "bicicleta",
           "ipa": "",
           "audioKey": "a1_a1-u12-l17_w_bike",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Riding a bike keeps you healthy and fits you.",
+          "examplePt": "Andar de bicicleta mantém-te saudável e em forma."
         },
         {
           "en": "walk",
           "pt": "andar a pé",
           "ipa": "",
           "audioKey": "a1_a1-u12-l17_w_walk",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "We often walk to school together.",
+          "examplePt": "Costumamos andar a pé para a escola juntos."
         },
         {
           "en": "go by",
           "pt": "ir de",
           "ipa": "",
           "audioKey": "a1_a1-u12-l17_w_go-by",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "It is faster to go by chapa during rush hour.",
+          "examplePt": "É mais rápido ir de chapa na hora de ponta."
         },
         {
           "en": "station",
           "pt": "estação",
           "ipa": "",
           "audioKey": "a1_a1-u12-l17_w_station",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The historic railway station is famous in Maputo.",
+          "examplePt": "A estação histórica de comboios é famosa em Maputo."
         }
       ],
       "guidedReading": {
@@ -2860,32 +2860,32 @@
           "pt": "estação",
           "ipa": "",
           "audioKey": "a1_a1-u12-l18_w_station",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The historic railway station is famous in Maputo.",
+          "examplePt": "A estação histórica de comboios é famosa em Maputo."
         },
         {
           "en": "stop",
           "pt": "paragem",
           "ipa": "",
           "audioKey": "a1_a1-u12-l18_w_stop",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Wait for the bus at the official stop.",
+          "examplePt": "Espera pelo autocarro na paragem oficial."
         },
         {
           "en": "ticket",
           "pt": "bilhete",
           "ipa": "",
           "audioKey": "a1_a1-u12-l18_w_ticket",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Keep your train ticket until the journey ends.",
+          "examplePt": "Guarda o teu bilhete de comboio até a viagem terminar."
         },
         {
           "en": "far",
           "pt": "longe",
           "ipa": "",
           "audioKey": "a1_a1-u12-l18_w_far",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The village is far from the capital city.",
+          "examplePt": "A aldeia fica longe da cidade capital."
         }
       ],
       "guidedReading": {
@@ -3039,16 +3039,16 @@
           "pt": "longe",
           "ipa": "",
           "audioKey": "a1_a1-u12-l19_w_far",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The village is far from the capital city.",
+          "examplePt": "A aldeia fica longe da cidade capital."
         },
         {
           "en": "near",
           "pt": "perto",
           "ipa": "",
           "audioKey": "a1_a1-u12-l19_w_near",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Our house is near a quiet sandy beach.",
+          "examplePt": "A nossa casa fica perto de uma praia calma."
         }
       ],
       "guidedReading": {
@@ -3204,32 +3204,32 @@
           "pt": "chapa",
           "ipa": "",
           "audioKey": "a1_a1-u12-l20_w_minibus",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "The minibus stopped to pick up more passengers.",
+          "examplePt": "O chapa parou para apanhar mais passageiros."
         },
         {
           "en": "car",
           "pt": "carro",
           "ipa": "",
           "audioKey": "a1_a1-u12-l20_w_car",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "He washed his car on Saturday afternoon.",
+          "examplePt": "Ele lavou o carro no sábado à tarde."
         },
         {
           "en": "taxi",
           "pt": "táxi / txopela",
           "ipa": "",
           "audioKey": "a1_a1-u12-l20_w_taxi",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "We took a txopela to navigate through city traffic.",
+          "examplePt": "Apanhámos uma txopela para passar pelo trânsito da cidade."
         },
         {
           "en": "train",
           "pt": "comboio",
           "ipa": "",
           "audioKey": "a1_a1-u12-l20_w_train",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "The train connects Maputo to the neighboring provinces.",
+          "examplePt": "O comboio liga Maputo às províncias vizinhas."
         }
       ],
       "guidedReading": {

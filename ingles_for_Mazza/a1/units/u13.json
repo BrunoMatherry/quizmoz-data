@@ -37,32 +37,32 @@
           "pt": "rua",
           "ipa": "",
           "audioKey": "a1_a1-u13-l01_w_street",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Avenida Julius Nyerere is a well-known street.",
+          "examplePt": "A Avenida Julius Nyerere é uma rua bem conhecida."
         },
         {
           "en": "city",
           "pt": "cidade",
           "ipa": "",
           "audioKey": "a1_a1-u13-l01_w_city",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Maputo is a lively coastal city.",
+          "examplePt": "Maputo é uma cidade costeira dinâmica."
         },
         {
           "en": "bank",
           "pt": "banco",
           "ipa": "",
           "audioKey": "a1_a1-u13-l01_w_bank",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The bank opens at eight in the morning.",
+          "examplePt": "O banco abre às oito da manhã."
         },
         {
           "en": "hospital",
           "pt": "hospital",
           "ipa": "",
           "audioKey": "a1_a1-u13-l01_w_hospital",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "The hospital has emergency care twenty-four hours.",
+          "examplePt": "O hospital tem atendimento de urgência vinte e quatro horas."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "hospital",
           "ipa": "",
           "audioKey": "a1_a1-u13-l02_w_hospital",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The hospital has emergency care twenty-four hours.",
+          "examplePt": "O hospital tem atendimento de urgência vinte e quatro horas."
         },
         {
           "en": "market",
           "pt": "mercado",
           "ipa": "",
           "audioKey": "a1_a1-u13-l02_w_market",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The Central Market sells fresh fruit and fish.",
+          "examplePt": "O Mercado Central vende frutas e peixe frescos."
         },
         {
           "en": "church",
           "pt": "igreja",
           "ipa": "",
           "audioKey": "a1_a1-u13-l02_w_church",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The community gathered at church on Sunday.",
+          "examplePt": "A comunidade reuniu-se na igreja ao domingo."
         },
         {
           "en": "mosque",
           "pt": "mesquita",
           "ipa": "",
           "audioKey": "a1_a1-u13-l02_w_mosque",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The mosque call echoed through the neighborhood.",
+          "examplePt": "O chamamento da mesquita ecoou pelo bairro."
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "mesquita",
           "ipa": "",
           "audioKey": "a1_a1-u13-l03_w_mosque",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The mosque call echoed through the neighborhood.",
+          "examplePt": "O chamamento da mesquita ecoou pelo bairro."
         },
         {
           "en": "school",
           "pt": "escola",
           "ipa": "",
           "audioKey": "a1_a1-u13-l03_w_school",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The primary school is near the community center.",
+          "examplePt": "A escola primária fica perto do centro comunitário."
         },
         {
           "en": "park",
           "pt": "parque",
           "ipa": "",
           "audioKey": "a1_a1-u13-l03_w_park",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Children enjoy running in the municipal park.",
+          "examplePt": "As crianças gostam de correr no parque municipal."
         },
         {
           "en": "beach",
           "pt": "praia",
           "ipa": "",
           "audioKey": "a1_a1-u13-l03_w_beach",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Ponta do Ouro has a wonderful surfing beach.",
+          "examplePt": "A Ponta do Ouro tem uma maravilhosa praia de surf."
         }
       ],
       "guidedReading": {
@@ -519,32 +519,32 @@
           "pt": "praia",
           "ipa": "",
           "audioKey": "a1_a1-u13-l04_w_beach",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Ponta do Ouro has a wonderful surfing beach.",
+          "examplePt": "A Ponta do Ouro tem uma maravilhosa praia de surf."
         },
         {
           "en": "left",
           "pt": "esquerda",
           "ipa": "",
           "audioKey": "a1_a1-u13-l04_w_left",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Turn left after the post office.",
+          "examplePt": "Vira à esquerda depois dos correios."
         },
         {
           "en": "right",
           "pt": "direita",
           "ipa": "",
           "audioKey": "a1_a1-u13-l04_w_right",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "The stadium will be on your right.",
+          "examplePt": "O estádio ficará à tua direita."
         },
         {
           "en": "straight",
           "pt": "em frente",
           "ipa": "",
           "audioKey": "a1_a1-u13-l04_w_straight",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Continue straight for another two hundred meters.",
+          "examplePt": "Continua em frente por mais duzentos metros."
         }
       ],
       "guidedReading": {
@@ -681,24 +681,24 @@
           "pt": "em frente",
           "ipa": "",
           "audioKey": "a1_a1-u13-l05_w_straight",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Continue straight for another two hundred meters.",
+          "examplePt": "Continua em frente por mais duzentos metros."
         },
         {
           "en": "here",
           "pt": "aqui",
           "ipa": "",
           "audioKey": "a1_a1-u13-l05_w_here",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "You can sit here while you wait.",
+          "examplePt": "Podes sentar-te aqui enquanto esperas."
         },
         {
           "en": "there",
           "pt": "ali",
           "ipa": "",
           "audioKey": "a1_a1-u13-l05_w_there",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Look over there to see the dolphin jump.",
+          "examplePt": "Olha para ali para ver o golfinho a saltar."
         }
       ],
       "guidedReading": {
@@ -896,32 +896,32 @@
           "pt": "rua",
           "ipa": "",
           "audioKey": "a1_a1-u13-l06_w_street",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Avenida Julius Nyerere is a well-known street.",
+          "examplePt": "A Avenida Julius Nyerere é uma rua bem conhecida."
         },
         {
           "en": "city",
           "pt": "cidade",
           "ipa": "",
           "audioKey": "a1_a1-u13-l06_w_city",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Maputo is a lively coastal city.",
+          "examplePt": "Maputo é uma cidade costeira dinâmica."
         },
         {
           "en": "bank",
           "pt": "banco",
           "ipa": "",
           "audioKey": "a1_a1-u13-l06_w_bank",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "The bank opens at eight in the morning.",
+          "examplePt": "O banco abre às oito da manhã."
         },
         {
           "en": "hospital",
           "pt": "hospital",
           "ipa": "",
           "audioKey": "a1_a1-u13-l06_w_hospital",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "The hospital has emergency care twenty-four hours.",
+          "examplePt": "O hospital tem atendimento de urgência vinte e quatro horas."
         }
       ],
       "guidedReading": {
@@ -1075,32 +1075,32 @@
           "pt": "hospital",
           "ipa": "",
           "audioKey": "a1_a1-u13-l07_w_hospital",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The hospital has emergency care twenty-four hours.",
+          "examplePt": "O hospital tem atendimento de urgência vinte e quatro horas."
         },
         {
           "en": "market",
           "pt": "mercado",
           "ipa": "",
           "audioKey": "a1_a1-u13-l07_w_market",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The Central Market sells fresh fruit and fish.",
+          "examplePt": "O Mercado Central vende frutas e peixe frescos."
         },
         {
           "en": "church",
           "pt": "igreja",
           "ipa": "",
           "audioKey": "a1_a1-u13-l07_w_church",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The community gathered at church on Sunday.",
+          "examplePt": "A comunidade reuniu-se na igreja ao domingo."
         },
         {
           "en": "mosque",
           "pt": "mesquita",
           "ipa": "",
           "audioKey": "a1_a1-u13-l07_w_mosque",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The mosque call echoed through the neighborhood.",
+          "examplePt": "O chamamento da mesquita ecoou pelo bairro."
         }
       ],
       "guidedReading": {
@@ -1255,32 +1255,32 @@
           "pt": "mesquita",
           "ipa": "",
           "audioKey": "a1_a1-u13-l08_w_mosque",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "The mosque call echoed through the neighborhood.",
+          "examplePt": "O chamamento da mesquita ecoou pelo bairro."
         },
         {
           "en": "school",
           "pt": "escola",
           "ipa": "",
           "audioKey": "a1_a1-u13-l08_w_school",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "The primary school is near the community center.",
+          "examplePt": "A escola primária fica perto do centro comunitário."
         },
         {
           "en": "park",
           "pt": "parque",
           "ipa": "",
           "audioKey": "a1_a1-u13-l08_w_park",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Children enjoy running in the municipal park.",
+          "examplePt": "As crianças gostam de correr no parque municipal."
         },
         {
           "en": "beach",
           "pt": "praia",
           "ipa": "",
           "audioKey": "a1_a1-u13-l08_w_beach",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Ponta do Ouro has a wonderful surfing beach.",
+          "examplePt": "A Ponta do Ouro tem uma maravilhosa praia de surf."
         }
       ],
       "guidedReading": {
@@ -1398,32 +1398,32 @@
           "pt": "praia",
           "ipa": "",
           "audioKey": "a1_a1-u13-l09_w_beach",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Ponta do Ouro has a wonderful surfing beach.",
+          "examplePt": "A Ponta do Ouro tem uma maravilhosa praia de surf."
         },
         {
           "en": "left",
           "pt": "esquerda",
           "ipa": "",
           "audioKey": "a1_a1-u13-l09_w_left",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Turn left after the post office.",
+          "examplePt": "Vira à esquerda depois dos correios."
         },
         {
           "en": "right",
           "pt": "direita",
           "ipa": "",
           "audioKey": "a1_a1-u13-l09_w_right",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "The stadium will be on your right.",
+          "examplePt": "O estádio ficará à tua direita."
         },
         {
           "en": "straight",
           "pt": "em frente",
           "ipa": "",
           "audioKey": "a1_a1-u13-l09_w_straight",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Continue straight for another two hundred meters.",
+          "examplePt": "Continua em frente por mais duzentos metros."
         }
       ],
       "guidedReading": {
@@ -1556,24 +1556,24 @@
           "pt": "em frente",
           "ipa": "",
           "audioKey": "a1_a1-u13-l10_w_straight",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Continue straight for another two hundred meters.",
+          "examplePt": "Continua em frente por mais duzentos metros."
         },
         {
           "en": "here",
           "pt": "aqui",
           "ipa": "",
           "audioKey": "a1_a1-u13-l10_w_here",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "You can sit here while you wait.",
+          "examplePt": "Podes sentar-te aqui enquanto esperas."
         },
         {
           "en": "there",
           "pt": "ali",
           "ipa": "",
           "audioKey": "a1_a1-u13-l10_w_there",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Look over there to see the dolphin jump.",
+          "examplePt": "Olha para ali para ver o golfinho a saltar."
         }
       ],
       "guidedReading": {
@@ -1703,32 +1703,32 @@
           "pt": "rua",
           "ipa": "",
           "audioKey": "a1_a1-u13-l11_w_street",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Avenida Julius Nyerere is a well-known street.",
+          "examplePt": "A Avenida Julius Nyerere é uma rua bem conhecida."
         },
         {
           "en": "city",
           "pt": "cidade",
           "ipa": "",
           "audioKey": "a1_a1-u13-l11_w_city",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Maputo is a lively coastal city.",
+          "examplePt": "Maputo é uma cidade costeira dinâmica."
         },
         {
           "en": "bank",
           "pt": "banco",
           "ipa": "",
           "audioKey": "a1_a1-u13-l11_w_bank",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The bank opens at eight in the morning.",
+          "examplePt": "O banco abre às oito da manhã."
         },
         {
           "en": "hospital",
           "pt": "hospital",
           "ipa": "",
           "audioKey": "a1_a1-u13-l11_w_hospital",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "The hospital has emergency care twenty-four hours.",
+          "examplePt": "O hospital tem atendimento de urgência vinte e quatro horas."
         }
       ],
       "guidedReading": {
@@ -1854,32 +1854,32 @@
           "pt": "hospital",
           "ipa": "",
           "audioKey": "a1_a1-u13-l12_w_hospital",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The hospital has emergency care twenty-four hours.",
+          "examplePt": "O hospital tem atendimento de urgência vinte e quatro horas."
         },
         {
           "en": "market",
           "pt": "mercado",
           "ipa": "",
           "audioKey": "a1_a1-u13-l12_w_market",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The Central Market sells fresh fruit and fish.",
+          "examplePt": "O Mercado Central vende frutas e peixe frescos."
         },
         {
           "en": "church",
           "pt": "igreja",
           "ipa": "",
           "audioKey": "a1_a1-u13-l12_w_church",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The community gathered at church on Sunday.",
+          "examplePt": "A comunidade reuniu-se na igreja ao domingo."
         },
         {
           "en": "mosque",
           "pt": "mesquita",
           "ipa": "",
           "audioKey": "a1_a1-u13-l12_w_mosque",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The mosque call echoed through the neighborhood.",
+          "examplePt": "O chamamento da mesquita ecoou pelo bairro."
         }
       ],
       "guidedReading": {
@@ -2033,32 +2033,32 @@
           "pt": "mesquita",
           "ipa": "",
           "audioKey": "a1_a1-u13-l13_w_mosque",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The mosque call echoed through the neighborhood.",
+          "examplePt": "O chamamento da mesquita ecoou pelo bairro."
         },
         {
           "en": "school",
           "pt": "escola",
           "ipa": "",
           "audioKey": "a1_a1-u13-l13_w_school",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The primary school is near the community center.",
+          "examplePt": "A escola primária fica perto do centro comunitário."
         },
         {
           "en": "park",
           "pt": "parque",
           "ipa": "",
           "audioKey": "a1_a1-u13-l13_w_park",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Children enjoy running in the municipal park.",
+          "examplePt": "As crianças gostam de correr no parque municipal."
         },
         {
           "en": "beach",
           "pt": "praia",
           "ipa": "",
           "audioKey": "a1_a1-u13-l13_w_beach",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Ponta do Ouro has a wonderful surfing beach.",
+          "examplePt": "A Ponta do Ouro tem uma maravilhosa praia de surf."
         }
       ],
       "guidedReading": {
@@ -2213,32 +2213,32 @@
           "pt": "praia",
           "ipa": "",
           "audioKey": "a1_a1-u13-l14_w_beach",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Ponta do Ouro has a wonderful surfing beach.",
+          "examplePt": "A Ponta do Ouro tem uma maravilhosa praia de surf."
         },
         {
           "en": "left",
           "pt": "esquerda",
           "ipa": "",
           "audioKey": "a1_a1-u13-l14_w_left",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Turn left after the post office.",
+          "examplePt": "Vira à esquerda depois dos correios."
         },
         {
           "en": "right",
           "pt": "direita",
           "ipa": "",
           "audioKey": "a1_a1-u13-l14_w_right",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "The stadium will be on your right.",
+          "examplePt": "O estádio ficará à tua direita."
         },
         {
           "en": "straight",
           "pt": "em frente",
           "ipa": "",
           "audioKey": "a1_a1-u13-l14_w_straight",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Continue straight for another two hundred meters.",
+          "examplePt": "Continua em frente por mais duzentos metros."
         }
       ],
       "guidedReading": {
@@ -2356,24 +2356,24 @@
           "pt": "em frente",
           "ipa": "",
           "audioKey": "a1_a1-u13-l15_w_straight",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Continue straight for another two hundred meters.",
+          "examplePt": "Continua em frente por mais duzentos metros."
         },
         {
           "en": "here",
           "pt": "aqui",
           "ipa": "",
           "audioKey": "a1_a1-u13-l15_w_here",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "You can sit here while you wait.",
+          "examplePt": "Podes sentar-te aqui enquanto esperas."
         },
         {
           "en": "there",
           "pt": "ali",
           "ipa": "",
           "audioKey": "a1_a1-u13-l15_w_there",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Look over there to see the dolphin jump.",
+          "examplePt": "Olha para ali para ver o golfinho a saltar."
         }
       ],
       "guidedReading": {
@@ -2571,32 +2571,32 @@
           "pt": "rua",
           "ipa": "",
           "audioKey": "a1_a1-u13-l16_w_street",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Avenida Julius Nyerere is a well-known street.",
+          "examplePt": "A Avenida Julius Nyerere é uma rua bem conhecida."
         },
         {
           "en": "city",
           "pt": "cidade",
           "ipa": "",
           "audioKey": "a1_a1-u13-l16_w_city",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Maputo is a lively coastal city.",
+          "examplePt": "Maputo é uma cidade costeira dinâmica."
         },
         {
           "en": "bank",
           "pt": "banco",
           "ipa": "",
           "audioKey": "a1_a1-u13-l16_w_bank",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The bank opens at eight in the morning.",
+          "examplePt": "O banco abre às oito da manhã."
         },
         {
           "en": "hospital",
           "pt": "hospital",
           "ipa": "",
           "audioKey": "a1_a1-u13-l16_w_hospital",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The hospital has emergency care twenty-four hours.",
+          "examplePt": "O hospital tem atendimento de urgência vinte e quatro horas."
         }
       ],
       "guidedReading": {
@@ -2733,32 +2733,32 @@
           "pt": "hospital",
           "ipa": "",
           "audioKey": "a1_a1-u13-l17_w_hospital",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The hospital has emergency care twenty-four hours.",
+          "examplePt": "O hospital tem atendimento de urgência vinte e quatro horas."
         },
         {
           "en": "market",
           "pt": "mercado",
           "ipa": "",
           "audioKey": "a1_a1-u13-l17_w_market",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The Central Market sells fresh fruit and fish.",
+          "examplePt": "O Mercado Central vende frutas e peixe frescos."
         },
         {
           "en": "church",
           "pt": "igreja",
           "ipa": "",
           "audioKey": "a1_a1-u13-l17_w_church",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The community gathered at church on Sunday.",
+          "examplePt": "A comunidade reuniu-se na igreja ao domingo."
         },
         {
           "en": "mosque",
           "pt": "mesquita",
           "ipa": "",
           "audioKey": "a1_a1-u13-l17_w_mosque",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The mosque call echoed through the neighborhood.",
+          "examplePt": "O chamamento da mesquita ecoou pelo bairro."
         }
       ],
       "guidedReading": {
@@ -2884,32 +2884,32 @@
           "pt": "mesquita",
           "ipa": "",
           "audioKey": "a1_a1-u13-l18_w_mosque",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The mosque call echoed through the neighborhood.",
+          "examplePt": "O chamamento da mesquita ecoou pelo bairro."
         },
         {
           "en": "school",
           "pt": "escola",
           "ipa": "",
           "audioKey": "a1_a1-u13-l18_w_school",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The primary school is near the community center.",
+          "examplePt": "A escola primária fica perto do centro comunitário."
         },
         {
           "en": "park",
           "pt": "parque",
           "ipa": "",
           "audioKey": "a1_a1-u13-l18_w_park",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Children enjoy running in the municipal park.",
+          "examplePt": "As crianças gostam de correr no parque municipal."
         },
         {
           "en": "beach",
           "pt": "praia",
           "ipa": "",
           "audioKey": "a1_a1-u13-l18_w_beach",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Ponta do Ouro has a wonderful surfing beach.",
+          "examplePt": "A Ponta do Ouro tem uma maravilhosa praia de surf."
         }
       ],
       "guidedReading": {
@@ -3063,32 +3063,32 @@
           "pt": "praia",
           "ipa": "",
           "audioKey": "a1_a1-u13-l19_w_beach",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Ponta do Ouro has a wonderful surfing beach.",
+          "examplePt": "A Ponta do Ouro tem uma maravilhosa praia de surf."
         },
         {
           "en": "left",
           "pt": "esquerda",
           "ipa": "",
           "audioKey": "a1_a1-u13-l19_w_left",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Turn left after the post office.",
+          "examplePt": "Vira à esquerda depois dos correios."
         },
         {
           "en": "right",
           "pt": "direita",
           "ipa": "",
           "audioKey": "a1_a1-u13-l19_w_right",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The stadium will be on your right.",
+          "examplePt": "O estádio ficará à tua direita."
         },
         {
           "en": "straight",
           "pt": "em frente",
           "ipa": "",
           "audioKey": "a1_a1-u13-l19_w_straight",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Continue straight for another two hundred meters.",
+          "examplePt": "Continua em frente por mais duzentos metros."
         }
       ],
       "guidedReading": {
@@ -3244,24 +3244,24 @@
           "pt": "em frente",
           "ipa": "",
           "audioKey": "a1_a1-u13-l20_w_straight",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Continue straight for another two hundred meters.",
+          "examplePt": "Continua em frente por mais duzentos metros."
         },
         {
           "en": "here",
           "pt": "aqui",
           "ipa": "",
           "audioKey": "a1_a1-u13-l20_w_here",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "You can sit here while you wait.",
+          "examplePt": "Podes sentar-te aqui enquanto esperas."
         },
         {
           "en": "there",
           "pt": "ali",
           "ipa": "",
           "audioKey": "a1_a1-u13-l20_w_there",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Look over there to see the dolphin jump.",
+          "examplePt": "Olha para ali para ver o golfinho a saltar."
         }
       ],
       "guidedReading": {

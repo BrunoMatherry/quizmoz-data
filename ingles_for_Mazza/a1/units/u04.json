@@ -37,32 +37,32 @@
           "pt": "eu sou/estou",
           "ipa": "",
           "audioKey": "a1_a1-u04-l01_w_i-am",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "I am ready to start my daily lesson.",
+          "examplePt": "Eu estou pronto para começar a minha lição diária."
         },
         {
           "en": "you are",
           "pt": "tu és/estás",
           "ipa": "",
           "audioKey": "a1_a1-u04-l01_w_you-are",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "You are doing great progress in English.",
+          "examplePt": "Tu estás a fazer grande progresso no inglês."
         },
         {
           "en": "he is",
           "pt": "ele é/está",
           "ipa": "",
           "audioKey": "a1_a1-u04-l01_w_he-is",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "He is a very dedicated teacher.",
+          "examplePt": "Ele é um professor muito dedicado."
         },
         {
           "en": "she is",
           "pt": "ela é/está",
           "ipa": "",
           "audioKey": "a1_a1-u04-l01_w_she-is",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "She is working at the clinic today.",
+          "examplePt": "Ela está a trabalhar na clínica hoje."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "ela é/está",
           "ipa": "",
           "audioKey": "a1_a1-u04-l02_w_she-is",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "She is working at the clinic today.",
+          "examplePt": "Ela está a trabalhar na clínica hoje."
         },
         {
           "en": "we are",
           "pt": "nós somos/estamos",
           "ipa": "",
           "audioKey": "a1_a1-u04-l02_w_we-are",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "We are learning Mandarin and English.",
+          "examplePt": "Nós estamos a aprender mandarim e inglês."
         },
         {
           "en": "they are",
           "pt": "eles são/estão",
           "ipa": "",
           "audioKey": "a1_a1-u04-l02_w_they-are",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "They are waiting for the bus outside.",
+          "examplePt": "Eles estão à espera do autocarro lá fora."
         },
         {
           "en": "is not",
           "pt": "não é",
           "ipa": "",
           "audioKey": "a1_a1-u04-l02_w_is-not",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "The library is not open on Sundays.",
+          "examplePt": "A biblioteca não está aberta aos domingos."
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "não é",
           "ipa": "",
           "audioKey": "a1_a1-u04-l03_w_is-not",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The library is not open on Sundays.",
+          "examplePt": "A biblioteca não está aberta aos domingos."
         },
         {
           "en": "are not",
           "pt": "não são",
           "ipa": "",
           "audioKey": "a1_a1-u04-l03_w_are-not",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "They are not at home right now.",
+          "examplePt": "Eles não estão em casa neste momento."
         },
         {
           "en": "happy",
           "pt": "feliz",
           "ipa": "",
           "audioKey": "a1_a1-u04-l03_w_happy",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "We are very happy with our exam results.",
+          "examplePt": "Estamos muito felizes com as nossas notas de exame."
         },
         {
           "en": "tired",
           "pt": "cansado",
           "ipa": "",
           "audioKey": "a1_a1-u04-l03_w_tired",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "After walking from the beach, I felt tired.",
+          "examplePt": "Depois de caminhar da praia, senti-me cansado."
         }
       ],
       "guidedReading": {
@@ -519,32 +519,32 @@
           "pt": "cansado",
           "ipa": "",
           "audioKey": "a1_a1-u04-l04_w_tired",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "After walking from the beach, I felt tired.",
+          "examplePt": "Depois de caminhar da praia, senti-me cansado."
         },
         {
           "en": "hungry",
           "pt": "com fome",
           "ipa": "",
           "audioKey": "a1_a1-u04-l04_w_hungry",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "The children are hungry after playing.",
+          "examplePt": "As crianças estão com fome depois de brincar."
         },
         {
           "en": "hot",
           "pt": "quente",
           "ipa": "",
           "audioKey": "a1_a1-u04-l04_w_hot",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "The sun is very hot in Inhambane.",
+          "examplePt": "O sol está muito quente em Inhambane."
         },
         {
           "en": "cold",
           "pt": "frio",
           "ipa": "",
           "audioKey": "a1_a1-u04-l04_w_cold",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Bring a jacket because the evening is cold.",
+          "examplePt": "Traz um casaco porque a noite está fria."
         }
       ],
       "guidedReading": {
@@ -678,16 +678,16 @@
           "pt": "frio",
           "ipa": "",
           "audioKey": "a1_a1-u04-l05_w_cold",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Bring a jacket because the evening is cold.",
+          "examplePt": "Traz um casaco porque a noite está fria."
         },
         {
           "en": "student",
           "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u04-l05_w_student",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         }
       ],
       "guidedReading": {
@@ -885,32 +885,32 @@
           "pt": "tu és/estás",
           "ipa": "",
           "audioKey": "a1_a1-u04-l06_w_you-are",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "You are doing great progress in English.",
+          "examplePt": "Tu estás a fazer grande progresso no inglês."
         },
         {
           "en": "he is",
           "pt": "ele é/está",
           "ipa": "",
           "audioKey": "a1_a1-u04-l06_w_he-is",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "He is a very dedicated teacher.",
+          "examplePt": "Ele é um professor muito dedicado."
         },
         {
           "en": "she is",
           "pt": "ela é/está",
           "ipa": "",
           "audioKey": "a1_a1-u04-l06_w_she-is",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "She is working at the clinic today.",
+          "examplePt": "Ela está a trabalhar na clínica hoje."
         },
         {
           "en": "we are",
           "pt": "nós somos/estamos",
           "ipa": "",
           "audioKey": "a1_a1-u04-l06_w_we-are",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "We are learning Mandarin and English.",
+          "examplePt": "Nós estamos a aprender mandarim e inglês."
         }
       ],
       "guidedReading": {
@@ -1064,32 +1064,32 @@
           "pt": "nós somos/estamos",
           "ipa": "",
           "audioKey": "a1_a1-u04-l07_w_we-are",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "We are learning Mandarin and English.",
+          "examplePt": "Nós estamos a aprender mandarim e inglês."
         },
         {
           "en": "they are",
           "pt": "eles são/estão",
           "ipa": "",
           "audioKey": "a1_a1-u04-l07_w_they-are",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "They are waiting for the bus outside.",
+          "examplePt": "Eles estão à espera do autocarro lá fora."
         },
         {
           "en": "is not",
           "pt": "não é",
           "ipa": "",
           "audioKey": "a1_a1-u04-l07_w_is-not",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The library is not open on Sundays.",
+          "examplePt": "A biblioteca não está aberta aos domingos."
         },
         {
           "en": "are not",
           "pt": "não são",
           "ipa": "",
           "audioKey": "a1_a1-u04-l07_w_are-not",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "They are not at home right now.",
+          "examplePt": "Eles não estão em casa neste momento."
         }
       ],
       "guidedReading": {
@@ -1244,32 +1244,32 @@
           "pt": "não são",
           "ipa": "",
           "audioKey": "a1_a1-u04-l08_w_are-not",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "They are not at home right now.",
+          "examplePt": "Eles não estão em casa neste momento."
         },
         {
           "en": "happy",
           "pt": "feliz",
           "ipa": "",
           "audioKey": "a1_a1-u04-l08_w_happy",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "We are very happy with our exam results.",
+          "examplePt": "Estamos muito felizes com as nossas notas de exame."
         },
         {
           "en": "tired",
           "pt": "cansado",
           "ipa": "",
           "audioKey": "a1_a1-u04-l08_w_tired",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "After walking from the beach, I felt tired.",
+          "examplePt": "Depois de caminhar da praia, senti-me cansado."
         },
         {
           "en": "hungry",
           "pt": "com fome",
           "ipa": "",
           "audioKey": "a1_a1-u04-l08_w_hungry",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "The children are hungry after playing.",
+          "examplePt": "As crianças estão com fome depois de brincar."
         }
       ],
       "guidedReading": {
@@ -1387,32 +1387,32 @@
           "pt": "com fome",
           "ipa": "",
           "audioKey": "a1_a1-u04-l09_w_hungry",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "The children are hungry after playing.",
+          "examplePt": "As crianças estão com fome depois de brincar."
         },
         {
           "en": "hot",
           "pt": "quente",
           "ipa": "",
           "audioKey": "a1_a1-u04-l09_w_hot",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "The sun is very hot in Inhambane.",
+          "examplePt": "O sol está muito quente em Inhambane."
         },
         {
           "en": "cold",
           "pt": "frio",
           "ipa": "",
           "audioKey": "a1_a1-u04-l09_w_cold",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Bring a jacket because the evening is cold.",
+          "examplePt": "Traz um casaco porque a noite está fria."
         },
         {
           "en": "student",
           "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u04-l09_w_student",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         }
       ],
       "guidedReading": {
@@ -1545,8 +1545,8 @@
           "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u04-l10_w_student",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         }
       ],
       "guidedReading": {
@@ -1673,32 +1673,32 @@
           "pt": "ele é/está",
           "ipa": "",
           "audioKey": "a1_a1-u04-l11_w_he-is",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "He is a very dedicated teacher.",
+          "examplePt": "Ele é um professor muito dedicado."
         },
         {
           "en": "she is",
           "pt": "ela é/está",
           "ipa": "",
           "audioKey": "a1_a1-u04-l11_w_she-is",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "She is working at the clinic today.",
+          "examplePt": "Ela está a trabalhar na clínica hoje."
         },
         {
           "en": "we are",
           "pt": "nós somos/estamos",
           "ipa": "",
           "audioKey": "a1_a1-u04-l11_w_we-are",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "We are learning Mandarin and English.",
+          "examplePt": "Nós estamos a aprender mandarim e inglês."
         },
         {
           "en": "they are",
           "pt": "eles são/estão",
           "ipa": "",
           "audioKey": "a1_a1-u04-l11_w_they-are",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "They are waiting for the bus outside.",
+          "examplePt": "Eles estão à espera do autocarro lá fora."
         }
       ],
       "guidedReading": {
@@ -1824,32 +1824,32 @@
           "pt": "eles são/estão",
           "ipa": "",
           "audioKey": "a1_a1-u04-l12_w_they-are",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "They are waiting for the bus outside.",
+          "examplePt": "Eles estão à espera do autocarro lá fora."
         },
         {
           "en": "is not",
           "pt": "não é",
           "ipa": "",
           "audioKey": "a1_a1-u04-l12_w_is-not",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "The library is not open on Sundays.",
+          "examplePt": "A biblioteca não está aberta aos domingos."
         },
         {
           "en": "are not",
           "pt": "não são",
           "ipa": "",
           "audioKey": "a1_a1-u04-l12_w_are-not",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "They are not at home right now.",
+          "examplePt": "Eles não estão em casa neste momento."
         },
         {
           "en": "happy",
           "pt": "feliz",
           "ipa": "",
           "audioKey": "a1_a1-u04-l12_w_happy",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "We are very happy with our exam results.",
+          "examplePt": "Estamos muito felizes com as nossas notas de exame."
         }
       ],
       "guidedReading": {
@@ -2003,32 +2003,32 @@
           "pt": "feliz",
           "ipa": "",
           "audioKey": "a1_a1-u04-l13_w_happy",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "We are very happy with our exam results.",
+          "examplePt": "Estamos muito felizes com as nossas notas de exame."
         },
         {
           "en": "tired",
           "pt": "cansado",
           "ipa": "",
           "audioKey": "a1_a1-u04-l13_w_tired",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "After walking from the beach, I felt tired.",
+          "examplePt": "Depois de caminhar da praia, senti-me cansado."
         },
         {
           "en": "hungry",
           "pt": "com fome",
           "ipa": "",
           "audioKey": "a1_a1-u04-l13_w_hungry",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The children are hungry after playing.",
+          "examplePt": "As crianças estão com fome depois de brincar."
         },
         {
           "en": "hot",
           "pt": "quente",
           "ipa": "",
           "audioKey": "a1_a1-u04-l13_w_hot",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The sun is very hot in Inhambane.",
+          "examplePt": "O sol está muito quente em Inhambane."
         }
       ],
       "guidedReading": {
@@ -2183,24 +2183,24 @@
           "pt": "quente",
           "ipa": "",
           "audioKey": "a1_a1-u04-l14_w_hot",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "The sun is very hot in Inhambane.",
+          "examplePt": "O sol está muito quente em Inhambane."
         },
         {
           "en": "cold",
           "pt": "frio",
           "ipa": "",
           "audioKey": "a1_a1-u04-l14_w_cold",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Bring a jacket because the evening is cold.",
+          "examplePt": "Traz um casaco porque a noite está fria."
         },
         {
           "en": "student",
           "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u04-l14_w_student",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         }
       ],
       "guidedReading": {
@@ -2318,32 +2318,32 @@
           "pt": "eu sou/estou",
           "ipa": "",
           "audioKey": "a1_a1-u04-l15_w_i-am",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "I am ready to start my daily lesson.",
+          "examplePt": "Eu estou pronto para começar a minha lição diária."
         },
         {
           "en": "you are",
           "pt": "tu és/estás",
           "ipa": "",
           "audioKey": "a1_a1-u04-l15_w_you-are",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "You are doing great progress in English.",
+          "examplePt": "Tu estás a fazer grande progresso no inglês."
         },
         {
           "en": "he is",
           "pt": "ele é/está",
           "ipa": "",
           "audioKey": "a1_a1-u04-l15_w_he-is",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "He is a very dedicated teacher.",
+          "examplePt": "Ele é um professor muito dedicado."
         },
         {
           "en": "she is",
           "pt": "ela é/está",
           "ipa": "",
           "audioKey": "a1_a1-u04-l15_w_she-is",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "She is working at the clinic today.",
+          "examplePt": "Ela está a trabalhar na clínica hoje."
         }
       ],
       "guidedReading": {
@@ -2541,32 +2541,32 @@
           "pt": "ela é/está",
           "ipa": "",
           "audioKey": "a1_a1-u04-l16_w_she-is",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "She is working at the clinic today.",
+          "examplePt": "Ela está a trabalhar na clínica hoje."
         },
         {
           "en": "we are",
           "pt": "nós somos/estamos",
           "ipa": "",
           "audioKey": "a1_a1-u04-l16_w_we-are",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "We are learning Mandarin and English.",
+          "examplePt": "Nós estamos a aprender mandarim e inglês."
         },
         {
           "en": "they are",
           "pt": "eles são/estão",
           "ipa": "",
           "audioKey": "a1_a1-u04-l16_w_they-are",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "They are waiting for the bus outside.",
+          "examplePt": "Eles estão à espera do autocarro lá fora."
         },
         {
           "en": "is not",
           "pt": "não é",
           "ipa": "",
           "audioKey": "a1_a1-u04-l16_w_is-not",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The library is not open on Sundays.",
+          "examplePt": "A biblioteca não está aberta aos domingos."
         }
       ],
       "guidedReading": {
@@ -2700,32 +2700,32 @@
           "pt": "não é",
           "ipa": "",
           "audioKey": "a1_a1-u04-l17_w_is-not",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The library is not open on Sundays.",
+          "examplePt": "A biblioteca não está aberta aos domingos."
         },
         {
           "en": "are not",
           "pt": "não são",
           "ipa": "",
           "audioKey": "a1_a1-u04-l17_w_are-not",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "They are not at home right now.",
+          "examplePt": "Eles não estão em casa neste momento."
         },
         {
           "en": "happy",
           "pt": "feliz",
           "ipa": "",
           "audioKey": "a1_a1-u04-l17_w_happy",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "We are very happy with our exam results.",
+          "examplePt": "Estamos muito felizes com as nossas notas de exame."
         },
         {
           "en": "tired",
           "pt": "cansado",
           "ipa": "",
           "audioKey": "a1_a1-u04-l17_w_tired",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "After walking from the beach, I felt tired.",
+          "examplePt": "Depois de caminhar da praia, senti-me cansado."
         }
       ],
       "guidedReading": {
@@ -2851,32 +2851,32 @@
           "pt": "cansado",
           "ipa": "",
           "audioKey": "a1_a1-u04-l18_w_tired",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "After walking from the beach, I felt tired.",
+          "examplePt": "Depois de caminhar da praia, senti-me cansado."
         },
         {
           "en": "hungry",
           "pt": "com fome",
           "ipa": "",
           "audioKey": "a1_a1-u04-l18_w_hungry",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The children are hungry after playing.",
+          "examplePt": "As crianças estão com fome depois de brincar."
         },
         {
           "en": "hot",
           "pt": "quente",
           "ipa": "",
           "audioKey": "a1_a1-u04-l18_w_hot",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The sun is very hot in Inhambane.",
+          "examplePt": "O sol está muito quente em Inhambane."
         },
         {
           "en": "cold",
           "pt": "frio",
           "ipa": "",
           "audioKey": "a1_a1-u04-l18_w_cold",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Bring a jacket because the evening is cold.",
+          "examplePt": "Traz um casaco porque a noite está fria."
         }
       ],
       "guidedReading": {
@@ -3030,16 +3030,16 @@
           "pt": "frio",
           "ipa": "",
           "audioKey": "a1_a1-u04-l19_w_cold",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Bring a jacket because the evening is cold.",
+          "examplePt": "Traz um casaco porque a noite está fria."
         },
         {
           "en": "student",
           "pt": "estudante",
           "ipa": "",
           "audioKey": "a1_a1-u04-l19_w_student",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Every student must bring their notebook.",
+          "examplePt": "Cada estudante deve trazer o seu caderno."
         }
       ],
       "guidedReading": {
@@ -3195,32 +3195,32 @@
           "pt": "tu és/estás",
           "ipa": "",
           "audioKey": "a1_a1-u04-l20_w_you-are",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "You are doing great progress in English.",
+          "examplePt": "Tu estás a fazer grande progresso no inglês."
         },
         {
           "en": "he is",
           "pt": "ele é/está",
           "ipa": "",
           "audioKey": "a1_a1-u04-l20_w_he-is",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "He is a very dedicated teacher.",
+          "examplePt": "Ele é um professor muito dedicado."
         },
         {
           "en": "she is",
           "pt": "ela é/está",
           "ipa": "",
           "audioKey": "a1_a1-u04-l20_w_she-is",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "She is working at the clinic today.",
+          "examplePt": "Ela está a trabalhar na clínica hoje."
         },
         {
           "en": "we are",
           "pt": "nós somos/estamos",
           "ipa": "",
           "audioKey": "a1_a1-u04-l20_w_we-are",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "We are learning Mandarin and English.",
+          "examplePt": "Nós estamos a aprender mandarim e inglês."
         }
       ],
       "guidedReading": {

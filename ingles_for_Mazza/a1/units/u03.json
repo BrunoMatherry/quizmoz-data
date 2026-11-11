@@ -37,32 +37,32 @@
           "pt": "país",
           "ipa": "",
           "audioKey": "a1_a1-u03-l01_w_country",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Mozambique is a beautiful country.",
+          "examplePt": "Moçambique é um país bonito."
         },
         {
           "en": "city",
           "pt": "cidade",
           "ipa": "",
           "audioKey": "a1_a1-u03-l01_w_city",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Maputo is a lively coastal city.",
+          "examplePt": "Maputo é uma cidade costeira dinâmica."
         },
         {
           "en": "from",
           "pt": "de",
           "ipa": "",
           "audioKey": "a1_a1-u03-l01_w_from",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Where are you from originally?",
+          "examplePt": "De onde és originário?"
         },
         {
           "en": "Mozambican",
           "pt": "moçambicano/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l01_w_mozambican",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "We are proud of Mozambican culture.",
+          "examplePt": "Temos orgulho na cultura moçambicana."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "moçambicano/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l02_w_mozambican",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "We are proud of Mozambican culture.",
+          "examplePt": "Temos orgulho na cultura moçambicana."
         },
         {
           "en": "Angolan",
           "pt": "angolano/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l02_w_angolan",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "My friend is Angolan from Luanda.",
+          "examplePt": "O meu amigo é angolano de Luanda."
         },
         {
           "en": "Portuguese",
           "pt": "português/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l02_w_portuguese",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Portuguese is an official language here.",
+          "examplePt": "O português é uma língua oficial aqui."
         },
         {
           "en": "where",
           "pt": "onde",
           "ipa": "",
           "audioKey": "a1_a1-u03-l02_w_where",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Where is the central hospital located?",
+          "examplePt": "Onde fica localizado o hospital central?"
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "onde",
           "ipa": "",
           "audioKey": "a1_a1-u03-l03_w_where",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Where is the central hospital located?",
+          "examplePt": "Onde fica localizado o hospital central?"
         },
         {
           "en": "live",
           "pt": "viver / morar",
           "ipa": "",
           "audioKey": "a1_a1-u03-l03_w_live",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "They live in a quiet neighbourhood.",
+          "examplePt": "Eles vivem num bairro tranquilo."
         },
         {
           "en": "I live in",
           "pt": "eu moro em",
           "ipa": "",
           "audioKey": "a1_a1-u03-l03_w_i-live-in",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "I live in Matola with my family.",
+          "examplePt": "Eu moro na Matola com a minha família."
         },
         {
           "en": "Africa",
           "pt": "África",
           "ipa": "",
           "audioKey": "a1_a1-u03-l03_w_africa",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Africa is rich in culture and nature.",
+          "examplePt": "África é rica em cultura e natureza."
         }
       ],
       "guidedReading": {
@@ -519,32 +519,32 @@
           "pt": "África",
           "ipa": "",
           "audioKey": "a1_a1-u03-l04_w_africa",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Africa is rich in culture and nature.",
+          "examplePt": "África é rica em cultura e natureza."
         },
         {
           "en": "language",
           "pt": "língua",
           "ipa": "",
           "audioKey": "a1_a1-u03-l04_w_language",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Learning a new language opens doors.",
+          "examplePt": "Aprender uma nova língua abre portas."
         },
         {
           "en": "Portuguese",
-          "pt": "português",
+          "pt": "português/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l04_w_portuguese",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "Portuguese is an official language here.",
+          "examplePt": "O português é uma língua oficial aqui."
         },
         {
           "en": "English",
           "pt": "inglês",
           "ipa": "",
           "audioKey": "a1_a1-u03-l04_w_english",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "I practice English every single day.",
+          "examplePt": "Pratico inglês todos os dias."
         }
       ],
       "guidedReading": {
@@ -681,8 +681,8 @@
           "pt": "inglês",
           "ipa": "",
           "audioKey": "a1_a1-u03-l05_w_english",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "I practice English every single day.",
+          "examplePt": "Pratico inglês todos os dias."
         }
       ],
       "guidedReading": {
@@ -880,32 +880,32 @@
           "pt": "de",
           "ipa": "",
           "audioKey": "a1_a1-u03-l06_w_from",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Where are you from originally?",
+          "examplePt": "De onde és originário?"
         },
         {
           "en": "Mozambican",
           "pt": "moçambicano/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l06_w_mozambican",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "We are proud of Mozambican culture.",
+          "examplePt": "Temos orgulho na cultura moçambicana."
         },
         {
           "en": "Angolan",
           "pt": "angolano/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l06_w_angolan",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "My friend is Angolan from Luanda.",
+          "examplePt": "O meu amigo é angolano de Luanda."
         },
         {
           "en": "Portuguese",
           "pt": "português/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l06_w_portuguese",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Portuguese is an official language here.",
+          "examplePt": "O português é uma língua oficial aqui."
         }
       ],
       "guidedReading": {
@@ -1059,32 +1059,32 @@
           "pt": "português/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l07_w_portuguese",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Portuguese is an official language here.",
+          "examplePt": "O português é uma língua oficial aqui."
         },
         {
           "en": "where",
           "pt": "onde",
           "ipa": "",
           "audioKey": "a1_a1-u03-l07_w_where",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Where is the central hospital located?",
+          "examplePt": "Onde fica localizado o hospital central?"
         },
         {
           "en": "live",
           "pt": "viver / morar",
           "ipa": "",
           "audioKey": "a1_a1-u03-l07_w_live",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "They live in a quiet neighbourhood.",
+          "examplePt": "Eles vivem num bairro tranquilo."
         },
         {
           "en": "I live in",
           "pt": "eu moro em",
           "ipa": "",
           "audioKey": "a1_a1-u03-l07_w_i-live-in",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "I live in Matola with my family.",
+          "examplePt": "Eu moro na Matola com a minha família."
         }
       ],
       "guidedReading": {
@@ -1239,32 +1239,32 @@
           "pt": "eu moro em",
           "ipa": "",
           "audioKey": "a1_a1-u03-l08_w_i-live-in",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "I live in Matola with my family.",
+          "examplePt": "Eu moro na Matola com a minha família."
         },
         {
           "en": "Africa",
           "pt": "África",
           "ipa": "",
           "audioKey": "a1_a1-u03-l08_w_africa",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Africa is rich in culture and nature.",
+          "examplePt": "África é rica em cultura e natureza."
         },
         {
           "en": "language",
           "pt": "língua",
           "ipa": "",
           "audioKey": "a1_a1-u03-l08_w_language",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Learning a new language opens doors.",
+          "examplePt": "Aprender uma nova língua abre portas."
         },
         {
           "en": "Portuguese",
-          "pt": "português",
+          "pt": "português/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l08_w_portuguese",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Portuguese is an official language here.",
+          "examplePt": "O português é uma língua oficial aqui."
         }
       ],
       "guidedReading": {
@@ -1379,19 +1379,19 @@
       "newWords": [
         {
           "en": "Portuguese",
-          "pt": "português",
+          "pt": "português/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l09_w_portuguese",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Portuguese is an official language here.",
+          "examplePt": "O português é uma língua oficial aqui."
         },
         {
           "en": "English",
           "pt": "inglês",
           "ipa": "",
           "audioKey": "a1_a1-u03-l09_w_english",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "I practice English every single day.",
+          "examplePt": "Pratico inglês todos os dias."
         }
       ],
       "guidedReading": {
@@ -1524,32 +1524,32 @@
           "pt": "cidade",
           "ipa": "",
           "audioKey": "a1_a1-u03-l10_w_city",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Maputo is a lively coastal city.",
+          "examplePt": "Maputo é uma cidade costeira dinâmica."
         },
         {
           "en": "from",
           "pt": "de",
           "ipa": "",
           "audioKey": "a1_a1-u03-l10_w_from",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Where are you from originally?",
+          "examplePt": "De onde és originário?"
         },
         {
           "en": "Mozambican",
           "pt": "moçambicano/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l10_w_mozambican",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "We are proud of Mozambican culture.",
+          "examplePt": "Temos orgulho na cultura moçambicana."
         },
         {
           "en": "Angolan",
           "pt": "angolano/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l10_w_angolan",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "My friend is Angolan from Luanda.",
+          "examplePt": "O meu amigo é angolano de Luanda."
         }
       ],
       "guidedReading": {
@@ -1679,32 +1679,32 @@
           "pt": "angolano/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l11_w_angolan",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "My friend is Angolan from Luanda.",
+          "examplePt": "O meu amigo é angolano de Luanda."
         },
         {
           "en": "Portuguese",
           "pt": "português/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l11_w_portuguese",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Portuguese is an official language here.",
+          "examplePt": "O português é uma língua oficial aqui."
         },
         {
           "en": "where",
           "pt": "onde",
           "ipa": "",
           "audioKey": "a1_a1-u03-l11_w_where",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Where is the central hospital located?",
+          "examplePt": "Onde fica localizado o hospital central?"
         },
         {
           "en": "live",
           "pt": "viver / morar",
           "ipa": "",
           "audioKey": "a1_a1-u03-l11_w_live",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "They live in a quiet neighbourhood.",
+          "examplePt": "Eles vivem num bairro tranquilo."
         }
       ],
       "guidedReading": {
@@ -1830,32 +1830,32 @@
           "pt": "viver / morar",
           "ipa": "",
           "audioKey": "a1_a1-u03-l12_w_live",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "They live in a quiet neighbourhood.",
+          "examplePt": "Eles vivem num bairro tranquilo."
         },
         {
           "en": "I live in",
           "pt": "eu moro em",
           "ipa": "",
           "audioKey": "a1_a1-u03-l12_w_i-live-in",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "I live in Matola with my family.",
+          "examplePt": "Eu moro na Matola com a minha família."
         },
         {
           "en": "Africa",
           "pt": "África",
           "ipa": "",
           "audioKey": "a1_a1-u03-l12_w_africa",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Africa is rich in culture and nature.",
+          "examplePt": "África é rica em cultura e natureza."
         },
         {
           "en": "language",
           "pt": "língua",
           "ipa": "",
           "audioKey": "a1_a1-u03-l12_w_language",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Learning a new language opens doors.",
+          "examplePt": "Aprender uma nova língua abre portas."
         }
       ],
       "guidedReading": {
@@ -2009,24 +2009,24 @@
           "pt": "língua",
           "ipa": "",
           "audioKey": "a1_a1-u03-l13_w_language",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Learning a new language opens doors.",
+          "examplePt": "Aprender uma nova língua abre portas."
         },
         {
           "en": "Portuguese",
-          "pt": "português",
+          "pt": "português/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l13_w_portuguese",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Portuguese is an official language here.",
+          "examplePt": "O português é uma língua oficial aqui."
         },
         {
           "en": "English",
           "pt": "inglês",
           "ipa": "",
           "audioKey": "a1_a1-u03-l13_w_english",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "I practice English every single day.",
+          "examplePt": "Pratico inglês todos os dias."
         }
       ],
       "guidedReading": {
@@ -2181,32 +2181,32 @@
           "pt": "país",
           "ipa": "",
           "audioKey": "a1_a1-u03-l14_w_country",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Mozambique is a beautiful country.",
+          "examplePt": "Moçambique é um país bonito."
         },
         {
           "en": "city",
           "pt": "cidade",
           "ipa": "",
           "audioKey": "a1_a1-u03-l14_w_city",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Maputo is a lively coastal city.",
+          "examplePt": "Maputo é uma cidade costeira dinâmica."
         },
         {
           "en": "from",
           "pt": "de",
           "ipa": "",
           "audioKey": "a1_a1-u03-l14_w_from",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "Where are you from originally?",
+          "examplePt": "De onde és originário?"
         },
         {
           "en": "Mozambican",
           "pt": "moçambicano/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l14_w_mozambican",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "We are proud of Mozambican culture.",
+          "examplePt": "Temos orgulho na cultura moçambicana."
         }
       ],
       "guidedReading": {
@@ -2324,32 +2324,32 @@
           "pt": "moçambicano/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l15_w_mozambican",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "We are proud of Mozambican culture.",
+          "examplePt": "Temos orgulho na cultura moçambicana."
         },
         {
           "en": "Angolan",
           "pt": "angolano/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l15_w_angolan",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "My friend is Angolan from Luanda.",
+          "examplePt": "O meu amigo é angolano de Luanda."
         },
         {
           "en": "Portuguese",
           "pt": "português/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l15_w_portuguese",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Portuguese is an official language here.",
+          "examplePt": "O português é uma língua oficial aqui."
         },
         {
           "en": "where",
           "pt": "onde",
           "ipa": "",
           "audioKey": "a1_a1-u03-l15_w_where",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Where is the central hospital located?",
+          "examplePt": "Onde fica localizado o hospital central?"
         }
       ],
       "guidedReading": {
@@ -2547,32 +2547,32 @@
           "pt": "onde",
           "ipa": "",
           "audioKey": "a1_a1-u03-l16_w_where",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Where is the central hospital located?",
+          "examplePt": "Onde fica localizado o hospital central?"
         },
         {
           "en": "live",
           "pt": "viver / morar",
           "ipa": "",
           "audioKey": "a1_a1-u03-l16_w_live",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "They live in a quiet neighbourhood.",
+          "examplePt": "Eles vivem num bairro tranquilo."
         },
         {
           "en": "I live in",
           "pt": "eu moro em",
           "ipa": "",
           "audioKey": "a1_a1-u03-l16_w_i-live-in",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "I live in Matola with my family.",
+          "examplePt": "Eu moro na Matola com a minha família."
         },
         {
           "en": "Africa",
           "pt": "África",
           "ipa": "",
           "audioKey": "a1_a1-u03-l16_w_africa",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Africa is rich in culture and nature.",
+          "examplePt": "África é rica em cultura e natureza."
         }
       ],
       "guidedReading": {
@@ -2709,32 +2709,32 @@
           "pt": "África",
           "ipa": "",
           "audioKey": "a1_a1-u03-l17_w_africa",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Africa is rich in culture and nature.",
+          "examplePt": "África é rica em cultura e natureza."
         },
         {
           "en": "language",
           "pt": "língua",
           "ipa": "",
           "audioKey": "a1_a1-u03-l17_w_language",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Learning a new language opens doors.",
+          "examplePt": "Aprender uma nova língua abre portas."
         },
         {
           "en": "Portuguese",
-          "pt": "português",
+          "pt": "português/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l17_w_portuguese",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Portuguese is an official language here.",
+          "examplePt": "O português é uma língua oficial aqui."
         },
         {
           "en": "English",
           "pt": "inglês",
           "ipa": "",
           "audioKey": "a1_a1-u03-l17_w_english",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "I practice English every single day.",
+          "examplePt": "Pratico inglês todos os dias."
         }
       ],
       "guidedReading": {
@@ -2860,8 +2860,8 @@
           "pt": "inglês",
           "ipa": "",
           "audioKey": "a1_a1-u03-l18_w_english",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "I practice English every single day.",
+          "examplePt": "Pratico inglês todos os dias."
         }
       ],
       "guidedReading": {
@@ -3015,32 +3015,32 @@
           "pt": "de",
           "ipa": "",
           "audioKey": "a1_a1-u03-l19_w_from",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Where are you from originally?",
+          "examplePt": "De onde és originário?"
         },
         {
           "en": "Mozambican",
           "pt": "moçambicano/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l19_w_mozambican",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "We are proud of Mozambican culture.",
+          "examplePt": "Temos orgulho na cultura moçambicana."
         },
         {
           "en": "Angolan",
           "pt": "angolano/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l19_w_angolan",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "My friend is Angolan from Luanda.",
+          "examplePt": "O meu amigo é angolano de Luanda."
         },
         {
           "en": "Portuguese",
           "pt": "português/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l19_w_portuguese",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Portuguese is an official language here.",
+          "examplePt": "O português é uma língua oficial aqui."
         }
       ],
       "guidedReading": {
@@ -3196,32 +3196,32 @@
           "pt": "português/a",
           "ipa": "",
           "audioKey": "a1_a1-u03-l20_w_portuguese",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Portuguese is an official language here.",
+          "examplePt": "O português é uma língua oficial aqui."
         },
         {
           "en": "where",
           "pt": "onde",
           "ipa": "",
           "audioKey": "a1_a1-u03-l20_w_where",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Where is the central hospital located?",
+          "examplePt": "Onde fica localizado o hospital central?"
         },
         {
           "en": "live",
           "pt": "viver / morar",
           "ipa": "",
           "audioKey": "a1_a1-u03-l20_w_live",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "They live in a quiet neighbourhood.",
+          "examplePt": "Eles vivem num bairro tranquilo."
         },
         {
           "en": "I live in",
           "pt": "eu moro em",
           "ipa": "",
           "audioKey": "a1_a1-u03-l20_w_i-live-in",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "I live in Matola with my family.",
+          "examplePt": "Eu moro na Matola com a minha família."
         }
       ],
       "guidedReading": {

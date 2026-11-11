@@ -37,32 +37,32 @@
           "pt": "telemóvel",
           "ipa": "",
           "audioKey": "a1_a1-u20-l01_w_phone",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "My phone battery lasted the whole day.",
+          "examplePt": "A bateria do meu telefone durou o dia todo."
         },
         {
           "en": "call",
           "pt": "ligar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l01_w_call",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "I will call you as soon as I arrive.",
+          "examplePt": "Vou ligar-te assim que chegar."
         },
         {
           "en": "message",
           "pt": "mensagem",
           "ipa": "",
           "audioKey": "a1_a1-u20-l01_w_message",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Send me a text message with the address.",
+          "examplePt": "Envia-me uma mensagem de texto com o endereço."
         },
         {
           "en": "send",
           "pt": "enviar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l01_w_send",
-          "exampleEn": "Amina lives in Maputo.",
-          "examplePt": "Amina mora em Maputo."
+          "exampleEn": "Please send the homework to the teacher.",
+          "examplePt": "Por favor, envia o trabalho de casa ao professor."
         }
       ],
       "guidedReading": {
@@ -217,32 +217,32 @@
           "pt": "enviar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l02_w_send",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Please send the homework to the teacher.",
+          "examplePt": "Por favor, envia o trabalho de casa ao professor."
         },
         {
           "en": "photo",
           "pt": "foto",
           "ipa": "",
           "audioKey": "a1_a1-u20-l02_w_photo",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "We took a memorable photo by the sea.",
+          "examplePt": "Tirámos uma foto memorável junto ao mar."
         },
         {
           "en": "internet",
           "pt": "internet",
           "ipa": "",
           "audioKey": "a1_a1-u20-l02_w_internet",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Fast internet helps us study online courses.",
+          "examplePt": "Internet rápida ajuda-nos a estudar cursos online."
         },
         {
           "en": "battery",
           "pt": "bateria",
           "ipa": "",
           "audioKey": "a1_a1-u20-l02_w_battery",
-          "exampleEn": "João lives in Matola.",
-          "examplePt": "João mora em Matola."
+          "exampleEn": "Charge your battery before going on the trip.",
+          "examplePt": "Carrega a tua bateria antes de ir de viagem."
         }
       ],
       "guidedReading": {
@@ -360,32 +360,32 @@
           "pt": "bateria",
           "ipa": "",
           "audioKey": "a1_a1-u20-l03_w_battery",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Charge your battery before going on the trip.",
+          "examplePt": "Carrega a tua bateria antes de ir de viagem."
         },
         {
           "en": "number",
           "pt": "número",
           "ipa": "",
           "audioKey": "a1_a1-u20-l03_w_number",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Dial the emergency number right away.",
+          "examplePt": "Marca o número de emergência imediatamente."
         },
         {
           "en": "wait",
           "pt": "esperar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l03_w_wait",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "Please wait for your turn in line.",
+          "examplePt": "Por favor, aguarda pela tua vez na fila."
         },
         {
           "en": "busy",
           "pt": "ocupado",
           "ipa": "",
           "audioKey": "a1_a1-u20-l03_w_busy",
-          "exampleEn": "Fátima lives in Xai-Xai.",
-          "examplePt": "Fátima mora em Xai-Xai."
+          "exampleEn": "The line is busy, try calling back later.",
+          "examplePt": "A linha está ocupada, tenta ligar mais tarde."
         }
       ],
       "guidedReading": {
@@ -519,8 +519,8 @@
           "pt": "ocupado",
           "ipa": "",
           "audioKey": "a1_a1-u20-l04_w_busy",
-          "exampleEn": "Carlos lives in Inhambane.",
-          "examplePt": "Carlos mora em Inhambane."
+          "exampleEn": "The line is busy, try calling back later.",
+          "examplePt": "A linha está ocupada, tenta ligar mais tarde."
         }
       ],
       "guidedReading": {
@@ -657,32 +657,32 @@
           "pt": "mensagem",
           "ipa": "",
           "audioKey": "a1_a1-u20-l05_w_message",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Send me a text message with the address.",
+          "examplePt": "Envia-me uma mensagem de texto com o endereço."
         },
         {
           "en": "send",
           "pt": "enviar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l05_w_send",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Please send the homework to the teacher.",
+          "examplePt": "Por favor, envia o trabalho de casa ao professor."
         },
         {
           "en": "photo",
           "pt": "foto",
           "ipa": "",
           "audioKey": "a1_a1-u20-l05_w_photo",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "We took a memorable photo by the sea.",
+          "examplePt": "Tirámos uma foto memorável junto ao mar."
         },
         {
           "en": "internet",
           "pt": "internet",
           "ipa": "",
           "audioKey": "a1_a1-u20-l05_w_internet",
-          "exampleEn": "Let’s review. Graça is from Vilankulo.",
-          "examplePt": "Vamos rever. Graça é de Vilankulo."
+          "exampleEn": "Fast internet helps us study online courses.",
+          "examplePt": "Internet rápida ajuda-nos a estudar cursos online."
         }
       ],
       "guidedReading": {
@@ -880,32 +880,32 @@
           "pt": "internet",
           "ipa": "",
           "audioKey": "a1_a1-u20-l06_w_internet",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Fast internet helps us study online courses.",
+          "examplePt": "Internet rápida ajuda-nos a estudar cursos online."
         },
         {
           "en": "battery",
           "pt": "bateria",
           "ipa": "",
           "audioKey": "a1_a1-u20-l06_w_battery",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Charge your battery before going on the trip.",
+          "examplePt": "Carrega a tua bateria antes de ir de viagem."
         },
         {
           "en": "number",
           "pt": "número",
           "ipa": "",
           "audioKey": "a1_a1-u20-l06_w_number",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Dial the emergency number right away.",
+          "examplePt": "Marca o número de emergência imediatamente."
         },
         {
           "en": "wait",
           "pt": "esperar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l06_w_wait",
-          "exampleEn": "Ibraimo lives in Beira.",
-          "examplePt": "Ibraimo mora em Beira."
+          "exampleEn": "Please wait for your turn in line.",
+          "examplePt": "Por favor, aguarda pela tua vez na fila."
         }
       ],
       "guidedReading": {
@@ -1059,16 +1059,16 @@
           "pt": "esperar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l07_w_wait",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "Please wait for your turn in line.",
+          "examplePt": "Por favor, aguarda pela tua vez na fila."
         },
         {
           "en": "busy",
           "pt": "ocupado",
           "ipa": "",
           "audioKey": "a1_a1-u20-l07_w_busy",
-          "exampleEn": "Esperança lives in Chimoio.",
-          "examplePt": "Esperança mora em Chimoio."
+          "exampleEn": "The line is busy, try calling back later.",
+          "examplePt": "A linha está ocupada, tenta ligar mais tarde."
         }
       ],
       "guidedReading": {
@@ -1223,32 +1223,32 @@
           "pt": "ligar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l08_w_call",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "I will call you as soon as I arrive.",
+          "examplePt": "Vou ligar-te assim que chegar."
         },
         {
           "en": "message",
           "pt": "mensagem",
           "ipa": "",
           "audioKey": "a1_a1-u20-l08_w_message",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Send me a text message with the address.",
+          "examplePt": "Envia-me uma mensagem de texto com o endereço."
         },
         {
           "en": "send",
           "pt": "enviar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l08_w_send",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "Please send the homework to the teacher.",
+          "examplePt": "Por favor, envia o trabalho de casa ao professor."
         },
         {
           "en": "photo",
           "pt": "foto",
           "ipa": "",
           "audioKey": "a1_a1-u20-l08_w_photo",
-          "exampleEn": "Paulo lives in Tete.",
-          "examplePt": "Paulo mora em Tete."
+          "exampleEn": "We took a memorable photo by the sea.",
+          "examplePt": "Tirámos uma foto memorável junto ao mar."
         }
       ],
       "guidedReading": {
@@ -1366,32 +1366,32 @@
           "pt": "foto",
           "ipa": "",
           "audioKey": "a1_a1-u20-l09_w_photo",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "We took a memorable photo by the sea.",
+          "examplePt": "Tirámos uma foto memorável junto ao mar."
         },
         {
           "en": "internet",
           "pt": "internet",
           "ipa": "",
           "audioKey": "a1_a1-u20-l09_w_internet",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Fast internet helps us study online courses.",
+          "examplePt": "Internet rápida ajuda-nos a estudar cursos online."
         },
         {
           "en": "battery",
           "pt": "bateria",
           "ipa": "",
           "audioKey": "a1_a1-u20-l09_w_battery",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Charge your battery before going on the trip.",
+          "examplePt": "Carrega a tua bateria antes de ir de viagem."
         },
         {
           "en": "number",
           "pt": "número",
           "ipa": "",
           "audioKey": "a1_a1-u20-l09_w_number",
-          "exampleEn": "Belmira lives in Quelimane.",
-          "examplePt": "Belmira mora em Quelimane."
+          "exampleEn": "Dial the emergency number right away.",
+          "examplePt": "Marca o número de emergência imediatamente."
         }
       ],
       "guidedReading": {
@@ -1524,24 +1524,24 @@
           "pt": "número",
           "ipa": "",
           "audioKey": "a1_a1-u20-l10_w_number",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Dial the emergency number right away.",
+          "examplePt": "Marca o número de emergência imediatamente."
         },
         {
           "en": "wait",
           "pt": "esperar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l10_w_wait",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "Please wait for your turn in line.",
+          "examplePt": "Por favor, aguarda pela tua vez na fila."
         },
         {
           "en": "busy",
           "pt": "ocupado",
           "ipa": "",
           "audioKey": "a1_a1-u20-l10_w_busy",
-          "exampleEn": "Let’s review. Nélio is from Nampula.",
-          "examplePt": "Vamos rever. Nélio é de Nampula."
+          "exampleEn": "The line is busy, try calling back later.",
+          "examplePt": "A linha está ocupada, tenta ligar mais tarde."
         }
       ],
       "guidedReading": {
@@ -1671,32 +1671,32 @@
           "pt": "telemóvel",
           "ipa": "",
           "audioKey": "a1_a1-u20-l11_w_phone",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "My phone battery lasted the whole day.",
+          "examplePt": "A bateria do meu telefone durou o dia todo."
         },
         {
           "en": "call",
           "pt": "ligar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l11_w_call",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "I will call you as soon as I arrive.",
+          "examplePt": "Vou ligar-te assim que chegar."
         },
         {
           "en": "message",
           "pt": "mensagem",
           "ipa": "",
           "audioKey": "a1_a1-u20-l11_w_message",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Send me a text message with the address.",
+          "examplePt": "Envia-me uma mensagem de texto com o endereço."
         },
         {
           "en": "send",
           "pt": "enviar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l11_w_send",
-          "exampleEn": "Lurdes lives in Nacala.",
-          "examplePt": "Lurdes mora em Nacala."
+          "exampleEn": "Please send the homework to the teacher.",
+          "examplePt": "Por favor, envia o trabalho de casa ao professor."
         }
       ],
       "guidedReading": {
@@ -1822,32 +1822,32 @@
           "pt": "enviar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l12_w_send",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Please send the homework to the teacher.",
+          "examplePt": "Por favor, envia o trabalho de casa ao professor."
         },
         {
           "en": "photo",
           "pt": "foto",
           "ipa": "",
           "audioKey": "a1_a1-u20-l12_w_photo",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "We took a memorable photo by the sea.",
+          "examplePt": "Tirámos uma foto memorável junto ao mar."
         },
         {
           "en": "internet",
           "pt": "internet",
           "ipa": "",
           "audioKey": "a1_a1-u20-l12_w_internet",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Fast internet helps us study online courses.",
+          "examplePt": "Internet rápida ajuda-nos a estudar cursos online."
         },
         {
           "en": "battery",
           "pt": "bateria",
           "ipa": "",
           "audioKey": "a1_a1-u20-l12_w_battery",
-          "exampleEn": "Faruk lives in Pemba.",
-          "examplePt": "Faruk mora em Pemba."
+          "exampleEn": "Charge your battery before going on the trip.",
+          "examplePt": "Carrega a tua bateria antes de ir de viagem."
         }
       ],
       "guidedReading": {
@@ -2001,32 +2001,32 @@
           "pt": "bateria",
           "ipa": "",
           "audioKey": "a1_a1-u20-l13_w_battery",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Charge your battery before going on the trip.",
+          "examplePt": "Carrega a tua bateria antes de ir de viagem."
         },
         {
           "en": "number",
           "pt": "número",
           "ipa": "",
           "audioKey": "a1_a1-u20-l13_w_number",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Dial the emergency number right away.",
+          "examplePt": "Marca o número de emergência imediatamente."
         },
         {
           "en": "wait",
           "pt": "esperar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l13_w_wait",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "Please wait for your turn in line.",
+          "examplePt": "Por favor, aguarda pela tua vez na fila."
         },
         {
           "en": "busy",
           "pt": "ocupado",
           "ipa": "",
           "audioKey": "a1_a1-u20-l13_w_busy",
-          "exampleEn": "Josina lives in Lichinga.",
-          "examplePt": "Josina mora em Lichinga."
+          "exampleEn": "The line is busy, try calling back later.",
+          "examplePt": "A linha está ocupada, tenta ligar mais tarde."
         }
       ],
       "guidedReading": {
@@ -2181,8 +2181,8 @@
           "pt": "ocupado",
           "ipa": "",
           "audioKey": "a1_a1-u20-l14_w_busy",
-          "exampleEn": "Tendai lives in Ilha de Moçambique.",
-          "examplePt": "Tendai mora em Ilha de Moçambique."
+          "exampleEn": "The line is busy, try calling back later.",
+          "examplePt": "A linha está ocupada, tenta ligar mais tarde."
         }
       ],
       "guidedReading": {
@@ -2300,32 +2300,32 @@
           "pt": "mensagem",
           "ipa": "",
           "audioKey": "a1_a1-u20-l15_w_message",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Send me a text message with the address.",
+          "examplePt": "Envia-me uma mensagem de texto com o endereço."
         },
         {
           "en": "send",
           "pt": "enviar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l15_w_send",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Please send the homework to the teacher.",
+          "examplePt": "Por favor, envia o trabalho de casa ao professor."
         },
         {
           "en": "photo",
           "pt": "foto",
           "ipa": "",
           "audioKey": "a1_a1-u20-l15_w_photo",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "We took a memorable photo by the sea.",
+          "examplePt": "Tirámos uma foto memorável junto ao mar."
         },
         {
           "en": "internet",
           "pt": "internet",
           "ipa": "",
           "audioKey": "a1_a1-u20-l15_w_internet",
-          "exampleEn": "Let’s review. Amélia is from Maputo.",
-          "examplePt": "Vamos rever. Amélia é de Maputo."
+          "exampleEn": "Fast internet helps us study online courses.",
+          "examplePt": "Internet rápida ajuda-nos a estudar cursos online."
         }
       ],
       "guidedReading": {
@@ -2523,32 +2523,32 @@
           "pt": "internet",
           "ipa": "",
           "audioKey": "a1_a1-u20-l16_w_internet",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Fast internet helps us study online courses.",
+          "examplePt": "Internet rápida ajuda-nos a estudar cursos online."
         },
         {
           "en": "battery",
           "pt": "bateria",
           "ipa": "",
           "audioKey": "a1_a1-u20-l16_w_battery",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Charge your battery before going on the trip.",
+          "examplePt": "Carrega a tua bateria antes de ir de viagem."
         },
         {
           "en": "number",
           "pt": "número",
           "ipa": "",
           "audioKey": "a1_a1-u20-l16_w_number",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Dial the emergency number right away.",
+          "examplePt": "Marca o número de emergência imediatamente."
         },
         {
           "en": "wait",
           "pt": "esperar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l16_w_wait",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Please wait for your turn in line.",
+          "examplePt": "Por favor, aguarda pela tua vez na fila."
         }
       ],
       "guidedReading": {
@@ -2685,16 +2685,16 @@
           "pt": "esperar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l17_w_wait",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Please wait for your turn in line.",
+          "examplePt": "Por favor, aguarda pela tua vez na fila."
         },
         {
           "en": "busy",
           "pt": "ocupado",
           "ipa": "",
           "audioKey": "a1_a1-u20-l17_w_busy",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "The line is busy, try calling back later.",
+          "examplePt": "A linha está ocupada, tenta ligar mais tarde."
         }
       ],
       "guidedReading": {
@@ -2820,32 +2820,32 @@
           "pt": "ligar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l18_w_call",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "I will call you as soon as I arrive.",
+          "examplePt": "Vou ligar-te assim que chegar."
         },
         {
           "en": "message",
           "pt": "mensagem",
           "ipa": "",
           "audioKey": "a1_a1-u20-l18_w_message",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Send me a text message with the address.",
+          "examplePt": "Envia-me uma mensagem de texto com o endereço."
         },
         {
           "en": "send",
           "pt": "enviar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l18_w_send",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Please send the homework to the teacher.",
+          "examplePt": "Por favor, envia o trabalho de casa ao professor."
         },
         {
           "en": "photo",
           "pt": "foto",
           "ipa": "",
           "audioKey": "a1_a1-u20-l18_w_photo",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "We took a memorable photo by the sea.",
+          "examplePt": "Tirámos uma foto memorável junto ao mar."
         }
       ],
       "guidedReading": {
@@ -2999,32 +2999,32 @@
           "pt": "foto",
           "ipa": "",
           "audioKey": "a1_a1-u20-l19_w_photo",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "We took a memorable photo by the sea.",
+          "examplePt": "Tirámos uma foto memorável junto ao mar."
         },
         {
           "en": "internet",
           "pt": "internet",
           "ipa": "",
           "audioKey": "a1_a1-u20-l19_w_internet",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Fast internet helps us study online courses.",
+          "examplePt": "Internet rápida ajuda-nos a estudar cursos online."
         },
         {
           "en": "battery",
           "pt": "bateria",
           "ipa": "",
           "audioKey": "a1_a1-u20-l19_w_battery",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Charge your battery before going on the trip.",
+          "examplePt": "Carrega a tua bateria antes de ir de viagem."
         },
         {
           "en": "number",
           "pt": "número",
           "ipa": "",
           "audioKey": "a1_a1-u20-l19_w_number",
-          "exampleEn": "Zacarias lives in Matola.",
-          "examplePt": "Zacarias mora em Matola."
+          "exampleEn": "Dial the emergency number right away.",
+          "examplePt": "Marca o número de emergência imediatamente."
         }
       ],
       "guidedReading": {
@@ -3180,24 +3180,24 @@
           "pt": "número",
           "ipa": "",
           "audioKey": "a1_a1-u20-l20_w_number",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Dial the emergency number right away.",
+          "examplePt": "Marca o número de emergência imediatamente."
         },
         {
           "en": "wait",
           "pt": "esperar",
           "ipa": "",
           "audioKey": "a1_a1-u20-l20_w_wait",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "Please wait for your turn in line.",
+          "examplePt": "Por favor, aguarda pela tua vez na fila."
         },
         {
           "en": "busy",
           "pt": "ocupado",
           "ipa": "",
           "audioKey": "a1_a1-u20-l20_w_busy",
-          "exampleEn": "Let’s review. Carlos is from Beira.",
-          "examplePt": "Vamos rever. Carlos é de Beira."
+          "exampleEn": "The line is busy, try calling back later.",
+          "examplePt": "A linha está ocupada, tenta ligar mais tarde."
         }
       ],
       "guidedReading": {
