@@ -53,7 +53,9 @@
     "Tulio",
     "Turíbio",
     "Turquesa",
-    "Twenty Fingers"
+    "Twenty Fingers",
+    "Tinyiko",
+    "Tsakani"
   ],
   "País": [
     "Tahiti",
@@ -69,7 +71,10 @@
     "Tunísia",
     "Turquemenistão",
     "Turquia",
-    "Tuvalu"
+    "Tuvalu",
+    "Tadjiquistão",
+    "Timor",
+    "Turcomenistão"
   ],
   "Cidade": [
     "Tabora",
@@ -99,7 +104,8 @@
     "Troia",
     "Tshwane",
     "Túnis",
-    "Turim"
+    "Turim",
+    "Tsangano"
   ],
   "Cor": [
     "Tabaco",
@@ -138,7 +144,10 @@
     "Truta",
     "Tubarão",
     "Tucano",
-    "Tuiuiú"
+    "Tuiuiú",
+    "Térmita",
+    "Touro",
+    "Traça"
   ],
   "Alimento": [
     "Tacacá",
@@ -158,7 +167,10 @@
     "Trigo",
     "Trufa",
     "Truta",
-    "Tucupi"
+    "Tucupi",
+    "Tamarindo",
+    "Toranja",
+    "Tosta"
   ],
   "Objeto": [
     "Tábua",
@@ -179,7 +191,14 @@
     "Tridente",
     "Trinco",
     "Troféu",
-    "Tubo"
+    "Tubo",
+    "Tabuleiro",
+    "Tacho",
+    "Talher",
+    "Telecomando",
+    "Televisor",
+    "Tigela",
+    "Torneira"
   ],
   "Profissão": [
     "Tabelião",
@@ -197,7 +216,9 @@
     "Toureiro",
     "Tradutor",
     "Trapezista",
-    "Tricoteira"
+    "Tricoteira",
+    "Talhante",
+    "Treinador"
   ],
   "Carro": [
     "T-Cross",
@@ -217,7 +238,10 @@
     "Triumph",
     "Troller",
     "Tucson",
-    "Twingo"
+    "Twingo",
+    "Tiida",
+    "Touareg",
+    "Triton"
   ],
   "Cantor": [
     "Taylor Swift",
@@ -234,7 +258,9 @@
     "Tony Carreira",
     "Travis Scott",
     "Tupac Shakur",
-    "Twenty Fingers"
+    "Twenty Fingers",
+    "Tems",
+    "Tiwa Savage"
   ],
   "Marca": [
     "Tampax",
@@ -252,7 +278,11 @@
     "Toyota",
     "TripAdvisor",
     "Triumph",
-    "Tropicana"
+    "Tropicana",
+    "Tecno",
+    "Telegram",
+    "Tmcel",
+    "Twitter"
   ],
   "Filme": [
     "Tarzan",
@@ -270,7 +300,10 @@
     "Tron",
     "Tropa de Elite",
     "Tudo sobre Minha Mãe",
-    "Turistas"
+    "Turistas",
+    "Terra Sonâmbula",
+    "Tsotsi",
+    "Tubarão"
   ],
   "Ator": [
     "Taraji P. Henson",
@@ -284,7 +317,9 @@
     "Tom Cruise",
     "Tom Hanks",
     "Tommy Lee Jones",
-    "Tony Ramos"
+    "Tony Ramos",
+    "Taís Araújo",
+    "The Rock"
   ],
   "Novela": [
     "Tempos Modernos",
@@ -297,7 +332,10 @@
     "Totalmente Demais",
     "Travessia",
     "Três Irmãs",
-    "Tropicaliente"
+    "Tropicaliente",
+    "Teresa",
+    "Terra e Paixão",
+    "Topíssima"
   ],
   "Personagem": [
     "Tarzan",
@@ -314,7 +352,9 @@
     "Tony Stark",
     "Toothless",
     "Totó",
-    "Tweety"
+    "Tweety",
+    "T'Challa",
+    "Timão"
   ],
   "Capital": [
     "Taipei",
@@ -329,7 +369,11 @@
     "Togo",
     "Tóquio",
     "Tripoli",
-    "Tunis"
+    "Tunis",
+    "Taipé",
+    "Tasquente",
+    "Tbilissi",
+    "Tete"
   ],
   "Música": [
     "Take Me to Church",
@@ -348,7 +392,8 @@
     "Toxic",
     "Trem das Onze",
     "True Colors",
-    "Tudo Passa"
+    "Tudo Passa",
+    "Three Little Birds"
   ],
   "Roupa": [
     "T-shirt",
@@ -364,7 +409,8 @@
     "Túnica",
     "Turbante",
     "Tutu",
-    "Tweed coat"
+    "Tweed coat",
+    "Ténis"
   ],
   "Parte do Corpo": [
     "Tecido gordo",
@@ -380,7 +426,8 @@
     "Tráquea",
     "Traqueia",
     "Tríceps",
-    "Tubo digestivo"
+    "Tubo digestivo",
+    "Tiroide"
   ],
   "Instrumento": [
     "Tabla",
@@ -397,6 +444,7 @@
     "Trombone",
     "Trompete",
     "Tuba",
-    "Tubular bells"
+    "Tubular bells",
+    "Trompa"
   ]
 }

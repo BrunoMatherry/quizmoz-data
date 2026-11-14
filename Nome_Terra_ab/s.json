@@ -77,7 +77,8 @@
     "Suleiman",
     "Sulemane",
     "Suraia",
-    "Susana"
+    "Susana",
+    "Sumaila"
   ],
   "País": [
     "Samoa",
@@ -98,7 +99,10 @@
     "Sudão do Sul",
     "Suécia",
     "Suíça",
-    "Suriname"
+    "Suriname",
+    "San Marino",
+    "São Marinho",
+    "Seicheles"
   ],
   "Cidade": [
     "Salamanca",
@@ -135,7 +139,8 @@
     "Strasbourg",
     "Stuttgart",
     "Suva",
-    "Sydney"
+    "Sydney",
+    "Sussundenga"
   ],
   "Cor": [
     "Safira",
@@ -183,7 +188,8 @@
     "Socó",
     "Sucuri",
     "Suricata",
-    "Surubim"
+    "Surubim",
+    "Salalé"
   ],
   "Alimento": [
     "Sagu",
@@ -207,7 +213,11 @@
     "Suflê",
     "Sundae",
     "Sushi",
-    "Suspiro"
+    "Suspiro",
+    "Sal",
+    "Sandes",
+    "Sape-sape",
+    "Sumo"
   ],
   "Objeto": [
     "Sabonete",
@@ -231,7 +241,9 @@
     "Sombrinha",
     "Sonda",
     "Suporte",
-    "Switch"
+    "Switch",
+    "Sabão",
+    "Secador"
   ],
   "Profissão": [
     "Sacerdote",
@@ -250,7 +262,9 @@
     "Sommelier",
     "Sonoplasta",
     "Supervisor",
-    "Surfista"
+    "Surfista",
+    "Secretária",
+    "Soldado"
   ],
   "Carro": [
     "S-Class",
@@ -273,7 +287,16 @@
     "Subaru",
     "Supra",
     "Suzuki",
-    "Swift"
+    "Swift",
+    "Santa Fe",
+    "Scorpio",
+    "Serena",
+    "Sienta",
+    "Spacio",
+    "SsangYong",
+    "Starlet",
+    "Stream",
+    "Sunny"
   ],
   "Cantor": [
     "Sade",
@@ -294,7 +317,9 @@
     "Soraia Ramos",
     "Stevie Wonder",
     "Stewart Sukuma",
-    "Sting"
+    "Sting",
+    "Sho Madjozi",
+    "Snoop Dogg"
   ],
   "Marca": [
     "Samsung",
@@ -314,7 +339,16 @@
     "Starbucks",
     "Subway",
     "Supreme",
-    "Swarovski"
+    "Swarovski",
+    "Sagres",
+    "Sasol",
+    "Snapchat",
+    "Spar",
+    "Standard Bank",
+    "Steers",
+    "Sumol",
+    "Sunlight",
+    "Super Bock"
   ],
   "Filme": [
     "Scarface",
@@ -331,7 +365,8 @@
     "Spotlight",
     "Star Wars",
     "Super-Homem",
-    "Superman"
+    "Superman",
+    "Sarafina"
   ],
   "Ator": [
     "Salma Hayek",
@@ -361,7 +396,8 @@
     "Sete Vidas",
     "Sinhá Moça",
     "Sol Nascente",
-    "Suave Veneno"
+    "Suave Veneno",
+    "Salve Jorge"
   ],
   "Personagem": [
     "Sailor Moon",
@@ -380,7 +416,13 @@
     "Spiderman",
     "SpongeBob",
     "Stitch",
-    "Superman"
+    "Superman",
+    "Scar",
+    "Seu Madruga",
+    "Sherlock Holmes",
+    "Shuri",
+    "Smurfs",
+    "Super-Homem"
   ],
   "Capital": [
     "San José",
@@ -395,7 +437,15 @@
     "Sofia",
     "Stocolmo",
     "Sucre",
-    "Suva"
+    "Suva",
+    "Saint George's",
+    "Saint John's",
+    "San Marino",
+    "Santo Domingo",
+    "São Domingos",
+    "São José",
+    "São Marinho",
+    "Sarajevo"
   ],
   "Música": [
     "Saga de Um Amor",
@@ -414,7 +464,8 @@
     "Stayin' Alive",
     "Summertime",
     "Superstition",
-    "Sweet Child O' Mine"
+    "Sweet Child O' Mine",
+    "Single Ladies"
   ],
   "Roupa": [
     "Sabrinas",
@@ -433,7 +484,14 @@
     "Soutien",
     "Suéter",
     "Sunga",
-    "Suspensórios"
+    "Suspensórios",
+    "Saia-calça",
+    "Sandália",
+    "Sapatilhas",
+    "Sapato",
+    "Smoking",
+    "Sutiã",
+    "Sweatshirt"
   ],
   "Parte do Corpo": [
     "Sacro",
@@ -450,7 +508,8 @@
     "Subclávio",
     "Supra-renal",
     "Supraespinhoso",
-    "Suprarrenal"
+    "Suprarrenal",
+    "Sovaco"
   ],
   "Instrumento": [
     "Sanfona",

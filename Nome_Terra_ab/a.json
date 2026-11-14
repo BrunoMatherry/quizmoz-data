@@ -100,7 +100,7 @@
     "Aventina",
     "Awali",
     "Azenaide",
-    "Aziza"
+    "Aziza",
     "Abdala",
     "Abdul",
     "Abudo",
@@ -149,7 +149,7 @@
     "Atlanta",
     "Auckland",
     "Austin",
-    "Aveiro"
+    "Aveiro",
     "Alto Molócuè",
     "Ancuabe"
   ],
@@ -173,7 +173,7 @@
     "Azul-marinho",
     "Azul-petróleo",
     "Azul-real",
-    "Azul-turquesa"
+    "Azul-turquesa",
     "Amarelo-torrado",
     "Anil",
     "Azul-bebé",
@@ -197,7 +197,7 @@
     "Arminho",
     "Atum",
     "Avestruz",
-    "Axolote"
+    "Axolote",
     "Água-viva",
     "Alforreca",
     "Amêijoa"
@@ -224,7 +224,7 @@
     "Arroz",
     "Aveia",
     "Avelã",
-    "Azeitona"
+    "Azeitona",
     "Açúcar",
     "Água de coco",
     "Amêijoa",
@@ -253,7 +253,7 @@
     "Armário",
     "Aspirador",
     "Atilho",
-    "Avião"
+    "Avião",
     "Afia",
     "Afiadeira",
     "Agrafador",
@@ -286,7 +286,7 @@
     "Ator",
     "Atuário",
     "Auditor",
-    "Auxiliar"
+    "Auxiliar",
     "Actor",
     "Actriz",
     "Advogada",
@@ -316,7 +316,7 @@
     "Audi",
     "Avalon",
     "Aveo",
-    "Azera"
+    "Azera",
     "Allion",
     "Atenza",
     "Avanza",
@@ -343,7 +343,7 @@
     "António Zambujo",
     "Aretha Franklin",
     "Ariana Grande",
-    "Azagaia"
+    "Azagaia",
     "Anita Macuácua",
     "Ary",
     "Asake",
@@ -368,7 +368,7 @@
     "Atari",
     "Auchan",
     "Audi",
-    "Avon"
+    "Avon",
     "Absa"
   ],
   "Filme": [
@@ -389,10 +389,9 @@
     "Armageddon",
     "As Branquelas",
     "Avatar",
-    "Avengers"
+    "Avengers",
     "A Guerra das Estrelas",
     "A Idade do Gelo"
-
   ],
   "Ator": [
     "Adam Sandler",
@@ -427,7 +426,7 @@
     "Amor Perfeito",
     "Araguaia",
     "As Aventuras de Poliana",
-    "Avenida Brasil"
+    "Avenida Brasil",
     "A Favorita",
     "Apocalipse",
     "A Usurpadora"
@@ -449,7 +448,7 @@
     "Asterix",
     "Astolfo",
     "Atena",
-    "Aurora"
+    "Aurora",
     "Anansi"
   ],
   "Capital": [
@@ -467,7 +466,7 @@
     "Asmara",
     "Astana",
     "Asunción",
-    "Atenas"
+    "Atenas",
     "Abu Dabi",
     "Amã",
     "Amesterdão",
@@ -494,7 +493,7 @@
     "Apenas um Rapaz Comum",
     "Aquarela",
     "As It Was",
-    "Asa Branca"
+    "Asa Branca",
     "Africa"
   ],
   "Roupa": [
@@ -510,10 +509,9 @@
     "Anoraque",
     "Armação",
     "Arrastão",
-    "Avental"
+    "Avental",
     "Alpercatas",
     "Anorak"
-
   ],
   "Parte do Corpo": [
     "Abdómen",
@@ -527,15 +525,14 @@
     "Articulação",
     "Articulação do joelho",
     "Auréola",
-    "Axila"
+    "Axila",
     "Amígdala",
     "Anelar",
     "Ânus"
-
   ],
   "Instrumento": [
     "Acordeão",
-    "Apito"
+    "Apito",
     "Adufe",
     "Adungu",
     "Afoxé",

@@ -75,7 +75,8 @@
     "Vitória",
     "Vizela",
     "Vladivostok",
-    "Volgograd"
+    "Volgograd",
+    "Vilanculos"
   ],
   "Cor": [
     "Verde",
@@ -90,7 +91,12 @@
     "Vermilion",
     "Vinho",
     "Violeta",
-    "Viridiano"
+    "Viridiano",
+    "Verde-água",
+    "Verde-claro",
+    "Verde-escuro",
+    "Verde-limão",
+    "Vermelho-escuro"
   ],
   "Animal": [
     "Vaca",
@@ -105,7 +111,8 @@
     "Vira-lata",
     "Vison",
     "Viúva-negra",
-    "Vulture"
+    "Vulture",
+    "Vitelo"
   ],
   "Alimento": [
     "Vaca atolada",
@@ -137,7 +144,8 @@
     "Vidro",
     "Viga",
     "Violão",
-    "Volante"
+    "Volante",
+    "Ventoinha"
   ],
   "Profissão": [
     "Vaqueiro",
@@ -152,7 +160,9 @@
     "Vigilante",
     "Violonista",
     "Virologista",
-    "Viticultor"
+    "Viticultor",
+    "Vendedora",
+    "Vulcanizador"
   ],
   "Carro": [
     "Vantage",
@@ -169,7 +179,10 @@
     "Vivace",
     "Volkswagen",
     "Volvo",
-    "Voyage"
+    "Voyage",
+    "Vezel",
+    "Vitz",
+    "Voxy"
   ],
   "Cantor": [
     "Vado",
@@ -184,7 +197,8 @@
     "Victor & Leo",
     "Vinícius de Moraes",
     "Virgínia Rodrigues",
-    "Vitor Kley"
+    "Vitor Kley",
+    "Valdemiro José"
   ],
   "Marca": [
     "Valentino",
@@ -200,7 +214,10 @@
     "Vodacom",
     "Vodafone",
     "Volkswagen",
-    "Volvo"
+    "Volvo",
+    "Vale",
+    "Vaseline",
+    "Vivo"
   ],
   "Filme": [
     "V de Vingança",
@@ -212,7 +229,10 @@
     "Vingadores",
     "Viva",
     "Volver",
-    "Vozes"
+    "Vozes",
+    "Velocidade Furiosa",
+    "Venom",
+    "Virgem Margarida"
   ],
   "Ator": [
     "Val Kilmer",
@@ -224,7 +244,9 @@
     "Vince Vaughn",
     "Vincent Cassel",
     "Viola Davis",
-    "Vivien Leigh"
+    "Vivien Leigh",
+    "Van Damme",
+    "Ving Rhames"
   ],
   "Novela": [
     "Vale Tudo",
@@ -261,7 +283,8 @@
     "Vientiane",
     "Vila",
     "Vilnius",
-    "Vitória"
+    "Vitória",
+    "Victoria"
   ],
   "Música": [
     "Valerie",
@@ -300,7 +323,9 @@
     "Vértebras",
     "Vesícula",
     "Vesícula biliar",
-    "Voz"
+    "Voz",
+    "Ventre",
+    "Virilha"
   ],
   "Instrumento": [
     "Valiha",
@@ -312,6 +337,8 @@
     "Viola de roda",
     "Violão",
     "Violino",
-    "Violoncelo"
+    "Violoncelo",
+    "Valimba",
+    "Viola-baixo"
   ]
 }

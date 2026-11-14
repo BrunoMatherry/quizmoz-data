@@ -45,7 +45,8 @@
     "Ozilda"
   ],
   "País": [
-    "Omã"
+    "Omã",
+    "Oman"
   ],
   "Cidade": [
     "Oakland",
@@ -107,7 +108,10 @@
     "Ostra",
     "Ouriço",
     "Ouriço-do-mar",
-    "Ovelha"
+    "Ovelha",
+    "Oribi",
+    "Osga",
+    "Ouriço-cacheiro"
   ],
   "Alimento": [
     "Oatmeal",
@@ -118,7 +122,9 @@
     "Ostra",
     "Ovo",
     "Ovo de Páscoa",
-    "Ovos mexidos"
+    "Ovos mexidos",
+    "Ovo cozido",
+    "Ovo estrelado"
   ],
   "Objeto": [
     "Obelisco",
@@ -153,7 +159,9 @@
     "Orientador",
     "Ortopedista",
     "Otorrino",
-    "Ourives"
+    "Ourives",
+    "Oficial de justiça",
+    "Olheiro"
   ],
   "Carro": [
     "Octavia",
@@ -182,7 +190,8 @@
     "Oswald",
     "Otis Redding",
     "Oumou Sangaré",
-    "Ozzy Osbourne"
+    "Ozzy Osbourne",
+    "Ozuna"
   ],
   "Marca": [
     "O Boticário",
@@ -216,7 +225,11 @@
     "Ordinary People",
     "Os Imperdoáveis",
     "Os Miseráveis",
-    "Out of Africa"
+    "Out of Africa",
+    "O Rei Leão",
+    "O Senhor dos Anéis",
+    "Os Vingadores",
+    "O Último Voo do Flamingo"
   ],
   "Ator": [
     "Olivia Colman",
@@ -226,7 +239,8 @@
     "Orlando Drummond",
     "Oscar Isaac",
     "Otávio Augusto",
-    "Owen Wilson"
+    "Owen Wilson",
+    "Octavia Spencer"
   ],
   "Novela": [
     "O Beijo do Vampiro",
@@ -237,7 +251,8 @@
     "O Rei do Gado",
     "O Salvador da Pátria",
     "Olho no Olho",
-    "Os Mutantes"
+    "Os Mutantes",
+    "Os Dez Mandamentos"
   ],
   "Personagem": [
     "Obelix",
@@ -248,13 +263,15 @@
     "Optimus Prime",
     "Orfeu",
     "Oscar",
-    "Ovelha Choné"
+    "Ovelha Choné",
+    "Olívia Palito"
   ],
   "Capital": [
     "Oranjestad",
     "Oslo",
     "Ottawa",
-    "Ouagadougou"
+    "Ouagadougou",
+    "Otava"
   ],
   "Música": [
     "O Descobridor dos Sete Mares",
@@ -272,7 +289,8 @@
     "Oração",
     "Ordinary World",
     "Otherside",
-    "Over the Rainbow"
+    "Over the Rainbow",
+    "One Love"
   ],
   "Roupa": [
     "Obi",

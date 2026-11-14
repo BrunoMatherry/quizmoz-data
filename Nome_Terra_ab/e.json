@@ -71,7 +71,15 @@
     "Estados Unidos",
     "Estónia",
     "Eswatini",
-    "Etiópia"
+    "Etiópia",
+    "Egipto",
+    "Emirados Árabes",
+    "Escócia",
+    "Eslováquia",
+    "Eslovénia",
+    "Essuatíni",
+    "Estados Unidos da América",
+    "EUA"
   ],
   "Cidade": [
     "Edimburgo",
@@ -105,7 +113,8 @@
     "Esponja",
     "Espuma",
     "Esverdeado",
-    "Eucalipto"
+    "Eucalipto",
+    "Encarnado"
   ],
   "Animal": [
     "Égua",
@@ -122,7 +131,8 @@
     "Esquilo",
     "Estorninho",
     "Estrela-do-mar",
-    "Esturjão"
+    "Esturjão",
+    "Elande"
   ],
   "Alimento": [
     "Edamame",
@@ -140,7 +150,8 @@
     "Espetada madeirense",
     "Espinafre",
     "Espresso",
-    "Estrogonofe"
+    "Estrogonofe",
+    "Estufado"
   ],
   "Objeto": [
     "Eixo",
@@ -160,7 +171,10 @@
     "Estante",
     "Estojo",
     "Etiqueta",
-    "Extintor"
+    "Extintor",
+    "Escova de dentes",
+    "Esferográfica",
+    "Esteira"
   ],
   "Profissão": [
     "Ecologista",
@@ -180,7 +194,18 @@
     "Esteticista",
     "Estivador",
     "Etnógrafo",
-    "Evangelista"
+    "Evangelista",
+    "Electricista",
+    "Empregada doméstica",
+    "Empregado de mesa",
+    "Empresário",
+    "Enfermeira",
+    "Engenheira",
+    "Engomadeira",
+    "Escultor",
+    "Estilista",
+    "Estomatologista",
+    "Explicador"
   ],
   "Carro": [
     "E-Type",
@@ -195,7 +220,8 @@
     "Etios",
     "Evoque",
     "Excalibur",
-    "Explorer"
+    "Explorer",
+    "Everest"
   ],
   "Cantor": [
     "Ed Sheeran",
@@ -212,7 +238,10 @@
     "Erykah Badu",
     "Euclides",
     "Eusébio",
-    "Eve"
+    "Eve",
+    "Edmázia Mayembe",
+    "Elvira Viegas",
+    "Eyuphuro"
   ],
   "Marca": [
     "EA Sports",
@@ -229,7 +258,10 @@
     "Estée Lauder",
     "Eurosport",
     "Eurostar",
-    "Evian"
+    "Evian",
+    "Ecobank",
+    "e-Mola",
+    "Engen"
   ],
   "Filme": [
     "E o Vento Levou",
@@ -244,7 +276,9 @@
     "Erin Brockovich",
     "Esqueceram de Mim",
     "Eternal Sunshine",
-    "Ex Machina"
+    "Ex Machina",
+    "E.T.",
+    "Exterminador Implacável"
   ],
   "Ator": [
     "Eddie Murphy",
@@ -273,7 +307,9 @@
     "Estúpido Cupido",
     "Êta Mundo Bom",
     "Eterna Magia",
-    "Explode Coração"
+    "Explode Coração",
+    "Escrava Mãe",
+    "Esmeralda"
   ],
   "Personagem": [
     "Edna Moda",
@@ -290,7 +326,8 @@
     "Eric Cartman",
     "Esmeralda",
     "ET",
-    "Eufrazino"
+    "Eufrazino",
+    "Estrumpfes"
   ],
   "Capital": [
     "Edimburgo",
@@ -298,7 +335,8 @@
     "Epidaure",
     "Erevan",
     "Esmeraldas",
-    "Estocolmo"
+    "Estocolmo",
+    "Escópia"
   ],
   "Música": [
     "Earth Song",
@@ -314,7 +352,9 @@
     "Estrada do Sol",
     "Eu Sei Que Vou Te Amar",
     "Every Breath You Take",
-    "Evidências"
+    "Evidências",
+    "Elisa Gomara Saia",
+    "Essence"
   ],
   "Roupa": [
     "Echarpe",

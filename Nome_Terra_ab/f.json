@@ -48,7 +48,8 @@
     "Froilana",
     "Frutuoso",
     "Fulgêncio",
-    "Funcho"
+    "Funcho",
+    "Filomena"
   ],
   "País": [
     "Federação Russa",
@@ -107,7 +108,8 @@
     "Fuinha",
     "Fura-bucho",
     "Fura-vidas",
-    "Furão"
+    "Furão",
+    "Facocero"
   ],
   "Alimento": [
     "Falafel",
@@ -128,7 +130,11 @@
     "Fondue de queijo",
     "Framboesa",
     "Frango",
-    "Fruta-pão"
+    "Fruta-pão",
+    "Feijão-manteiga",
+    "Feijão-nhemba",
+    "Fiambre",
+    "Frango à cafreal"
   ],
   "Objeto": [
     "Faca",
@@ -148,7 +154,13 @@
     "Frasco",
     "Frigideira",
     "Funil",
-    "Furadeira"
+    "Furadeira",
+    "Fecho éclair",
+    "Ferro",
+    "Fita-cola",
+    "Fogareiro",
+    "Frigorífico",
+    "Fronha"
   ],
   "Profissão": [
     "Farmacêutico",
@@ -165,7 +177,9 @@
     "Funcionário",
     "Fundidor",
     "Funileiro",
-    "Fuzileiro"
+    "Fuzileiro",
+    "Freira",
+    "Futebolista"
   ],
   "Carro": [
     "F-150",
@@ -181,7 +195,14 @@
     "Freemont",
     "Frontier",
     "Fuego",
-    "Fusion"
+    "Fusion",
+    "Fielder",
+    "Figo",
+    "Fit",
+    "Forester",
+    "Fortuner",
+    "Foton",
+    "Fuso"
   ],
   "Cantor": [
     "Fafá de Belém",
@@ -198,7 +219,11 @@
     "Frank Ocean",
     "Frank Sinatra",
     "Freddie Mercury",
-    "Future"
+    "Future",
+    "Fally Ipupa",
+    "Fanny Mpfumo",
+    "Ferre Gola",
+    "Focalistic"
   ],
   "Marca": [
     "Faber-Castell",
@@ -216,7 +241,8 @@
     "Forever 21",
     "Fossil",
     "Friskies",
-    "Fujifilm"
+    "Fujifilm",
+    "FNB"
   ],
   "Filme": [
     "Fantasia",
@@ -255,7 +281,8 @@
     "Flor do Caribe",
     "Floribella",
     "Força de um Desejo",
-    "Fuzuê"
+    "Fuzuê",
+    "Festa é Festa"
   ],
   "Personagem": [
     "Fausto",
@@ -299,7 +326,8 @@
     "Footloose",
     "Forget Me",
     "Free Fallin",
-    "Futura"
+    "Futura",
+    "Fall"
   ],
   "Roupa": [
     "Farda",
@@ -312,7 +340,9 @@
     "Forro",
     "Fralda",
     "Franja",
-    "Fustão"
+    "Fustão",
+    "Fato-macaco",
+    "Fraque"
   ],
   "Parte do Corpo": [
     "Face",
@@ -337,6 +367,8 @@
     "Flautim",
     "Fliscorne",
     "Fujara",
-    "Furruco"
+    "Furruco",
+    "Ferrinhos",
+    "Flauta doce"
   ]
 }

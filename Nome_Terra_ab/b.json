@@ -68,7 +68,12 @@
     "Bulgária",
     "Burkina Faso",
     "Burundi",
-    "Butão"
+    "Butão",
+    "Bangladeche",
+    "Barém",
+    "Belarus",
+    "Birmânia",
+    "Botswana"
   ],
   "Cidade": [
     "Bahia",
@@ -95,7 +100,15 @@
     "Bruxelas",
     "Bucareste",
     "Bujumbura",
-    "Bulawayo"
+    "Bulawayo",
+    "Balama",
+    "Bela Vista",
+    "Bilene",
+    "Bloemfontein",
+    "Boane",
+    "Budapeste",
+    "Buenos Aires",
+    "Búzi"
   ],
   "Cor": [
     "Baía",
@@ -112,7 +125,8 @@
     "Brasa",
     "Brique",
     "Bronze",
-    "Burgundy"
+    "Burgundy",
+    "Bordeaux"
   ],
   "Animal": [
     "Babuíno",
@@ -132,7 +146,8 @@
     "Búfalo",
     "Búfalo-africano",
     "Burro",
-    "Bútio"
+    "Bútio",
+    "Bezerro"
   ],
   "Alimento": [
     "Bacalhau",
@@ -154,7 +169,14 @@
     "Broa",
     "Brócolos",
     "Brownie",
-    "Burrata"
+    "Burrata",
+    "Batata-doce",
+    "Batata frita",
+    "Batata-reno",
+    "Beringela",
+    "Bifana",
+    "Bolacha",
+    "Bolo de chocolate"
   ],
   "Objeto": [
     "Bacia",
@@ -176,7 +198,18 @@
     "Brinco",
     "Brinquedo",
     "Bule",
-    "Bússola"
+    "Bússola",
+    "Balança",
+    "Banco",
+    "Bandeja",
+    "Banheira",
+    "Bidão",
+    "Binóculos",
+    "Bola",
+    "Bolsa",
+    "Boneca",
+    "Boneco",
+    "Borrifador"
   ],
   "Profissão": [
     "Bailarino",
@@ -193,7 +226,9 @@
     "Boticário",
     "Boxeador",
     "Brigadeiro",
-    "Brocante"
+    "Brocante",
+    "Banqueiro",
+    "Bate-chapa"
   ],
   "Carro": [
     "Baleno",
@@ -210,7 +245,11 @@
     "Bronco",
     "Bugatti",
     "Buick",
-    "BYD"
+    "BYD",
+    "Belta",
+    "Bluebird",
+    "Bolero",
+    "BT-50"
   ],
   "Cantor": [
     "Banda Eva",
@@ -230,7 +269,12 @@
     "Bruce Springsteen",
     "Bruno Mars",
     "Bryan Adams",
-    "Burna Boy"
+    "Burna Boy",
+    "Bad Bunny",
+    "Bárbara Bandeira",
+    "Big Nelo",
+    "Bispo",
+    "Black Coffee"
   ],
   "Marca": [
     "Balenciaga",
@@ -266,7 +310,11 @@
     "Boyhood",
     "Braveheart",
     "Brokeback Mountain",
-    "Busca Implacável"
+    "Busca Implacável",
+    "Bad Boys",
+    "Bambi",
+    "Black Panther",
+    "Branca de Neve"
   ],
   "Ator": [
     "Ben Affleck",
@@ -295,7 +343,8 @@
     "Belíssima",
     "Bicho do Mato",
     "Bom Sucesso",
-    "Brega e Chique"
+    "Brega e Chique",
+    "Betty, a Feia"
   ],
   "Personagem": [
     "Bambi",
@@ -315,7 +364,12 @@
     "Bowser",
     "Bruce Banner",
     "Bugs Bunny",
-    "Buzz Lightyear"
+    "Buzz Lightyear",
+    "Bagheera",
+    "Baloo",
+    "Bela Adormecida",
+    "Ben 10",
+    "Branca de Neve"
   ],
   "Capital": [
     "Bagdade",
@@ -336,7 +390,18 @@
     "Bridgetown",
     "Bruxelas",
     "Buenos Aires",
-    "Bujumbura"
+    "Bujumbura",
+    "Bacu",
+    "Bamaco",
+    "Banjul",
+    "Basseterre",
+    "Beira",
+    "Bishkek",
+    "Bisqueque",
+    "Bloemfontein",
+    "Brazzaville",
+    "Bucareste",
+    "Budapeste"
   ],
   "Música": [
     "Baby One More Time",
@@ -356,7 +421,10 @@
     "Bohemian Rhapsody",
     "Born This Way",
     "Breathe",
-    "By the Way"
+    "By the Way",
+    "Baby",
+    "Believe",
+    "Buffalo Soldier"
   ],
   "Roupa": [
     "Babadinho",
@@ -374,7 +442,9 @@
     "Bota",
     "Botins",
     "Burca",
-    "Burel"
+    "Burel",
+    "Bermudas",
+    "Botas"
   ],
   "Parte do Corpo": [
     "Bacia",
@@ -388,7 +458,12 @@
     "Bochecha",
     "Braço",
     "Bronco",
-    "Bronquíolos"
+    "Bronquíolos",
+    "Barba",
+    "Barriga da perna",
+    "Bigode",
+    "Brônquio",
+    "Brônquios"
   ],
   "Instrumento": [
     "Baixo",
@@ -402,6 +477,8 @@
     "Bongo",
     "Bugle",
     "Buzina",
-    "Buzuki"
+    "Buzuki",
+    "Batuque",
+    "Bombo"
   ]
 }

@@ -56,7 +56,9 @@
     "Cristóvão",
     "Cruz",
     "Custódia",
-    "Custódio"
+    "Custódio",
+    "Chico",
+    "Constância"
   ],
   "País": [
     "Cabo Verde",
@@ -76,7 +78,11 @@
     "Costa do Marfim",
     "Costa Rica",
     "Croácia",
-    "Cuba"
+    "Cuba",
+    "Camboja",
+    "Chéquia",
+    "Congo-Brazzaville",
+    "Coreia"
   ],
   "Cidade": [
     "Cabo Delgado",
@@ -102,7 +108,16 @@
     "Cotonou",
     "Cuamba",
     "Cuiabá",
-    "Curitiba"
+    "Curitiba",
+    "Cahora Bassa",
+    "Caia",
+    "Catembe",
+    "Chemba",
+    "Chibabava",
+    "Chibuto",
+    "Chicualacuala",
+    "Chinde",
+    "Chiúre"
   ],
   "Cor": [
     "Canela",
@@ -125,7 +140,15 @@
     "Cobre",
     "Coral",
     "Coral-rosa",
-    "Creme"
+    "Creme",
+    "Café",
+    "Caramelo",
+    "Castanho-claro",
+    "Castanho-escuro",
+    "Champanhe",
+    "Cinza",
+    "Cor de laranja",
+    "Cor-de-rosa"
   ],
   "Animal": [
     "Cabra",
@@ -155,7 +178,23 @@
     "Coelho",
     "Coruja",
     "Corvo",
-    "Crocodilo"
+    "Crocodilo",
+    "Cabrito",
+    "Cadela",
+    "Cágado",
+    "Canário",
+    "Cão",
+    "Carapau",
+    "Carraça",
+    "Cavala",
+    "Cavalo-marinho",
+    "Centopeia",
+    "Chacal",
+    "Chimpanzé",
+    "Coala",
+    "Codorniz",
+    "Corvina",
+    "Cudo"
   ],
   "Alimento": [
     "Cacana",
@@ -183,7 +222,20 @@
     "Crème brûlée",
     "Crepe",
     "Croissant",
-    "Cuscuz"
+    "Cuscuz",
+    "Café",
+    "Caldo",
+    "Cana-de-açúcar",
+    "Canhu",
+    "Caranguejo",
+    "Carapau",
+    "Carne",
+    "Castanha de caju",
+    "Chamuça",
+    "Chamussa",
+    "Chouriço",
+    "Churrasco",
+    "Cozido"
   ],
   "Objeto": [
     "Cabide",
@@ -215,7 +267,24 @@
     "Copo",
     "Coração",
     "Corda",
-    "Cortina"
+    "Cortina",
+    "Cabaça",
+    "Cachimbo",
+    "Caneca",
+    "Canivete",
+    "Carregador",
+    "Carrinho",
+    "Catana",
+    "Cesta",
+    "Chave de fendas",
+    "Chávena",
+    "Cinzeiro",
+    "Cobertor",
+    "Cola",
+    "Colar",
+    "Comando",
+    "Corrente",
+    "Cubo"
   ],
   "Profissão": [
     "Cabeleireiro",
@@ -239,7 +308,20 @@
     "Costureira",
     "Coveiro",
     "Cozinheiro",
-    "Curandeiro"
+    "Curandeiro",
+    "Cabeleireira",
+    "Caixa",
+    "Camponês",
+    "Cantor",
+    "Cantora",
+    "Carvoeiro",
+    "Chapeiro",
+    "Chef",
+    "Cobrador",
+    "Comerciante",
+    "Comissário de bordo",
+    "Costureiro",
+    "Cozinheira"
   ],
   "Carro": [
     "C3",
@@ -262,7 +344,16 @@
     "Corsica",
     "Corvette",
     "CR-V",
-    "Cupra"
+    "Cupra",
+    "Caldina",
+    "Camry",
+    "Canter",
+    "Citi Golf",
+    "Coaster",
+    "Colt",
+    "Creta",
+    "Crown",
+    "CX-5"
   ],
   "Cantor": [
     "C4 Pedro",
@@ -282,7 +373,12 @@
     "Christina Aguilera",
     "Claudia Leitte",
     "Coldplay",
-    "Cuca Roseta"
+    "Cuca Roseta",
+    "Calema",
+    "Calo Pascoal",
+    "Cassper Nyovest",
+    "Chico António",
+    "CKay"
   ],
   "Marca": [
     "Calvin Klein",
@@ -303,7 +399,10 @@
     "Continental",
     "Converse",
     "Costco",
-    "Crocs"
+    "Crocs",
+    "Castle",
+    "Cerelac",
+    "Compal"
   ],
   "Filme": [
     "Call Me by Your Name",
@@ -320,7 +419,9 @@
     "Como Treinar o Seu Dragão",
     "Coração Valente",
     "Coringa",
-    "Crepúsculo"
+    "Crepúsculo",
+    "Capitão América",
+    "Comboio de Sal e Açúcar"
   ],
   "Ator": [
     "Caio Castro",
@@ -337,7 +438,12 @@
     "Cláudia Raia",
     "Clint Eastwood",
     "Colin Firth",
-    "Courteney Cox"
+    "Courteney Cox",
+    "Camila Pitanga",
+    "Cauã Reymond",
+    "Chadwick Boseman",
+    "Charlie Chaplin",
+    "Cuba Gooding Jr."
   ],
   "Novela": [
     "Cabocla",
@@ -351,7 +457,9 @@
     "Como uma Onda",
     "Cordel Encantado",
     "Corpo a Corpo",
-    "Cúmplices de um Resgate"
+    "Cúmplices de um Resgate",
+    "Chiquititas",
+    "Corazón Salvaje"
   ],
   "Personagem": [
     "Capitão América",
@@ -369,7 +477,9 @@
     "Cookie Monster",
     "Coringa",
     "Cruella",
-    "Cyclops"
+    "Cyclops",
+    "Capitão Gancho",
+    "Capuchinho Vermelho"
   ],
   "Capital": [
     "Cabul",
@@ -383,7 +493,15 @@
     "Colombo",
     "Conacri",
     "Copenhaga",
-    "Cotonou"
+    "Cotonou",
+    "Campala",
+    "Catmandu",
+    "Chimoio",
+    "Cidade da Guatemala",
+    "Cidade do Kuwait",
+    "Cidade do México",
+    "Cidade do Panamá",
+    "Cidade do Vaticano"
   ],
   "Música": [
     "Cabaret",
@@ -401,7 +519,8 @@
     "Counting Stars",
     "Crawling",
     "Crazy in Love",
-    "Creep"
+    "Creep",
+    "Calm Down"
   ],
   "Roupa": [
     "Cachecol",
@@ -425,7 +544,15 @@
     "Corpete",
     "Corsário",
     "Cueca",
-    "Cuecas"
+    "Cuecas",
+    "Calção",
+    "Calças de ganga",
+    "Camisa de dormir",
+    "Camiseta",
+    "Casaco de cabedal",
+    "Chinelo",
+    "Collants",
+    "Combinação"
   ],
   "Parte do Corpo": [
     "Cabeça",
@@ -447,7 +574,14 @@
     "Costas",
     "Costela",
     "Cotovelo",
-    "Coxa"
+    "Coxa",
+    "Canino",
+    "Cara",
+    "Cílio",
+    "Cintura",
+    "Cóccix",
+    "Couro cabeludo",
+    "Crânio"
   ],
   "Instrumento": [
     "Cajón",
@@ -466,6 +600,7 @@
     "Corneta",
     "Corneta inglesa",
     "Cravo",
-    "Cuíca"
+    "Cuíca",
+    "Clarim"
   ]
 }

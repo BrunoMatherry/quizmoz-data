@@ -62,7 +62,9 @@
     "Guiana",
     "Guiné",
     "Guiné Equatorial",
-    "Guiné-Bissau"
+    "Guiné-Bissau",
+    "Gales",
+    "Guiné-Conacri"
   ],
   "Cidade": [
     "Gaborone",
@@ -85,7 +87,9 @@
     "Guayaquil",
     "Guimarães",
     "Gurúè",
-    "Gweru"
+    "Gweru",
+    "Gqeberha",
+    "Guijá"
   ],
   "Cor": [
     "Garrafa",
@@ -122,7 +126,11 @@
     "Grão-de-bico",
     "Grilo",
     "Grou",
-    "Guepardo"
+    "Guepardo",
+    "Galinha-d'angola",
+    "Galinha-do-mato",
+    "Garoupa",
+    "Gatinho"
   ],
   "Alimento": [
     "Galinha",
@@ -142,7 +150,9 @@
     "Groselha",
     "Guacamole",
     "Guaraná",
-    "Gyoza"
+    "Gyoza",
+    "Garoupa",
+    "Guisado"
   ],
   "Objeto": [
     "Gaiola",
@@ -162,7 +172,11 @@
     "Grelha",
     "Grua",
     "Guarda-chuva",
-    "Guarda-sol"
+    "Guarda-sol",
+    "Garrafão",
+    "Geleira",
+    "Guardanapo",
+    "Guarda-roupa"
   ],
   "Profissão": [
     "Garçom",
@@ -178,7 +192,9 @@
     "Gráfico",
     "Gravador",
     "Guarda",
-    "Guia turístico"
+    "Guia turístico",
+    "Gestor",
+    "Guarda-costas"
   ],
   "Carro": [
     "Galaxie",
@@ -194,7 +210,11 @@
     "Grandis",
     "Granta",
     "GTI",
-    "Gurgel"
+    "Gurgel",
+    "Geely",
+    "Getz",
+    "Great Wall",
+    "GWM"
   ],
   "Cantor": [
     "G2",
@@ -211,7 +231,8 @@
     "Grimes",
     "Guns N' Roses",
     "Gusttavo Lima",
-    "Gwen Stefani"
+    "Gwen Stefani",
+    "Ghorwane"
   ],
   "Marca": [
     "G-Star",
@@ -227,7 +248,11 @@
     "Gorenje",
     "Grundig",
     "Gucci",
-    "Guess"
+    "Guess",
+    "Galito's",
+    "Galp",
+    "Game",
+    "Gmail"
   ],
   "Filme": [
     "Gato de Botas",
@@ -242,7 +267,8 @@
     "Grease",
     "Green Book",
     "Guardiões da Galáxia",
-    "Guerra nas Estrelas"
+    "Guerra nas Estrelas",
+    "Gru"
   ],
   "Ator": [
     "Gael García Bernal",
@@ -256,7 +282,8 @@
     "Glenn Close",
     "Goldie Hawn",
     "Grace Kelly",
-    "Gwyneth Paltrow"
+    "Gwyneth Paltrow",
+    "Glória Pires"
   ],
   "Novela": [
     "Gabriela",
@@ -268,7 +295,8 @@
     "Geração Brasil",
     "Globo de Ouro",
     "Gringa",
-    "Guerra dos Sexos"
+    "Guerra dos Sexos",
+    "Golpe de Sorte"
   ],
   "Personagem": [
     "Gaguinho",
@@ -285,7 +313,9 @@
     "Green Lantern",
     "Grinch",
     "Grogu",
-    "Groot"
+    "Groot",
+    "Gato das Botas",
+    "Génio"
   ],
   "Capital": [
     "Gaborone",
@@ -310,7 +340,9 @@
     "Golpe de Mestre",
     "Good Riddance",
     "Good Vibrations",
-    "Gostava de Ter 20 Anos"
+    "Gostava de Ter 20 Anos",
+    "Gangnam Style",
+    "God's Plan"
   ],
   "Roupa": [
     "Gabardina",
@@ -325,7 +357,9 @@
     "Gorros",
     "Grava",
     "Gravata",
-    "Guarda-pó"
+    "Guarda-pó",
+    "Gabardine",
+    "Ganga"
   ],
   "Parte do Corpo": [
     "Gânglio",
@@ -337,7 +371,8 @@
     "Glote",
     "Glúteo",
     "Gomito",
-    "Goteira"
+    "Goteira",
+    "Gémeos"
   ],
   "Instrumento": [
     "Gaita",
@@ -351,6 +386,9 @@
     "Guitarra",
     "Guqin",
     "Guzheng",
-    "Guzla"
+    "Guzla",
+    "Guitarra acústica",
+    "Guitarra eléctrica",
+    "Guitarra elétrica"
   ]
 }

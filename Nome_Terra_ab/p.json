@@ -46,7 +46,8 @@
     "Priscila",
     "Prudêncio",
     "Pulquéria",
-    "Pureza"
+    "Pureza",
+    "Paulino"
   ],
   "País": [
     "Países Baixos",
@@ -60,7 +61,8 @@
     "Peru",
     "Polónia",
     "Porto Rico",
-    "Portugal"
+    "Portugal",
+    "País de Gales"
   ],
   "Cidade": [
     "Palma de Maiorca",
@@ -87,7 +89,12 @@
     "Puebla",
     "Pueblo",
     "Puno",
-    "Pusan"
+    "Pusan",
+    "Palma",
+    "Pebane",
+    "Polokwane",
+    "Ponta do Ouro",
+    "Port Elizabeth"
   ],
   "Cor": [
     "Pardo",
@@ -99,7 +106,8 @@
     "Platinado",
     "Prata",
     "Preto",
-    "Púrpura"
+    "Púrpura",
+    "Prateado"
   ],
   "Animal": [
     "Paca",
@@ -124,7 +132,22 @@
     "Porco-espinho",
     "Preguiça",
     "Pulga",
-    "Puma"
+    "Puma",
+    "Pala-pala",
+    "Pangolim",
+    "Papagaio",
+    "Peixe-espada",
+    "Peixe-serra",
+    "Pelicano",
+    "Percevejo",
+    "Pescada",
+    "Pintainho",
+    "Pinto",
+    "Pirilampo",
+    "Pitão",
+    "Píton",
+    "Pomba",
+    "Porquinho-da-índia"
   ],
   "Alimento": [
     "Pamonha",
@@ -145,7 +168,17 @@
     "Pizza",
     "Polenta",
     "Presunto",
-    "Pudim"
+    "Pudim",
+    "Papa",
+    "Papaia",
+    "Papas",
+    "Peixe",
+    "Pepino",
+    "Pescada",
+    "Pimento",
+    "Piri-piri",
+    "Polvo",
+    "Prego"
   ],
   "Objeto": [
     "Pá",
@@ -169,7 +202,13 @@
     "Pote",
     "Prateleira",
     "Prato",
-    "Prego"
+    "Prego",
+    "Pasta",
+    "Penico",
+    "Pião",
+    "Pilão",
+    "Pires",
+    "Pulseira"
   ],
   "Profissão": [
     "Padeiro",
@@ -188,7 +227,16 @@
     "Professor",
     "Programador",
     "Psicólogo",
-    "Psiquiatra"
+    "Psiquiatra",
+    "Padre",
+    "Parteira",
+    "Pasteleiro",
+    "Poeta",
+    "Polícia",
+    "Porteiro",
+    "Procurador",
+    "Produtor",
+    "Professora"
   ],
   "Carro": [
     "Pagani",
@@ -209,7 +257,13 @@
     "Prisma",
     "Prius",
     "Puma",
-    "Punto"
+    "Punto",
+    "Passo",
+    "Picanto",
+    "Prado",
+    "Premio",
+    "Probox",
+    "Proton"
   ],
   "Cantor": [
     "Pabllo Vittar",
@@ -230,7 +284,10 @@
     "Portishead",
     "Post Malone",
     "Prince",
-    "Puto Português"
+    "Puto Português",
+    "Paulo Flores",
+    "Pérola",
+    "Plutónio"
   ],
   "Marca": [
     "Paco Rabanne",
@@ -251,7 +308,9 @@
     "Prada",
     "Pringles",
     "Puma",
-    "Pupa"
+    "Pupa",
+    "Petromoc",
+    "Pick n Pay"
   ],
   "Filme": [
     "Parasita",
@@ -265,7 +324,10 @@
     "Procurando Nemo",
     "Psicose",
     "Psycho",
-    "Pulp Fiction"
+    "Pulp Fiction",
+    "Pantera Negra",
+    "Pocahontas",
+    "Predador"
   ],
   "Ator": [
     "Paolla Oliveira",
@@ -309,7 +371,12 @@
     "Pocahontas",
     "Popeye",
     "Porky Pig",
-    "Pumba"
+    "Pumba",
+    "Pac-Man",
+    "Pai Natal",
+    "Pantera Negra",
+    "Patrick",
+    "Peppa"
   ],
   "Capital": [
     "Palikir",
@@ -327,7 +394,13 @@
     "Praia",
     "Pretória",
     "Pristina",
-    "Pyongyang"
+    "Pyongyang",
+    "Pemba",
+    "Port Louis",
+    "Port Moresby",
+    "Porto Luís",
+    "Porto Vila",
+    "Port Vila"
   ],
   "Música": [
     "Pai",
@@ -340,7 +413,8 @@
     "Photograph",
     "Pintado de Azul",
     "Pode Chover",
-    "Purple Rain"
+    "Purple Rain",
+    "Pata Pata"
   ],
   "Roupa": [
     "Paletó",
@@ -356,7 +430,8 @@
     "Plissado",
     "Polo",
     "Poncho",
-    "Pulôver"
+    "Pulôver",
+    "Peúgas"
   ],
   "Parte do Corpo": [
     "Pálpebra",
@@ -371,7 +446,14 @@
     "Púbis",
     "Pulmão",
     "Pulso",
-    "Pupila"
+    "Pupila",
+    "Palato",
+    "Palma da mão",
+    "Panturrilha",
+    "Pestana",
+    "Planta do pé",
+    "Polegar",
+    "Punho"
   ],
   "Instrumento": [
     "Pan flute",

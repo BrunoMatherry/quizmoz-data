@@ -68,7 +68,9 @@
     "Muhamed",
     "Murilo",
     "Mussa",
-    "Muzila"
+    "Muzila",
+    "Momade",
+    "Muhammad"
   ],
   "País": [
     "Macedónia",
@@ -88,7 +90,11 @@
     "Mónaco",
     "Mongólia",
     "Montenegro",
-    "Myanmar"
+    "Myanmar",
+    "Macedónia do Norte",
+    "Malaui",
+    "Maurícias",
+    "Mianmar"
   ],
   "Cidade": [
     "Maceió",
@@ -116,7 +122,45 @@
     "Montreal",
     "Moscou",
     "Mueda",
-    "Munique"
+    "Munique",
+    "Mabote",
+    "Machaze",
+    "Macia",
+    "Macomia",
+    "Maganja da Costa",
+    "Magude",
+    "Malema",
+    "Mandimba",
+    "Mandlakazi",
+    "Manhiça",
+    "Manjacaze",
+    "Marracuene",
+    "Marrupa",
+    "Massinga",
+    "Massingir",
+    "Mbombela",
+    "Mecanhelas",
+    "Meconta",
+    "Medina",
+    "Memba",
+    "Metangula",
+    "Milange",
+    "Moamba",
+    "Moatize",
+    "Mocímboa da Praia",
+    "Mombaça",
+    "Montepuez",
+    "Mopeia",
+    "Morrumbala",
+    "Morrumbene",
+    "Moscovo",
+    "Mossuril",
+    "Mossurize",
+    "Muanza",
+    "Mumbai",
+    "Murrupula",
+    "Mutarara",
+    "Mutare"
   ],
   "Cor": [
     "Magenta",
@@ -146,7 +190,12 @@
     "Morcego",
     "Morsa",
     "Mosca",
-    "Mula"
+    "Mula",
+    "Mabeco",
+    "Magumba",
+    "Minhoca",
+    "Mocho",
+    "Mosquito"
   ],
   "Alimento": [
     "Maçã",
@@ -166,7 +215,15 @@
     "Mousse",
     "Mucapata",
     "Muçarela",
-    "Mumuila"
+    "Mumuila",
+    "Maheu",
+    "Malambe",
+    "Mandioca frita",
+    "Mapira",
+    "Margarina",
+    "Massala",
+    "Mexilhão",
+    "Mexoeira"
   ],
   "Objeto": [
     "Maca",
@@ -186,7 +243,12 @@
     "Mochila",
     "Moeda",
     "Mola",
-    "Moldura"
+    "Moldura",
+    "Mangueira",
+    "Marmita",
+    "Micro-ondas",
+    "Moinho",
+    "Mosquiteiro"
   ],
   "Profissão": [
     "Maçom",
@@ -212,7 +274,12 @@
     "Mineiro",
     "Modelo",
     "Motorista",
-    "Músico"
+    "Músico",
+    "Machambeiro",
+    "Manequim",
+    "Maquilhador",
+    "Médica",
+    "Mukherista"
   ],
   "Carro": [
     "Marea",
@@ -231,7 +298,14 @@
     "Mobi",
     "Montana",
     "Monza",
-    "Mustang"
+    "Mustang",
+    "Mahindra",
+    "March",
+    "Mark II",
+    "Mark X",
+    "Micra",
+    "Mini",
+    "Murano"
   ],
   "Cantor": [
     "Mabermuda",
@@ -254,7 +328,15 @@
     "Moby",
     "Mr. Bow",
     "Mumford & Sons",
-    "Muse"
+    "Muse",
+    "Mabulu",
+    "Makhadzi",
+    "Marllen",
+    "Master KG",
+    "Mickael Carreira",
+    "Mika Mendes",
+    "Mr Eazi",
+    "Mr. Kuka"
   ],
   "Marca": [
     "M&M's",
@@ -277,7 +359,13 @@
     "Motorola",
     "Movitel",
     "Moza Banco",
-    "Mustang"
+    "Mustang",
+    "Maggi",
+    "Mcel",
+    "Milo",
+    "mKesh",
+    "Mozal",
+    "M-Pesa"
   ],
   "Filme": [
     "Mad Max",
@@ -292,7 +380,9 @@
     "Missão Impossível",
     "Moana",
     "Mulan",
-    "My Fair Lady"
+    "My Fair Lady",
+    "Madagáscar",
+    "Mulher-Maravilha"
   ],
   "Ator": [
     "Mads Mikkelsen",
@@ -305,7 +395,8 @@
     "Meryl Streep",
     "Michael Douglas",
     "Morgan Freeman",
-    "Murilo Benício"
+    "Murilo Benício",
+    "Michael B. Jordan"
   ],
   "Novela": [
     "Malhação",
@@ -316,7 +407,13 @@
     "Morde e Assopra",
     "Mulheres Apaixonadas",
     "Mulheres de Areia",
-    "Mulheres de Ouro"
+    "Mulheres de Ouro",
+    "Mar do Sertão",
+    "Maria do Bairro",
+    "Maria Mercedes",
+    "Marimar",
+    "Mar Salgado",
+    "Morangos com Açúcar"
   ],
   "Personagem": [
     "Madagascar",
@@ -333,7 +430,13 @@
     "Mônica",
     "Morfeu",
     "Mr. Bean",
-    "Mulan"
+    "Mulan",
+    "Maui",
+    "Merlin",
+    "Minnie",
+    "Mowgli",
+    "Mufasa",
+    "Mulher-Maravilha"
   ],
   "Capital": [
     "Madrid",
@@ -352,7 +455,11 @@
     "Monróvia",
     "Montevideu",
     "Moroni",
-    "Moscou"
+    "Moscou",
+    "Majuro",
+    "Matola",
+    "Mogadixo",
+    "Moscovo"
   ],
   "Música": [
     "Man in the Mirror",
@@ -368,7 +475,9 @@
     "Mudjiba",
     "Música Ligeira",
     "My Heart Will Go On",
-    "My Way"
+    "My Way",
+    "Macarena",
+    "Malaika"
   ],
   "Roupa": [
     "Macacão",
@@ -384,7 +493,9 @@
     "Minissaia",
     "Mitra",
     "Mocassim",
-    "Moletom"
+    "Moletom",
+    "Mini-saia",
+    "Mocassins"
   ],
   "Parte do Corpo": [
     "Mamilo",
@@ -397,7 +508,10 @@
     "Mento",
     "Menton",
     "Mucosa",
-    "Músculo"
+    "Músculo",
+    "Mama",
+    "Mindinho",
+    "Molar"
   ],
   "Instrumento": [
     "Maraca",
