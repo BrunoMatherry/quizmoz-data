@@ -101,6 +101,12 @@
     "Awali",
     "Azenaide",
     "Aziza"
+    "Abdala",
+    "Abdul",
+    "Abudo",
+    "Aissa",
+    "Anifa",
+    "Assane"
   ],
   "País": [
     "Afeganistão",
@@ -144,6 +150,8 @@
     "Auckland",
     "Austin",
     "Aveiro"
+    "Alto Molócuè",
+    "Ancuabe"
   ],
   "Cor": [
     "Abóbora",
@@ -166,6 +174,11 @@
     "Azul-petróleo",
     "Azul-real",
     "Azul-turquesa"
+    "Amarelo-torrado",
+    "Anil",
+    "Azul-bebé",
+    "Azul-claro",
+    "Azul-escuro"
   ],
   "Animal": [
     "Abelha",
@@ -185,6 +198,9 @@
     "Atum",
     "Avestruz",
     "Axolote"
+    "Água-viva",
+    "Alforreca",
+    "Amêijoa"
   ],
   "Alimento": [
     "Abacate",
@@ -209,6 +225,12 @@
     "Aveia",
     "Avelã",
     "Azeitona"
+    "Açúcar",
+    "Água de coco",
+    "Amêijoa",
+    "Ananás",
+    "Anona",
+    "Atum"
   ],
   "Objeto": [
     "Abajur",
@@ -232,6 +254,15 @@
     "Aspirador",
     "Atilho",
     "Avião"
+    "Afia",
+    "Afiadeira",
+    "Agrafador",
+    "Almofariz",
+    "Ampulheta",
+    "Ancinho",
+    "Antena",
+    "Apara-lápis",
+    "Auscultadores"
   ],
   "Profissão": [
     "Açougueiro",
@@ -256,6 +287,17 @@
     "Atuário",
     "Auditor",
     "Auxiliar"
+    "Actor",
+    "Actriz",
+    "Advogada",
+    "Agente da polícia",
+    "Agricultora",
+    "Ama",
+    "Apresentador",
+    "Arquitecto",
+    "Artesão",
+    "Atleta",
+    "Atriz"
   ],
   "Carro": [
     "Abarth",
@@ -275,6 +317,10 @@
     "Avalon",
     "Aveo",
     "Azera"
+    "Allion",
+    "Atenza",
+    "Avanza",
+    "Axela"
   ],
   "Cantor": [
     "Adele",
@@ -298,6 +344,10 @@
     "Aretha Franklin",
     "Ariana Grande",
     "Azagaia"
+    "Anita Macuácua",
+    "Ary",
+    "Asake",
+    "Ayra Starr"
   ],
   "Marca": [
     "Acer",
@@ -319,6 +369,7 @@
     "Auchan",
     "Audi",
     "Avon"
+    "Absa"
   ],
   "Filme": [
     "A Bela e o Monstro",
@@ -339,6 +390,9 @@
     "As Branquelas",
     "Avatar",
     "Avengers"
+    "A Guerra das Estrelas",
+    "A Idade do Gelo"
+
   ],
   "Ator": [
     "Adam Sandler",
@@ -374,6 +428,9 @@
     "Araguaia",
     "As Aventuras de Poliana",
     "Avenida Brasil"
+    "A Favorita",
+    "Apocalipse",
+    "A Usurpadora"
   ],
   "Personagem": [
     "Aang",
@@ -393,6 +450,7 @@
     "Astolfo",
     "Atena",
     "Aurora"
+    "Anansi"
   ],
   "Capital": [
     "Abu Dhabi",
@@ -410,6 +468,11 @@
     "Astana",
     "Asunción",
     "Atenas"
+    "Abu Dabi",
+    "Amã",
+    "Amesterdão",
+    "Asgabate",
+    "Assunção"
   ],
   "Música": [
     "A Bando",
@@ -432,6 +495,7 @@
     "Aquarela",
     "As It Was",
     "Asa Branca"
+    "Africa"
   ],
   "Roupa": [
     "Aba",
@@ -447,6 +511,9 @@
     "Armação",
     "Arrastão",
     "Avental"
+    "Alpercatas",
+    "Anorak"
+
   ],
   "Parte do Corpo": [
     "Abdómen",
@@ -461,9 +528,14 @@
     "Articulação do joelho",
     "Auréola",
     "Axila"
+    "Amígdala",
+    "Anelar",
+    "Ânus"
+
   ],
   "Instrumento": [
     "Acordeão",
+    "Apito"
     "Adufe",
     "Adungu",
     "Afoxé",
