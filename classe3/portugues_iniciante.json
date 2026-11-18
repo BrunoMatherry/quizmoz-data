@@ -151,7 +151,7 @@
         "A0_ID18": "A frase é grande",
         "A1_ID18": "Há dois sujeitos (João e Maria)",
         "A2_ID18": "O verbo é difícil",
-        "A3_ID18": "Está no passado, ao mesmo tempo",
+        "A3_ID18": "Porque a acção de brincar está conjugada no tempo passado",
         "S_ID18": 1,
         "txtS_ID18": "O verbo concorda com o sujeito. Como são duas pessoas (João e Maria = eles), o verbo vai para o plural: 'brincam' em vez de 'brinca'.",
 
@@ -207,7 +207,7 @@
         "A0_ID25": "Terminar a frase",
         "A1_ID25": "Fazer uma pergunta",
         "A2_ID25": "Introduzir uma explicação ou lista",
-        "A3_ID25": "Separar sílabas em exclusivo.",
+        "A3_ID25": "Para separar as sílabas no interior de uma palavra escrita",
         "S_ID25": 2,
         "txtS_ID25": "Os dois pontos (:) introduzem uma explicação, uma lista ou a fala de alguém. Exemplo: 'Comprei frutas: mangas, bananas e cocos.'",
 
