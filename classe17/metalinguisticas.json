@@ -271,7 +271,7 @@
         "A0_ID33": "Na porteira",
         "A1_ID33": "Na teia de aranha",
         "A2_ID33": "No buraco",
-        "A3_ID33": "Na lama ordinária",
+        "A3_ID33": "Na lama deste tipo",
         "S_ID33": 1,
         "txtS_ID33": "A resposta é 'na teia de aranha'. O mosquito fica preso na teia, o boi não, porque é grande demais para entrar na teia.",
 
@@ -342,7 +342,7 @@
         "Q_ID42": "O que é, o que é? Anda com a barriga para trás?",
         "A0_ID42": "O caranguejo",
         "A1_ID42": "A perna da gente",
-        "A2_ID42": "O cachorro comum",
+        "A2_ID42": "O cachorro apenas.",
         "A3_ID42": "O avestruz",
         "S_ID42": 1,
         "txtS_ID42": "A resposta é 'a perna da gente'. A perna tem a barriga da perna (panturrilha) para trás.",
