@@ -655,7 +655,7 @@
         "txtS_ID92": "A luz vermelha do semáforo para veículos indica que o automobilista deve parar imediatamente.",
         "Q_ID93": "O que é uma cidade?",
         "A0_ID93": "Qualquer aglomerado populacional.",
-        "A1_ID93": "Apenas a capital política de um país, mesmo quando não é urbanizada nem constitui um centro de actividades económicas, sociais ou culturais.",
+        "A1_ID93": "Apenas a capital política de um país, mesmo quando continua rural, sem ruas asfaltadas, hospitais, escolas ou mercados permanentes.",
         "A2_ID93": "Uma área rural com baixa densidade populacional.",
         "A3_ID93": "Área urbanizada e densamente povoada, com infra-estruturas e serviços, centro de atividades económicas, sociais, culturais e políticas.",
         "S_ID93": 3,
