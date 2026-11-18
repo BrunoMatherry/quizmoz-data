@@ -207,7 +207,7 @@
         "A0_ID25": "Terminar a frase",
         "A1_ID25": "Fazer uma pergunta",
         "A2_ID25": "Introduzir uma explicação ou lista",
-        "A3_ID25": "Separar sílabas, para o caso geral",
+        "A3_ID25": "Separar sílabas em exclusivo.",
         "S_ID25": 2,
         "txtS_ID25": "Os dois pontos (:) introduzem uma explicação, uma lista ou a fala de alguém. Exemplo: 'Comprei frutas: mangas, bananas e cocos.'",
 
