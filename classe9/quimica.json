@@ -465,7 +465,7 @@
         "S_ID65": 0,
         "txtS_ID65": "Elementos do mesmo grupo (família) têm propriedades químicas semelhantes. Na (Sódio) e K (Potássio) pertencem ambos ao grupo IA (metais alcalinos). C e Si também são do mesmo grupo (IVA), mas a semelhança entre os alcalinos é mais marcante na reactividade.",
         "Q_ID66": "Qual é a fórmula estrutural de Lewis para a molécula de amoníaco (NH₃)?",
-        "A0_ID66": "H — N — H, na abordagem usual, por esta via simples.",
+        "A0_ID66": "H — N — H reduzindo o fenómeno apenas a este aspecto",
         "A1_ID66": "H — N — H com um par de electrões não ligantes no N.",
         "A2_ID66": "H — N = H",
         "A3_ID66": "N — H (três ligações simples).",

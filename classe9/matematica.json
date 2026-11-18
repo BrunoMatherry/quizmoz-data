@@ -588,7 +588,7 @@
 
         "Q_ID73": "Qual é o perímetro de um triângulo com lados medindo √3, √6 e √3 (numa mesma unidade)?",
         "A0_ID73": "2√3 + √6",
-        "A1_ID73": "3√3 comum",
+        "A1_ID73": "3√3 puro",
         "A2_ID73": "√12",
         "A3_ID73": "2√6",
         "S_ID73": 0,
@@ -606,7 +606,7 @@
         "A0_ID75": "x² + 3x + 2",
         "A1_ID75": "2x + 3",
         "A2_ID75": "x² + 2",
-        "A3_ID75": "X + 3 comum",
+        "A3_ID75": "Apenas x + 3",
         "S_ID75": 0,
         "txtS_ID75": "A área do retângulo é base × altura: (x+2)(x+1) = x² + x + 2x + 2 = x² + 3x + 2 (p.38 - exercício 4).",
 
