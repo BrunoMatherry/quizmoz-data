@@ -295,7 +295,7 @@
         "A0_ID36": "Primeira pergunta a qualquer um: 'Qual o caminho para o restaurante que cada um dos outros dois indicaria?' Segunda pergunta a um dos outros: 'Qual o caminho que o outro indivíduo indicaria?'",
         "A1_ID36": "Perguntar a cada um qual é o caminho e fazer média",
         "A2_ID36": "Perguntar quem é o estudante",
-        "A3_ID36": "Perguntar a qualquer um quem é que mente e, em seguida, seguir o caminho que o interrogado apontar como o seu próprio, sem cruzar as respostas dos outros dois indivíduos no cruzamento.",
+        "A3_ID36": "Perguntar a qualquer um quem é que mente e, em seguida, seguir a direcção que o interrogado apontar como a sua própria, sem cruzar as respostas dos outros dois indivíduos no cruzamento.",
         "S_ID36": 0,
         "txtS_ID36": "Primeira pergunta identifica o estudante. Segunda pergunta a um dos outros (não estudante) sobre o que o outro indicaria, e o caminho apontado será o errado, então escolhe-se o oposto.",
 

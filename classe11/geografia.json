@@ -310,7 +310,7 @@
     "A0_ID38": "Importações > Exportações.",
     "A1_ID38": "Não comércio.",
     "A2_ID38": "Preços caros.",
-    "A3_ID38": "A ausência de quaisquer taxas.",
+    "A3_ID38": "Um saldo nulo entre compras e vendas ao exterior.",
     "S_ID38": 0,
     "txtS_ID38": "O défice na balança comercial ocorre quando o país compra mais bens manufaturados caros do exterior do que consegue vender como matérias-primas.",
 
@@ -534,7 +534,7 @@
     "A0_ID66": "Importações > Exportações.",
     "A1_ID66": "Não comércio.",
     "A2_ID66": "Preços caros.",
-    "A3_ID66": "A ausência de quaisquer taxas.",
+    "A3_ID66": "Exportações superiores às importações no mesmo período.",
     "S_ID66": 0,
     "txtS_ID66": "Um défice comercial surge porque as importações de tecnologia e bens de consumo pesam mais do que as matérias-primas exportadas.",
 
@@ -758,7 +758,7 @@
     "A0_ID94": "Importações > Exportações.",
     "A1_ID94": "Não comércio.",
     "A2_ID94": "Preços caros.",
-    "A3_ID94": "A ausência de quaisquer taxas.",
+    "A3_ID94": "Um equilíbrio exacto das trocas com o exterior.",
     "S_ID94": 0,
     "txtS_ID94": "Défice na balança.",
 

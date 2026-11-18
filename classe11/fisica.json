@@ -284,7 +284,7 @@
     "txtS_ID39": "A ação e a reação atuam em corpos diferentes. A normal na mesa e o peso do bloco atuam ambos no bloco, logo não são um par de Newton.",
     "Q_ID40": "Equilíbrio de corpo rígido?",
     "A0_ID40": "ΣF = 0 e ΣM = 0.",
-    "A1_ID40": "ΣF > 0 e ΣM > 0.",
+    "A1_ID40": "A soma das forças é positiva e a soma dos momentos é também diferente de zero.",
     "A2_ID40": "ΣM > 0.",
     "A3_ID40": "ΣF ≠ 0.",
     "S_ID40": 0,

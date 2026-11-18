@@ -556,7 +556,7 @@
         "S_ID78": 1,
         "txtS_ID78": "Uma contradição é uma proposição composta cujo valor lógico é sempre Falso, independentemente dos valores das proposições simples que a compõem. Exemplo: p ∧ ¬p.",
         "Q_ID79": "O domínio da expressão √( (x-1)/x ) (raiz quadrada) é:",
-        "A0_ID79": "x > 0 ou x = 1",
+        "A0_ID79": "A solução é o intervalo aberto entre 0 e 1, exclusive os extremos.",
         "A1_ID79": "x ≥ 1",
         "A2_ID79": "x ≤ 0 ou x ≥ 1",
         "A3_ID79": "0 < x ≤ 1",

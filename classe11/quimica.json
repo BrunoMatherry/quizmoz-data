@@ -524,7 +524,7 @@
         "A0_ID74": "Dois eletrões não podem ter os mesmos quatro números quânticos.",
         "A1_ID74": "É impossível conhecer simultaneamente, com exatidão, a posição e a quantidade de movimento (ou velocidade) de uma partícula como o eletrão.",
         "A2_ID74": "Os eletrões ocupam as orbitais de menor energia primeiro.",
-        "A3_ID74": "A energia do electrão é quantizada, podendo conhecer-se ao mesmo tempo, com exactidão, a sua posição e a quantidade de movimento linear.",
+        "A3_ID74": "A energia do electrão é quantizada, podendo conhecer-se ao mesmo tempo, com exactidão, o sítio onde se encontra e o seu momento linear.",
         "S_ID74": 1,
         "txtS_ID74": "O PRINCÍPIO DA INCERTEZA DE HEISENBERG é um conceito fundamental da mecânica quântica. Estabelece um limite fundamental à precisão com que podemos medir simultaneamente pares de propriedades complementares, como a POSIÇÃO e a QUANTIDADE DE MOVIMENTO (massa x velocidade) de uma partícula subatómica.",
         "Q_ID75": "Quantos eletrões no máximo pode conter o nível de energia N (n=4) de um átomo?",

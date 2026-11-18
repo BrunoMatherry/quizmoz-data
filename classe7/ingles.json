@@ -706,7 +706,7 @@
         "Q_ID100": "Para onde vão as pessoas na imagem?",
         "A0_ID100": "They are going to the beach",
         "A1_ID100": "They are going to visit Cahora Bassa dam",
-        "A2_ID100": "They are going to visit a local museum",
+        "A2_ID100": "They will spend the day at a local museum.",
         "A3_ID100": "They are going to school",
         "S_ID100": 1,
         "txtS_ID100": "O texto diz: 'They are going to visit Cahora Bassa dam' (Eles vão visitar a barragem de Cahora Bassa).",

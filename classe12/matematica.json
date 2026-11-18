@@ -144,7 +144,7 @@
         "txtS_ID19": "Correto. Acontecimentos disjuntos não podem ocorrer ao mesmo tempo. A sua intersecção é o conjunto vazio, representando um acontecimento impossível. Exemplo: No lançamento de um dado, 'sair 4' e 'sair número ímpar' são disjuntos.",
         "Q_ID20": "Qual é a propriedade para a probabilidade da união de dois acontecimentos quaisquer A e B?",
         "A0_ID20": "P(A ∪ B) = P(A) + P(B) - P(A ∩ B)",
-        "A1_ID20": "P(A ∪ B) = P(A) · P(B) + 1 (falso)",
+        "A1_ID20": "A probabilidade da união é sempre igual a um, independentemente de os acontecimentos se intersectarem.",
         "A2_ID20": "P(A ∪ B) = P(A) + P(B)",
         "A3_ID20": "P(A ∪ B) = 1 - P(A ∩ B)",
         "S_ID20": 0,
