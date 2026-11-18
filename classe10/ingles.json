@@ -575,7 +575,7 @@
         "A0_ID71": "compartilhando uma fronteira comum",
         "A1_ID71": "espalhando como uma doença",
         "A2_ID71": "dependente",
-        "A3_ID71": "Separado, o que se observaria aqui",
+        "A3_ID71": "Significa estar separado, sem qualquer fronteira ou limite em comum com o território vizinho.",
         "S_ID71": 0,
         "txtS_ID71": "'Contiguous' significa 'contíguo', que partilha uma fronteira comum.",
 
@@ -828,7 +828,7 @@
         "txtS_ID102": "Becky sentia-se preocupada e tímida porque não conhecia ninguém.",
 
         "Q_ID103": "O que Becky está a fazer na disciplina de geografia?",
-        "A0_ID103": "Um exame, de forma habitual",
+        "A0_ID103": "Um exame escrito sobre capitais e rios, marcado para o fim do período lectivo.",
         "A1_ID103": "um projeto sobre o ambiente",
         "A2_ID103": "uma apresentação",
         "A3_ID103": "um trabalho de grupo",
@@ -839,7 +839,7 @@
         "A0_ID104": "um clube de futebol",
         "A1_ID104": "um lugar onde se fazem actividades extracurriculares",
         "A2_ID104": "uma aula de reforço",
-        "A3_ID104": "Uma biblioteca, em qualquer caso, em toda a extensão",
+        "A3_ID104": "Uma biblioteca silenciosa, usada apenas para consultar livros e fazer trabalhos de pesquisa.",
         "S_ID104": 1,
         "txtS_ID104": "O 'after-school club' é um clube depois das aulas com actividades como desporto ou atividades criativas.",
 
@@ -847,7 +847,7 @@
         "A0_ID105": "porque ele é muito simpático",
         "A1_ID105": "porque ele é muito mal-humorado e dá muitos trabalhos de casa",
         "A2_ID105": "porque ele nunca aparece às aulas",
-        "A3_ID105": "Porque ele é novo na escola, o que ocorreria em qualquer caso",
+        "A3_ID105": "Porque ele é novo na escola e ainda não conhece os alunos nem o programa da disciplina.",
         "S_ID105": 1,
         "txtS_ID105": "Becky não gosta do Sr. Brown porque ele é muito mal-humorado e dá muitos trabalhos de casa.",
 
@@ -959,7 +959,7 @@
         "A0_ID119": "uma grande área plana com árvores",
         "A1_ID119": "uma grande área plana com apenas plantas baixas, em regiões frias",
         "A2_ID119": "uma floresta tropical",
-        "A3_ID119": "Um deserto arenoso, em toda a sua extensão, com este entendimento",
+        "A3_ID119": "Um deserto arenoso e muito quente, com dunas altas e quase nenhuma vegetação à superfície.",
         "S_ID119": 1,
         "txtS_ID119": "Tundra é uma grande área plana com apenas plantas baixas, encontrada em regiões muito frias.",
 
@@ -967,7 +967,7 @@
         "A0_ID120": "uma grande área plana com relva mas sem árvores",
         "A1_ID120": "uma floresta densa",
         "A2_ID120": "uma montanha nevada",
-        "A3_ID120": "Um oceano, em qualquer caso, em toda a extensão",
+        "A3_ID120": "Um oceano aberto, profundo e salgado, sem relva e sem qualquer extensão de terra firme.",
         "S_ID120": 0,
         "txtS_ID120": "Steppe é uma grande área plana com relva mas sem árvores, que recebe pouca chuva anualmente."
     }
