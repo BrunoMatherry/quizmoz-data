@@ -87,7 +87,7 @@
         "A0_ID10": "Dependência financeira do governo",
         "A1_ID10": "Tornar-se financeiramente independente, investindo no próprio negócio",
         "A2_ID10": "Trabalhar sempre para outros",
-        "A3_ID10": "Evitar responsabilidades, na acepção corrente, em toda a sua extensão",
+        "A3_ID10": "Evitar responsabilidades como única causa e mais nenhum outro factor.",
         "S_ID10": 1,
         "txtS_ID10": "O empresário torna-se financeiramente independente, pois investe e trabalha para a sua própria empresa, o que lhe permite ganhar dinheiro para si mesmo e para a sua família.",
 
@@ -110,7 +110,7 @@
         "Q_ID13": "Qual atitude ajuda a superar falsos juízos sobre negócios?",
         "A0_ID13": "Desenvolver auto-confiança e utilizar bons procedimentos empresariais",
         "A1_ID13": "Acreditar que negócio é apenas um passa-tempo",
-        "A2_ID13": "Evitar formação empresarial, na abordagem usual, por esta via simples",
+        "A2_ID13": "Evitar formação empresarial, e nada além deste único elemento apontado",
         "A3_ID13": "Isolar-se de outros empresários",
         "S_ID13": 0,
         "txtS_ID13": "Desenvolver auto-confiança e utilizar bons procedimentos empresariais na gestão do negócio é fundamental para superar os falsos juízos e ter sucesso como empreendedor.",
@@ -359,7 +359,7 @@
         "A0_ID44": "Limitam as opções disponíveis",
         "A1_ID44": "Aumentam a flexibilidade e resposta perante novas circunstâncias",
         "A2_ID44": "Reduzem a capacidade de adaptação",
-        "A3_ID44": "Criam rigidez no pensamento, como factor único, na leitura usual",
+        "A3_ID44": "Criam rigidez no pensamento, como descrição completa do fenómeno",
         "S_ID44": 1,
         "txtS_ID44": "A criatividade e a inovação aumentam a flexibilidade e a resposta da pessoa perante novas circunstâncias, especialmente quando se trata de ideias ou projectos.",
 
@@ -415,7 +415,7 @@
         "A0_ID51": "O rendimento não tem relação com o consumo",
         "A1_ID51": "Se o rendimento aumenta, a pessoa pode consumir produtos que antes não podia; se diminui, pode limitar-se ao básico",
         "A2_ID51": "O consumo é sempre igual independentemente do rendimento",
-        "A3_ID51": "Apenas o rendimento alto permite poupança, o que levaria sempre ao mesmo desfecho nas condições do enunciado",
+        "A3_ID51": "Apenas o rendimento alto permite poupança independentemente de outros factores de forma isolada e sem outros elementos",
         "S_ID51": 1,
         "txtS_ID51": "Quando o rendimento muda, o padrão de consumo também muda. Se aumentar, pode consumir mais e melhores produtos. Se diminuir, pode limitar-se às necessidades básicas.",
 
@@ -478,7 +478,7 @@
         "Q_ID59": "O que é um plano de poupança?",
         "A0_ID59": "Gastar todo o dinheiro sem planeamento",
         "A1_ID59": "Decidir quanto guardar diária, mensal ou anualmente, com base nos rendimentos e objectivos futuros",
-        "A2_ID59": "Apenas abrir uma conta bancária, o que levaria sempre ao mesmo desfecho nas condições do enunciado",
+        "A2_ID59": "Apenas abrir uma conta bancária considerado suficiente por si só como descrição completa do fenómeno.",
         "A3_ID59": "Guardar dinheiro sem objectivo definido",
         "S_ID59": 1,
         "txtS_ID59": "Fazer um plano de poupança requer que, com base nos rendimentos actuais ou futuros, a pessoa possa definir quanto deve guardar diariamente, mensalmente ou anualmente, dependendo dos intervalos de rendimento.",
@@ -892,7 +892,7 @@
         "txtS_ID110": "Cumprir contratos significa colocar alta prioridade em ter o trabalho concluído dentro do prazo, fazendo sacrifício pessoal, trabalhando horas extras ou procurando apoio para honrar compromissos.",
 
         "Q_ID111": "O que significa 'persistência' na prática empreendedora?",
-        "A0_ID111": "Desistir ao primeiro obstáculo, o que levaria sempre ao mesmo desfecho nas condições do enunciado",
+        "A0_ID111": "Desistir ao primeiro obstáculo independentemente de outros factores como hipótese exclusiva e suficiente.",
         "A1_ID111": "Desenvolver acções repetidas para vencer obstáculos, nunca desistindo por causa de primeiros fracassos",
         "A2_ID111": "Mudar constantemente de projecto",
         "A3_ID111": "Esperar que os problemas se resolvam sozinhos",

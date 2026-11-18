@@ -35,7 +35,7 @@
     "txtS_ID3": "A Formação do Karoo é uma unidade estratigráfica chave na África Austral, formada em condições continentais, sendo mundialmente reconhecida pelos seus importantes depósitos de carvão mineral.",
 
     "Q_ID4": "Em que província moçambicana se situa o Arquipélago das Quirimbas?",
-    "A0_ID4": "Nampula comum",
+    "A0_ID4": "Nampula puro",
     "A1_ID4": "Cabo Delgado",
     "A2_ID4": "Zambézia",
     "A3_ID4": "Inhambane",
@@ -173,7 +173,7 @@
     "Q_ID21": "Qual foi a causa da crise agrícola pós-independência?",
     "A0_ID21": "Mudanças climáticas abruptas.",
     "A1_ID21": "Saída massiva dos proprietários coloniais com capitais e técnica.",
-    "A2_ID21": "Proibição da exportação, com carácter geral, na acepção corrente.",
+    "A2_ID21": "Proibição da exportação e nada além deste único elemento apontado",
     "A3_ID21": "Conversão de terras em áreas urbanas.",
     "S_ID21": 1,
     "txtS_ID21": "O êxodo de proprietários estrangeiros em 1975 descapitalizou o campo e interrompeu os circuitos de comercialização, impactando a produção nacional.",
@@ -429,7 +429,7 @@
     "Q_ID53": "Canal de Moçambique separa?",
     "A0_ID53": "Moçambique e Madagáscar.",
     "A1_ID53": "Rio Zambeze.",
-    "A2_ID53": "Irrigação, do enunciado.",
+    "A2_ID53": "Irrigação na totalidade.",
     "A3_ID53": "Vale fluvial.",
     "S_ID53": 0,
     "txtS_ID53": "O Canal é uma importante rota de navegação mundial, situada entre a costa africana e a ilha de Madagáscar.",
@@ -446,7 +446,7 @@
     "A0_ID55": "Turismo (Terciário).",
     "A1_ID55": "Agricultura.",
     "A2_ID55": "Pecuária.",
-    "A3_ID55": "Pesca, do enunciado.",
+    "A3_ID55": "Pesca ao mesmo tempo",
     "S_ID55": 0,
     "txtS_ID55": "Setor terciário é sinónimo de serviços. Turismo, educação e comércio não produzem matéria-prima nem transformam, mas prestam um serviço à sociedade.",
 
@@ -550,7 +550,7 @@
     "A0_ID68": "Turismo estrangeiro que entra.",
     "A1_ID68": "Nacionais que saem.",
     "A2_ID68": "Turismo de lazer.",
-    "A3_ID68": "Turistas locais, do enunciado.",
+    "A3_ID68": "Turistas locais ao mesmo tempo",
     "S_ID68": 0,
     "txtS_ID68": "Receptivo é quem acolhe; é o visitante internacional que consome serviços nacionais.",
 
@@ -764,7 +764,7 @@
 
     "Q_ID95": "AGRICOM?",
     "A0_ID95": "Comércio.",
-    "A1_ID95": "CFM comum.",
+    "A1_ID95": "Apenas CFM",
     "A2_ID95": "EMOSE.",
     "A3_ID95": "TDM.",
     "S_ID95": 0,
