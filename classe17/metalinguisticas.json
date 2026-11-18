@@ -4,7 +4,7 @@
         "questionCount": 60,
 
         "Q_ID0": "Em um aquário tem 10 peixes, 5 morreram afogados. Quantos sobraram?",
-        "A0_ID0": "5, neste caso, em regra",
+        "A0_ID0": "Cinco peixes, porque a outra metade morreu afogada",
         "A1_ID0": "10",
         "A2_ID0": "0",
         "A3_ID0": "Peixe não morre afogado",
@@ -164,7 +164,7 @@
         "txtS_ID19": "A resposta é 'Lima'. 'Lima' é um fruto cítrico e também capital do Peru. 'Pende nos galhos' refere-se ao fruto.",
 
         "Q_ID20": "Por que o louco toma banho com o chuveiro desligado?",
-        "A0_ID20": "Porque é econômico, o que se observaria aqui",
+        "A0_ID20": "Porque assim poupa água e gasta menos no fim do mês",
         "A1_ID20": "Porque comprou xampu para cabelos secos",
         "A2_ID20": "Porque esqueceu de ligar",
         "A3_ID20": "Porque gosta de água fria",
@@ -252,7 +252,7 @@
         "txtS_ID30": "A resposta é 'porque os parentes lotam o cemitério'. Trocadilho com 'parentes' (familiares) e 'parentes' (parentes do elefante? na verdade, é uma piada sem lógica aparente).",
 
         "Q_ID31": "Duas pulgas decidiram passear. O que uma perguntou a outra?",
-        "A0_ID31": "Vamos de carro?, de forma habitual",
+        "A0_ID31": "Vamos de carro, que é mais rápido do que ir a pé?",
         "A1_ID31": "Vamos a pé ou tomamos um cachorro?",
         "A2_ID31": "Vamos de ônibus?",
         "A3_ID31": "Para onde vamos?",
@@ -436,7 +436,7 @@
         "txtS_ID53": "A resposta é 'ovo'. A casca do ovo é como uma casinha sem tranca e sem janela.",
 
         "Q_ID54": "O que é, o que é? O cinema estava cheio de cimento, qual o nome do filme?",
-        "A0_ID54": "Cimento Armado, como base do processo",
+        "A0_ID54": "Cimento Armado, um filme de acção rodado na obra",
         "A1_ID54": "Nenhum, o cinema estava em construção",
         "A2_ID54": "A Bruxa de Cimento",
         "A3_ID54": "Cimento Sangrento",
