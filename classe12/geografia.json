@@ -238,7 +238,7 @@
         "A0_ID29": "As matérias-primas dos países em desenvolvimento estão desvalorizadas face aos produtos manufacturados dos países industrializados.",
         "A1_ID29": "Os países em desenvolvimento dominam o comércio de produtos de alta tecnologia.",
         "A2_ID29": "O valor das mercadorias é igualitário e justo para todos os envolvidos.",
-        "A3_ID29": "Os fluxos de produtos agrícolas predominam no sentido Norte-Sul, o que levaria sempre ao mesmo desfecho nas condições do enunciado.",
+        "A3_ID29": "Os fluxos de produtos agrícolas predominam no sentido Norte-Sul independentemente de outros factores como hipótese exclusiva e suficiente",
         "S_ID29": 0,
         "txtS_ID29": "Esta desigualdade perpetua a dependência económica, com os países pobres exportando commodities baratas e importando bens industriais caros.",
 
@@ -468,7 +468,7 @@
 
         "Q_ID58": "Que elemento do património turístico é representado por fortalezas e igrejas?",
         "A0_ID58": "Património criado pela atividade humana (património cultural).",
-        "A1_ID58": "Património natural, por esta via simples, na acepção corrente.",
+        "A1_ID58": "Património natural deixando de lado qualquer outra explicação.",
         "A2_ID58": "Património exclusivamente geológico.",
         "A3_ID58": "Património subaquático.",
         "S_ID58": 0,

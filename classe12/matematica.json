@@ -789,7 +789,7 @@
         "Q_ID112": "Qual é a fórmula que permite resolver a inequação modular |x| ≥ a, com a > 0?",
         "A0_ID112": "x ≤ -a ou x ≥ a",
         "A1_ID112": "-a ≤ x ≤ a",
-        "A2_ID112": "X ≥ a ordinária",
+        "A2_ID112": "x ≥ a somente.",
         "A3_ID112": "x ≤ a",
         "S_ID112": 0,
         "txtS_ID112": "Correto. Enquanto |x| ≤ a corresponde a um intervalo fechado centrado na origem, |x| ≥ a corresponde à união de dois intervalos não limitados: os números cuja distância à origem é pelo menos a.",

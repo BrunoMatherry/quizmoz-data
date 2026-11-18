@@ -263,7 +263,7 @@
         "A0_ID32": "oportunidade",
         "A1_ID32": "problema",
         "A2_ID32": "solução",
-        "A3_ID32": "Dúvida comum",
+        "A3_ID32": "dúvida apenas.",
         "S_ID32": 0,
         "txtS_ID32": "'Opportunity' significa 'oportunidade' ou 'chance' de fazer algo.",
         
@@ -367,7 +367,7 @@
         "A0_ID45": "should",
         "A1_ID45": "must",
         "A2_ID45": "shouldn't",
-        "A3_ID45": "Can comum",
+        "A3_ID45": "can puro",
         "S_ID45": 2,
         "txtS_ID45": "'Shouldn't' é a forma negativa de 'should', usada para dar conselho negativo: 'não deves'.",
         
@@ -455,7 +455,7 @@
         "A0_ID56": "hired",
         "A1_ID56": "unemployed",
         "A2_ID56": "working",
-        "A3_ID56": "Busy comum",
+        "A3_ID56": "busy somente",
         "S_ID56": 1,
         "txtS_ID56": "O antónimo de 'employed' (empregado) é 'unemployed' (desempregado).",
         
@@ -957,7 +957,7 @@
         
         "Q_ID119": "O que significa 'to be over the moon'?",
         "A0_ID119": "estar muito feliz",
-        "A1_ID119": "Estar triste comum",
+        "A1_ID119": "Apenas estar triste",
         "A2_ID119": "estar cansado",
         "A3_ID119": "estar zangado",
         "S_ID119": 0,

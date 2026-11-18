@@ -78,7 +78,7 @@
     "A0_ID9": "Um corpo que reflete toda a radiação incidente.",
     "A1_ID9": "Um corpo que emite apenas luz visível.",
     "A2_ID9": "Um corpo hipotético que absorve toda a radiação incidente e emite em todos os comprimentos de onda.",
-    "A3_ID9": "Um corpo à temperatura ambiente, o que levaria sempre ao mesmo desfecho nas condições do enunciado.",
+    "A3_ID9": "Um corpo à temperatura ambiente considerado suficiente por si só como hipótese exclusiva e suficiente.",
     "S_ID9": 2,
     "txtS_ID9": "Corpo negro é um corpo hipotético que emite ou absorve radiação electromagnética em todos os comprimentos de onda de forma que toda a radiação incidente é completamente absorvida.",
 
