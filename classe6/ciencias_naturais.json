@@ -21,7 +21,7 @@
         "Q_ID2": "Em que tipo de reprodução as plantas geram novas plantas a partir de partes como caule, folha ou raiz?",
         "A0_ID2": "Reprodução sexuada",
         "A1_ID2": "Polinização cruzada",
-        "A2_ID2": "A germinação da semente, quando a planta nova sai do embrião e não de um caule ou de uma folha.",
+        "A2_ID2": "A germinação da semente, quando a planta nova sai do embrião.",
         "A3_ID2": "Reprodução assexuada ou multiplicação vegetativa",
         "S_ID2": 3,
         "txtS_ID2": "Na reprodução assexuada, uma nova planta surge a partir de uma parte constituinte, como caule, folha ou raiz.",
@@ -44,7 +44,7 @@
 
         "Q_ID5": "Que tipo de cobertura corporal protege animais como a barata e o camarão?",
         "A0_ID5": "Pele mole",
-        "A1_ID5": "As penas, que cobrem as aves e as ajudam a voar, e não uma carapaça rígida.",
+        "A1_ID5": "As penas, que cobrem as aves e as ajudam a voar.",
         "A2_ID5": "Exoesqueleto ou carapaça",
         "A3_ID5": "Escamas lisas",
         "S_ID5": 2,
@@ -140,7 +140,7 @@
 
         "Q_ID17": "Que entidade é referida como dedicada ao combate de incêndios em Moçambique?",
         "A0_ID17": "Exército",
-        "A1_ID17": "A polícia, encarregada de prender criminosos e não de combater incêndios no país.",
+        "A1_ID17": "A polícia, encarregada de prender criminosos.",
         "A2_ID17": "Corpo de Salvação Pública (bombeiros)",
         "A3_ID17": "Protecção Civil Municipal",
         "S_ID17": 2,
@@ -238,7 +238,7 @@
         "A0_ID29": "Apenas produção de hormonas",
         "A1_ID29": "Garantir a sobrevivência da espécie através da reprodução",
         "A2_ID29": "Exclusivamente eliminar excretas",
-        "A3_ID29": "Produzir sons da fala e do canto, função do aparelho fonador e não do reprodutor.",
+        "A3_ID29": "Produzir sons da fala e do canto, função do aparelho fonador.",
         "S_ID29": 1,
         "txtS_ID29": "Os aparelhos reprodutores garantem a sobrevivência da espécie humana através da reprodução, gerando novos seres.",
 
@@ -389,7 +389,7 @@
         "Q_ID48": "O que é o som?",
         "A0_ID48": "Uma forma de luz",
         "A1_ID48": "Uma energia captada pelo sentido da audição, que se propaga em meios materiais",
-        "A2_ID48": "Um cheiro captado pelo olfacto no nariz, e não uma energia que se ouve.",
+        "A2_ID48": "Um cheiro captado pelo olfacto no nariz, como o aroma do pão quente ou de uma flor.",
         "A3_ID48": "Uma sensação táctil",
         "S_ID48": 1,
         "txtS_ID48": "O som é uma vibração captada pelo ouvido, que se propaga através de meios materiais como sólidos, líquidos e gases.",
@@ -428,7 +428,7 @@
 
         "Q_ID53": "O que é uma roldana?",
         "A0_ID53": "Um tipo de alavanca",
-        "A1_ID53": "Um plano inclinado, rampa usada para subir cargas, e não uma roda com sulco e corda.",
+        "A1_ID53": "Um plano inclinado, rampa usada para subir cargas pesadas em obras e armazéns.",
         "A2_ID53": "Uma roda com um sulco por onde passa uma corda, usada para levantar cargas",
         "A3_ID53": "Uma ferramenta para cortar",
         "S_ID53": 2,
@@ -486,7 +486,7 @@
         "A0_ID60": "Doença transmitida pelo ar",
         "A1_ID60": "Doença causada por um micróbio que entra pela pele em água contaminada",
         "A2_ID60": "Doença causada por falta de vitaminas",
-        "A3_ID60": "Uma doença respiratória, como a tuberculose, transmitida pela tosse e não pela pele na água.",
+        "A3_ID60": "Uma doença respiratória, como a tuberculose, transmitida pela tosse.",
         "S_ID60": 1,
         "txtS_ID60": "A bilharzose é causada pelo parasita Schistosoma, que penetra na pele de pessoas que entram em contacto com água doce contaminada.",
 
@@ -542,7 +542,7 @@
         "A0_ID67": "Oxigénio",
         "A1_ID67": "Resíduos de esgotos industriais",
         "A2_ID67": "Água da chuva",
-        "A3_ID67": "A areia dos rios, um material natural arrastado pela corrente e não um efluente de fábricas.",
+        "A3_ID67": "A areia dos rios, um material natural arrastado pela corrente.",
         "S_ID67": 1,
         "txtS_ID67": "Os resíduos líquidos de fábricas e indústrias, muitas vezes contendo químicos tóxicos, são grandes poluentes dos cursos de água.",
 
@@ -805,7 +805,7 @@
         "Q_ID100": "Para que serve a energia eléctrica no sector da saúde?",
         "A0_ID100": "Apenas para iluminar os corredores",
         "A1_ID100": "Para conservar medicamentos (ex: frigoríficos) e operar equipamentos médicos",
-        "A2_ID100": "Para fazer churrascos nos hospitais, e não para conservar medicamentos nem operar aparelhos.",
+        "A2_ID100": "Para fazer churrascos nos hospitais, nas cozinhas das enfermarias e nos pátios de espera.",
         "A3_ID100": "Para substituir os médicos",
         "S_ID100": 1,
         "txtS_ID100": "A electricidade é crucial nos serviços de saúde para refrigeração de vacinas e medicamentos, funcionamento de equipamentos de diagnóstico e intervenção, e iluminação.",
@@ -862,7 +862,7 @@
         "A0_ID107": "Proteger contra insectos",
         "A1_ID107": "Ser a futura planta (embrião)",
         "A2_ID107": "Fornecer reservas alimentares para a germinação",
-        "A3_ID107": "Fixar a semente ao solo, como faria uma raiz, e não fornecer reservas para a germinação.",
+        "A3_ID107": "Fixar a semente ao solo, como faria uma raiz.",
         "S_ID107": 2,
         "txtS_ID107": "O endosperma é um tecido nutritivo dentro da semente que fornece energia (amido, óleos, proteínas) para o embrião durante a germinação e crescimento inicial.",
 
@@ -894,7 +894,7 @@
         "A0_ID111": "Se é forte ou fraco",
         "A1_ID111": "Se é agudo (alto) ou grave (baixo)",
         "A2_ID111": "Quanto tempo dura",
-        "A3_ID111": "A origem do som, isto é, o sítio de onde ele parte, e não se é agudo ou grave.",
+        "A3_ID111": "A origem do som, isto é, o sítio de onde ele parte.",
         "S_ID111": 1,
         "txtS_ID111": "A altura (ou tom) do som está relacionada com a sua frequência. Sons de alta frequência são agudos (ex: apito), sons de baixa frequência são graves (ex: tambor).",
 
@@ -931,7 +931,7 @@
         "txtS_ID115": "Descargas atmosféricas (raios) podem induzir sobrecargas eléctricas na rede, danificando aparelhos. É prudente desligá-los das tomadas.",
 
         "Q_ID116": "Qual a função principal das raízes das árvores na conservação do solo?",
-        "A0_ID116": "Produzir flores e frutos, função dos ramos e não a de prender a terra contra a erosão.",
+        "A0_ID116": "Produzir flores e frutos, função dos ramos e das gemas da copa da árvore.",
         "A1_ID116": "Proteger o solo da erosão (arrasto pela água e vento)",
         "A2_ID116": "Aumentar a temperatura do solo",
         "A3_ID116": "Libertar dióxido de carbono",
