@@ -7,7 +7,7 @@
         "A0_ID0": "Uma coleção de objetos com uma propriedade comum.",
         "A1_ID0": "Um grupo de números naturais.",
         "A2_ID0": "Uma linha de pontos no plano.",
-        "A3_ID0": "Não é verdade que uma coleção de objetos com uma propriedade comum.",
+        "A3_ID0": "Uma operação matemática, na hipótese considerada.",
         "S_ID0": 0,
         "txtS_ID0": "Um conjunto é definido como qualquer coleção de objetos que apresentam uma propriedade comum. Os elementos podem ser números, letras, pessoas, animais, etc.",
 
@@ -95,7 +95,7 @@
         "A0_ID11": "Comutativa da adição",
         "A1_ID11": "Associativa da multiplicação",
         "A2_ID11": "Distributiva da multiplicação em relação à adição",
-        "A3_ID11": "Não é verdade que distributiva da multiplicação em relação à adição",
+        "A3_ID11": "Elemento neutro, o que se repetiria em cada etapa",
         "S_ID11": 2,
         "txtS_ID11": "Esta é a propriedade distributiva da multiplicação em relação à adição. Ela permite 'distribuir' o fator 'a' pelos termos da soma (b + c).",
 
@@ -188,7 +188,7 @@
         "txtS_ID22": "Frações equivalentes representam a mesma quantidade. 1/3, 2/6 e 3/9 são equivalentes, pois podem ser obtidas umas das outras por ampliação ou simplificação.",
 
         "Q_ID23": "Uma fração decimal tem como denominador:",
-        "A0_ID23": "Uma potência de base 20",
+        "A0_ID23": "Qualquer número natural",
         "A1_ID23": "Apenas o número 1",
         "A2_ID23": "Uma potência de base 10",
         "A3_ID23": "Um número primo",
@@ -220,7 +220,7 @@
         "txtS_ID26": "O símbolo '⊥' significa 'é perpendicular a'. Indica que duas retas se cruzam formando quatro ângulos retos (90°).",
 
         "Q_ID27": "Uma parte da reta limitada por dois pontos é um:",
-        "A0_ID27": "Não é isto: segmento de reta",
+        "A0_ID27": "Plano (indicado)",
         "A1_ID27": "Segmento de reta",
         "A2_ID27": "Semi-reta",
         "A3_ID27": "Ângulo",
@@ -285,7 +285,7 @@
 
         "Q_ID35": "As faces laterais de um prisma são sempre:",
         "A0_ID35": "Triângulos",
-        "A1_ID35": "Não é isto: paralelogramos",
+        "A1_ID35": "Círculos comuns",
         "A2_ID35": "Paralelogramos",
         "A3_ID35": "Trapézios",
         "S_ID35": 2,
@@ -348,7 +348,7 @@
         "txtS_ID42": "O comprimento C de uma circunferência (perímetro do círculo) é dado por C = 2 × π × r, onde r é o raio. π é a constante que representa a razão entre o comprimento da circunferência e seu diâmetro.",
 
         "Q_ID43": "A área é a medida:",
-        "A0_ID43": "Não é verdade que da superfície ocupada por uma figura bidimensional",
+        "A0_ID43": "Do comprimento de um lado, na hipótese considerada",
         "A1_ID43": "Da superfície ocupada por uma figura bidimensional",
         "A2_ID43": "Do espaço ocupado por um sólido",
         "A3_ID43": "Da capacidade de um recipiente",
@@ -383,7 +383,7 @@
         "A0_ID47": "O comprimento de uma aresta",
         "A1_ID47": "A superfície de uma face",
         "A2_ID47": "O espaço ocupado por um sólido tridimensional",
-        "A3_ID47": "O espaço ocupado por um líquido tridimensional",
+        "A3_ID47": "O perímetro da base, o que se observaria aqui",
         "S_ID47": 2,
         "txtS_ID47": "Volume é a medida do espaço ocupado por um objeto tridimensional (sólido). Indica quantas unidades cúbicas cabem dentro do sólido.",
 
@@ -462,7 +462,7 @@
         "Q_ID57": "O número de vezes que um determinado valor de uma variável se repete numa amostra é a sua:",
         "A0_ID57": "Média",
         "A1_ID57": "Frequência absoluta",
-        "A2_ID57": "Não é isto: frequência absoluta",
+        "A2_ID57": "A moda estatística",
         "A3_ID57": "Mediana",
         "S_ID57": 1,
         "txtS_ID57": "Frequência absoluta é a contagem simples de quantas vezes cada valor (ou categoria) da variável aparece no conjunto de dados coletados.",
@@ -517,7 +517,7 @@
 
         "Q_ID64": "No sistema decimal, o valor de um algarismo depende:",
         "A0_ID64": "Apenas do seu formato",
-        "A1_ID64": "Não é isto: da posição (ordem) que ocupa no número",
+        "A1_ID64": "Da sua cor, o que teria o mesmo efeito",
         "A2_ID64": "Da posição (ordem) que ocupa no número",
         "A3_ID64": "Do tamanho com que é escrito",
         "S_ID64": 2,
@@ -533,7 +533,7 @@
 
         "Q_ID66": "Para comparar números decimais de ordens diferentes, como 1,2 e 12,18, um procedimento eficaz é:",
         "A0_ID66": "Ignorar a vírgula e comparar os números naturais correspondentes",
-        "A1_ID66": "Não é verdade que ignorar a vírgula e comparar os números naturais correspondentes",
+        "A1_ID66": "Somar os dois números e ver simplesmente qual deles é o maior.",
         "A2_ID66": "Transformá-los em frações com denominadores diferentes",
         "A3_ID66": "Subtrair um do outro e ver o sinal do resultado",
         "S_ID66": 0,
@@ -566,7 +566,7 @@
         "Q_ID70": "Qual é o próximo passo após dividir o numerador pelo denominador para transformar uma fração imprópria em mista?",
         "A0_ID70": "Multiplicar o resto pelo denominador",
         "A1_ID70": "Escrever o quociente como parte inteira e o resto sobre o denominador",
-        "A2_ID70": "Não é verdade que escrever o quociente como parte inteira e o resto sobre o denominador",
+        "A2_ID70": "Somar o quociente ao numerador, no conjunto da situação descrita",
         "A3_ID70": "Dividir o denominador pelo resto",
         "S_ID70": 1,
         "txtS_ID70": "Dada uma fração imprópria D/d, divide-se D por d, obtendo quociente Q e resto R. A fração mista correspondente é Q R/d (lê-se 'Q inteiros e R d-avos').",
@@ -575,12 +575,12 @@
         "A0_ID71": "Multiplicar os numeradores e os denominadores: (4×3)/(5×7)",
         "A1_ID71": "Subtrair os numeradores e os denominadores: (4-3)/(5-7)",
         "A2_ID71": "Multiplicar a primeira fração pelo recíproco da segunda: (4/5) × (7/3)",
-        "A3_ID71": "Multiplicar a primeira fração pelo recíproco da segunda: (1/9) × (3/8)",
+        "A3_ID71": "Dividir os numeradores e os denominadores: (4:3)/(5:7), o que se observaria aqui",
         "S_ID71": 2,
         "txtS_ID71": "A divisão de frações é realizada multiplicando a primeira fração pelo inverso (ou recíproco) da segunda fração. O recíproco de a/b é b/a.",
 
         "Q_ID72": "Três pontos não situados na mesma reta determinam:",
-        "A0_ID72": "Não é isto: um triângulo",
+        "A0_ID72": "Uma reta comum",
         "A1_ID72": "Um plano",
         "A2_ID72": "Um triângulo",
         "A3_ID72": "Um ângulo",
@@ -631,7 +631,7 @@
         "A0_ID78": "Somar todos os valores da coluna de frequência",
         "A1_ID78": "Somar os produtos de cada valor pela sua frequência, e dividir pelo total de dados",
         "A2_ID78": "Identificar o valor com maior frequência",
-        "A3_ID78": "Não é verdade que somar os produtos de cada valor pela sua frequência, e dividir pelo total de dados",
+        "A3_ID78": "Ordenar os valores e pegar o do meio, o que acompanharia todo o processo descrito",
         "S_ID78": 1,
         "txtS_ID78": "Média (para dados agrupados) = (Σ (valor × frequência)) / (Σ frequências). A soma das frequências é o número total de dados (n).",
 
@@ -653,7 +653,7 @@
 
         "Q_ID81": "A representação por compreensão do conjunto dos números pares maiores que 10 pode ser:",
         "A0_ID81": "{2, 4, 6, 8, 10, 12, ...}",
-        "A1_ID81": "{n: n é um número par maior que 20}",
+        "A1_ID81": "{10, 12, 14, 16, 18, 20 e 22.}",
         "A2_ID81": "{n: n é um número par maior que 10}",
         "A3_ID81": "{12, 14, 16, 18, ...}",
         "S_ID81": 2,
@@ -679,7 +679,7 @@
         "Q_ID84": "A sequência correta dos passos para transformar um número decimal em fração decimal é:",
         "A0_ID84": "Escrever o número sem vírgula no denominador; o numerador é 10 elevado ao número de casas decimais.",
         "A1_ID84": "Escrever o número sem vírgula no numerador; o denominador é uma potência de 10 com expoente igual ao número de casas decimais.",
-        "A2_ID84": "Escrever o número sem vírgula no numerador; o denominador é uma potência de 20 com expoente igual ao número de casas decimais.",
+        "A2_ID84": "Colocar 1 no numerador e o número decimal no denominador, o que se aplicaria por igual a todo o período agora considerado.",
         "A3_ID84": "Escrever a parte inteira no numerador e a parte decimal no denominador.",
         "S_ID84": 1,
         "txtS_ID84": "Para converter um decimal em fração decimal: 1) Numerador: o número sem a vírgula. 2) Denominador: 1 seguido de tantos zeros quantas forem as casas decimais (10^n). Ex: 3,4 = 34/10.",
@@ -949,7 +949,7 @@
         "txtS_ID117": "Da direita para a esquerda: unidades, dezenas, centenas (formam a classe das unidades); depois milhares, dezenas de milhar, centenas de milhar (classe dos milhares). A classe imediatamente superior à das unidades é a dos milhares.",
 
         "Q_ID118": "A expressão 'cinco milhares de milhões' corresponde a:",
-        "A0_ID118": "9 10 10 10 na",
+        "A0_ID118": "5 000 natural",
         "A1_ID118": "5 000 000",
         "A2_ID118": "5 000 000 000",
         "A3_ID118": "500 000",
@@ -960,7 +960,7 @@
         "A0_ID119": "Os alunos da tua escola neste ano.",
         "A1_ID119": "Os resultados em sucessivos lançamentos de um dado.",
         "A2_ID119": "Os habitantes de Maputo no último censo.",
-        "A3_ID119": "Não é verdade que os resultados em sucessivos lançamentos de um dado.",
+        "A3_ID119": "Os livros da biblioteca da sala, o que se observaria aqui.",
         "S_ID119": 1,
         "txtS_ID119": "Uma população infinita é aquela em que o fenômeno pode ocorrer sucessivamente um número ilimitado de vezes, como lançar um dado infinitas vezes. É um conceito teórico."
     }
