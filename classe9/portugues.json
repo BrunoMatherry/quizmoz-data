@@ -24,7 +24,7 @@
         "A2_ID3": "Porque ritmos constantes e suaves ajudam a bloquear distrações externas e estimulam o foco cognitivo.",
         "A3_ID3": "Porque a música reduz o oxigénio no cérebro, induzindo um estado de relaxamento profundo e sono.",
         "S_ID3": 2,
-        "txtS_ID3": "Músicas com ritmos calmos e sem letras (como música clássica, lo-fi ou sons da natureza) ajudam a atenuar ruídos de fundo e reduzem a ansiedade, otimizando a atenção e o foco do cérebro."
+        "txtS_ID3": "Músicas com ritmos calmos e sem letras (como música clássica, lo-fi ou sons da natureza) ajudam a atenuar ruídos de fundo e reduzem a ansiedade, otimizando a atenção e o foco do cérebro.",
         "Q_ID4": "Qual é a estrutura padrão e típica de uma Declaração oficial escrita?",
         "A0_ID4": "Título, identificação das personagens, enredo ficcional e desfecho.",
         "A1_ID4": "Preâmbulo (identificação), corpo do texto (artigos/alíneas) e fecho (local, data e assinatura).",
@@ -581,7 +581,7 @@
         "Q_ID83": "Ao transpor a frase em discurso direto 'O diretor afirmou: \"Amanhã irei analisar este caso.\"' para o DISCURSO INDIRETO, a forma gramatical correta será:",
         "A0_ID83": "O diretor afirmou que no dia seguinte iria analisar aquele caso.",
         "A1_ID83": "O diretor afirmou que amanhã irei analisar este caso.",
-        "O diretor afirmou: Amanhã vou analisar este caso.",
+        "A2_ID83": "O diretor afirmou: Amanhã vou analisar este caso.",
         "A3_ID83": "O diretor afirmou se amanhã analisaria este caso.",
         "S_ID83": 0,
         "txtS_ID83": "A passagem para o discurso indireto exige a fusão da fala na voz do narrador, operando transformações nos pronomes, nos determinantes ('este' para 'aquele'), advérbios ('amanhã' para 'no dia seguinte') e tempos verbais.",

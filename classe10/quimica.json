@@ -787,12 +787,12 @@
     "txtS_ID97": "A rutura das ligações C-C e C-H e a formação de ligações mais estáveis em $CO_2$ e $H_2O$ durante a combustão dos alcanos libertam uma elevada entalpia de combustão, aproveitada como fonte de calor e energia.",
 
     "Q_ID98": "O que indica com precisão o termo 'insaturado' quando aplicado à classificação de um hidrocarboneto?",
-    "A0_ID98": "Que a totalidade das ligações entre os átomos de carbono é do tipo simples sigma ($\sigma$).",
+    "A0_ID98": "Que a totalidade das ligações entre os átomos de carbono é do tipo simples sigma ($\\sigma$).",
     "A1_ID98": "Que a estrutura molecular abriga uma ou mais ligações duplas ou triplas entre átomos de carbono.",
     "A2_ID98": "Que a molécula sofreu a perda total de todos os seus átomos de hidrogénio.",
     "A3_ID98": "Que o composto exibe obrigatoriamente uma topologia de cadeia cíclica saturada.",
     "S_ID98": 1,
-    "txtS_ID98": "Os hidrocarbonetos insaturados contêm ligações pi ($\pi$) instáveis (duplas nos alcenos, triplas nos alcinos), possuindo menor quantidade de hidrogénio do que o teto máximo permitido pela cadeia carbónica.",
+    "txtS_ID98": "Os hidrocarbonetos insaturados contêm ligações pi ($\\pi$) instáveis (duplas nos alcenos, triplas nos alcinos), possuindo menor quantidade de hidrogénio do que o teto máximo permitido pela cadeia carbónica.",
 
     "Q_ID99": "No âmbito da classificação dos álcoois, o que caracteriza estruturalmente um 'álcool polihídrico' (ou poliálcool)?",
     "A0_ID99": "Um composto cuja estrutura aloja múltiplos anéis aromáticos benzénicos condensados.",
@@ -898,7 +898,7 @@
     "S_ID111": 0,
     "txtS_ID111": "A glicerina possui a estrutura sistemática do propano-1,2,3-triol, contendo três grupos hidroxilo (-OH) distribuídos na sua cadeia, o que a integra na categoria dos poliálcoois.",
 
-    "Q_ID112": "No âmbito das ligações covalentes, qual é a principal característica que define a 'ligação pi' ($\pi$) presente em alcenos e alcinos?",
+    "Q_ID112": "No âmbito das ligações covalentes, qual é a principal característica que define a 'ligação pi' ($\\pi$) presente em alcenos e alcinos?",
     "A0_ID112": "É formada pela sobreposição lateral de orbitais p paralelos, sendo mais fraca que a ligação sigma e localizada acima e abaixo do eixe.",
     "A1_ID112": "Constitui uma força iónica de elevada magnitude baseada na atração eletrostática.",
     "A2_ID112": "Permite a livre e irrestrita rotação espacial dos átomos de carbono que se encontram unidos.",
