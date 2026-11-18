@@ -7,7 +7,7 @@
         "A0_ID0": "Ligar todos os interruptores e entrar rapidamente",
         "A1_ID0": "Ligar um interruptor, esperar, desligar e ligar outro, depois entrar na sala",
         "A2_ID0": "Pedir ajuda a alguém",
-        "A3_ID0": "Usar um espelho",
+        "A3_ID0": "Não é verdade que ligar um interruptor, esperar, desligar e ligar outro, depois entrar na sala",
         "S_ID0": 1,
         "txtS_ID0": "Liga-se um interruptor e aguarda-se alguns minutos. Depois, desliga-se esse e liga-se outro. Entra-se na sala: a lâmpada acesa é do segundo interruptor; a lâmpada apagada e quente é do primeiro; a lâmpada apagada e fria é do terceiro.",
 
@@ -79,12 +79,12 @@
         "A0_ID9": "Leva primeiro o lobo, depois o capim, depois a ovelha",
         "A1_ID9": "Leva primeiro a ovelha, volta sozinho, leva o lobo, volta com a ovelha, leva o capim, volta sozinho, leva a ovelha",
         "A2_ID9": "Leva primeiro o capim, depois o lobo, depois a ovelha",
-        "A3_ID9": "Leva a ovelha e o lobo juntos",
+        "A3_ID9": "Não é verdade que leva primeiro a ovelha, volta sozinho, leva o lobo, volta com a ovelha, leva o capim, volta sozinho, leva a ovelha",
         "S_ID9": 1,
         "txtS_ID9": "A sequência correta é: 1) Leva a ovelha e volta sozinho. 2) Leva o lobo e volta com a ovelha. 3) Leva o capim e volta sozinho. 4) Leva a ovelha.",
 
         "Q_ID10": "Você tem duas cordas de comprimentos diferentes. Colocando fogo em uma das pontas, cada uma delas queima em uma hora. As cordas têm diâmetros diferentes e não uniformes. Queimar as cordas até a metade não corresponde a meia hora. Como podemos medir 45 minutos?",
-        "A0_ID10": "Acender as duas cordas ao mesmo tempo",
+        "A0_ID10": "Não é verdade que acender uma corda nas duas pontas e a outra em uma ponta; quando a primeira acabar, acender a segunda na outra ponta",
         "A1_ID10": "Acender uma corda nas duas pontas e a outra em uma ponta; quando a primeira acabar, acender a segunda na outra ponta",
         "A2_ID10": "Acender as duas cordas nas duas pontas",
         "A3_ID10": "Acender uma corda e esperar 45 minutos",
@@ -95,7 +95,7 @@
         "A0_ID11": "Encher o de 5 e despejar no de 3 até encher, sobra 2 no de 5; esvaziar o de 3, colocar os 2 no de 3, encher o de 5 e despejar 1 no de 3 (que já tem 2), sobra 4 no de 5",
         "A1_ID11": "Encher o de 3 e despejar no de 5, repetir até encher o de 5",
         "A2_ID11": "Encher os dois pela metade",
-        "A3_ID11": "Usar uma régua para medir",
+        "A3_ID11": "Encher o de 9 e despejar no de 8 até encher, sobra 5 no de 9; esvaziar o de 8, colocar os 5 no de 8, encher o de 9 e despejar 4 no de 8 (que já tem 5), sobra 1 no de 9",
         "S_ID11": 0,
         "txtS_ID11": "Procedimento: 1) Enche o de 5. 2) Despeja do de 5 no de 3 até encher o de 3. Sobram 2 no de 5. 3) Esvazia o de 3. 4) Passa os 2 do de 5 para o de 3. 5) Enche o de 5 novamente. 6) Despeja do de 5 no de 3 até encher (cabe mais 1). Sobram 4 no de 5.",
 
@@ -110,7 +110,7 @@
         "Q_ID13": "João e Maria se apaixonaram (pela Internet) e João deseja enviar um anel à ela pelo correio. Infelizmente, eles vivem no país Cleptópia, onde qualquer coisa que seja enviada por correio será roubada, a menos que esteja em uma caixa trancada com cadeado. João e Maria possuem vários cadeados mas nenhum cadeado que o outro tenha a chave. Como João poderá colocar o anel com segurança nas mãos de Maria?",
         "A0_ID13": "João envia a caixa trancada com seu cadeado; Maria coloca outro cadeado e devolve; João remove o seu e reenvia",
         "A1_ID13": "João envia a chave escondida primeiro",
-        "A2_ID13": "João contrata um seguro",
+        "A2_ID13": "Não é verdade que joão envia a caixa trancada com seu cadeado; Maria coloca outro cadeado e devolve; João remove o seu e reenvia",
         "A3_ID13": "João envia sem cadeado e torce para não roubarem",
         "S_ID13": 0,
         "txtS_ID13": "João envia a caixa com o anel e seu cadeado. Maria recebe, coloca o cadeado dela e devolve. João recebe, retira o cadeado dele (agora só tem o de Maria) e reenvia. Maria recebe e abre com a chave dela.",
@@ -150,7 +150,7 @@
         "Q_ID18": "Veja estas imagens que ilustram o problema. Na imagem superior há um triângulo formado por quatro figuras geométricas. Na imagem inferior, as mesmas figuras estão reposicionadas e formam um triângulo com as mesmas dimensões. Porém, aparece um vazio em sua área. Como isto pode ser verdade?",
         "A0_ID18": "É uma ilusão de óptica: as hipotenusas não têm o mesmo ângulo",
         "A1_ID18": "As figuras foram trocadas",
-        "A2_ID18": "O triângulo é mágico",
+        "A2_ID18": "Não é verdade que É uma ilusão de óptica: as hipotenusas não têm o mesmo ângulo",
         "A3_ID18": "A área foi calculada errada",
         "S_ID18": 0,
         "txtS_ID18": "É uma ilusão de óptica. Os triângulos azul e vermelho não possuem a mesma inclinação, então a hipotenusa do triângulo maior não é uma reta perfeita. Na parte superior há uma concavidade, na inferior uma convexidade, criando o buraco.",
@@ -175,7 +175,7 @@
         "A0_ID21": "Iniciar as duas; quando a de 7 acabar, virar; quando a de 11 acabar, virar a de 7 novamente",
         "A1_ID21": "Iniciar as duas; quando a de 11 acabar, virar a de 7",
         "A2_ID21": "Usar apenas a de 11 duas vezes",
-        "A3_ID21": "Não é possível",
+        "A3_ID21": "Iniciar as duas; quando a de 3 acabar, virar; quando a de 18 acabar, virar a de 3 novamente",
         "S_ID21": 0,
         "txtS_ID21": "Inicia as duas. Quando a de 7 acabar (7 min), vira-se a de 7. Quando a de 11 acabar (11 min), a de 7 já queimou 4 minutos da segunda vez. Então vira-se a de 7 novamente, que queimará mais 4 minutos, totalizando 11+4=15 minutos.",
 
@@ -189,7 +189,7 @@
 
         "Q_ID23": "Você possui nove bolas coloridas e sabe que apenas uma delas é mais pesada que as outras mas não sabe qual. Tente descobrir qual a mais pesada sendo o seu único instrumento uma balança comparativa que você pode usar apenas duas vezes.",
         "A0_ID23": "Pesar 3 contra 3; se igual, pesar 2 das 3 restantes; se diferente, pesar 2 das mais pesadas",
-        "A1_ID23": "Pesar 4 contra 4",
+        "A1_ID23": "Pesar 8 contra 8; se igual, pesar 5 das 8 restantes; se diferente, pesar 5 das mais pesadas",
         "A2_ID23": "Pesar 1 contra 1 várias vezes",
         "A3_ID23": "Pesar 2 contra 2",
         "S_ID23": 0,
@@ -213,7 +213,7 @@
 
         "Q_ID26": "Você possui dez caixas vazias e deve distribuir nessas caixas 1000 moedas de tal forma que, quando solicitado, você possa retornar um número qualquer de moedas (de 1 a 1000) sem retirá-las das caixas, entregando as caixas inteiras. Como fazer?",
         "A0_ID26": "Colocar 1, 2, 4, 8, 16, 32, 64, 128, 256, 489 moedas",
-        "A1_ID26": "Colocar 100 em cada caixa",
+        "A1_ID26": "Colocar 4, 5, 1, 3, 23, 39, 53, 117, 245, 478 moedas",
         "A2_ID26": "Colocar 500 em duas caixas",
         "A3_ID26": "Colocar em ordem crescente",
         "S_ID26": 0,
@@ -239,7 +239,7 @@
         "A0_ID29": "Pegar 1 livro da 1ª, 2 da 2ª, 3 da 3ª, ... 10 da 10ª e pesar; o excesso de peso indica a estante",
         "A1_ID29": "Pesar todos os livros de uma vez",
         "A2_ID29": "Pesar um livro de cada estante separadamente",
-        "A3_ID29": "Pesar 5 livros de cada estante",
+        "A3_ID29": "Pegar 4 livro da 1ª, 5 da 2ª, 8 da 3ª, ... 20 da 10ª e pesar; o excesso de peso indica a estante",
         "S_ID29": 0,
         "txtS_ID29": "Pega-se 1 livro da estante 1, 2 da estante 2, 3 da estante 3, ..., 10 da estante 10. Pesa-se todos juntos. Se todos fossem de 1kg, pesariam 55kg. O excesso em gramas (0,1kg por livro mais pesado) indica a estante: se a balança marcar 55,1kg, é a estante 1; 55,2kg, estante 2; etc.",
 
@@ -261,7 +261,7 @@
 
         "Q_ID32": "Você tem dez pilhas de moedas com nove moedas em cada pilha. Cada moeda pesa 10g com exceção das moedas de uma única pilha que pesam 9g cada. Tente descobrir qual a pilha onde as moedas pesam 9g usando, para isso, uma balança de supermercado uma única vez.",
         "A0_ID32": "Pegar 1 moeda da 1ª, 2 da 2ª, 3 da 3ª, ... 9 da 9ª, nenhuma da 10ª; pesar; o déficit indica a pilha",
-        "A1_ID32": "Pesar todas as pilhas juntas",
+        "A1_ID32": "Pegar 4 moeda da 1ª, 5 da 2ª, 8 da 3ª, ... 5 da 9ª, nenhuma da 10ª; pesar; o déficit indica a pilha",
         "A2_ID32": "Pesar uma moeda de cada pilha",
         "A3_ID32": "Pesar 5 moedas de cada pilha",
         "S_ID32": 0,
@@ -286,7 +286,7 @@
         "Q_ID35": "No antigo Egito, havia um prisioneiro numa cela com duas saídas, cada uma delas com um guarda. Cada saída dava para um corredor diferente em que um dava para o campo (liberdade) e o outro para um fosso de crocodilos. Só os guardas sabiam qual a saída certa, mas um deles dizia sempre a verdade e outro mentia sempre. Os guardas se conheciam. O prisioneiro não sabia nem qual a saída certa nem qual o guarda verdadeiro. Qual a pergunta, e uma só pergunta, que o prisioneiro deveria fazer a um dos guardas ao acaso, para saber qual a porta certa?",
         "A0_ID35": "'Se eu perguntar ao outro guarda qual é a porta certa, o que ele me diria?'",
         "A1_ID35": "'Qual é a porta certa?'",
-        "A2_ID35": "'Você mente?'",
+        "A2_ID35": "Não é verdade que 'Se eu perguntar ao outro guarda qual é a porta certa, o que ele me diria?'",
         "A3_ID35": "'Este guarda diz a verdade?'",
         "S_ID35": 0,
         "txtS_ID35": "Pergunta-se: 'Se eu perguntar ao outro guarda qual é a porta certa, o que ele me diria?' Em ambos os casos, a resposta indicará a porta errada. Basta então escolher a outra porta.",
@@ -295,7 +295,7 @@
         "A0_ID36": "Primeira pergunta a qualquer um: 'Qual o caminho para o restaurante que cada um dos outros dois indicaria?' Segunda pergunta a um dos outros: 'Qual o caminho que o outro indivíduo indicaria?'",
         "A1_ID36": "Perguntar a cada um qual é o caminho e fazer média",
         "A2_ID36": "Perguntar quem é o estudante",
-        "A3_ID36": "Perguntar quem mente",
+        "A3_ID36": "Não é verdade que primeira pergunta a qualquer um: 'Qual o caminho para o restaurante que cada um dos outros dois indicaria?' Segunda pergunta a um dos outros: 'Qual o caminho que o outro indivíduo indicaria?'",
         "S_ID36": 0,
         "txtS_ID36": "Primeira pergunta identifica o estudante. Segunda pergunta a um dos outros (não estudante) sobre o que o outro indicaria, e o caminho apontado será o errado, então escolhe-se o oposto.",
 
@@ -309,7 +309,7 @@
 
         "Q_ID38": "Tenho 12 moedas aparentemente iguais mas há uma que é diferente, não sei se é mais pesada ou mais leve. Com uma balança de dois pratos, como posso com apenas três pesagens identificar a moeda diferente e dizer se ela é mais pesada ou mais leve?",
         "A0_ID38": "Pesar 4x4; depois 1x1; análise complexa",
-        "A1_ID38": "Pesar 6x6",
+        "A1_ID38": "Não é isto: pesar 4x4; depois 1x1; análise complexa",
         "A2_ID38": "Pesar 3x3; depois 1x1",
         "A3_ID38": "Não é possível em 3 pesagens",
         "S_ID38": 0,
@@ -317,7 +317,7 @@
 
         "Q_ID39": "Um mercador devia dinheiro a um agiota. O agiota propôs um jogo: colocar uma pedra preta e uma branca numa sacola; a filha do mercador retiraria uma pedra; se preta, casaria com ele; se branca, estaria livre. O agiota trapaceou e colocou duas pedras pretas. A filha percebeu e fez algo para não se casar. O que ela fez?",
         "A0_ID39": "Ela retirou uma pedra e a deixou cair na estrada, dizendo que pela cor da pedra restante saberiam a que ela tirou",
-        "A1_ID39": "Ela recusou jogar",
+        "A1_ID39": "Não é verdade que ela retirou uma pedra e a deixou cair na estrada, dizendo que pela cor da pedra restante saberiam a que ela tirou",
         "A2_ID39": "Ela denunciou a trapaça",
         "A3_ID39": "Ela escolheu a pedra e disse que era branca",
         "S_ID39": 0,
@@ -407,7 +407,7 @@
         "A0_ID50": "Leva 2 canibais, volta 1, leva 2 missionários, volta 1 missionário e 1 canibal, leva 2 missionários, volta 1 canibal, leva 2 canibais, volta 1, leva 2 canibais",
         "A1_ID50": "Leva 1 missionário e 1 canibal",
         "A2_ID50": "Leva 2 missionários primeiro",
-        "A3_ID50": "Não é possível",
+        "A3_ID50": "Leva 5 canibais, volta 4, leva 5 missionários, volta 4 missionário e 4 canibal, leva 5 missionários, volta 4 canibal, leva 5 canibais, volta 4, leva 5 canibais",
         "S_ID50": 0,
         "txtS_ID50": "A sequência clássica resolve o problema em 11 travessias, respeitando a condição de nunca haver mais canibais que missionários em nenhuma margem.",
 
@@ -463,7 +463,7 @@
         "A0_ID57": "Primeiro",
         "A1_ID57": "Penúltimo",
         "A2_ID57": "Não é possível ultrapassar o último",
-        "A3_ID57": "Último",
+        "A3_ID57": "Não é possível ultrapassar o primeiro",
         "S_ID57": 2,
         "txtS_ID57": "Não é possível ultrapassar o último colocado, pois se você está atrás dele, ele não é o último.",
 
@@ -471,7 +471,7 @@
         "A0_ID58": "Liga um interruptor por muito tempo, desliga e liga outro; vai à sala e verifica lâmpada acesa, apagada quente e apagada fria",
         "A1_ID58": "Liga todos e vai rápido",
         "A2_ID58": "Pede ajuda a alguém",
-        "A3_ID58": "Usa um cronômetro",
+        "A3_ID58": "Não é verdade que liga um interruptor por muito tempo, desliga e liga outro; vai à sala e verifica lâmpada acesa, apagada quente e apagada fria",
         "S_ID58": 0,
         "txtS_ID58": "Liga o primeiro interruptor por alguns minutos, depois desliga e liga o segundo. Vai à sala: a lâmpada acesa é do segundo, a apagada quente é do primeiro, a apagada fria é do terceiro.",
 
@@ -479,7 +479,7 @@
         "A0_ID59": "Leva a cabra, volta sozinho, leva o lobo, volta com a cabra, leva o repolho, volta sozinho, leva a cabra",
         "A1_ID59": "Leva o lobo primeiro, depois a cabra, depois o repolho",
         "A2_ID59": "Leva o repolho primeiro, depois o lobo, depois a cabra",
-        "A3_ID59": "Leva todos juntos",
+        "A3_ID59": "Não é verdade que leva a cabra, volta sozinho, leva o lobo, volta com a cabra, leva o repolho, volta sozinho, leva a cabra",
         "S_ID59": 0,
         "txtS_ID59": "A sequência clássica: leva a cabra, volta; leva o lobo, traz a cabra; leva o repolho, volta; leva a cabra.",
 
