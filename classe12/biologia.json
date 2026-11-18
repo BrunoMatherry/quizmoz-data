@@ -817,7 +817,7 @@
         "Q_ID116": "O que é a resistência a antibióticos e como surge principalmente?",
         "A0_ID116": "A capacidade do sistema imunitário humano de combater infecções sem medicamentos.",
         "A1_ID116": "A capacidade adquirida de uma bactéria para sobreviver e multiplicar-se na presença de um antibiótico, geralmente devido a mutações genéticas que são depois seleccionadas pelo uso inadequado de antibióticos.",
-        "A2_ID116": "A ineficácia de uma vacina após vários anos de uso, causada pelo envelhecimento do fármaco e não por mutações bacterianas seleccionadas pelo uso inadequado de antibióticos nem pela capacidade de a bactéria se multiplicar na sua presença.",
+        "A2_ID116": "A ineficácia de uma vacina após vários anos de uso, causada pelo envelhecimento do fármaco na prateleira e pela perda de potência do soro armazenado, independentemente de qualquer alteração nas bactérias.",
         "A3_ID116": "Uma reacção alérgica a um medicamento específico.",
         "S_ID116": 1,
         "txtS_ID116": "A resistência surge por mutações aleatórias nos genes bacterianos ou pela aquisição de genes de resistência de outras bactérias (por plasmídeos). Quando se usa um antibiótico de forma incorrecta (ex.: não completar o tratamento, uso para infecções virais), as bactérias sensíveis morrem, mas as resistentes sobrevivem e multiplicam-se, tornando-se dominantes. É uma aplicação da selecção natural.",
