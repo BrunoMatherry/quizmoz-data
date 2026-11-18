@@ -4,7 +4,7 @@
         "questionCount": 30,
 
         "Q_ID0": "O ADN é como um manual de instruções escondido dentro de cada célula do teu corpo. Para que serve o ADN?",
-        "A0_ID0": "Para digerir alimentos, com este entendimento, na hipótese considerada",
+        "A0_ID0": "Para decompor os alimentos no interior da célula e libertar energia",
         "A1_ID0": "Para carregar a informação genética que define as tuas características",
         "A2_ID0": "Para produzir oxigénio",
         "A3_ID0": "Para proteger contra doenças",
@@ -79,7 +79,7 @@
         "A0_ID9": "Matam todos os vírus no corpo",
         "A1_ID9": "Treinam o sistema imunitário com versões enfraquecidas do vírus",
         "A2_ID9": "Substituem os glóbulos brancos",
-        "A3_ID9": "Limpam o sangue directamente, o que resultaria apenas desse factor",
+        "A3_ID9": "Limpam o sangue de imediato, retirando os vírus antes de o corpo reagir",
         "S_ID9": 1,
         "txtS_ID9": "As vacinas introduzem uma versão inofensiva do vírus para que o sistema imunitário aprenda a reconhecê-lo e combatê-lo. É como um treino para o corpo! Graças às vacinas, doenças como a varíola foram eliminadas.",
 
@@ -100,7 +100,7 @@
         "txtS_ID11": "Sem o efeito de estufa natural, a Terra seria gelada (-18°C). Mas a poluição aumenta este efeito, aquecendo o planeta demais. Isso derrete o gelo polar, sobe o nível do mar e altera o clima.",
 
         "Q_ID12": "O som precisa de um meio para se propagar. No espaço, os astronautas não conseguem ouvir-se porque:",
-        "A0_ID12": "Estão muito longe, o que se manteria neste caso",
+        "A0_ID12": "Porque os astronautas ficam demasiado longe uns dos outros no espaço",
         "A1_ID12": "Os capacetes bloqueiam o som",
         "A2_ID12": "No espaço não há ar para transportar o som",
         "A3_ID12": "O som congela no frio",
@@ -135,7 +135,7 @@
         "A0_ID16": "As vegetais têm parede celular e cloroplastos",
         "A1_ID16": "As animais são maiores",
         "A2_ID16": "As vegetais não têm núcleo",
-        "A3_ID16": "Não há diferença, ao longo de todo o processo",
+        "A3_ID16": "Não há qualquer diferença: células animais e vegetais têm a mesma estrutura",
         "S_ID16": 0,
         "txtS_ID16": "As células vegetais têm parede celular rígida (que dá forma) e cloroplastos (onde acontece a fotossíntese). As células animais não têm nenhuma dessas estruturas!",
 
@@ -143,7 +143,7 @@
         "A0_ID17": "O choque entre nuvens e o solo",
         "A1_ID17": "Descargas eléctricas entre nuvens ou entre nuvem e solo",
         "A2_ID17": "O calor do Sol",
-        "A3_ID17": "O vento forte em qualquer circunstância prática conhecida.",
+        "A3_ID17": "O vento forte que faz as nuvens chocar umas contra as outras no céu",
         "S_ID17": 1,
         "txtS_ID17": "Os relâmpagos são descargas eléctricas gigantes causadas pelo atrito de partículas dentro das nuvens. Um raio pode atingir 30.000°C — cinco vezes mais quente que a superfície do Sol!",
 
@@ -151,7 +151,7 @@
         "A0_ID18": "Rochas vulcânicas",
         "A1_ID18": "Restos de plantas e animais há milhões de anos",
         "A2_ID18": "Água do mar evaporada",
-        "A3_ID18": "Poeira espacial, o que resultaria desse factor",
+        "A3_ID18": "A poeira que chega do espaço e se acumula no fundo da Terra",
         "S_ID18": 1,
         "txtS_ID18": "Os combustíveis fósseis formaram-se a partir de restos de seres vivos soterrados há milhões de anos, submetidos a enorme pressão e calor. Por isso se chamam 'fósseis' — vêm de um passado remoto!",
 
@@ -212,7 +212,7 @@
         "txtS_ID25": "Os 4 planetas rochosos são os mais próximos do Sol: Mercúrio, Vénus, Terra e Marte. Os 4 mais distantes (Júpiter, Saturno, Úrano e Neptuno) são gigantes gasosos.",
 
         "Q_ID26": "A erosão desgasta as rochas e o solo ao longo do tempo. Quais são os principais agentes da erosão?",
-        "A0_ID26": "Apenas a chuva, por esse motivo",
+        "A0_ID26": "Apenas a chuva, que desgasta as rochas e arrasta o solo",
         "A1_ID26": "Água, vento, gelo e seres vivos",
         "A2_ID26": "Apenas o vento",
         "A3_ID26": "Apenas os terremotos",
@@ -228,7 +228,7 @@
         "txtS_ID27": "A ebulição é a passagem rápida de líquido a gás, que ocorre a uma temperatura fixa (100°C para a água, ao nível do mar), com formação de bolhas. O processo contrário chama-se condensação. Fusão é sólido→líquido e solidificação é líquido→sólido.",
 
         "Q_ID28": "As abelhas estão a desaparecer em muitas partes do mundo. Por que isso é perigoso para os humanos?",
-        "A0_ID28": "Porque produzem mel, o que se repetiria em cada etapa",
+        "A0_ID28": "Porque deixam de produzir o mel que as pessoas consomem todos os dias",
         "A1_ID28": "Porque polinizam as plantas que nos dão alimentos",
         "A2_ID28": "Porque comem insectos perigosos",
         "A3_ID28": "Porque controlam a temperatura",
@@ -236,7 +236,7 @@
         "txtS_ID28": "As abelhas polinizam cerca de 75% das plantas que produzem alimentos. Sem elas, frutas, legumes e cereais desapareceriam. Einstein teria dito que sem abelhas a humanidade duraria 4 anos!",
 
         "Q_ID29": "A biodiversidade é a variedade de seres vivos num ecossistema. Por que é importante preservá-la?",
-        "A0_ID29": "Apenas para turismo, em toda a sua extensão, na hipótese considerada",
+        "A0_ID29": "Apenas para atrair turistas que visitam parques e reservas naturais",
         "A1_ID29": "Porque cada espécie tem um papel essencial no equilíbrio da natureza",
         "A2_ID29": "Não é muito importante",
         "A3_ID29": "Só para fazer documentários",
