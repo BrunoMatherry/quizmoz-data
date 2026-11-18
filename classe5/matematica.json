@@ -7,7 +7,7 @@
         "A0_ID0": "Uma coleção de objetos com uma propriedade comum.",
         "A1_ID0": "Um grupo de números naturais.",
         "A2_ID0": "Uma linha de pontos no plano.",
-        "A3_ID0": "Uma operação matemática, na hipótese considerada.",
+        "A3_ID0": "Uma operação matemática, como a adição ou a multiplicação de dois números.",
         "S_ID0": 0,
         "txtS_ID0": "Um conjunto é definido como qualquer coleção de objetos que apresentam uma propriedade comum. Os elementos podem ser números, letras, pessoas, animais, etc.",
 
@@ -95,7 +95,7 @@
         "A0_ID11": "Comutativa da adição",
         "A1_ID11": "Associativa da multiplicação",
         "A2_ID11": "Distributiva da multiplicação em relação à adição",
-        "A3_ID11": "Elemento neutro, o que se repetiria em cada etapa",
+        "A3_ID11": "A propriedade do elemento neutro da adição, em que se soma zero a um número.",
         "S_ID11": 2,
         "txtS_ID11": "Esta é a propriedade distributiva da multiplicação em relação à adição. Ela permite 'distribuir' o fator 'a' pelos termos da soma (b + c).",
 
@@ -348,7 +348,7 @@
         "txtS_ID42": "O comprimento C de uma circunferência (perímetro do círculo) é dado por C = 2 × π × r, onde r é o raio. π é a constante que representa a razão entre o comprimento da circunferência e seu diâmetro.",
 
         "Q_ID43": "A área é a medida:",
-        "A0_ID43": "Do comprimento de um lado, na hipótese considerada",
+        "A0_ID43": "Do comprimento de um dos lados de um polígono, medido em metros ou centímetros.",
         "A1_ID43": "Da superfície ocupada por uma figura bidimensional",
         "A2_ID43": "Do espaço ocupado por um sólido",
         "A3_ID43": "Da capacidade de um recipiente",
@@ -383,7 +383,7 @@
         "A0_ID47": "O comprimento de uma aresta",
         "A1_ID47": "A superfície de uma face",
         "A2_ID47": "O espaço ocupado por um sólido tridimensional",
-        "A3_ID47": "O perímetro da base, o que se observaria aqui",
+        "A3_ID47": "O perímetro da base do sólido, obtido somando os comprimentos de todos os lados.",
         "S_ID47": 2,
         "txtS_ID47": "Volume é a medida do espaço ocupado por um objeto tridimensional (sólido). Indica quantas unidades cúbicas cabem dentro do sólido.",
 
@@ -517,7 +517,7 @@
 
         "Q_ID64": "No sistema decimal, o valor de um algarismo depende:",
         "A0_ID64": "Apenas do seu formato",
-        "A1_ID64": "Da sua cor, o que teria o mesmo efeito",
+        "A1_ID64": "Da cor com que o algarismo é escrito no caderno, e não da ordem que ocupa.",
         "A2_ID64": "Da posição (ordem) que ocupa no número",
         "A3_ID64": "Do tamanho com que é escrito",
         "S_ID64": 2,
@@ -566,7 +566,7 @@
         "Q_ID70": "Qual é o próximo passo após dividir o numerador pelo denominador para transformar uma fração imprópria em mista?",
         "A0_ID70": "Multiplicar o resto pelo denominador",
         "A1_ID70": "Escrever o quociente como parte inteira e o resto sobre o denominador",
-        "A2_ID70": "Somar o quociente ao numerador, no conjunto da situação descrita",
+        "A2_ID70": "Somar o quociente ao numerador e escrever esse total sobre o denominador original.",
         "A3_ID70": "Dividir o denominador pelo resto",
         "S_ID70": 1,
         "txtS_ID70": "Dada uma fração imprópria D/d, divide-se D por d, obtendo quociente Q e resto R. A fração mista correspondente é Q R/d (lê-se 'Q inteiros e R d-avos').",
@@ -575,7 +575,7 @@
         "A0_ID71": "Multiplicar os numeradores e os denominadores: (4×3)/(5×7)",
         "A1_ID71": "Subtrair os numeradores e os denominadores: (4-3)/(5-7)",
         "A2_ID71": "Multiplicar a primeira fração pelo recíproco da segunda: (4/5) × (7/3)",
-        "A3_ID71": "Dividir os numeradores e os denominadores: (4:3)/(5:7), o que se observaria aqui",
+        "A3_ID71": "Dividir os numeradores entre si e os denominadores entre si, obtendo a fracção (4:3)/(5:7).",
         "S_ID71": 2,
         "txtS_ID71": "A divisão de frações é realizada multiplicando a primeira fração pelo inverso (ou recíproco) da segunda fração. O recíproco de a/b é b/a.",
 
@@ -631,7 +631,7 @@
         "A0_ID78": "Somar todos os valores da coluna de frequência",
         "A1_ID78": "Somar os produtos de cada valor pela sua frequência, e dividir pelo total de dados",
         "A2_ID78": "Identificar o valor com maior frequência",
-        "A3_ID78": "Ordenar os valores e pegar o do meio, o que acompanharia todo o processo descrito",
+        "A3_ID78": "Ordenar os valores da tabela e escolher o que fica no meio, o mesmo procedimento usado para obter a mediana.",
         "S_ID78": 1,
         "txtS_ID78": "Média (para dados agrupados) = (Σ (valor × frequência)) / (Σ frequências). A soma das frequências é o número total de dados (n).",
 
@@ -679,7 +679,7 @@
         "Q_ID84": "A sequência correta dos passos para transformar um número decimal em fração decimal é:",
         "A0_ID84": "Escrever o número sem vírgula no denominador; o numerador é 10 elevado ao número de casas decimais.",
         "A1_ID84": "Escrever o número sem vírgula no numerador; o denominador é uma potência de 10 com expoente igual ao número de casas decimais.",
-        "A2_ID84": "Colocar 1 no numerador e o número decimal no denominador, o que se aplicaria por igual a todo o período agora considerado.",
+        "A2_ID84": "Colocar o número 1 no numerador e o número decimal completo no denominador, sem contar as casas que ficam depois da vírgula.",
         "A3_ID84": "Escrever a parte inteira no numerador e a parte decimal no denominador.",
         "S_ID84": 1,
         "txtS_ID84": "Para converter um decimal em fração decimal: 1) Numerador: o número sem a vírgula. 2) Denominador: 1 seguido de tantos zeros quantas forem as casas decimais (10^n). Ex: 3,4 = 34/10.",
@@ -960,7 +960,7 @@
         "A0_ID119": "Os alunos da tua escola neste ano.",
         "A1_ID119": "Os resultados em sucessivos lançamentos de um dado.",
         "A2_ID119": "Os habitantes de Maputo no último censo.",
-        "A3_ID119": "Os livros da biblioteca da sala, o que se observaria aqui.",
+        "A3_ID119": "Os livros da biblioteca da sala de aula, um conjunto fechado e já todo conhecido.",
         "S_ID119": 1,
         "txtS_ID119": "Uma população infinita é aquela em que o fenômeno pode ocorrer sucessivamente um número ilimitado de vezes, como lançar um dado infinitas vezes. É um conceito teórico."
     }
