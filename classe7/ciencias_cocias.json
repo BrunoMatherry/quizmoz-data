@@ -355,7 +355,7 @@
     "Q_ID50": "Qual foi o principal factor que dificultou a união plena do continente africano após as independências?",
     "A0_ID50": "A falta total de recursos naturais.",
     "A1_ID50": "Conflitos entre estados, barreiras culturais/religiosas e influência de conflitos externos (Guerra Fria).",
-    "A2_ID50": "A inexistência de línguas comuns, o que levaria sempre ao mesmo desfecho nas condições do enunciado.",
+    "A2_ID50": "A inexistência de línguas comuns como hipótese exclusiva e suficiente de forma isolada e sem outros elementos",
     "A3_ID50": "A recusa dos antigos colonizadores em reconhecer as novas nações.",
     "S_ID50": 1,
     "txtS_ID50": "A unidade africana foi dificultada por guerras entre países, diversidade étnico-linguística e religiosa, dificuldades de comunicação e pela divisão do mundo durante a Guerra Fria, que levou países africanos a alinharem-se com blocos rivais.",
@@ -873,7 +873,7 @@
     "Q_ID124": "De que forma se operou a deposição política forçada do líder pan-africanista Kwame Nkrumah no Gana no ano de 1966?",
     "A0_ID124": "Através da deflagração de um golpe de Estado militar executado pelas forças armadas, motivado por fricções internas e interferência e coordenação de serviços de inteligência estrangeiros.",
     "A1_ID124": "Uma eleição democrática que elegeu um novo presidente.",
-    "A2_ID124": "Uma manifestação geral organizada pelos trabalhadores urbanos que exigiam reformas democráticas, no Gana no ano de 1966, o que levaria sempre ao mesmo desfecho nas condições do enunciado.",
+    "A2_ID124": "Uma manifestação geral organizada pelos trabalhadores urbanos que exigiam reformas democráticas no Gana, em 1966, vista como único modo de mudança política daquele ano, feita de forma pacífica e sem forças armadas.",
     "A3_ID124": "A abdicação voluntária de Nkrumah.",
     "S_ID124": 0,
     "txtS_ID124": "O golpe de Estado de 1966, que depôr Nkrumah, foi um acto ilegal de tomada de poder pela força. Motivado por factores internos (crise económica, autoritarismo) e pelo descontentamento externo com a sua política pan-africanista e não-alinhada."
