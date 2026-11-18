@@ -605,7 +605,7 @@
         
         "Q_ID75": "O que são 'relative clauses'?",
         "A0_ID75": "orações que dão informação adicional sobre alguém ou algo",
-        "A1_ID75": "Orações que expressam tempo, deste modo, como regra única",
+        "A1_ID75": "Orações que expressam tempo, situando a acção no passado, no presente ou no futuro, sem acrescentar informação sobre um nome.",
         "A2_ID75": "orações que expressam condição",
         "A3_ID75": "orações que expressam causa",
         "S_ID75": 0,
@@ -671,7 +671,7 @@
         "A0_ID83": "palavras que descrevem nomes",
         "A1_ID83": "palavras que modificam verbos, adjetivos ou outros advérbios",
         "A2_ID83": "palavras que substituem nomes",
-        "A3_ID83": "Palavras que ligam frases, segundo esta via, em toda a linha",
+        "A3_ID83": "Palavras que ligam frases ou orações entre si, estabelecendo uma relação de coordenação ou de subordinação.",
         "S_ID83": 1,
         "txtS_ID83": "Advérbios são palavras que modificam verbos, adjetivos ou outros advérbios, indicando modo, tempo, lugar, etc.",
         
@@ -735,7 +735,7 @@
         "A0_ID91": "publicação periódica com notícias",
         "A1_ID91": "livro de histórias",
         "A2_ID91": "revista de moda",
-        "A3_ID91": "Dicionário, com este entendimento",
+        "A3_ID91": "Um dicionário, obra de consulta com entradas de palavras e respectivos significados, sem carácter periódico de noticiário.",
         "S_ID91": 0,
         "txtS_ID91": "Um 'newspaper' (jornal) é uma publicação periódica que contém notícias e informação sobre eventos atuais.",
         

@@ -6,7 +6,7 @@
     "A0_ID0": "A propagação de oscilações através de um meio material.",
     "A1_ID0": "Uma perturbação que se propaga apenas em meios materiais.",
     "A2_ID0": "O movimento resultante da aceleração de cargas elétricas, criando campos eléctrico e magnético.",
-    "A3_ID0": "Um tipo de onda que só existe na luz visível, o que resultaria exclusivamente desse factor apontado acima.",
+    "A3_ID0": "Um tipo de onda que só existe na luz visível, sem oscilação conjunta de um campo eléctrico e de um campo magnético.",
     "S_ID0": 2,
     "txtS_ID0": "Uma onda eletromagnética é o movimento (perturbação) resultante da aceleração de cargas eléctricas, criando um campo eléctrico e um campo magnético. Elas não precisam de um meio específico para se propagarem.",
 
@@ -19,7 +19,7 @@
     "txtS_ID1": "No vácuo, a velocidade de propagação das ondas eletromagnéticas é de 300 000 km/s, que corresponde à velocidade da luz.",
 
     "Q_ID2": "O que caracteriza a diferença entre os vários tipos de ondas eletromagnéticas?",
-    "A0_ID2": "A sua amplitude, como base do processo.",
+    "A0_ID2": "A sua amplitude, que distinguiria, por si só, as ondas de rádio, a luz visível e os raios X, independentemente da frequência.",
     "A1_ID2": "A sua fonte de produção.",
     "A2_ID2": "A sua frequência e comprimento de onda.",
     "A3_ID2": "A sua velocidade no vácuo.",
@@ -45,7 +45,7 @@
     "Q_ID5": "Qual é a definição de calor latente?",
     "A0_ID5": "O calor que provoca apenas mudança de temperatura num corpo.",
     "A1_ID5": "O calor trocado que faz com que um corpo sofra apenas uma mudança de fase sem variar a temperatura.",
-    "A2_ID5": "A capacidade de um corpo reter calor, o que acompanharia essa mesma linha até ao resultado final.",
+    "A2_ID5": "A capacidade de um corpo reter calor, medida pela subida de temperatura, mesmo quando não há mudança de fase.",
     "A3_ID5": "O calor específico de uma substância a pressão constante.",
     "S_ID5": 1,
     "txtS_ID5": "Calor latente é a troca de calor que faz com que um corpo sofra apenas uma mudança de fase (sólido para líquido) sem variar a sua temperatura.",
@@ -78,7 +78,7 @@
     "A0_ID9": "Um corpo que reflete toda a radiação incidente.",
     "A1_ID9": "Um corpo que emite apenas luz visível.",
     "A2_ID9": "Um corpo hipotético que absorve toda a radiação incidente e emite em todos os comprimentos de onda.",
-    "A3_ID9": "Um corpo à temperatura ambiente considerado suficiente por si só como hipótese exclusiva e suficiente.",
+    "A3_ID9": "Um corpo à temperatura ambiente, de cor escura, que reflecte parte da radiação que recebe e irradia apenas nalguns comprimentos de onda.",
     "S_ID9": 2,
     "txtS_ID9": "Corpo negro é um corpo hipotético que emite ou absorve radiação electromagnética em todos os comprimentos de onda de forma que toda a radiação incidente é completamente absorvida.",
 
@@ -86,7 +86,7 @@
     "A0_ID10": "A intensidade total da radiação é proporcional à quarta potência da temperatura.",
     "A1_ID10": "O produto do comprimento de onda máximo de radiação pela temperatura absoluta é constante.",
     "A2_ID10": "A emissividade é inversamente proporcional ao comprimento de onda.",
-    "A3_ID10": "A frequência máxima é diretamente proporcional à temperatura, o que teria o mesmo efeito.",
+    "A3_ID10": "Que a frequência correspondente ao máximo de emissão é inversamente proporcional à temperatura absoluta do corpo.",
     "S_ID10": 1,
     "txtS_ID10": "A Lei de Wien afirma: λ_max * T = constante (b). O comprimento de onda máximo da radiação emitida é inversamente proporcional à temperatura absoluta.",
 
@@ -99,7 +99,7 @@
     "txtS_ID11": "A Lei de Stefan-Boltzmann estabelece que a intensidade total (emissividade) da radiação emitida por um corpo negro é diretamente proporcional à quarta potência da sua temperatura absoluta: I = σ * T⁴.",
 
     "Q_ID12": "O que são raios catódicos?",
-    "A0_ID12": "Feixes de protões emitidos pelo ânodo, o que se manteria neste caso.",
+    "A0_ID12": "Feixes de protões emitidos pelo ânodo no interior de um recipiente evacuado, com origem no eléctrodo positivo.",
     "A1_ID12": "Feixes de neutrões em alta velocidade.",
     "A2_ID12": "Feixes de eletrões emitidos pelo cátodo em um tubo de vácuo.",
     "A3_ID12": "Ondas eletromagnéticas de alta frequência.",
@@ -126,7 +126,7 @@
     "A0_ID15": "Existe uma frequência mínima para iniciar a emissão.",
     "A1_ID15": "A velocidade máxima dos fotoelétrons é proporcional à frequência da radiação.",
     "A2_ID15": "A intensidade da corrente fotoelétrica é diretamente proporcional ao fluxo luminoso incidente.",
-    "A3_ID15": "A energia dos fotoelétrons independe da frequência, o que acompanharia todo o processo descrito.",
+    "A3_ID15": "Que a energia dos fotoelectrões independe da frequência da luz, ficando determinada apenas pela intensidade do fluxo incidente.",
     "S_ID15": 2,
     "txtS_ID15": "1ª Lei do Fenómeno Fotoeléctrico: A intensidade da corrente fotoeléctrica é directamente proporcional ao fluxo luminoso incidente.",
 
@@ -150,7 +150,7 @@
     "A0_ID18": "Por decaimento radioativo de núcleos pesados.",
     "A1_ID18": "Por aquecimento de um metal até a incandescência.",
     "A2_ID18": "Pela colisão de feixes de elétrons de alta energia com um alvo metálico.",
-    "A3_ID18": "Por fusão nuclear de átomos leves, o que conduziria ao mesmo tipo de resultado.",
+    "A3_ID18": "Por fusão nuclear de átomos leves no interior do tubo, sem choque de um feixe electrónico contra uma placa de metal.",
     "S_ID18": 2,
     "txtS_ID18": "Os raios X são produzidos quando elétrons de alta energia cinética, acelerados por uma alta tensão, colidem com um alvo metálico (ânodo), transferindo sua energia e gerando a radiação.",
 
@@ -163,7 +163,7 @@
     "txtS_ID19": "Entre as propriedades dos raios X estão: propagam-se em linha recta, atravessam a matéria sem se alterarem e não sofrem refração nem deflexão em campos.",
 
     "Q_ID20": "A lei de Moseley estabelece uma relação entre a frequência dos raios X característicos e:",
-    "A0_ID20": "A temperatura do alvo, nas condições já indicadas.",
+    "A0_ID20": "A temperatura do alvo metálico, independentemente do número atómico do elemento de que o alvo é feito.",
     "A1_ID20": "A voltagem aplicada no tubo.",
     "A2_ID20": "O quadrado do número atômico (Z) do elemento alvo.",
     "A3_ID20": "A densidade do material alvo.",
@@ -188,7 +188,7 @@
 
     "Q_ID23": "Como é representado um nuclídeo?",
     "A0_ID23": "Apenas pelo símbolo químico (ex: U).",
-    "A1_ID23": "Pelo seu nome e massa atômica, o que se manteria neste caso.",
+    "A1_ID23": "Pelo seu nome comum e pela massa atómica média, omitindo o número atómico e o número de massa na notação habitual do nuclídeo.",
     "A2_ID23": "Pelo número atômico (Z) e número de massa (A), na forma A/Z X.",
     "A3_ID23": "Pelo número de nêutrons e prótons separadamente.",
     "S_ID23": 2,
@@ -206,14 +206,14 @@
     "A0_ID25": "Elementos com mesmo número atômico (Z).",
     "A1_ID25": "Elementos com mesmo número de massa (A) e diferente número atômico (Z).",
     "A2_ID25": "Elementos com mesmo número de nêutrons.",
-    "A3_ID25": "Elementos que emitem a mesma radiação, até ao termo do processo descrito.",
+    "A3_ID25": "Elementos que emitem a mesma radiação, com números de massa e atómicos necessariamente iguais entre si.",
     "S_ID25": 1,
     "txtS_ID25": "Elementos isóbaros são elementos que possuem o mesmo número de massa (A), mas o número atómico (Z) diferente. Exemplo: ⁴⁰K e ⁴⁰Ca.",
 
     "Q_ID26": "Durante uma desintegração alfa, o núcleo original perde:",
     "A0_ID26": "Um elétron. O número atômico aumenta em 1.",
     "A1_ID26": "Um núcleo de hélio (4He). Z diminui 2 unidades e A diminui 4 unidades.",
-    "A2_ID26": "Um pósitron. Z diminui 1 unidade, o que se repetiria em cada etapa.",
+    "A2_ID26": "Um pósitron: o número atómico diminui uma unidade e o número de massa permanece inalterado.",
     "A3_ID26": "Apenas energia (radiação gama). Nenhuma partícula é emitida.",
     "S_ID26": 1,
     "txtS_ID26": "Na desintegração alfa, o núcleo emite uma partícula alfa (núcleo de hélio, ⁴₂He). O número atómico (Z) diminui em 2 e o número de massa (A) diminui em 4.",
@@ -227,7 +227,7 @@
     "txtS_ID27": "Na desintegração β⁻, o núcleo emite um elétron. O número atômico (Z) aumenta uma unidade (um nêutron se transforma em próton) e o número de massa (A) mantém-se.",
 
     "Q_ID28": "O que caracteriza uma desintegração gama (γ)?",
-    "A0_ID28": "Emissão de um núcleo de hélio, o que ocorreria em qualquer caso.",
+    "A0_ID28": "A emissão de um núcleo de hélio, com diminuição de duas unidades no número atómico e de quatro unidades no número de massa.",
     "A1_ID28": "Emissão de um elétron da eletrosfera.",
     "A2_ID28": "Emissão de energia (radiação eletromagnética) sem alteração de A ou Z.",
     "A3_ID28": "Captura de um elétron da camada K.",
@@ -235,7 +235,7 @@
     "txtS_ID28": "A desintegração gama é a emissão de radiação eletromagnética de alta energia (fóton γ) por um núcleo excitado. Não há alteração no número atômico (Z) ou número de massa (A).",
 
     "Q_ID29": "O que acontece na captura eletrônica (captura K)?",
-    "A0_ID29": "O núcleo emite um elétron, o que fecharia o ciclo sem recorrer a qualquer outro mecanismo complementar ou externo.",
+    "A0_ID29": "O núcleo emite um electrão de uma das camadas próximas do centro, transformando um neutrão num protão, com aumento de uma unidade no número atómico, permanecendo a massa.",
     "A1_ID29": "O núcleo emite um pósitron.",
     "A2_ID29": "O núcleo captura um elétron da camada interna, convertendo um próton em nêutron. Z diminui 1, A permanece.",
     "A3_ID29": "O núcleo funde-se com outro núcleo leve.",
@@ -246,7 +246,7 @@
     "A0_ID30": "Funde-se com outro núcleo leve formando um mais pesado.",
     "A1_ID30": "Divide-se em dois núcleos mais leves, liberando nêutrons e energia.",
     "A2_ID30": "Emite partículas alfa espontaneamente.",
-    "A3_ID30": "Captura elétrons da eletrosfera, o que resultaria desse factor.",
+    "A3_ID30": "Captura electrões da electrosfera e transforma-se num núcleo ainda mais pesado, sem se dividir nem libertar neutrões.",
     "S_ID30": 1,
     "txtS_ID30": "A fissão nuclear ocorre quando um núcleo pesado, ao ser bombardeado por um neutrão, divide-se dando origem a dois núcleos mais leves e à libertação de neutrões de fissão e energia.",
 
@@ -276,7 +276,7 @@
 
     "Q_ID34": "O período de semidesintegração (T₁/₂) é definido como:",
     "A0_ID34": "O tempo para que toda a amostra se desintegre.",
-    "A1_ID34": "O tempo médio de vida de um núcleo, o que acompanharia o processo.",
+    "A1_ID34": "O tempo médio de vida de um núcleo individual, desde a sua formação até à desintegração, independentemente da fracção da amostra.",
     "A2_ID34": "O tempo necessário para que metade dos núcleos iniciais se desintegre.",
     "A3_ID34": "O tempo para que a atividade caia a zero.",
     "S_ID34": 2,
@@ -294,7 +294,7 @@
     "A0_ID36": "Uma bomba atômica controlada.",
     "A1_ID36": "Um dispositivo onde se realiza fusão nuclear para produção de energia.",
     "A2_ID36": "Uma câmara blindada onde se controla uma reação de fissão para produção de energia.",
-    "A3_ID36": "Um acelerador de partículas, o que se verificaria no início e no termo do processo.",
+    "A3_ID36": "Um acelerador de partículas, usado para comunicar energia cinética elevada a protões ou a electrões, sem controlar uma fissão em cadeia.",
     "S_ID36": 2,
     "txtS_ID36": "Reactor nuclear é uma câmara de resfriamento hermética blindada contra a radiação, onde é controlada a reação de fissão para a produção de energia.",
 
@@ -309,14 +309,14 @@
     "Q_ID38": "O que estuda a Hidrodinâmica?",
     "A0_ID38": "O comportamento dos fluidos em repouso.",
     "A1_ID38": "As leis que regulam o movimento mecânico dos fluidos.",
-    "A2_ID38": "A pressão atmosférica, o que resultaria desse factor.",
+    "A2_ID38": "A pressão atmosférica e as suas variações com a altitude, deixando de lado o estudo do deslocamento dos líquidos e dos gases.",
     "A3_ID38": "A estrutura molecular dos líquidos.",
     "S_ID38": 1,
     "txtS_ID38": "Hidrodinâmica é a parte de Física que estuda as leis que regulam o movimento mecânico dos fluidos.",
 
     "Q_ID39": "A vazão volumétrica (Q) é definida como:",
     "A0_ID39": "A massa do fluido por unidade de volume.",
-    "A1_ID39": "A velocidade média do fluido, o que se manteria inalterado neste caso.",
+    "A1_ID39": "A velocidade média do fluido em qualquer ponto do tubo, independentemente do volume que atravessa uma secção em cada unidade de tempo.",
     "A2_ID39": "O volume do fluido que atravessa uma dada secção por unidade de tempo.",
     "A3_ID39": "A pressão do fluido em um ponto.",
     "S_ID39": 2,
@@ -398,7 +398,7 @@
     "A0_ID49": "Lei de Boyle-Mariotte.",
     "A1_ID49": "Lei de Gay-Lussac.",
     "A2_ID49": "Lei de Charles (p é proporcional a T a V constante).",
-    "A3_ID49": "Lei de Avogadro, como regra única, em qualquer caso.",
+    "A3_ID49": "A lei de Avogadro, segundo a qual volumes iguais de gases diferentes conteriam o mesmo número de moléculas, a pressão constante.",
     "S_ID49": 2,
     "txtS_ID49": "Numa transformação isovolumétrica, o volume é constante. A pressão (p) de uma determinada massa de gás é directamente proporcional à sua temperatura absoluta (T): p/T = constante (Lei de Charles).",
 
@@ -406,7 +406,7 @@
     "A0_ID50": "A energia interna de um sistema isolado é constante.",
     "A1_ID50": "A variação da energia interna (ΔU) é igual ao calor (Q) trocado menos o trabalho (W) realizado pelo sistema: ΔU = Q - W.",
     "A2_ID50": "É impossível construir uma máquina que opere em ciclos e converta totalmente calor em trabalho.",
-    "A3_ID50": "A entropia de um sistema isolado nunca diminui, o que coincidiria com o comportamento esperado nessa hipótese e nas que lhe são próximas.",
+    "A3_ID50": "Que a entropia de um sistema isolado nunca diminui, afirmando-se isso no lugar do balanço entre calor, trabalho e energia interna.",
     "S_ID50": 1,
     "txtS_ID50": "A 1ª Lei da Termodinâmica é a lei da conservação da energia para sistemas termodinâmicos. A variação da energia interna (ΔU) é igual à diferença entre o calor (Q) recebido e o trabalho (W) realizado pelo sistema: ΔU = Q - W.",
 
@@ -427,7 +427,7 @@
     "txtS_ID52": "Para um gás ideal, a energia interna depende apenas da temperatura. Num processo isotérmico, T é constante, logo ΔU = 0. Pela 1ª Lei, isso implica Q = W.",
 
     "Q_ID53": "O que são oscilações mecânicas?",
-    "A0_ID53": "Movimentos de rotação uniforme, o que deixaria de fora qualquer outro factor complementar.",
+    "A0_ID53": "Movimentos de rotação uniforme em torno de um eixo fixo, com velocidade angular constante, sem vaivém relativamente a um ponto de repouso.",
     "A1_ID53": "Movimentos rectilíneos uniformemente acelerados.",
     "A2_ID53": "Movimentos periódicos que repetem a mesma trajetória em torno de uma posição de equilíbrio.",
     "A3_ID53": "Movimentos de corpos em fluidos.",
@@ -436,7 +436,7 @@
 
     "Q_ID54": "Qual das alternativas define corretamente a 'amplitude' de uma oscilação?",
     "A0_ID54": "O tempo para uma oscilação completa.",
-    "A1_ID54": "O número de oscilações por segundo, o que se manteria neste caso.",
+    "A1_ID54": "O número de oscilações completas por segundo, ou seja, a frequência do movimento, independentemente do afastamento máximo ao equilíbrio.",
     "A2_ID54": "O desvio máximo do oscilador em relação à posição de equilíbrio.",
     "A3_ID54": "A velocidade máxima atingida pelo oscilador.",
     "S_ID54": 2,
@@ -587,7 +587,7 @@
     "txtS_ID72": "Usa-se e*ΔU = h*c/λ_min. λ_min = 0.05 Å = 5x10⁻¹² m. ΔU = (h*c) / (e*λ_min) = (6.625e-34 * 3e8) / (1.6e-19 * 5e-12) ≈ (1.9875e-25) / (8e-31) ≈ 2.48e5 V ≈ 248 kV.",
 
     "Q_ID73": "Durante o processo de desintegração nuclear, qual afirmação é VERDADEIRA?",
-    "A0_ID73": "Na desintegração alfa, liberta-se um elétron, até ao termo do processo descrito.",
+    "A0_ID73": "Na desintegração alfa liberta-se um electrão, enquanto a radiação gama nunca acompanha os processos alfa ou beta.",
     "A1_ID73": "Na desintegração beta, o número de massa (A) sempre muda.",
     "A2_ID73": "A desintegração gama acompanha frequentemente as desintegrações alfa e beta.",
     "A3_ID73": "Na captura eletrônica, o número atômico (Z) aumenta.",
@@ -652,7 +652,7 @@
 
     "Q_ID81": "Um gás é aquecido a volume constante. Por que a pressão exercida sobre as paredes do recipiente aumenta?",
     "A0_ID81": "A distância média entre as moléculas aumenta.",
-    "A1_ID81": "A massa específica das moléculas aumenta, o que se estenderia a todos os elementos envolvidos.",
+    "A1_ID81": "A massa específica das moléculas aumenta com o aquecimento, o que faria crescer a pressão mesmo com choques menos frequentes nas paredes.",
     "A2_ID81": "A perda de energia cinética nas colisões com a parede aumenta.",
     "A3_ID81": "As moléculas se chocam com maior frequência e com maior energia cinética média com as paredes.",
     "S_ID81": 3,
@@ -660,14 +660,14 @@
 
     "Q_ID82": "De acordo com a Lei de Boyle para um gás ideal a temperatura constante, qual afirmação está INCORRETA?",
     "A0_ID82": "A pressão é inversamente proporcional ao volume.",
-    "A1_ID82": "O gráfico pressão x volume é uma hipérbole, até ao termo do processo descrito.",
+    "A1_ID82": "O gráfico da pressão em função do volume, a temperatura constante, é uma hipérbole, em conformidade com o produto pV permanecer constante.",
     "A2_ID82": "A pressão é diretamente proporcional ao inverso do volume.",
     "A3_ID82": "Se aumentarmos a pressão de um certo valor, o volume diminuirá no mesmo valor.",
     "S_ID82": 3,
     "txtS_ID82": "A relação de proporcionalidade inversa (p ∝ 1/V) não é linear. Se p dobra, V se reduz à metade, não diminui de um 'mesmo valor' absoluto. O produto p*V é constante, não a soma p+V.",
 
     "Q_ID83": "Um recipiente fechado é retirado da geladeira (T<0°C) para ambiente (25°C). A tampa incha e pode saltar. Qual afirmação é correta?",
-    "A0_ID83": "Ocorreu uma transformação isotérmica, o que teria as mesmas consequências práticas em todos os casos.",
+    "A0_ID83": "Ocorreu uma transformação isotérmica: a temperatura no interior do recipiente manteve-se igual à da geladeira depois de este ser retirado.",
     "A1_ID83": "Houve aumento de pressão proveniente do aumento de temperatura (a volume aproximadamente constante).",
     "A2_ID83": "O valor (pV/T) para o ar interno é menor quando a tampa está a ponto de saltar.",
     "A3_ID83": "Isto não ocorreria se o recipiente estivesse fechado a vácuo.",
@@ -806,7 +806,7 @@
     "A0_ID100": "Da energia de ligação nuclear, convertida de defeito de massa.",
     "A1_ID100": "Da energia cinética dos nêutrons incidentes.",
     "A2_ID100": "Da energia elétrica usada para controlar a reação.",
-    "A3_ID100": "Da queima do material radioativo, em todas as situações equivalentes.",
+    "A3_ID100": "Da queima do material radioactivo, à maneira de uma combustão química, sem conversão da diferença de massa em energia de ligação.",
     "S_ID100": 0,
     "txtS_ID100": "A energia liberada na fissão (e fusão) nuclear provém da conversão de uma pequena fração da massa nuclear em energia, de acordo com E=Δm·c². Essa energia está associada à energia de ligação nuclear.",
 
@@ -821,7 +821,7 @@
     "Q_ID102": "A viscosidade de um fluido está associada a:",
     "A0_ID102": "Sua capacidade de ser comprimido.",
     "A1_ID102": "Seu atrito interno e com as paredes do tubo.",
-    "A2_ID102": "Sua densidade, o que se manteria neste caso.",
+    "A2_ID102": "À densidade do fluido, ou seja, à sua massa por unidade de volume, independentemente do atrito interno e do contacto com as paredes da canalização.",
     "A3_ID102": "Sua temperatura de ebulição.",
     "S_ID102": 1,
     "txtS_ID102": "Viscosidade é o atrito entre o fluido e as paredes do tubo que o escoa, e também o atrito interno entre as camadas do fluido.",
