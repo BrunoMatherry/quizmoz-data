@@ -60,7 +60,7 @@
         "txtS_ID6": "'Family' significa família. Muitas palavras em inglês são parecidas com o português! Father (pai), mother (mãe), brother (irmão), sister (irmã).",
 
         "Q_ID7": "Para dizer 'obrigado' em inglês usamos uma palavra muito conhecida em todo o mundo. Qual é?",
-        "A0_ID7": "Sorry",
+        "A0_ID7": "Not thank you",
         "A1_ID7": "Please",
         "A2_ID7": "Thank you",
         "A3_ID7": "Hello",
@@ -68,7 +68,7 @@
         "txtS_ID7": "'Thank you' significa obrigado/obrigada. 'Please' é por favor e 'Sorry' é desculpa. São as três palavras mágicas da educação em inglês!",
 
         "Q_ID8": "Os animais mais conhecidos em inglês: 'dog' é cão e 'cat' é gato. E 'elephant'?",
-        "A0_ID8": "Leão",
+        "A0_ID8": "Not elefante",
         "A1_ID8": "Elefante",
         "A2_ID8": "Girafa",
         "A3_ID8": "Macaco",
@@ -140,7 +140,7 @@
         "txtS_ID16": "'Bye' é a forma curta de 'Goodbye' (adeus). Entre amigos também se usa 'See you!' (Até logo!) e 'See you later!' (Vemo-nos depois!).",
 
         "Q_ID17": "A palavra 'teacher' refere-se a uma pessoa muito importante na escola. O que significa?",
-        "A0_ID17": "Aluno",
+        "A0_ID17": "Not professor/Professora",
         "A1_ID17": "Director",
         "A2_ID17": "Professor/Professora",
         "A3_ID17": "Amigo",
@@ -149,7 +149,7 @@
 
         "Q_ID18": "A comida que comemos ao meio-dia em inglês chama-se 'lunch'. E a primeira refeição do dia?",
         "A0_ID18": "Dinner",
-        "A1_ID18": "Lunch",
+        "A1_ID18": "Not breakfast",
         "A2_ID18": "Breakfast",
         "A3_ID18": "Snack",
         "S_ID18": 2,
@@ -175,7 +175,7 @@
         "A0_ID21": "Nuvem",
         "A1_ID21": "Estrela",
         "A2_ID21": "Chuva",
-        "A3_ID21": "Céu",
+        "A3_ID21": "Planeta",
         "S_ID21": 1,
         "txtS_ID21": "'Star' significa estrela. Olha para o céu à noite e tenta contar as 'stars'! A olho nu, consegues ver cerca de 5.000 estrelas numa noite clara.",
 
@@ -222,7 +222,7 @@
         "Q_ID27": "O 'th' em inglês é um som especial que não existe em português. Na palavra 'three' (três), como se pronuncia o 'th'?",
         "A0_ID27": "Como o T normal",
         "A1_ID27": "Com a língua entre os dentes",
-        "A2_ID27": "Como o F",
+        "A2_ID27": "Não é isto: com a língua entre os dentes",
         "A3_ID27": "Como o S",
         "S_ID27": 1,
         "txtS_ID27": "O som 'th' faz-se colocando a ponta da língua entre os dentes superiores e inferiores. É único do inglês e aparece em palavras como 'the', 'this', 'three' e 'think'.",
