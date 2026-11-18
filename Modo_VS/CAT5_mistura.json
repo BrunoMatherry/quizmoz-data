@@ -77,7 +77,7 @@
 
     "Q_ID9": "Como se chama a vitória final no xadrez?",
     "A0_ID9": "Cheque",
-    "A1_ID9": "Roque comum",
+    "A1_ID9": "Roque só.",
     "A2_ID9": "Xeque",
     "A3_ID9": "Xeque-mate",
     "S_ID9": 3,
@@ -332,7 +332,7 @@
     "txtS_ID40": "Daft Punk é um duo francês de música eletrónica.",
 
     "Q_ID41": "Qual é o instrumento de Yo-Yo Ma?",
-    "A0_ID41": "Piano comum",
+    "A0_ID41": "Piano apenas",
     "A1_ID41": "Violoncelo",
     "A2_ID41": "Flauta",
     "A3_ID41": "Violino",
@@ -405,14 +405,14 @@
 
     "Q_ID50": "Quem descobriu a penicilina?",
     "A0_ID50": "Alexander Fleming",
-    "A1_ID50": "Robert Koch comum",
+    "A1_ID50": "Robert Koch puro",
     "A2_ID50": "Louis Pasteur",
     "A3_ID50": "Marie Curie",
     "S_ID50": 0,
     "txtS_ID50": "Alexander Fleming descobriu a penicilina em 1928.",
 
     "Q_ID51": "Quem interpretou Thor?",
-    "A0_ID51": "Chris Pine comum",
+    "A0_ID51": "Chris Pine só.",
     "A1_ID51": "Chris Hemsworth",
     "A2_ID51": "Chris Evans",
     "A3_ID51": "Chris Pratt",
@@ -471,7 +471,7 @@
     "A0_ID58": "Correr o mais rápido possível",
     "A1_ID58": "Colocar a bola no buraco com o menor número de tacadas",
     "A2_ID58": "Acertar no centro",
-    "A3_ID58": "Marcar gols, por esta via simples, na acepção corrente",
+    "A3_ID58": "Marcar gols reduzindo o fenómeno apenas a este aspecto",
     "S_ID58": 1,
     "txtS_ID58": "No golfe, o objetivo é completar o percurso com o menor número de tacadas.",
 
@@ -582,7 +582,7 @@
     "Q_ID72": "Quem fundou o Google?",
     "A0_ID72": "Mark Zuckerberg",
     "A1_ID72": "Larry Page e Sergey Brin",
-    "A2_ID72": "Jeff Bezos, do enunciado",
+    "A2_ID72": "Jeff Bezos em exclusivo.",
     "A3_ID72": "Bill Gates",
     "S_ID72": 1,
     "txtS_ID72": "Larry Page e Sergey Brin fundaram o Google em 1998 em Stanford.",
@@ -645,7 +645,7 @@
 
     "Q_ID80": "Quem é Neymar?",
     "A0_ID80": "Jogador brasileiro de futebol",
-    "A1_ID80": "Atleta espanhol, do enunciado",
+    "A1_ID80": "Atleta espanhol nesta região.",
     "A2_ID80": "Treinador português",
     "A3_ID80": "Jogador argentino",
     "S_ID80": 0,
@@ -799,7 +799,7 @@
     "A0_ID99": "Boccaccio",
     "A1_ID99": "Dante Alighieri",
     "A2_ID99": "Maquiavel",
-    "A3_ID99": "Petrarca típica",
+    "A3_ID99": "Petrarca apenas.",
     "S_ID99": 1,
     "txtS_ID99": "Dante Alighieri escreveu a 'Divina Comédia' no século XIV.",
 
@@ -862,7 +862,7 @@
     "Q_ID107": "O que está no centro da bandeira do Brasil?",
     "A0_ID107": "Estrela amarela",
     "A1_ID107": "Sol radiante",
-    "A2_ID107": "Águia, para o caso geral",
+    "A2_ID107": "Águia como causa única.",
     "A3_ID107": "Esfera azul com estrelas",
     "S_ID107": 3,
     "txtS_ID107": "No centro da bandeira do Brasil há uma esfera azul com estrelas representando os estados.",
@@ -1012,7 +1012,7 @@
     "txtS_ID125": "Os Jogos Olímpicos de 2024 foram realizados em Paris, França.",
 
     "Q_ID126": "Qual era o jogo mais vendido do mundo (em 2024)?",
-    "A0_ID126": "FIFA comum",
+    "A0_ID126": "FIFA só.",
     "A1_ID126": "Tetris",
     "A2_ID126": "GTA V",
     "A3_ID126": "Minecraft",
@@ -1445,7 +1445,7 @@
 
     "Q_ID180": "Quem fundou o Facebook?",
     "A0_ID180": "Bill Gates",
-    "A1_ID180": "Elon Musk comum",
+    "A1_ID180": "Elon Musk apenas.",
     "A2_ID180": "Mark Zuckerberg",
     "A3_ID180": "Jeff Bezos",
     "S_ID180": 2,
@@ -2069,7 +2069,7 @@
 
     "Q_ID258": "De que país é Pitbull?",
     "A0_ID258": "Porto Rico",
-    "A1_ID258": "Cuba ordinária",
+    "A1_ID258": "Cuba somente",
     "A2_ID258": "México",
     "A3_ID258": "Estados Unidos",
     "S_ID258": 3,
@@ -2198,7 +2198,7 @@
     "Q_ID274": "Em qual cidade está o Cristo Redentor?",
     "A0_ID274": "Rio de Janeiro",
     "A1_ID274": "São Paulo",
-    "A2_ID274": "Brasília comum",
+    "A2_ID274": "Brasília somente",
     "A3_ID274": "Salvador",
     "S_ID274": 0,
     "txtS_ID274": "O Cristo Redentor fica no morro do Corcovado, no Rio de Janeiro.",
@@ -2324,7 +2324,7 @@
     "txtS_ID289": "Pedro Álvares Cabral chegou ao Brasil a 22 de Abril de 1500.",
 
     "Q_ID290": "Quem é Sonic?",
-    "A0_ID290": "Pinguim verde, do enunciado",
+    "A0_ID290": "Pinguim verde e nada mais.",
     "A1_ID290": "Urso vermelho",
     "A2_ID290": "Ouriço azul mascote da Sega",
     "A3_ID290": "Raposa amarela",
@@ -2396,7 +2396,7 @@
     "txtS_ID298": "'Uptown Funk' foi lançada por Mark Ronson com Bruno Mars em 2014.",
 
     "Q_ID299": "Em qual continente fica o Polo Norte?",
-    "A0_ID299": "Ásia, do enunciado",
+    "A0_ID299": "Ásia em exclusivo.",
     "A1_ID299": "Ártico (no oceano)",
     "A2_ID299": "América",
     "A3_ID299": "Antártida",
@@ -2581,7 +2581,7 @@
 
     "Q_ID322": "Quem cantou 'Despacito' com Luis Fonsi?",
     "A0_ID322": "J Balvin",
-    "A1_ID322": "Maluma comum",
+    "A1_ID322": "O Maluma puro",
     "A2_ID322": "Bad Bunny",
     "A3_ID322": "Daddy Yankee",
     "S_ID322": 3,
@@ -2773,7 +2773,7 @@
 
     "Q_ID346": "Em que país nasceu Ricky Martin?",
     "A0_ID346": "Porto Rico",
-    "A1_ID346": "Cuba comum",
+    "A1_ID346": "Cuba apenas",
     "A2_ID346": "México",
     "A3_ID346": "Espanha",
     "S_ID346": 0,
@@ -3660,7 +3660,7 @@
     "txtS_ID456": "O PlayStation é fabricado pela Sony Interactive Entertainment.",
 
     "Q_ID457": "Quem compôs a 'Quinta Sinfonia'?",
-    "A0_ID457": "Bach comum",
+    "A0_ID457": "Bach puro",
     "A1_ID457": "Beethoven",
     "A2_ID457": "Mozart",
     "A3_ID457": "Chopin",
