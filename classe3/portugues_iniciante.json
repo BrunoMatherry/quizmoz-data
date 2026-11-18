@@ -52,7 +52,7 @@
         "txtS_ID5": "Quando uma palavra indica mais de uma coisa, está no plural. 'Casas' é o plural de 'casa'. Geralmente adicionamos -s ou -es!",
 
         "Q_ID6": "As palavras 'eu', 'tu', 'ele' e 'nós' substituem os nomes das pessoas. Chamam-se:",
-        "A0_ID6": "Não é isto: pronomes pessoais",
+        "A0_ID6": "Verbos ordinários",
         "A1_ID6": "Adjectivos",
         "A2_ID6": "Pronomes pessoais",
         "A3_ID6": "Preposições",
@@ -151,7 +151,7 @@
         "A0_ID18": "A frase é grande",
         "A1_ID18": "Há dois sujeitos (João e Maria)",
         "A2_ID18": "O verbo é difícil",
-        "A3_ID18": "Não é isto: há dois sujeitos (João e Maria)",
+        "A3_ID18": "Está no passado, ao mesmo tempo",
         "S_ID18": 1,
         "txtS_ID18": "O verbo concorda com o sujeito. Como são duas pessoas (João e Maria = eles), o verbo vai para o plural: 'brincam' em vez de 'brinca'.",
 
@@ -207,7 +207,7 @@
         "A0_ID25": "Terminar a frase",
         "A1_ID25": "Fazer uma pergunta",
         "A2_ID25": "Introduzir uma explicação ou lista",
-        "A3_ID25": "Não é isto: introduzir uma explicação ou lista",
+        "A3_ID25": "Separar sílabas, para o caso geral",
         "S_ID25": 2,
         "txtS_ID25": "Os dois pontos (:) introduzem uma explicação, uma lista ou a fala de alguém. Exemplo: 'Comprei frutas: mangas, bananas e cocos.'",
 
@@ -220,7 +220,7 @@
         "txtS_ID26": "O dígrafo é a junção de duas letras que formam um único som. Em português temos: ch, lh, nh, rr, ss, qu, gu. O 'nh' é tipicamente português!",
 
         "Q_ID27": "A palavra 'Zambézia' é acentuada na penúltima sílaba. Palavras assim classificam-se como:",
-        "A0_ID27": "Não é isto: graves ou paroxítonas",
+        "A0_ID27": "As palavras agudas",
         "A1_ID27": "Graves ou paroxítonas",
         "A2_ID27": "Esdrúxulas",
         "A3_ID27": "Monossílabas",
@@ -230,7 +230,7 @@
         "Q_ID28": "Na frase 'A menina disse: — Bom dia, professor!', o travessão (—) serve para indicar:",
         "A0_ID28": "Uma pausa longa",
         "A1_ID28": "A fala de uma pessoa",
-        "A2_ID28": "Não é isto: A fala de uma pessoa",
+        "A2_ID28": "Uma pergunta natural",
         "A3_ID28": "O fim do texto",
         "S_ID28": 1,
         "txtS_ID28": "O travessão (—) é usado para indicar o início da fala de uma personagem no diálogo. É como um sinal que diz 'alguém vai falar agora'!",
@@ -238,7 +238,7 @@
         "Q_ID29": "A palavra 'guarda-chuva' é formada por duas palavras juntas. Este tipo de palavra chama-se:",
         "A0_ID29": "Diminutivo",
         "A1_ID29": "Palavra composta",
-        "A2_ID29": "Não é isto: palavra composta",
+        "A2_ID29": "A forma plural",
         "A3_ID29": "Sinónimo",
         "S_ID29": 1,
         "txtS_ID29": "Palavras compostas são formadas pela junção de duas ou mais palavras: guarda + chuva = guarda-chuva. Outros exemplos: beija-flor, segunda-feira, bem-estar."
