@@ -313,7 +313,7 @@
         "Q_ID44": "Você está em um quarto com 3 interruptores. Eles controlam 3 lâmpadas em outro quarto. Você pode mexer nos interruptores e ir ao outro quarto apenas uma vez. Como descobre qual interruptor acende qual lâmpada?",
         "A0_ID44": "Ligo um, espero, desligo, ligo outro e vou",
         "A1_ID44": "Ligo todos e vou",
-        "A2_ID44": "Ligo um e vou, ao longo de todo o processo",
+        "A2_ID44": "Ligo apenas um interruptor e vou logo à sala das lâmpadas",
         "A3_ID44": "Não é possível",
         "S_ID44": 0,
         "txtS_ID44": "Ligue o primeiro por alguns minutos, desligue. Ligue o segundo. A lâmpada acesa é do segundo, a quente do primeiro, a fria do terceiro.",
