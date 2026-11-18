@@ -68,7 +68,7 @@
         "txtS_ID7": "A camuflagem é a capacidade de um animal se confundir com o ambiente. O camaleão é famoso por isso, mas também muda de cor para comunicar emoções!",
 
         "Q_ID8": "As raízes de uma árvore ficam debaixo da terra. Para que servem?",
-        "A0_ID8": "Não é verdade que para absorver água e fixar a planta ao solo",
+        "A0_ID8": "Para fazer sombra, o que se observaria aqui",
         "A1_ID8": "Para absorver água e fixar a planta ao solo",
         "A2_ID8": "Para produzir frutos",
         "A3_ID8": "Para libertar oxigénio",
@@ -126,7 +126,7 @@
         "Q_ID15": "A pele é o maior órgão do corpo humano. Qual é uma das suas funções principais?",
         "A0_ID15": "Digerir alimentos",
         "A1_ID15": "Proteger o corpo contra germes",
-        "A2_ID15": "Não é isto: proteger o corpo contra germes",
+        "A2_ID15": "Bombear o sangue no corpo.",
         "A3_ID15": "Produzir oxigénio",
         "S_ID15": 1,
         "txtS_ID15": "A pele protege o corpo contra germes, controla a temperatura e permite sentir o toque. Um adulto tem cerca de 2 metros quadrados de pele — do tamanho de um lençol!",
@@ -220,7 +220,7 @@
         "txtS_ID26": "O íman tem uma força invisível chamada magnetismo que atrai metais como o ferro. A própria Terra é um íman gigante — é por isso que a bússola funciona!",
 
         "Q_ID27": "Os pulmões são como dois balões dentro do peito. Servem para:",
-        "A0_ID27": "Não é isto: trocar oxigénio por dióxido de carbono",
+        "A0_ID27": "Bombear sangue, neste caso, na prática",
         "A1_ID27": "Digerir alimentos",
         "A2_ID27": "Trocar oxigénio por dióxido de carbono",
         "A3_ID27": "Filtrar a água",
