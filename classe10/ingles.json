@@ -28,7 +28,7 @@
         "txtS_ID2": "'Never' significa 'nunca'. A frase completa é: 'We are never unhappy' (Nós nunca estamos infelizes).",
 
         "Q_ID3": "Complete: 'She ______ speaks to her friends in English.'",
-        "A0_ID3": "never",
+        "A0_ID3": "Not sometimes",
         "A1_ID3": "rarely",
         "A2_ID3": "sometimes",
         "A3_ID3": "always",
@@ -52,7 +52,7 @@
         "txtS_ID5": "Usamos 'high marks' para dizer 'notas altas'. É a expressão correta em inglês.",
 
         "Q_ID6": "Complete: 'Harry ______ a lot of mistakes in his science project.'",
-        "A0_ID6": "was",
+        "A0_ID6": "took",
         "A1_ID6": "did",
         "A2_ID6": "made",
         "A3_ID6": "had",
@@ -87,7 +87,7 @@
         "A0_ID10": "made",
         "A1_ID10": "passed",
         "A2_ID10": "took",
-        "A3_ID10": "had",
+        "A3_ID10": "Not passed",
         "S_ID10": 1,
         "txtS_ID10": "'Pass exams' significa 'passar nos exames' ou 'ser aprovado'. É a expressão correta.",
 
@@ -206,13 +206,13 @@
         "Q_ID25": "Qual é o sinónimo de 'reconciliation'?",
         "A0_ID25": "conflict",
         "A1_ID25": "fence-building",
-        "A2_ID25": "war",
+        "A2_ID25": "Not fence-building",
         "A3_ID25": "division",
         "S_ID25": 1,
         "txtS_ID25": "'Reconciliation' significa 'reconciliação'. O sinónimo é 'fence-building' (construção de pontes/união).",
 
         "Q_ID26": "Qual é o sinónimo de 'tirelessly'?",
-        "A0_ID26": "lazily",
+        "A0_ID26": "Not energetically",
         "A1_ID26": "energetically",
         "A2_ID26": "slowly",
         "A3_ID26": "weakly",
@@ -228,7 +228,7 @@
         "txtS_ID27": "'Campaign' significa 'campanha, lutar por uma causa'. O sinónimo é 'fight' (luta).",
 
         "Q_ID28": "O que é um 'Start-up'?",
-        "A0_ID28": "Um negócio que faliu",
+        "A0_ID28": "Não é isto: um novo negócio que acabou de começar",
         "A1_ID28": "Um negócio de sucesso",
         "A2_ID28": "Um novo negócio que acabou de começar",
         "A3_ID28": "Uma empresa estabelecida",
@@ -239,7 +239,7 @@
         "A0_ID29": "Facebook",
         "A1_ID29": "Apple",
         "A2_ID29": "Kickstarter",
-        "A3_ID29": "Uber",
+        "A3_ID29": "Not kickstarter",
         "S_ID29": 2,
         "txtS_ID29": "Kickstarter é uma plataforma de crowdfunding onde muitas pessoas investem pequenas quantias em novos projetos.",
 
@@ -389,7 +389,7 @@
 
         "Q_ID48": "Complete: 'The Langas left for home at six o'clock.' → '______ did the Langas leave?'",
         "A0_ID48": "What time",
-        "A1_ID48": "Why",
+        "A1_ID48": "Not what time",
         "A2_ID48": "Where",
         "A3_ID48": "How",
         "S_ID48": 0,
@@ -476,7 +476,7 @@
         "txtS_ID58": "'Cat' é singular e contável, e começa com consoante, então usamos 'a'.",
 
         "Q_ID59": "Complete: 'I've bought ______ new shoes.'",
-        "A0_ID59": "a",
+        "A0_ID59": "much",
         "A1_ID59": "an",
         "A2_ID59": "some",
         "A3_ID59": "any",
@@ -575,7 +575,7 @@
         "A0_ID71": "compartilhando uma fronteira comum",
         "A1_ID71": "espalhando como uma doença",
         "A2_ID71": "dependente",
-        "A3_ID71": "separado",
+        "A3_ID71": "Não é isto: compartilhando uma fronteira comum",
         "S_ID71": 0,
         "txtS_ID71": "'Contiguous' significa 'contíguo', que partilha uma fronteira comum.",
 
@@ -630,7 +630,7 @@
         "Q_ID78": "Quando neva no norte da Rússia?",
         "A0_ID78": "de Dezembro a Março",
         "A1_ID78": "quase todos os dias do ano",
-        "A2_ID78": "nunca",
+        "A2_ID78": "quase nenhum dos dias do ano",
         "A3_ID78": "apenas no verão",
         "S_ID78": 1,
         "txtS_ID78": "O texto diz que a costa norte da Rússia está coberta de neve todos os dias do ano.",
@@ -644,7 +644,7 @@
         "txtS_ID79": "A expressão correta é 'It's not a problem' (Não há problema).",
 
         "Q_ID80": "Complete: 'Sorry, did I bump into you?' 'That's ______. It didn't hurt.'",
-        "A0_ID80": "fine",
+        "A0_ID80": "Not all right",
         "A1_ID80": "all right",
         "A2_ID80": "okay",
         "A3_ID80": "good",
@@ -828,7 +828,7 @@
         "txtS_ID102": "Becky sentia-se preocupada e tímida porque não conhecia ninguém.",
 
         "Q_ID103": "O que Becky está a fazer na disciplina de geografia?",
-        "A0_ID103": "um exame",
+        "A0_ID103": "Não é isto: um projeto sobre o ambiente",
         "A1_ID103": "um projeto sobre o ambiente",
         "A2_ID103": "uma apresentação",
         "A3_ID103": "um trabalho de grupo",
@@ -839,7 +839,7 @@
         "A0_ID104": "um clube de futebol",
         "A1_ID104": "um lugar onde se fazem actividades extracurriculares",
         "A2_ID104": "uma aula de reforço",
-        "A3_ID104": "uma biblioteca",
+        "A3_ID104": "Não é verdade que um lugar onde se fazem actividades extracurriculares",
         "S_ID104": 1,
         "txtS_ID104": "O 'after-school club' é um clube depois das aulas com actividades como desporto ou atividades criativas.",
 
@@ -847,7 +847,7 @@
         "A0_ID105": "porque ele é muito simpático",
         "A1_ID105": "porque ele é muito mal-humorado e dá muitos trabalhos de casa",
         "A2_ID105": "porque ele nunca aparece às aulas",
-        "A3_ID105": "porque ele é novo na escola",
+        "A3_ID105": "It is not true that porque ele é muito mal-humorado e dá muitos trabalhos de casa",
         "S_ID105": 1,
         "txtS_ID105": "Becky não gosta do Sr. Brown porque ele é muito mal-humorado e dá muitos trabalhos de casa.",
 
@@ -855,7 +855,7 @@
         "A0_ID106": "may",
         "A1_ID106": "will",
         "A2_ID106": "are",
-        "A3_ID106": "do",
+        "A3_ID106": "have",
         "S_ID106": 1,
         "txtS_ID106": "A resposta usa 'will' para futuro simples: 'Where will you stay?'",
 
@@ -959,7 +959,7 @@
         "A0_ID119": "uma grande área plana com árvores",
         "A1_ID119": "uma grande área plana com apenas plantas baixas, em regiões frias",
         "A2_ID119": "uma floresta tropical",
-        "A3_ID119": "um deserto arenoso",
+        "A3_ID119": "Não é verdade que uma grande área plana com apenas plantas baixas, em regiões frias",
         "S_ID119": 1,
         "txtS_ID119": "Tundra é uma grande área plana com apenas plantas baixas, encontrada em regiões muito frias.",
 
@@ -967,7 +967,7 @@
         "A0_ID120": "uma grande área plana com relva mas sem árvores",
         "A1_ID120": "uma floresta densa",
         "A2_ID120": "uma montanha nevada",
-        "A3_ID120": "um oceano",
+        "A3_ID120": "Não é verdade que uma grande área plana com relva mas sem árvores",
         "S_ID120": 0,
         "txtS_ID120": "Steppe é uma grande área plana com relva mas sem árvores, que recebe pouca chuva anualmente."
     }
