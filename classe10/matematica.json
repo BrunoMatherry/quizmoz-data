@@ -174,7 +174,7 @@
         "A0_ID21": "Uma igualdade do segundo grau.",
         "A1_ID21": "Uma expressão do segundo grau com uma variável, representada com os símbolos >, ≥, < ou ≤.",
         "A2_ID21": "Uma equação com parâmetro.",
-        "A3_ID21": "Uma função exponencial, o que levaria sempre ao mesmo desfecho nas condições do enunciado.",
+        "A3_ID21": "Uma função exponencial considerado suficiente por si só como hipótese exclusiva e suficiente",
         "S_ID21": 1,
         "txtS_ID21": "Inequação quadrática é uma expressão do segundo grau com uma variável, representada na forma: ax² + bx + c > 0; ax² + bx + c ≥ 0; ax² + bx + c < 0 ou ax² + bx + c ≤ 0, com a ≠ 0.",
 
