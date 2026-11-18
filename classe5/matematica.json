@@ -517,7 +517,7 @@
 
         "Q_ID64": "No sistema decimal, o valor de um algarismo depende:",
         "A0_ID64": "Apenas do seu formato",
-        "A1_ID64": "Da cor com que o algarismo é escrito no caderno, e não da ordem que ocupa.",
+        "A1_ID64": "Da cor com que o algarismo é escrito no caderno.",
         "A2_ID64": "Da posição (ordem) que ocupa no número",
         "A3_ID64": "Do tamanho com que é escrito",
         "S_ID64": 2,
