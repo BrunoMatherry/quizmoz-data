@@ -21,7 +21,7 @@
         "Q_ID2": "Em que tipo de reprodução as plantas geram novas plantas a partir de partes como caule, folha ou raiz?",
         "A0_ID2": "Reprodução sexuada",
         "A1_ID2": "Polinização cruzada",
-        "A2_ID2": "Germinação, para o caso geral, nessa mesma linha",
+        "A2_ID2": "Germinação como hipótese exclusiva e suficiente.",
         "A3_ID2": "Reprodução assexuada ou multiplicação vegetativa",
         "S_ID2": 3,
         "txtS_ID2": "Na reprodução assexuada, uma nova planta surge a partir de uma parte constituinte, como caule, folha ou raiz.",
@@ -211,7 +211,7 @@
         "txtS_ID25": "O sarampo é uma doença muito contagiosa e fatal, cuja única forma de prevenção mencionada é a vacinação.",
 
         "Q_ID26": "Como se transmite o tétano?",
-        "A0_ID26": "Pelo ar, para o caso geral, em toda a linha",
+        "A0_ID26": "Pelo ar, para qualquer situação equivalente",
         "A1_ID26": "Por picada de mosquito",
         "A2_ID26": "Através de lesões por objectos contaminados",
         "A3_ID26": "Por água contaminada",
@@ -238,7 +238,7 @@
         "A0_ID29": "Apenas produção de hormonas",
         "A1_ID29": "Garantir a sobrevivência da espécie através da reprodução",
         "A2_ID29": "Exclusivamente eliminar excretas",
-        "A3_ID29": "Produzir sons, com carácter geral, em toda a sua extensão",
+        "A3_ID29": "Produzir sons, reduzindo o fenómeno apenas a este aspecto",
         "S_ID29": 1,
         "txtS_ID29": "Os aparelhos reprodutores garantem a sobrevivência da espécie humana através da reprodução, gerando novos seres.",
 
@@ -395,7 +395,7 @@
         "txtS_ID48": "O som é uma vibração captada pelo ouvido, que se propaga através de meios materiais como sólidos, líquidos e gases.",
 
         "Q_ID49": "Qual propriedade do som permite distinguir um som forte de um fraco?",
-        "A0_ID49": "Altura comum",
+        "A0_ID49": "Altura puro",
         "A1_ID49": "Intensidade",
         "A2_ID49": "Timbre",
         "A3_ID49": "Duração",
