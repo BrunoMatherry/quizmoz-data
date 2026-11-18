@@ -206,7 +206,7 @@
         "S_ID28": 1,
         "txtS_ID28": "Força é toda a causa capaz de alterar o estado de repouso ou de movimento de um corpo ou ainda causar-lhe deformação.",
         "Q_ID29": "Quais são os elementos de uma força?",
-        "A0_ID29": "Massa, aceleração e peso, em último termo, por esta via simples.",
+        "A0_ID29": "Massa, aceleração e peso sem levar em conta qualquer outro factor",
         "A1_ID29": "Direcção, sentido, ponto de aplicação e módulo (valor numérico).",
         "A2_ID29": "Trabalho, potência e energia.",
         "A3_ID29": "Velocidade, tempo e deslocamento.",
