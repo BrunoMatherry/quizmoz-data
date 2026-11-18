@@ -582,7 +582,7 @@
     "Q_ID72": "Quem fundou o Google?",
     "A0_ID72": "Mark Zuckerberg",
     "A1_ID72": "Larry Page e Sergey Brin",
-    "A2_ID72": "Jeff Bezos, o fundador da Amazon, e não os dois estudantes que criaram o motor de busca em Stanford.",
+    "A2_ID72": "Jeff Bezos, o fundador da Amazon.",
     "A3_ID72": "Bill Gates",
     "S_ID72": 1,
     "txtS_ID72": "Larry Page e Sergey Brin fundaram o Google em 1998 em Stanford.",
@@ -1876,7 +1876,7 @@
     "txtS_ID233": "A Cordilheira dos Andes estende-se por mais de 7.000 km ao longo da costa oeste.",
 
     "Q_ID234": "Quem é Naruto?",
-    "A0_ID234": "Um pirata dos mares, como noutro anime, e não o ninja protagonista da aldeia da folha.",
+    "A0_ID234": "Um pirata dos mares, como noutro anime.",
     "A1_ID234": "Samurai",
     "A2_ID234": "Ninja personagem principal",
     "A3_ID234": "Caçador",
@@ -2396,7 +2396,7 @@
     "txtS_ID298": "'Uptown Funk' foi lançada por Mark Ronson com Bruno Mars em 2014.",
 
     "Q_ID299": "Em qual continente fica o Polo Norte?",
-    "A0_ID299": "Na Ásia, no interior do continente, e não no oceano gelado à volta do pólo boreal.",
+    "A0_ID299": "Na Ásia, no interior do continente.",
     "A1_ID299": "Ártico (no oceano)",
     "A2_ID299": "América",
     "A3_ID299": "Antártida",
@@ -2533,7 +2533,7 @@
 
     "Q_ID316": "Em qual cidade foi assinado o Tratado de Tordesilhas?",
     "A0_ID316": "Tordesilhas (Espanha)",
-    "A1_ID316": "Em Roma, na capital dos Estados Pontifícios, e não na vila castelhana onde o tratado foi assinado.",
+    "A1_ID316": "Em Roma, na capital dos Estados Pontifícios.",
     "A2_ID316": "Paris",
     "A3_ID316": "Lisboa",
     "S_ID316": 0,
@@ -3021,7 +3021,7 @@
 
     "Q_ID377": "Quem é Tom Brady?",
     "A0_ID377": "Jogador de futebol americano",
-    "A1_ID377": "Um golfista profissional norte-americano, e não o quarterback conhecido no futebol americano.",
+    "A1_ID377": "Um golfista profissional norte-americano.",
     "A2_ID377": "Basquetebolista",
     "A3_ID377": "Jogador de beisebol",
     "S_ID377": 0,
@@ -3309,7 +3309,7 @@
 
     "Q_ID413": "Quem compôs 'Garota de Ipanema'?",
     "A0_ID413": "Caetano Veloso",
-    "A1_ID413": "Chico Buarque, compositor de outras canções brasileiras, e não a dupla que criou a melodia e a letra dessa bossa nova.",
+    "A1_ID413": "Chico Buarque, compositor de outras canções brasileiras.",
     "A2_ID413": "Tom Jobim e Vinicius de Moraes",
     "A3_ID413": "Roberto Carlos",
     "S_ID413": 2,
@@ -3919,7 +3919,7 @@
     "A0_ID489": "Albânia",
     "A1_ID489": "Itália",
     "A2_ID489": "Macedónia (Império Otomano)",
-    "A3_ID489": "Na Índia, onde mais tarde trabalhou em Calcutá, e não na região da Macedónia, então no Império Otomano.",
+    "A3_ID489": "Na Índia, onde mais tarde trabalhou em Calcutá.",
     "S_ID489": 2,
     "txtS_ID489": "Madre Teresa nasceu em Skopje, atual Macedónia, em 1910.",
 
