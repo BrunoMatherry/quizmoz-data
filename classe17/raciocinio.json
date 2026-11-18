@@ -175,7 +175,7 @@
         "A0_ID21": "Iniciar as duas; quando a de 7 acabar, virar; quando a de 11 acabar, virar a de 7 novamente",
         "A1_ID21": "Iniciar as duas; quando a de 11 acabar, virar a de 7",
         "A2_ID21": "Usar apenas a de 11 duas vezes",
-        "A3_ID21": "Não é possível marcar exactamente quinze minutos só com uma ampulheta de sete minutos e outra de onze.",
+        "A3_ID21": "Com essas duas ampulhetas só se conseguem marcar intervalos de sete ou de onze minutos, nunca um intervalo exacto de quinze.",
         "S_ID21": 0,
         "txtS_ID21": "Inicia as duas. Quando a de 7 acabar (7 min), vira-se a de 7. Quando a de 11 acabar (11 min), a de 7 já queimou 4 minutos da segunda vez. Então vira-se a de 7 novamente, que queimará mais 4 minutos, totalizando 11+4=15 minutos.",
 
@@ -407,7 +407,7 @@
         "A0_ID50": "Leva 2 canibais, volta 1, leva 2 missionários, volta 1 missionário e 1 canibal, leva 2 missionários, volta 1 canibal, leva 2 canibais, volta 1, leva 2 canibais",
         "A1_ID50": "Leva 1 missionário e 1 canibal",
         "A2_ID50": "Leva 2 missionários primeiro",
-        "A3_ID50": "Não é possível atravessar com todos em segurança; basta levar sempre os dois missionários primeiro e deixar os canibais sozinhos à espera, até ao fim das viagens.",
+        "A3_ID50": "Basta levar sempre os dois missionários primeiro e deixar os canibais sozinhos à espera, até ao fim de todas as viagens, para os três pares chegarem ao outro lado.",
         "S_ID50": 0,
         "txtS_ID50": "A sequência clássica resolve o problema em 11 travessias, respeitando a condição de nunca haver mais canibais que missionários em nenhuma margem.",
 
