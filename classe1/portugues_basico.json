@@ -48,7 +48,7 @@
         "A0_ID5": "Números",
         "A1_ID5": "Consoantes",
         "A2_ID5": "Sílabas",
-        "A3_ID5": "Não é isto: consoantes",
+        "A3_ID5": "Uma frases",
         "S_ID5": 1,
         "txtS_ID5": "As consoantes são todas as letras do alfabeto que não são vogais. São 21 consoantes no alfabeto português!",
 
@@ -112,7 +112,7 @@
         "A0_ID13": "Uma vogal",
         "A1_ID13": "Um número",
         "A2_ID13": "Uma consoante",
-        "A3_ID13": "Não é isto: uma consoante",
+        "A3_ID13": "Um sinal comum",
         "S_ID13": 2,
         "txtS_ID13": "O S é uma consoante. Aparece em palavras muito usadas como 'sol', 'sorriso' e 'saudade'.",
 
@@ -127,7 +127,7 @@
         "Q_ID15": "As letras podem ser grandes (MAIÚSCULAS) ou pequenas (minúsculas). Quando usamos letra maiúscula?",
         "A0_ID15": "No meio da frase",
         "A1_ID15": "No início de nomes e frases",
-        "A2_ID15": "No fim de nomes e frases",
+        "A2_ID15": "Nunca, em geral, deste modo",
         "A3_ID15": "Apenas em números",
         "S_ID15": 1,
         "txtS_ID15": "Usamos letra maiúscula no início de frases e em nomes próprios, como Maputo, João, Moçambique. É uma regra importante da escrita!",
@@ -157,7 +157,7 @@
         "txtS_ID18": "Matapa é o nome da comida — um prato típico moçambicano feito com folhas de mandioca, amendoim e leite de coco. Delicioso!",
 
         "Q_ID19": "A palavra 'Moçambique' começa com letra maiúscula porque é:",
-        "A0_ID19": "Não é isto: um nome próprio de um país",
+        "A0_ID19": "Uma palavra grande natural",
         "A1_ID19": "Um nome próprio de um país",
         "A2_ID19": "Uma palavra difícil",
         "A3_ID19": "Uma palavra antiga",
