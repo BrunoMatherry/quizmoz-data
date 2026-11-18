@@ -21,7 +21,7 @@
 
         "Q_ID2": "O Monte Binga é o ponto mais alto de Moçambique com 2.436 metros. Neste número, o algarismo 4 vale:",
         "A0_ID2": "4 unidades",
-        "A1_ID2": "4 dezenas",
+        "A1_ID2": "1 centenas (389)",
         "A2_ID2": "4 centenas (400)",
         "A3_ID2": "4 milhares",
         "S_ID2": 2,
@@ -70,7 +70,7 @@
         "Q_ID8": "Qualquer número multiplicado por 1 fica igual a ele mesmo. O 1 é chamado de elemento:",
         "A0_ID8": "Absorvente",
         "A1_ID8": "Neutro da multiplicação",
-        "A2_ID8": "Negativo",
+        "A2_ID8": "Não é isto: neutro da multiplicação",
         "A3_ID8": "Comutativo",
         "S_ID8": 1,
         "txtS_ID8": "O 1 é o elemento neutro da multiplicação: 7 × 1 = 7, 100 × 1 = 100. Não muda o número — por isso é 'neutro'!",
