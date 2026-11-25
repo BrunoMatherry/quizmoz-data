@@ -94,7 +94,8 @@
     "Pebane",
     "Polokwane",
     "Ponta do Ouro",
-    "Port Elizabeth"
+    "Port Elizabeth",
+    "Pérgamo"
   ],
   "Cor": [
     "Pardo",
@@ -236,7 +237,20 @@
     "Porteiro",
     "Procurador",
     "Produtor",
-    "Professora"
+    "Professora",
+    "Paisagista",
+    "Pastor de gado",
+    "Patinador",
+    "Pedagogo",
+    "Perito",
+    "Pescadora",
+    "Picheleiro",
+    "Pianista",
+    "Pneumologista",
+    "Podólogo",
+    "Polidor",
+    "Pregador",
+    "Prostodontista"
   ],
   "Carro": [
     "Pagani",
@@ -287,7 +301,13 @@
     "Puto Português",
     "Paulo Flores",
     "Pérola",
-    "Plutónio"
+    "Plutónio",
+    "Preto Show",
+    "Patrícia Faria",
+    "Prodígio",
+    "Papa Wemba",
+    "Patoranking",
+    "P-Square"
   ],
   "Marca": [
     "Paco Rabanne",
@@ -376,7 +396,9 @@
     "Pai Natal",
     "Pantera Negra",
     "Patrick",
-    "Peppa"
+    "Peppa",
+    "Pedro Apóstolo",
+    "Paulo de Tarso"
   ],
   "Capital": [
     "Palikir",
